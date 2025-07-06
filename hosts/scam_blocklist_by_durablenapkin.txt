@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.53
-! Last modified: 2025-06-29T06:10:12.963Z
+! Version: 1.0.17.61
+! Last modified: 2025-07-06T06:10:32.191Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 1bmo-reactivemyaccount0.com
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -62,7 +63,7 @@
 0.0.0.0 am-freights.com
 0.0.0.0 amorpulse.com
 0.0.0.0 amznshirts.com
-0.0.0.0 an1.is
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 app-uniswapping.org
 0.0.0.0 app.deflliama.tech
@@ -142,7 +143,6 @@
 0.0.0.0 black-sales.cloud
 0.0.0.0 blackabdo.company.site
 0.0.0.0 blackoutarchertender.com
-0.0.0.0 blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
 0.0.0.0 bltskins.com
@@ -340,7 +340,6 @@
 0.0.0.0 facebook-google-vptyyny63pwfipshmm.vercel.app
 0.0.0.0 facebook-google-ygggvmvciad74v9lhi.vercel.app
 0.0.0.0 facebook-support-team-980.pages.med.br
-0.0.0.0 factorysale2023.com
 0.0.0.0 familybestgifts.com
 0.0.0.0 familygiftlove.myshopify.com
 0.0.0.0 familygiftville.com
@@ -394,7 +393,6 @@
 0.0.0.0 forumdetran.co
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 freedom.service-update3.com
-0.0.0.0 frest.info
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 fridaylocalmanager.duckdns.org
@@ -479,7 +477,6 @@
 0.0.0.0 hsuitehub.com
 0.0.0.0 hubfiles.ws
 0.0.0.0 hudson-bay.com
-0.0.0.0 hugetrump.com
 0.0.0.0 hunden.info
 0.0.0.0 hushlove.com
 0.0.0.0 hyndtren25.pages.dev
@@ -584,7 +581,6 @@
 0.0.0.0 lds.xyz
 0.0.0.0 ledgerlivewallets.com
 0.0.0.0 lericettedifrancy74.com
-0.0.0.0 letteringift.com
 0.0.0.0 levelbash.com
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 ligerking.com
@@ -603,6 +599,7 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucchesedeal.store
 0.0.0.0 luccheseoutlet.online
+0.0.0.0 lucidtiger.com
 0.0.0.0 lucysstyle.com
 0.0.0.0 lumustore.top
 0.0.0.0 luxsgear.com
@@ -649,7 +646,6 @@
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 mullvaad.net
 0.0.0.0 museuw.com
-0.0.0.0 musk-project.com
 0.0.0.0 muskusa.com
 0.0.0.0 mybestautologin567.com
 0.0.0.0 myblogshop.top
@@ -672,7 +668,6 @@
 0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi14.com
-0.0.0.0 navi18.com
 0.0.0.0 navi2.com
 0.0.0.0 navi20.com
 0.0.0.0 navi20.ru
@@ -702,11 +697,11 @@
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 navi5.com
+0.0.0.0 navi50.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
 0.0.0.0 navi55.com
 0.0.0.0 navi56.com
-0.0.0.0 navi58.com
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
 0.0.0.0 navi63.ru
@@ -870,7 +865,6 @@
 0.0.0.0 punyauang.xyz
 0.0.0.0 qq51f.short.gy
 0.0.0.0 qriedf.info
-0.0.0.0 queenscattery.com
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
 0.0.0.0 rastreiobrasil.co
@@ -890,7 +884,6 @@
 0.0.0.0 rockchief.com
 0.0.0.0 rosateeshop.com
 0.0.0.0 rosettahome.cn
-0.0.0.0 roulecams.sbs
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
 0.0.0.0 rozaholshouser.cfd
@@ -921,7 +914,6 @@
 0.0.0.0 secrity2redline.com
 0.0.0.0 security-meta.pages.app.br
 0.0.0.0 sedark.com
-0.0.0.0 sehaleservices.com
 0.0.0.0 sellfox.com
 0.0.0.0 sentees.com
 0.0.0.0 serengetidiscount.com
@@ -942,7 +934,6 @@
 0.0.0.0 sigmaoffers.com
 0.0.0.0 signalgroup.site
 0.0.0.0 signpify.com
-0.0.0.0 silverlanetrading.com
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
@@ -958,6 +949,7 @@
 0.0.0.0 solution7energieqc.com
 0.0.0.0 somethingapparel.com
 0.0.0.0 souhoney.com
+0.0.0.0 southernlife.net
 0.0.0.0 spark.kindpickle.info
 0.0.0.0 sport-specialoffers.shop
 0.0.0.0 sportsapparelmarket.com
@@ -979,6 +971,7 @@
 0.0.0.0 staging.zendrop.com
 0.0.0.0 stallioncredit.com
 0.0.0.0 startuplatte.com
+0.0.0.0 steamgateways.com
 0.0.0.0 steamunlock.com
 0.0.0.0 stearncommunjty.net
 0.0.0.0 stellara.de
@@ -1213,6 +1206,7 @@
 0.0.0.0 vider.com.pl
 0.0.0.0 vider.info.pl
 0.0.0.0 vider.online
+0.0.0.0 vikingstore.co
 0.0.0.0 vindhuisdieren.com
 0.0.0.0 vinisay.com
 0.0.0.0 vip100.cc
@@ -1245,12 +1239,9 @@
 0.0.0.0 watchseniorfit.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 wazofurniture.com
-0.0.0.0 webcamsfans.cfd
-0.0.0.0 webcamstream.sbs
 0.0.0.0 webvod.pl
 0.0.0.0 werfew.com
 0.0.0.0 whbinder.com
-0.0.0.0 whitewebcams.fun
 0.0.0.0 wikeb.com
 0.0.0.0 wintexfashions.com
 0.0.0.0 wisdomganga.com
@@ -1265,6 +1256,7 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
+0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com
@@ -1289,6 +1281,7 @@
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com
+0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
 0.0.0.0 zalukaj-film.pl
 0.0.0.0 zalukaj-pl.tv
@@ -1311,7 +1304,6 @@
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 zerowasteinitiative.com
-0.0.0.0 zillify.cfd
 0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com
 0.0.0.0 zolrqw.palatlaldate.com

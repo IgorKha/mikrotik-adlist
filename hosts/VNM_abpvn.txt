@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.22
-! Last modified: 2025-06-29T06:10:09.756Z
+! Version: 1.0.16.25
+! Last modified: 2025-07-06T06:10:29.051Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.22
+! Version: 1.0.16.25
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-06-27T17:07:17.630Z
+! Last modified: 2025-07-02T09:09:58.013Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -995,17 +995,27 @@
 0.0.0.0 mads.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 ws.assoc-amazon.com
-0.0.0.0 ws-fe.assoc-amazon.com
-0.0.0.0 ws-na.assoc-amazon.com
-0.0.0.0 www.assoc-amazon.com
-0.0.0.0 wms.assoc-amazon.com
-0.0.0.0 assoc-amazon.com
 0.0.0.0 aax-cpm.amazon-adsystem.amazon.com
 0.0.0.0 aax-us-cpm.amazon-adsystem.amazon.com
 0.0.0.0 aax-us.amazon-adsystem.amazon.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 amazon-adsystem.amazon.com
+0.0.0.0 ads.amazon.dev
+0.0.0.0 advertising.amazon.dev
+0.0.0.0 api.imdb.eu-west-1.prod.paets.advertising.amazon.dev
+0.0.0.0 assoc-amazon.com
+0.0.0.0 wms.assoc-amazon.com
+0.0.0.0 ws-fe.assoc-amazon.com
+0.0.0.0 ws-na.assoc-amazon.com
+0.0.0.0 ws.assoc-amazon.com
+0.0.0.0 www.assoc-amazon.com
+0.0.0.0 assoc-amazon.ca
+0.0.0.0 assoc-amazon.co.uk
+0.0.0.0 assoc-amazon.de
+0.0.0.0 assoc-amazon.es
+0.0.0.0 assoc-amazon.fr
+0.0.0.0 assoc-amazon.it
+0.0.0.0 assoc-amazon.jp
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-eu-rtb-adx.amazon-adsystem.com
@@ -1030,6 +1040,7 @@
 0.0.0.0 aax-vx-us-us-east-1.amazon-adsystem.com
 0.0.0.0 aax-vx-us-us-west-2.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aes.eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
 0.0.0.0 assoc-msdk-eu.amazon-adsystem.com
@@ -1067,6 +1078,7 @@
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 ts.amazon-adsystem.com
 0.0.0.0 v-eu-preprod.amazon-adsystem.com
 0.0.0.0 v-eu.amazon-adsystem.com
 0.0.0.0 v-preprod.amazon-adsystem.com
@@ -1112,10 +1124,11 @@
 0.0.0.0 us-east-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-west-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
-0.0.0.0 minerva.devices.a2z.com
-0.0.0.0 us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1.telemetry.insights.video.a2z.com
+0.0.0.0 metrics.imdb.a2z.com
+0.0.0.0 cdn.prod.metrics.imdb.a2z.com
+0.0.0.0 clientlogger.marketplace.aws.a2z.com
 0.0.0.0 platform.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 px.srvcs.tumblr.com
@@ -15187,6 +15200,7 @@
 0.0.0.0 faisaphoofa.net
 0.0.0.0 familiarpyromaniasloping.com
 0.0.0.0 faqirsgoliard.top
+0.0.0.0 faqlikbid.com
 0.0.0.0 farcivinage.shop
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
@@ -15315,6 +15329,7 @@
 0.0.0.0 futuristicapparatus.com
 0.0.0.0 futuristicfairies.com
 0.0.0.0 fuwalrnce.com
+0.0.0.0 fvchjvaiisuxrpb.com
 0.0.0.0 fwilmdact.com
 0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
@@ -15623,6 +15638,7 @@
 0.0.0.0 hppvkbfcuq.com
 0.0.0.0 hrjbylofyso.com
 0.0.0.0 hscozgoqffn.com
+0.0.0.0 hsestonicaawofw.com
 0.0.0.0 htlbid.com
 0.0.0.0 httpool.com
 0.0.0.0 htyqiwzunj.com
@@ -15905,6 +15921,7 @@
 0.0.0.0 kauleeci.com
 0.0.0.0 kaulouvaun.com
 0.0.0.0 kaurieseluxate.com
+0.0.0.0 kautefaunenit.net
 0.0.0.0 kcaapxanwv.com
 0.0.0.0 kcgkiumubea.com
 0.0.0.0 kdm8.com
@@ -16194,6 +16211,7 @@
 0.0.0.0 maulupoa.com
 0.0.0.0 mauzanapsusi.net
 0.0.0.0 mawlaybob.com
+0.0.0.0 mawptuaz.com
 0.0.0.0 max.i12.de
 0.0.0.0 maxgid.com
 0.0.0.0 maximumcash.com
@@ -16361,6 +16379,7 @@
 0.0.0.0 mrybahnw.com
 0.0.0.0 mscoldness.com
 0.0.0.0 msgose.com
+0.0.0.0 msincsayqmji.com
 0.0.0.0 msvobeuhec.com
 0.0.0.0 mt34iofvjay.com
 0.0.0.0 mtree.com
@@ -16369,6 +16388,7 @@
 0.0.0.0 multilinkhost.com
 0.0.0.0 munchenviableski.com
 0.0.0.0 murkymouse.online
+0.0.0.0 murozwuddtow.com
 0.0.0.0 mushroomreclaimschnapps.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 mustardeveningobvious.com
@@ -16520,6 +16540,7 @@
 0.0.0.0 novemberseatsuccession.com
 0.0.0.0 nowheresank.com
 0.0.0.0 npipajajn.com
+0.0.0.0 nqcgdvuuyxwj.com
 0.0.0.0 nqucjilr.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nrs6ffl9w.com
@@ -17193,6 +17214,7 @@
 0.0.0.0 qxadsk.com
 0.0.0.0 qzeavzrfaoqn.com
 0.0.0.0 qzs.gdtimg.com
+0.0.0.0 qzyztuwulo.com
 0.0.0.0 r.leadzu.com
 0.0.0.0 r.trwl1.com
 0.0.0.0 r0ckeet.com
@@ -17575,6 +17597,7 @@
 0.0.0.0 siteoid.com
 0.0.0.0 sixscissors.com
 0.0.0.0 sixsigmatraffic.com
+0.0.0.0 sjvaovqhn.com
 0.0.0.0 skimlinks.com
 0.0.0.0 skullhalfway.com
 0.0.0.0 skylink.vn
@@ -17613,6 +17636,7 @@
 0.0.0.0 snakeslang.com
 0.0.0.0 snapgiant.com
 0.0.0.0 snebbubbled.com
+0.0.0.0 snitzsauteur.shop
 0.0.0.0 snoobi.com
 0.0.0.0 snowdayonline.xyz
 0.0.0.0 snuff-brownsprintcountry.com
@@ -18457,6 +18481,7 @@
 0.0.0.0 wonderlandads.com
 0.0.0.0 wondoads.de
 0.0.0.0 woochithoothie.net
+0.0.0.0 woomerapapacy.shop
 0.0.0.0 woorucauhou.net
 0.0.0.0 woovoree.net
 0.0.0.0 wopsedoaltuwp.com
@@ -18565,6 +18590,7 @@
 0.0.0.0 www.zxc.world
 0.0.0.0 wyhifdpatl.com
 0.0.0.0 wynvalur.com
+0.0.0.0 wywtpkeai.com
 0.0.0.0 x-traceur.com
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x.thecatmachine.com
@@ -18868,6 +18894,7 @@
 0.0.0.0 cdn.pubnub.com
 0.0.0.0 cdn.retailads.net
 0.0.0.0 cdn.shoplytics.com
+0.0.0.0 cdn.traffic60s.xyz
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cedexis.com

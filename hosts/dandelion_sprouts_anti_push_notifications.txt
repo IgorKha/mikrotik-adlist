@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
-! Version: 1.0.14.59
-! Last modified: 2025-06-29T06:10:07.556Z
+! Version: 1.0.14.60
+! Last modified: 2025-07-06T06:10:26.912Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 potisni.me
 0.0.0.0 allownotification.com
@@ -65,6 +65,7 @@
 0.0.0.0 push.delivery.ethinking.de
 0.0.0.0 push.delivery
 0.0.0.0 push.getbeamer.com
+0.0.0.0 push.intreface.com
 0.0.0.0 push.knd.ro
 0.0.0.0 push.newscraft.io
 0.0.0.0 push.reamaze.com
@@ -119,6 +120,7 @@
 0.0.0.0 topswp.com
 0.0.0.0 unative.com
 0.0.0.0 virtualpushplatform.com
+0.0.0.0 webpush.jp
 0.0.0.0 webpushr.com
 0.0.0.0 webpushs.com
 0.0.0.0 worldpush.co
@@ -213,7 +215,6 @@
 0.0.0.0 personaclick.com
 0.0.0.0 quickalert.org
 0.0.0.0 ziwelatum.com
-0.0.0.0 adpush.com.tr
 0.0.0.0 pushly.net
 0.0.0.0 pushmoose.com
 0.0.0.0 cdn-server.live
@@ -221,9 +222,7 @@
 0.0.0.0 nadajotum.com
 0.0.0.0 vokayatus.com
 0.0.0.0 migineg.com
-0.0.0.0 adkela-push.com
 0.0.0.0 us-pub.dengage.com
-0.0.0.0 dobrnovosti.com
 0.0.0.0 gipahetus.com
 0.0.0.0 push.ilovelanguages.com
 0.0.0.0 push.ilan365.net
@@ -231,14 +230,11 @@
 0.0.0.0 my1elitclub.com
 0.0.0.0 mewigurom.com
 0.0.0.0 pushadvert.bid
-0.0.0.0 greysummergo.biz
 0.0.0.0 zovihutum.com
 0.0.0.0 a.trstplse.com
 0.0.0.0 abcnewspro.com
-0.0.0.0 accengage.net
 0.0.0.0 achilles-ena.com
 0.0.0.0 actuanius.com
-0.0.0.0 admessage.support
 0.0.0.0 adsblockkpush.com
 0.0.0.0 alerts.hungama.com
 0.0.0.0 allstat-pp.ru
@@ -252,7 +248,6 @@
 0.0.0.0 app.getbeamer.com
 0.0.0.0 aquarepush.com
 0.0.0.0 arianelab.com
-0.0.0.0 aristianewr.club
 0.0.0.0 bagirastyle.ru
 0.0.0.0 bakibarus.com
 0.0.0.0 bezrukov.fun
@@ -302,16 +297,13 @@
 0.0.0.0 esterlonder.com
 0.0.0.0 feductius.com
 0.0.0.0 feed-6009.coderformylife.info
-0.0.0.0 first.megas44.ru
 0.0.0.0 fspark-ap.com
 0.0.0.0 gatecurium.com
 0.0.0.0 gerdonarium.com
 0.0.0.0 hattepush.com
 0.0.0.0 hrbpark.bid
 0.0.0.0 informfeed.ru
-0.0.0.0 inpptouch.info
 0.0.0.0 inspirenews.net
-0.0.0.0 install.searchfrit.com
 0.0.0.0 ittorchicer.com
 0.0.0.0 izooto.com
 0.0.0.0 jagevirom.com
@@ -322,20 +314,16 @@
 0.0.0.0 lecaleros.com
 0.0.0.0 leechiza.net
 0.0.0.0 leefmylife.info
-0.0.0.0 list-news.net
 0.0.0.0 lmy.de
 0.0.0.0 loboclick.com
-0.0.0.0 lodder6.biz
 0.0.0.0 loulouly.net
 0.0.0.0 m-th.ru
 0.0.0.0 magarimot.com
 0.0.0.0 mailer.i.bizml.ru
 0.0.0.0 majorworker.com
 0.0.0.0 maylohack.ru
-0.0.0.0 mediaboom.site
 0.0.0.0 meladonicum.com
 0.0.0.0 merdihatus.com
-0.0.0.0 mol17.biz
 0.0.0.0 monstelenius.com
 0.0.0.0 motazeever.com
 0.0.0.0 motbw.com
@@ -357,7 +345,6 @@
 0.0.0.0 news.vuer.net
 0.0.0.0 newscaffe.net
 0.0.0.0 newsmagic.net
-0.0.0.0 notify-master.net
 0.0.0.0 notify-service.com
 0.0.0.0 notify.premium-news.me
 0.0.0.0 notify.rocks
@@ -368,26 +355,19 @@
 0.0.0.0 pathlinex.com
 0.0.0.0 patrospermit.com
 0.0.0.0 pecukirom.com
-0.0.0.0 personal-video.live
 0.0.0.0 powr.io
 0.0.0.0 praght.tech
 0.0.0.0 pro-news.net
 0.0.0.0 pro-web.net
-0.0.0.0 pronews.me
 0.0.0.0 prospertinum.com
-0.0.0.0 push-house.net
-0.0.0.0 push-pro.net
-0.0.0.0 push.all-stor.ru
 0.0.0.0 push.anews.one
 0.0.0.0 push.esputnik.com.ua
 0.0.0.0 push.estart.jp
-0.0.0.0 push.expert
 0.0.0.0 push.ueep.com
 0.0.0.0 push.webandname.com
 0.0.0.0 push4site.com
 0.0.0.0 pushbasitop.ru
 0.0.0.0 pushcode.jp
-0.0.0.0 pushcodetop.ru
 0.0.0.0 pushell.info
 0.0.0.0 pushere.info
 0.0.0.0 pushid.info
@@ -396,7 +376,6 @@
 0.0.0.0 pushout.ru
 0.0.0.0 pushpro.co.za
 0.0.0.0 pushprofit.net
-0.0.0.0 pushpush.net
 0.0.0.0 pushsar.com
 0.0.0.0 pushwelcome.com
 0.0.0.0 relateddigital.com
@@ -426,10 +405,8 @@
 0.0.0.0 trenchenious.com
 0.0.0.0 trendentrium.com
 0.0.0.0 trenrasius.com
-0.0.0.0 trourted.pro
 0.0.0.0 tutad.ru
 0.0.0.0 u21drwj6mp.com
-0.0.0.0 ucfeed.ru
 0.0.0.0 unattepush.com
 0.0.0.0 us.xmlppcbuzz.com
 0.0.0.0 valkirum.com
@@ -440,7 +417,8 @@
 0.0.0.0 vitalectium.com
 0.0.0.0 volanosier.com
 0.0.0.0 vultispotus.com
-0.0.0.0 webpushonline.com
+0.0.0.0 webpush.hackers.com
+0.0.0.0 webpush.ria.com
 0.0.0.0 wertendium.com
 0.0.0.0 womanshouz.ru
 0.0.0.0 wp.24smi.org
@@ -451,7 +429,6 @@
 0.0.0.0 xyznews3.today
 0.0.0.0 xyznews4.today
 0.0.0.0 yisogarom.com
-0.0.0.0 z6uc8er1mzx8n2qd.pro
 0.0.0.0 zorbanmat.com
 0.0.0.0 push.autosaratov.ru
 0.0.0.0 bws0wvqt3k.ru

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.56
-! Last modified: 2025-06-29T06:10:09.262Z
+! Version: 1.0.0.57
+! Last modified: 2025-07-06T06:10:28.564Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -311,7 +311,6 @@
 0.0.0.0 adsdk.trafficmanager.net
 0.0.0.0 agps-location-livenet.trafficmanager.net
 0.0.0.0 analytics.trafficmanager.net
-0.0.0.0 analytics-listener.trafficmanager.net
 0.0.0.0 atm-settingsfe-prod-geo2.trafficmanager.net
 0.0.0.0 beacons.trafficmanager.net
 0.0.0.0 bf-analytics-tracker-tm.trafficmanager.net
@@ -364,6 +363,7 @@
 0.0.0.0 ppc-word-telemetry.wac.trafficmanager.net
 0.0.0.0 word-telemetry.wac.trafficmanager.net
 0.0.0.0 win-global-asimov-leafs-events-data.trafficmanager.net
+0.0.0.0 wttwebsiteprodapi-liveevents.trafficmanager.net
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 h4g3z1-native.winoffice.web.app
 0.0.0.0 activity.windows.com
