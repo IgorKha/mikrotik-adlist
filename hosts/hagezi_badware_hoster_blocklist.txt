@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.16.95
-! Last modified: 2025-06-29T06:10:17.805Z
+! Version: 1.0.17.3
+! Last modified: 2025-07-06T06:10:36.963Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -822,7 +822,6 @@
 0.0.0.0 e-monsite.com
 0.0.0.0 easy4blog.com
 0.0.0.0 easyfreehosting.com
-0.0.0.0 eazylaunch.com
 0.0.0.0 eb2a.com
 0.0.0.0 ebeesboutique.shop
 0.0.0.0 ebuykind.shop
@@ -1365,12 +1364,10 @@
 0.0.0.0 mediafirex.icu
 0.0.0.0 medianewsonline.com
 0.0.0.0 mee.nu
-0.0.0.0 meelou.top
 0.0.0.0 megabyet.net
 0.0.0.0 meilleurforum.com
 0.0.0.0 memoryislife.com
 0.0.0.0 menstudent.shop
-0.0.0.0 merchats.com
 0.0.0.0 mex.tl
 0.0.0.0 mforos.com
 0.0.0.0 miarroba.com
@@ -1517,8 +1514,6 @@
 0.0.0.0 onwebbox.com
 0.0.0.0 onzeblog.com
 0.0.0.0 oooninja.com
-0.0.0.0 openinglook.shop
-0.0.0.0 opensea-claimnft.com
 0.0.0.0 opisial.com
 0.0.0.0 orangeusa.shop
 0.0.0.0 orderedlinks.shop
@@ -1607,7 +1602,6 @@
 0.0.0.0 prodepl.top
 0.0.0.0 profis.info
 0.0.0.0 profreehost.com
-0.0.0.0 proginfortrad.top
 0.0.0.0 prohosts.org
 0.0.0.0 prosite.com
 0.0.0.0 prublogger.com
@@ -1631,7 +1625,6 @@
 0.0.0.0 re2.de
 0.0.0.0 realscienceblogs.com
 0.0.0.0 reblog.hu
-0.0.0.0 recentblog.net
 0.0.0.0 reco.ws
 0.0.0.0 regruhosting.ru
 0.0.0.0 rentvalues.biz
@@ -1870,7 +1863,6 @@
 0.0.0.0 turbo.site
 0.0.0.0 turkish.lc
 0.0.0.0 tusblogos.com
-0.0.0.0 tutorial-blog.net
 0.0.0.0 tuxfamily.org
 0.0.0.0 tw.gp
 0.0.0.0 tw1.ru
@@ -1945,7 +1937,6 @@
 0.0.0.0 voten.in
 0.0.0.0 vpswala.org
 0.0.0.0 vxub.com
-0.0.0.0 vxwezsp.cn
 0.0.0.0 vz.lc
 0.0.0.0 w3spaces.com
 0.0.0.0 wallinside.blog

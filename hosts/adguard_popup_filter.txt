@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.58
-! Last modified: 2025-06-29T06:10:05.955Z
+! Version: 1.0.16.64
+! Last modified: 2025-07-06T06:10:25.354Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 pixel-see.com
+0.0.0.0 wissekeygroup.com
 0.0.0.0 crakrevenue.xyz
 0.0.0.0 wmctjd.com
 0.0.0.0 buoydeparturediscontent.com
@@ -264,6 +266,7 @@
 0.0.0.0 c3j7rk-rtbix.top
 0.0.0.0 calcatesituate.top
 0.0.0.0 cam-maus.info
+0.0.0.0 camliveshow.xyz
 0.0.0.0 camptrck.com
 0.0.0.0 candyai.love
 0.0.0.0 cautommityring.com
@@ -594,6 +597,7 @@
 0.0.0.0 plinksplanet.com
 0.0.0.0 plorexdry.com
 0.0.0.0 pnouting.com
+0.0.0.0 podbex.com
 0.0.0.0 pooksys.site
 0.0.0.0 popblockergold.com
 0.0.0.0 popcash.net
@@ -963,15 +967,12 @@
 0.0.0.0 adextrem.com
 0.0.0.0 adultadworld.com
 0.0.0.0 banners.cams.com
-0.0.0.0 bestdatinghere.life
 0.0.0.0 c4tracking01.com
 0.0.0.0 cam4tracking.com
 0.0.0.0 chokertraffic.com
 0.0.0.0 cityofsin3d.com
 0.0.0.0 ckrf1.com
 0.0.0.0 connexionsafe.com
-0.0.0.0 cpng.lol.
-0.0.0.0 cpng.lol
 0.0.0.0 crdefault2.com
 0.0.0.0 crentexgate.com
 0.0.0.0 crlcw.link
@@ -987,42 +988,33 @@
 0.0.0.0 ero-advertising.com
 0.0.0.0 eroge.com
 0.0.0.0 ertya.com
-0.0.0.0 ezofferz.com
 0.0.0.0 flagads.net
-0.0.0.0 flndmyiove.net
 0.0.0.0 fpctraffic2.com
 0.0.0.0 freecamsexposed.com
 0.0.0.0 friendfinder.com
 0.0.0.0 frtyi.com
 0.0.0.0 funkydaters.com
 0.0.0.0 gambol.link
-0.0.0.0 gayfinder.life
 0.0.0.0 get-partner.life
 0.0.0.0 girls.xyz
 0.0.0.0 global-trk.com
 0.0.0.0 go-route.com
 0.0.0.0 grtyv.com
 0.0.0.0 hkl4h1trk.com
-0.0.0.0 hotplay-games.life
-0.0.0.0 hottesvideosapps.com
 0.0.0.0 hpyrdr.com
 0.0.0.0 hrtya.com
 0.0.0.0 indianfriendfinder.com
 0.0.0.0 irtye.com
-0.0.0.0 isanalyze.com
 0.0.0.0 jizzy.org
 0.0.0.0 jsmjmp.com
 0.0.0.0 kaizentraffic.com
 0.0.0.0 libedgolart.com
-0.0.0.0 lncredlbiedate.com
-0.0.0.0 moradu.com
 0.0.0.0 mptentry.com
 0.0.0.0 needlive.com
 0.0.0.0 notimoti.com
 0.0.0.0 nyetm2mkch.com
 0.0.0.0 otieu.com
 0.0.0.0 passtechusa.com
-0.0.0.0 pinkberrytube.com
 0.0.0.0 playgirl.com
 0.0.0.0 poweredbyliquidfire.mobi
 0.0.0.0 prodtraff.com
@@ -1045,19 +1037,16 @@
 0.0.0.0 traffic.club
 0.0.0.0 trafficbroker.com
 0.0.0.0 trafficstars.com
-0.0.0.0 traffictraffickers.com
 0.0.0.0 trkbc.com
 0.0.0.0 viensvoircesite.com
 0.0.0.0 vlexokrako.com
 0.0.0.0 watchmygf.com
 0.0.0.0 xdtraffic.com
 0.0.0.0 xmatch.com
-0.0.0.0 xxlargepop.com
 0.0.0.0 xxxjmp.com
 0.0.0.0 xxxmatch.com
 0.0.0.0 zononi.com
 0.0.0.0 sexpennyauctions.com
-0.0.0.0 inclk.com
 0.0.0.0 clkfeed.com
 0.0.0.0 1463.info
 0.0.0.0 www.mir-stalkera.ru

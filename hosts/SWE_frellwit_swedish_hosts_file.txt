@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.11
-! Last modified: 2025-06-29T06:10:09.826Z
+! Version: 1.0.15.13
+! Last modified: 2025-07-06T06:10:29.120Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1terms.com
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -73,6 +73,7 @@
 0.0.0.0 ads.viralize.tv
 0.0.0.0 adsaga.telgenytt.se
 0.0.0.0 adsby.bidtheatre.com
+0.0.0.0 adsdk.microsoft.com
 0.0.0.0 adserver.ddev.site
 0.0.0.0 adserver.infotorg.se
 0.0.0.0 adserver.so-rummet.se
@@ -287,6 +288,7 @@
 0.0.0.0 cdn.shareaholic.net
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.speedcurve.com
+0.0.0.0 cdn.spelwidgets.se
 0.0.0.0 cdn.sprida.se
 0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 cdn.subscribers.com
@@ -589,6 +591,7 @@
 0.0.0.0 matomo.lantmannen.com
 0.0.0.0 matomo.lulea.se
 0.0.0.0 matomo.mindbite.cloud
+0.0.0.0 matomo.nokportalen.se
 0.0.0.0 matomo.studio.se
 0.0.0.0 matomo.vibb.ax
 0.0.0.0 maxetise.net
@@ -728,7 +731,6 @@
 0.0.0.0 s.cartbooster.io
 0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
-0.0.0.0 s.pubmine.com
 0.0.0.0 s.richaudience.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s0.2mdn.net
@@ -1125,7 +1127,6 @@
 0.0.0.0 www.tamgrt.com
 0.0.0.0 www.topdisplaynetwork.com
 0.0.0.0 www.tourn.se
-0.0.0.0 www.vejaskor.com.se
 0.0.0.0 www.vizzit.se
 0.0.0.0 www8.smartadserver.com
 0.0.0.0 www.datadoghq-browser-agent.com

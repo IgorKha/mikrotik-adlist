@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt
 ! Version: 1.0.14.52
-! Last modified: 2025-06-29T06:10:10.977Z
+! Last modified: 2025-07-06T06:10:30.170Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 ads.ekstat.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
