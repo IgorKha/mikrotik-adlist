@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-! Version: 1.0.14.53
-! Last modified: 2025-07-06T06:10:26.825Z
+! Version: 1.0.14.54
+! Last modified: 2025-07-13T06:10:23.552Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 *-android-context-data.googleapis.com
 0.0.0.0 *-chromecontentsuggestions-pa.googleapis.com
@@ -355,7 +355,6 @@
 0.0.0.0 firebase.com
 0.0.0.0 firebase.dev
 0.0.0.0 firebase.io
-0.0.0.0 firebaseanalytics.com
 0.0.0.0 firebaseapp.com
 0.0.0.0 firebaseio.com
 0.0.0.0 00hrf5vjtk.com

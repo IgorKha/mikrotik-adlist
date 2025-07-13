@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt
 ! Version: 1.0.14.53
-! Last modified: 2025-07-06T06:10:28.641Z
+! Last modified: 2025-07-13T06:10:26.224Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 nsx-e.np.dl.playstation.net
 0.0.0.0 mercury.dl.playstation.net

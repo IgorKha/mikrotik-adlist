@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
-! Version: 1.0.14.59
-! Last modified: 2025-07-06T06:10:32.023Z
+! Version: 1.0.14.61
+! Last modified: 2025-07-13T06:10:30.854Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com
@@ -125,6 +125,8 @@
 0.0.0.0 pigment-adv.co.il
 0.0.0.0 pinukim.net
 0.0.0.0 pisrael.com
+0.0.0.0 play.milly-style.co.il
+0.0.0.0 plushome.co.il
 0.0.0.0 premium-offers.space
 0.0.0.0 quick-date.xyz
 0.0.0.0 rateonclick.com
@@ -142,6 +144,7 @@
 0.0.0.0 sortie-shop.com
 0.0.0.0 sprawley.com
 0.0.0.0 srvjar.com
+0.0.0.0 storyshop.co.il
 0.0.0.0 streamin.to
 0.0.0.0 stylebox.co.il
 0.0.0.0 talkahead.com
