@@ -1,12 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-! Version: 1.0.0.25
-! Last modified: 2025-07-06T06:10:28.484Z
+! Version: 1.0.0.26
+! Last modified: 2025-07-13T06:10:25.964Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
 0.0.0.0 samsungcard.data.adobedc.net
 0.0.0.0 samsungads.adsmeasurement.com
 0.0.0.0 samsung.appnext.com
+0.0.0.0 samsung.attn.tv
 0.0.0.0 samsungrum.beusable.net
 0.0.0.0 samsungscript.beusable.net
 0.0.0.0 samsung.bimtrackapp.co

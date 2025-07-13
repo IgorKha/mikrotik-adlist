@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-! Version: 1.0.18.11
-! Last modified: 2025-07-06T06:10:27.077Z
+! Version: 1.0.18.22
+! Last modified: 2025-07-13T06:10:24.067Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0123456789nonexistent.com
 0.0.0.0 0123movie.net
@@ -93,6 +93,7 @@
 0.0.0.0 123movies4u.fun
 0.0.0.0 123movies4u.life
 0.0.0.0 123movies4u.net
+0.0.0.0 123moviesb.net
 0.0.0.0 123moviesbq.com
 0.0.0.0 123moviesc.cyou
 0.0.0.0 123moviesfree.best
@@ -2260,6 +2261,7 @@
 0.0.0.0 cuevanagt.com
 0.0.0.0 cutercounter.com
 0.0.0.0 cuteyhoneyflash.de
+0.0.0.0 tracker.cutie.dating
 0.0.0.0 cutiegirl.ru
 0.0.0.0 cwer.ru
 0.0.0.0 cwer.ws
@@ -2428,6 +2430,7 @@
 0.0.0.0 deviloid.net
 0.0.0.0 devops.gay
 0.0.0.0 devuploads.com
+0.0.0.0 dexapk.com
 0.0.0.0 dezflight-underground.com
 0.0.0.0 dfast.app
 0.0.0.0 dfichiers.com
@@ -4251,6 +4254,7 @@
 0.0.0.0 hhdmovies.org
 0.0.0.0 hi10anime.com
 0.0.0.0 hianime.cx
+0.0.0.0 hianime.gs
 0.0.0.0 hianime.nz
 0.0.0.0 hianime.sx
 0.0.0.0 hianime.to
@@ -6059,6 +6063,7 @@
 0.0.0.0 nhlstreams.io
 0.0.0.0 nhlstreams.to
 0.0.0.0 h4.trakx.nibba.trade
+0.0.0.0 nicedocx.top
 0.0.0.0 nicemoviezion.pro
 0.0.0.0 nightmarestresser.com
 0.0.0.0 niktu.com
@@ -7604,6 +7609,7 @@
 0.0.0.0 skybizbd.net
 0.0.0.0 skylinectg.com
 0.0.0.0 skyll.net
+0.0.0.0 skymovieshd.social
 0.0.0.0 skynetbd.net
 0.0.0.0 skynetchowmuhani.com
 0.0.0.0 tpb.skynetcloud.site
@@ -8000,6 +8006,7 @@
 0.0.0.0 streamingcommunity.vip
 0.0.0.0 streamingcommunity.work
 0.0.0.0 streamingcommunity.xyz
+0.0.0.0 streamingcommunityz.city
 0.0.0.0 streamingdivx.ch
 0.0.0.0 streaminggratuit.cc
 0.0.0.0 streamingon.org
@@ -8451,6 +8458,7 @@
 0.0.0.0 thzhd.info
 0.0.0.0 ti.to
 0.0.0.0 tiansha.net
+0.0.0.0 tianxingjian.wiki
 0.0.0.0 tienichmaytinh.com
 0.0.0.0 tigerblack.net
 0.0.0.0 tikmovies.com
@@ -9341,6 +9349,7 @@
 0.0.0.0 vidcloud1.com
 0.0.0.0 vidcloud9.com
 0.0.0.0 vide.cx
+0.0.0.0 vide0.net
 0.0.0.0 vidembed.net
 0.0.0.0 videobin.co
 0.0.0.0 videocop.com
@@ -9350,6 +9359,7 @@
 0.0.0.0 videoneat.com
 0.0.0.0 videospider.in
 0.0.0.0 videothek.cx
+0.0.0.0 videq.dev
 0.0.0.0 vider.info
 0.0.0.0 vider.love
 0.0.0.0 vidhog.com
@@ -9929,6 +9939,7 @@
 0.0.0.0 youtorrent.com
 0.0.0.0 youtrade.tv
 0.0.0.0 youwatch.org
+0.0.0.0 yoxplay.xyz
 0.0.0.0 ntorrent.yoyo.pl
 0.0.0.0 yoyomovies.net
 0.0.0.0 yqzuji.com
@@ -10085,5 +10096,6 @@
 0.0.0.0 ultra.zt.ua
 0.0.0.0 ztracker.hu
 0.0.0.0 tr.zukizuki.org
+0.0.0.0 zumods.com
 0.0.0.0 zxcmovies.com
 0.0.0.0 zxonlinebd.com

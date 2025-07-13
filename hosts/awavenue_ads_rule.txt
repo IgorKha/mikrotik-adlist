@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.36
-! Last modified: 2025-07-06T06:10:25.266Z
+! Version: 1.0.15.38
+! Last modified: 2025-07-13T06:10:21.406Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -286,6 +286,7 @@
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 datacollection.uve.weibo.com
 0.0.0.0 datk.anythinktech.com
 0.0.0.0 de.tynt.com
 0.0.0.0 diagnosis.ad.xiaomi.com
@@ -663,7 +664,6 @@
 0.0.0.0 tdsdk.xdrig.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 tencent-dtv.m.cn.miaozhen.com
-0.0.0.0 terms-drcn.platform.dbankcloud.cn
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 tj.b.qq.com
 0.0.0.0 tj.video.qq.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt
 ! Version: 1.0.14.74
-! Last modified: 2025-07-06T06:10:29.207Z
+! Last modified: 2025-07-13T06:10:27.204Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 adtodate.ir
 0.0.0.0 adrooz.com

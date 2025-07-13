@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.61
-! Last modified: 2025-07-06T06:10:32.191Z
+! Version: 1.0.17.68
+! Last modified: 2025-07-13T06:10:31.232Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -97,6 +97,7 @@
 0.0.0.0 babybeddingdesign.com
 0.0.0.0 bagsdeuter.com
 0.0.0.0 bajeczki.org.pl
+0.0.0.0 bakeryxswap.org
 0.0.0.0 balkeryswep.online
 0.0.0.0 baltic-pipe-finansowy.blogspot.com
 0.0.0.0 baltic79.wordpress.com
@@ -117,7 +118,6 @@
 0.0.0.0 billboardwring.com
 0.0.0.0 binom0-web.com
 0.0.0.0 binomo-brokers.com
-0.0.0.0 binomo-id.pro
 0.0.0.0 binomo.ai
 0.0.0.0 binomo.app
 0.0.0.0 binomo.broker
@@ -143,6 +143,7 @@
 0.0.0.0 black-sales.cloud
 0.0.0.0 blackabdo.company.site
 0.0.0.0 blackoutarchertender.com
+0.0.0.0 blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
 0.0.0.0 bltskins.com
@@ -174,11 +175,11 @@
 0.0.0.0 caraci.it
 0.0.0.0 carngr.sbs
 0.0.0.0 carsaratek.com
+0.0.0.0 casha.xyz
 0.0.0.0 casualdating1.com
 0.0.0.0 cda-zalukaj.prv.pl
 0.0.0.0 cdn-defac13.techresource.shop
 0.0.0.0 cdn-defac18.studyzone-investmentguru.com
-0.0.0.0 charmsection.com
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
 0.0.0.0 chesssorrydescend.com
@@ -217,7 +218,6 @@
 0.0.0.0 coolestpod.com
 0.0.0.0 cooperation-odoo.com
 0.0.0.0 corg.co
-0.0.0.0 costssco.com
 0.0.0.0 couponxoo.com
 0.0.0.0 courier-tracking.com
 0.0.0.0 covex.it
@@ -225,7 +225,6 @@
 0.0.0.0 cracksway.com
 0.0.0.0 crocssalenz.com
 0.0.0.0 crypto029.online
-0.0.0.0 crypto030.online
 0.0.0.0 cryptot.net
 0.0.0.0 csbestplayers.com
 0.0.0.0 cshrewards.net
@@ -395,7 +394,6 @@
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
-0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
@@ -449,7 +447,6 @@
 0.0.0.0 haceroberomaste.com
 0.0.0.0 hairyfy.com
 0.0.0.0 haowei.me
-0.0.0.0 happymod.cloud
 0.0.0.0 haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 help.record-x-center.com
@@ -503,7 +500,6 @@
 0.0.0.0 indiaevisaservice.com
 0.0.0.0 indiaimmigration.org
 0.0.0.0 indian-e-visa.com
-0.0.0.0 indian-visa.in
 0.0.0.0 indian-visaonline.org
 0.0.0.0 indianetouristvisacoin.wordpress.com
 0.0.0.0 indianevisaonline.com
@@ -580,8 +576,10 @@
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 lds.xyz
 0.0.0.0 ledgerlivewallets.com
+0.0.0.0 lemstore.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 levelbash.com
+0.0.0.0 levelupstore.xyz
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 ligerking.com
 0.0.0.0 linkshe.com
@@ -603,6 +601,7 @@
 0.0.0.0 lucysstyle.com
 0.0.0.0 lumustore.top
 0.0.0.0 luxsgear.com
+0.0.0.0 m.coinexeu.vip
 0.0.0.0 madeinusas.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -629,6 +628,7 @@
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 miningco.site
+0.0.0.0 missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 0.0.0.0 miucart.com
 0.0.0.0 mizunsports.com
 0.0.0.0 moddetail.com
@@ -668,6 +668,7 @@
 0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi14.com
+0.0.0.0 navi18.com
 0.0.0.0 navi2.com
 0.0.0.0 navi20.com
 0.0.0.0 navi20.ru
@@ -697,7 +698,6 @@
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 navi5.com
-0.0.0.0 navi50.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
 0.0.0.0 navi55.com
@@ -724,6 +724,7 @@
 0.0.0.0 navi88.com
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
+0.0.0.0 navi94.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 nayatowerinstallation.in.net
@@ -789,6 +790,7 @@
 0.0.0.0 onlinecda.pl
 0.0.0.0 onlinefilmy.pl
 0.0.0.0 onlinekino.pl
+0.0.0.0 onlinevisa.com
 0.0.0.0 onlinewideo.pl
 0.0.0.0 onlyfanstake.pro
 0.0.0.0 onrunningshop.com
@@ -796,6 +798,7 @@
 0.0.0.0 orderquilt.com
 0.0.0.0 ousd-vault.com
 0.0.0.0 outarshop.fi
+0.0.0.0 outel.abmarketworks.com
 0.0.0.0 outlet-alfresco.com
 0.0.0.0 owlala.com
 0.0.0.0 own3d.tv
@@ -887,7 +890,6 @@
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
 0.0.0.0 rozaholshouser.cfd
-0.0.0.0 rozomii.info
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 ruecksendungen-gratis.com
 0.0.0.0 rupiahlagi.com
@@ -919,6 +921,7 @@
 0.0.0.0 serengetidiscount.com
 0.0.0.0 seriale.co
 0.0.0.0 serialefilmy.pl
+0.0.0.0 seryna.co
 0.0.0.0 shaughixefooz.net
 0.0.0.0 shirtforfan.com
 0.0.0.0 shirttest.com
@@ -976,6 +979,7 @@
 0.0.0.0 stearncommunjty.net
 0.0.0.0 stellara.de
 0.0.0.0 stellasummer.com
+0.0.0.0 stiloautoparts.online
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 storagestory.com
 0.0.0.0 store-aleteia.org
@@ -1006,10 +1010,10 @@
 0.0.0.0 swuso.com
 0.0.0.0 t-post.com
 0.0.0.0 tamed-exotics.com
+0.0.0.0 taramatikarou.com
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tatatowers.com
 0.0.0.0 tbao684tryo.com
-0.0.0.0 tdsintegrations11.online
 0.0.0.0 teearrow.com
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
@@ -1178,6 +1182,7 @@
 0.0.0.0 uniswapv4sapp.com
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 updatesnow.click
+0.0.0.0 upfilm.pl
 0.0.0.0 uplevelreward.com
 0.0.0.0 upnews.me
 0.0.0.0 uprising.kip.pro
@@ -1199,7 +1204,6 @@
 0.0.0.0 verfun.com
 0.0.0.0 vernahora.app
 0.0.0.0 vessisdeutschland.com
-0.0.0.0 vider-cda.online
 0.0.0.0 vider-cda.pl
 0.0.0.0 vider-pl.pl
 0.0.0.0 vider.cc
@@ -1256,10 +1260,8 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
-0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
-0.0.0.0 xajzfwgs.com
 0.0.0.0 xcartpro.com
 0.0.0.0 xn--airupespaa-19a.com
 0.0.0.0 xn--airuptrkiye-yhb.com

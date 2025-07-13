@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.64
-! Last modified: 2025-07-06T06:10:25.354Z
+! Version: 1.0.16.67
+! Last modified: 2025-07-13T06:10:21.547Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 pixel-see.com
 0.0.0.0 wissekeygroup.com
@@ -162,6 +162,7 @@
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 67trackdomain.com
+0.0.0.0 7flies12.de
 0.0.0.0 905trk.com
 0.0.0.0 a-ads.com
 0.0.0.0 abadit5rckd.com
@@ -740,7 +741,9 @@
 0.0.0.0 thebtrads.top
 0.0.0.0 theirbellstudio.co
 0.0.0.0 theonesstoodtheirground.com
+0.0.0.0 tigerbrluck.com
 0.0.0.0 tilqwekuszfa.com
+0.0.0.0 tjwsg.com
 0.0.0.0 toequiet.website
 0.0.0.0 toiletpaper.life
 0.0.0.0 tomlldahehun.org
@@ -757,6 +760,7 @@
 0.0.0.0 trackingtraffo.com
 0.0.0.0 tracktds.live
 0.0.0.0 trackvisible.com
+0.0.0.0 trakit20.com
 0.0.0.0 trasupr.com
 0.0.0.0 trckswrm.com
 0.0.0.0 trkless.com
