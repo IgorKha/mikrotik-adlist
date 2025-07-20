@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.7
-! Last modified: 2025-07-13T06:10:38.097Z
+! Version: 1.0.17.12
+! Last modified: 2025-07-20T06:11:06.583Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -581,6 +581,7 @@
 0.0.0.0 byethost3.com
 0.0.0.0 byto.de
 0.0.0.0 bz.tc
+0.0.0.0 c.la
 0.0.0.0 c.pl
 0.0.0.0 ca.gp
 0.0.0.0 cafeblog.hu
@@ -822,6 +823,7 @@
 0.0.0.0 e-monsite.com
 0.0.0.0 easy4blog.com
 0.0.0.0 easyfreehosting.com
+0.0.0.0 eazylaunch.com
 0.0.0.0 eb2a.com
 0.0.0.0 ebeesboutique.shop
 0.0.0.0 ebuykind.shop
@@ -983,6 +985,7 @@
 0.0.0.0 free.bg
 0.0.0.0 free.cr
 0.0.0.0 free.lc
+0.0.0.0 free.nf
 0.0.0.0 free-blogz.com
 0.0.0.0 free-forums.org
 0.0.0.0 freeasphost.net
