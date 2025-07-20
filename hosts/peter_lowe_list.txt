@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.46
-! Last modified: 2025-07-13T06:10:14.882Z
+! Version: 1.0.15.47
+! Last modified: 2025-07-20T06:10:46.526Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -144,6 +144,7 @@
 0.0.0.0 ad.xmovies8.si
 0.0.0.0 ad.xrea.com
 0.0.0.0 ad.ztylez.com
+0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.kde.cz
@@ -322,6 +323,7 @@
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-img.mozilla.org
+0.0.0.0 ads-portal-cdn.vidaatv.net
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.365.mk
 0.0.0.0 ads.5ci.lt
@@ -1045,8 +1047,10 @@
 0.0.0.0 baskettexture.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bbelements.com
+0.0.0.0 bbn.img.com.ua
 0.0.0.0 beachfront.com
 0.0.0.0 beacon.gu-web.net
+0.0.0.0 beacon.netflix.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 bebi.com
@@ -1141,6 +1145,7 @@
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
+0.0.0.0 c.bigmir.net
 0.0.0.0 c1exchange.com
 0.0.0.0 c212.net
 0.0.0.0 cakesdrum.com
@@ -1170,6 +1175,7 @@
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashpartner.com
 0.0.0.0 cashstaging.me
+0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 cattlecommittee.com
@@ -1244,6 +1250,7 @@
 0.0.0.0 click.i.southwesternrailway.com
 0.0.0.0 click.infoblox.com
 0.0.0.0 click.justwatch.com
+0.0.0.0 click.kmindex.ru
 0.0.0.0 click.mail.hotels.com
 0.0.0.0 click.mail.salesforce.com
 0.0.0.0 click.mailing.ticketmaster.com
@@ -1362,6 +1369,7 @@
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.snackly.co
+0.0.0.0 counting.kmindex.ru
 0.0.0.0 coupling-media.de
 0.0.0.0 coxmt.com
 0.0.0.0 cozyhillside.com
@@ -1401,6 +1409,7 @@
 0.0.0.0 cushiondrum.com
 0.0.0.0 customad.cnn.com
 0.0.0.0 customads.co
+0.0.0.0 customerevents.netflix.com
 0.0.0.0 customers.kameleoon.com
 0.0.0.0 cutechin.com
 0.0.0.0 cxense.com
@@ -1825,7 +1834,6 @@
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iadnet.com
-0.0.0.0 iasds01.com
 0.0.0.0 ibillboard.com
 0.0.0.0 icptrack.com
 0.0.0.0 id5-sync.com
@@ -1907,7 +1915,6 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 j93557g.com
 0.0.0.0 jads.co
-0.0.0.0 jauchuwa.net
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
 0.0.0.0 jinkads.de
@@ -2047,6 +2054,8 @@
 0.0.0.0 logsss.com
 0.0.0.0 logua.com
 0.0.0.0 look.djfiln.com
+0.0.0.0 look.ichlnk.com
+0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 loopme.com
 0.0.0.0 loudlunch.com
@@ -2275,6 +2284,7 @@
 0.0.0.0 nexage.com
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 nitroclicks.com
+0.0.0.0 nmtracking.netflix.com
 0.0.0.0 noiselessplough.com
 0.0.0.0 nondescriptcrowd.com
 0.0.0.0 nondescriptnote.com
@@ -2678,8 +2688,10 @@
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rotabanner.com
 0.0.0.0 roxr.net
+0.0.0.0 rpt-ads.vidaahub.com
 0.0.0.0 rqtrk.eu
 0.0.0.0 rs6.net
+0.0.0.0 rsc-ads.vidaahub.com
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtbadzesto.com
@@ -3020,6 +3032,7 @@
 0.0.0.0 temelio.com
 0.0.0.0 tend.io
 0.0.0.0 tendertest.com
+0.0.0.0 ter-jrnl-oc.vidaahub.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.sexsearch.com
@@ -3208,6 +3221,7 @@
 0.0.0.0 undertone.com
 0.0.0.0 unidentifiedanalytics.web.app
 0.0.0.0 unloadyourself.com
+0.0.0.0 unruly.co
 0.0.0.0 unrulymedia.com
 0.0.0.0 untd.com
 0.0.0.0 unusualtitle.com

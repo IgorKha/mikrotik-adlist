@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.67
-! Last modified: 2025-07-13T06:10:21.547Z
+! Version: 1.0.16.72
+! Last modified: 2025-07-20T06:10:52.959Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 pixel-see.com
 0.0.0.0 wissekeygroup.com
@@ -157,11 +157,10 @@
 0.0.0.0 123-stream.org
 0.0.0.0 1asb.com
 0.0.0.0 367p.com
-0.0.0.0 38hgc.com
+0.0.0.0 3ckz.com
 0.0.0.0 554koaylwga7.top
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
-0.0.0.0 67trackdomain.com
 0.0.0.0 7flies12.de
 0.0.0.0 905trk.com
 0.0.0.0 a-ads.com
@@ -220,10 +219,8 @@
 0.0.0.0 appointeeivyspongy.com
 0.0.0.0 approved.website
 0.0.0.0 appslime.com
-0.0.0.0 ardsklangr.com
 0.0.0.0 ardssandshrewon.com
 0.0.0.0 argrowlitheor.com
-0.0.0.0 arwobaton.com
 0.0.0.0 asstaraptora.com
 0.0.0.0 astjigglypuffchan.com
 0.0.0.0 atsg.me
@@ -236,6 +233,7 @@
 0.0.0.0 bashfulleadsock.com
 0.0.0.0 basicflownetowork.co.in
 0.0.0.0 bayshorline.com
+0.0.0.0 bbmoe.com
 0.0.0.0 beamobserver.com
 0.0.0.0 behim.click
 0.0.0.0 bemobtrcks.com
@@ -254,6 +252,7 @@
 0.0.0.0 blehcourt.com
 0.0.0.0 block-ad.com
 0.0.0.0 blockadsnot.com
+0.0.0.0 bluodpa-a.online
 0.0.0.0 blurbreimbursetrombone.com
 0.0.0.0 bmmads.com
 0.0.0.0 boardpress-b.online
@@ -274,7 +273,6 @@
 0.0.0.0 cddtsecure.com
 0.0.0.0 chambermaidthree.xyz
 0.0.0.0 checkcdn.net
-0.0.0.0 chetchoa.com
 0.0.0.0 choogeet.net
 0.0.0.0 chpadblock.com
 0.0.0.0 cleanmypc.click
@@ -286,9 +284,10 @@
 0.0.0.0 clunen.com
 0.0.0.0 cm65.com
 0.0.0.0 cntrealize.com
+0.0.0.0 coastalbloom.xyz
 0.0.0.0 colleem.com
+0.0.0.0 colorsealprosper.co
 0.0.0.0 conestreshow.com
-0.0.0.0 contentcrocodile.com
 0.0.0.0 controlclickflow.com
 0.0.0.0 coolserving.com
 0.0.0.0 coosync.com
@@ -299,7 +298,6 @@
 0.0.0.0 crockadilla.com
 0.0.0.0 cryptomcw.com
 0.0.0.0 ctosrd.com
-0.0.0.0 cuffinliever.shop
 0.0.0.0 cuveeoxanate.top
 0.0.0.0 cybkit.com
 0.0.0.0 daleelerah.info
@@ -315,7 +313,6 @@
 0.0.0.0 deepsathegoh.com
 0.0.0.0 defandoar.xyz
 0.0.0.0 degg.site
-0.0.0.0 degradationtransaction.com
 0.0.0.0 deluxe-download.com
 0.0.0.0 demowebcode.online
 0.0.0.0 detailsallaround.org
@@ -324,7 +321,6 @@
 0.0.0.0 dianomi.com
 0.0.0.0 directdexchange.com
 0.0.0.0 disable-adverts.com
-0.0.0.0 dishleyinsite.shop
 0.0.0.0 displayvertising.com
 0.0.0.0 dithodackee.com
 0.0.0.0 divaresnapshareagido.com
@@ -334,6 +330,7 @@
 0.0.0.0 donkeyflower.xyz
 0.0.0.0 doostozoa.net
 0.0.0.0 downloading-addon.com
+0.0.0.0 downloads-windows-pc.com
 0.0.0.0 dpuppers.com
 0.0.0.0 dreamteamaffiliates.com
 0.0.0.0 drsmediaexchange.com
@@ -367,13 +364,13 @@
 0.0.0.0 fastdntrk.com
 0.0.0.0 fbpqvs.com
 0.0.0.0 fedra.info
-0.0.0.0 femsoahe.com
 0.0.0.0 finalice.net
 0.0.0.0 finanvideos.com
 0.0.0.0 finder2024.com
 0.0.0.0 flowworksfivesphere.com
 0.0.0.0 flyingadvert.com
 0.0.0.0 foerpo.com
+0.0.0.0 foflf.com
 0.0.0.0 fomalhautgacrux.com
 0.0.0.0 forooqso.tv
 0.0.0.0 freetrckr.com
@@ -411,7 +408,6 @@
 0.0.0.0 gxfiledownload.com
 0.0.0.0 hagech.com
 0.0.0.0 haveameet.com
-0.0.0.0 hegemonjujus.shop
 0.0.0.0 helicient.com
 0.0.0.0 heptix.net
 0.0.0.0 herma-tor.com
@@ -434,10 +430,10 @@
 0.0.0.0 icetechus.com
 0.0.0.0 icubeswire.co
 0.0.0.0 ignals.com
-0.0.0.0 ignitorkneecap.shop
 0.0.0.0 imkirh.com
 0.0.0.0 improvebin.xyz
 0.0.0.0 inbrowserplay.com
+0.0.0.0 indlyment-stuador.com
 0.0.0.0 installupdate.online
 0.0.0.0 intellipopup.com
 0.0.0.0 internodeid.com
@@ -447,9 +443,9 @@
 0.0.0.0 itstuffnews.com
 0.0.0.0 iyfbodn.com
 0.0.0.0 izeeto.com
+0.0.0.0 jegiopad.top
 0.0.0.0 jeroud.com
 0.0.0.0 jiuwert.online
-0.0.0.0 joastaca.com
 0.0.0.0 joggerkochia.top
 0.0.0.0 js-check.com
 0.0.0.0 junkyadexchange.com
@@ -475,6 +471,7 @@
 0.0.0.0 loadtime.org
 0.0.0.0 loazuptaice.net
 0.0.0.0 locooler-ageneral.com
+0.0.0.0 lovemiingle.life
 0.0.0.0 luntedepsom.top
 0.0.0.0 lust-burning.rest
 0.0.0.0 lust-goddess.buzz
@@ -490,6 +487,7 @@
 0.0.0.0 mainexclkdir.com
 0.0.0.0 making.party
 0.0.0.0 maquiags.com
+0.0.0.0 maredpt.com
 0.0.0.0 maxconvtrk.com
 0.0.0.0 maxickedpantents.com
 0.0.0.0 maxidefender.xyz
@@ -505,6 +503,7 @@
 0.0.0.0 me4track.com
 0.0.0.0 medfoodsafety.com
 0.0.0.0 mediahell.world
+0.0.0.0 meetflirtmatch.com
 0.0.0.0 meetwebclub.com
 0.0.0.0 menews.org
 0.0.0.0 metabatted.com
@@ -541,12 +540,12 @@
 0.0.0.0 nextpointkaynersave.com
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 nightbesties.com
-0.0.0.0 nigroopheert.com
 0.0.0.0 ninancukankin.org
 0.0.0.0 noavoahevugrib.com
 0.0.0.0 nontraditionally.rest
 0.0.0.0 noohapou.com
 0.0.0.0 noolt.com
+0.0.0.0 northdownload.com
 0.0.0.0 northrtbads.top
 0.0.0.0 nothingfairnessdemonstrate.com
 0.0.0.0 novibet.partners
@@ -570,19 +569,16 @@
 0.0.0.0 omzal.com
 0.0.0.0 onclckpop.com
 0.0.0.0 onclickperformance.com
-0.0.0.0 onmantineer.com
 0.0.0.0 opengalaxyapps.monster
 0.0.0.0 openrtb-banner.com
 0.0.0.0 optnx.com
 0.0.0.0 optvz.com
-0.0.0.0 ossfloetteor.com
 0.0.0.0 otoadom.com
 0.0.0.0 outoctillerytor.com
 0.0.0.0 ovardu.com
 0.0.0.0 oversolosisor.com
 0.0.0.0 paehceman.com
 0.0.0.0 paid.outbrain.com
-0.0.0.0 paraodriki.com
 0.0.0.0 paulastroid.com
 0.0.0.0 pemsrv.com
 0.0.0.0 permanentillnessclever.com
@@ -590,7 +586,6 @@
 0.0.0.0 pexorise.com
 0.0.0.0 pheniter.com
 0.0.0.0 phgotof2.com
-0.0.0.0 phumpauk.com
 0.0.0.0 pilotstracking.com
 0.0.0.0 pisism.com
 0.0.0.0 playmmogames.com
@@ -660,12 +655,10 @@
 0.0.0.0 rmhfrtnd.com
 0.0.0.0 rmzsglng.com
 0.0.0.0 rndskittytor.com
-0.0.0.0 roastoup.com
 0.0.0.0 rockingfolders.com
 0.0.0.0 rockwound.site
 0.0.0.0 rockytrails.top
 0.0.0.0 rocoads.com
-0.0.0.0 rolltrk4.com
 0.0.0.0 roobetaffiliates.com
 0.0.0.0 roots.baby
 0.0.0.0 roundflow.net
@@ -694,8 +687,8 @@
 0.0.0.0 sessfetchio.com
 0.0.0.0 sexemulator.tube-sexs.com
 0.0.0.0 sgad.site
+0.0.0.0 sgben.com
 0.0.0.0 shakingtacklingunpeeled.com
-0.0.0.0 shauladubhe.com
 0.0.0.0 shauladubhe.top
 0.0.0.0 shoppinglifestyle.biz
 0.0.0.0 shotgunchancecruel.com
@@ -706,6 +699,7 @@
 0.0.0.0 singledatetime.com
 0.0.0.0 skated.co
 0.0.0.0 skylindo.com
+0.0.0.0 skywardjourneys.co
 0.0.0.0 slatecharm.co
 0.0.0.0 slcuse.com
 0.0.0.0 sloto.live
@@ -750,7 +744,7 @@
 0.0.0.0 toopsoug.net
 0.0.0.0 topnewsgo.com
 0.0.0.0 toptoys.store
-0.0.0.0 toscytheran.com
+0.0.0.0 toroexoclk.com
 0.0.0.0 tourukaustoglee.net
 0.0.0.0 tr-bouncer.com
 0.0.0.0 track.afrsportsbetting.com
@@ -788,7 +782,6 @@
 0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
 0.0.0.0 verdepromo.info
-0.0.0.0 verifiable-warning.com
 0.0.0.0 vfgte.com
 0.0.0.0 viiadaof.com
 0.0.0.0 viibslav.com
@@ -831,6 +824,7 @@
 0.0.0.0 x3os.com
 0.0.0.0 xadsmart.com
 0.0.0.0 xarvilo.com
+0.0.0.0 xceliams.com
 0.0.0.0 xlivrdr.com
 0.0.0.0 xoilactv123.gdn
 0.0.0.0 xoilactvcj.cc

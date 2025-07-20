@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.18.50
-! Last modified: 2025-07-13T06:10:37.490Z
+! Version: 1.0.18.58
+! Last modified: 2025-07-20T06:11:06.173Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -606,6 +606,7 @@
 0.0.0.0 trustwallct.cc
 0.0.0.0 tnm-museum.world
 0.0.0.0 modii.xyz
+0.0.0.0 fffvviuebyw.bond
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 coup-ling-dm.net
@@ -1893,6 +1894,20 @@
 0.0.0.0 bhtuukgrerzjmchn.com
 0.0.0.0 av-master.org
 0.0.0.0 together2night.com
+0.0.0.0 dmlqidmx8frkz90.ywufsjhc4.jp
+0.0.0.0 pairing0-0.net
+0.0.0.0 pairingmailmail.com
+0.0.0.0 areallrea.com
+0.0.0.0 arealrea.com
+0.0.0.0 rearealrea.com
+0.0.0.0 nontymontylle.jp
+0.0.0.0 brilliant.ohana-pilina.com
+0.0.0.0 pinehollow-glade.com
+0.0.0.0 tg525.com
+0.0.0.0 ins7ki.com
+0.0.0.0 linez7820.com
+0.0.0.0 lgz7820.com
+0.0.0.0 jp84434.com
 0.0.0.0 webogram.org
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
@@ -2161,6 +2176,7 @@
 0.0.0.0 currentlymail*.weebly.com
 0.0.0.0 att-currently-*.weeblysite.com
 0.0.0.0 2025*maintenance.weebly.com
+0.0.0.0 plum-binder-*.typedream.app
 0.0.0.0 conveyancingportal.com
 0.0.0.0 biblio.sviluppo.host
 0.0.0.0 recompensaszurichsantander.com.mx
@@ -2331,7 +2347,18 @@
 0.0.0.0 d*wsapp.icu
 0.0.0.0 telezelm-*.icu
 0.0.0.0 whatsapp*.icu
+0.0.0.0 uspsparcels.net
+0.0.0.0 uspssmartpackagelockers.com
+0.0.0.0 smartparcellockers.tech
+0.0.0.0 yah.ppl.mybluehost.me
+0.0.0.0 usps.*.sbs
+0.0.0.0 uspac.sbs
+0.0.0.0 informed.delivery*.top
+0.0.0.0 info-tracking*.cc
 0.0.0.0 upgradeyourspotify.cc
+0.0.0.0 spoti-safe-support*.codeanyapp.com
+0.0.0.0 spoti-*.codeanyapp.com
+0.0.0.0 spolify-support-premium.codeanyapp.com
 0.0.0.0 divinedownload.com
 0.0.0.0 swiss-passapp.web.app
 0.0.0.0 the.jxc.mybluehost.me
@@ -2438,6 +2465,7 @@
 0.0.0.0 vzla-qr.com
 0.0.0.0 inmotiongmbh.com
 0.0.0.0 order78916.live
+0.0.0.0 eaestlinnkcca.weebly.com
 0.0.0.0 chattts-49f1.beszyrecala.workers.dev
 0.0.0.0 cursorltd.com
 0.0.0.0 utahpolicetraining.*.mybluehost.me
@@ -3005,6 +3033,7 @@
 0.0.0.0 lossless-scaling.download-fast.com
 0.0.0.0 fiverr-receiving-page.world
 0.0.0.0 tlauncher.org
+0.0.0.0 tlauncher.ru
 0.0.0.0 amezpay.com
 0.0.0.0 turtleclient.xyz
 0.0.0.0 irs.gov-
@@ -3078,3 +3107,58 @@
 0.0.0.0 havelbeenpwnd.com
 0.0.0.0 windirstat.org
 0.0.0.0 soubtcevent.com
+0.0.0.0 apply-to-get-hired.com
+0.0.0.0 apply-todayjobs.com
+0.0.0.0 applynow-jobs.com
+0.0.0.0 applytoday-jobs.com
+0.0.0.0 charliechaplin7eont.space
+0.0.0.0 instant-job-apply.com
+0.0.0.0 instant-job-appply.com
+0.0.0.0 job-apply-fast.com
+0.0.0.0 job-apply-now.com
+0.0.0.0 jobapply-careers.com
+0.0.0.0 jobs-apply-fast.com
+0.0.0.0 jobs-apply-now.com
+0.0.0.0 jobs-apply.com
+0.0.0.0 join-our-team.com
+0.0.0.0 schedule-interview.com
+0.0.0.0 schedule-job-application.com
+0.0.0.0 socialmedia-careers-office.com
+0.0.0.0 submit-application-job.com
+0.0.0.0 submit-job-application.com
+0.0.0.0 talent-applications.com
+0.0.0.0 talents-application.com
+0.0.0.0 whale-alerts.org
+0.0.0.0 wobblefizz.top
+0.0.0.0 zingleflap.top
+0.0.0.0 floopdoodle.top
+0.0.0.0 wibblywob.top
+0.0.0.0 snickerdoodle.top
+0.0.0.0 wobbleguff.top
+0.0.0.0 sprocketwhirl.top
+0.0.0.0 jumblefizz.top
+0.0.0.0 quirkleblip.top
+0.0.0.0 twizzleflap.top
+0.0.0.0 fizzlepopcorn.top
+0.0.0.0 glimmerbloop.top
+0.0.0.0 noodlequack.top
+0.0.0.0 jibberjot.top
+0.0.0.0 blurflewhack.top
+0.0.0.0 snogglewomp.top
+0.0.0.0 flibberwump.top
+0.0.0.0 quizzlepuff.top
+0.0.0.0 digigtalneo.top
+0.0.0.0 digigtalwow.top
+0.0.0.0 spaceball.top
+0.0.0.0 iochange.top
+0.0.0.0 iospace.top
+0.0.0.0 ioapp.sbs
+0.0.0.0 iohub.sbs
+0.0.0.0 ioonline.top
+0.0.0.0 e-xt.top
+0.0.0.0 infonet.sbs
+0.0.0.0 datazen.sbs
+0.0.0.0 datavibe.sbs
+0.0.0.0 infosync.top
+0.0.0.0 infograph.top
+0.0.0.0 zorpleflux.top

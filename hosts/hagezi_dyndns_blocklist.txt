@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.15.72
-! Last modified: 2025-07-13T06:10:37.960Z
+! Version: 1.0.15.76
+! Last modified: 2025-07-20T06:11:06.475Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -98,6 +98,7 @@
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
 0.0.0.0 ax.lt
+0.0.0.0 b0ne.com
 0.0.0.0 b0tnet.com
 0.0.0.0 b33r.us
 0.0.0.0 bad.mn
@@ -145,6 +146,7 @@
 0.0.0.0 briansagar.com
 0.0.0.0 broke-it.net
 0.0.0.0 brweb.org
+0.0.0.0 bsn2bsn.com
 0.0.0.0 bumbleshrimp.com
 0.0.0.0 burlingtondrywall.com
 0.0.0.0 buys.ru
@@ -253,6 +255,7 @@
 0.0.0.0 ddns.name
 0.0.0.0 ddns.net
 0.0.0.0 ddns.us
+0.0.0.0 ddns-dvr.com
 0.0.0.0 ddns5.com
 0.0.0.0 ddnsapp.com
 0.0.0.0 ddnsfree.com
@@ -350,6 +353,7 @@
 0.0.0.0 drunkensailor.org
 0.0.0.0 dsmtp.com
 0.0.0.0 dtdns.com
+0.0.0.0 dtdns.net
 0.0.0.0 dtdns.org
 0.0.0.0 dubya.info
 0.0.0.0 dubya.net
@@ -850,6 +854,7 @@
 0.0.0.0 kicks-ass.net
 0.0.0.0 kicks-ass.org
 0.0.0.0 kir22.ru
+0.0.0.0 klapa.eu
 0.0.0.0 knabrub.com
 0.0.0.0 knowsitall.info
 0.0.0.0 kompaniet.nu
@@ -1103,6 +1108,7 @@
 0.0.0.0 partycenteronline.com
 0.0.0.0 patelmortgage.com
 0.0.0.0 paulkelly.org
+0.0.0.0 pcanywhere.net
 0.0.0.0 peachyweb.com
 0.0.0.0 pedie.info
 0.0.0.0 pendulumaudio.com
@@ -1402,6 +1408,7 @@
 0.0.0.0 vincomlimited.com
 0.0.0.0 vitalwerks.com
 0.0.0.0 vizvaz.com
+0.0.0.0 voles35.ru
 0.0.0.0 voyez.ca
 0.0.0.0 vpn64.de
 0.0.0.0 vpndns.net

@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.26
-! Last modified: 2025-07-13T06:10:26.923Z
+! Version: 1.0.16.29
+! Last modified: 2025-07-20T06:10:57.307Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.26
+! Version: 1.0.16.29
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-07-10T04:15:56.397Z
+! Last modified: 2025-07-18T17:09:36.687Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -14281,6 +14281,7 @@
 0.0.0.0 breathelicense.com
 0.0.0.0 brechtembrowd.com
 0.0.0.0 bredmykixnaj.com
+0.0.0.0 brffhnhnqc.com
 0.0.0.0 bricius-ing.com
 0.0.0.0 brickandmobile.com
 0.0.0.0 bridesmaidspamimmortal.com
@@ -14371,6 +14372,7 @@
 0.0.0.0 canangafierier.uno
 0.0.0.0 caniamedia.com
 0.0.0.0 canoevaguely.com
+0.0.0.0 canuncartes.help
 0.0.0.0 canzosswager.com
 0.0.0.0 capaciousdrewreligion.com
 0.0.0.0 capitalgolfmushily.com
@@ -14443,8 +14445,10 @@
 0.0.0.0 cdnondemand.org
 0.0.0.0 cdntechone.com
 0.0.0.0 cdrvrs.com
+0.0.0.0 ceegrevoaphail.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 celltick.com
+0.0.0.0 celoortdwt.com
 0.0.0.0 centalkochab.com
 0.0.0.0 centerpointmedia.com
 0.0.0.0 cestibegster.com
@@ -15107,6 +15111,7 @@
 0.0.0.0 encloselavanga.com
 0.0.0.0 encodehelped.com
 0.0.0.0 encounterboastful.com
+0.0.0.0 endoverphageda.cfd
 0.0.0.0 endowmentoverhangutmost.com
 0.0.0.0 enduresopens.com
 0.0.0.0 endurosweekday.com
@@ -15129,6 +15134,7 @@
 0.0.0.0 eqads.com
 0.0.0.0 eqgmnmqlz.com
 0.0.0.0 eqworks.com
+0.0.0.0 eqwzfnbjbkz.com
 0.0.0.0 erdreamsofcryin.info
 0.0.0.0 ergadx.com
 0.0.0.0 eringosdye.com
@@ -15157,6 +15163,7 @@
 0.0.0.0 evzhzppj5kel.com
 0.0.0.0 eweconciliate.com
 0.0.0.0 ewhareey.com
+0.0.0.0 ewpucbact.com
 0.0.0.0 exactag.com
 0.0.0.0 exacttargetapis.com
 0.0.0.0 exchange-it.com
@@ -15227,6 +15234,7 @@
 0.0.0.0 fbcdn2.com
 0.0.0.0 fcqqbrfucuf.com
 0.0.0.0 fd5orie8e.com
+0.0.0.0 fdqrfiwkaeds.com
 0.0.0.0 febadu.com
 0.0.0.0 februarybogus.com
 0.0.0.0 februaryexclusion.com
@@ -15236,6 +15244,7 @@
 0.0.0.0 feedjit.com
 0.0.0.0 feedyourheadmag.com
 0.0.0.0 feedyourtralala.com
+0.0.0.0 feegritoapoo.com
 0.0.0.0 feenyrpxyps.com
 0.0.0.0 feevefouhe.net
 0.0.0.0 fer2oxheou4nd.com
@@ -16004,6 +16013,7 @@
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
 0.0.0.0 kwanvibist.com
 0.0.0.0 kxnggkh2nj.com
+0.0.0.0 kyrialbeknots.digital
 0.0.0.0 kzuocxorfo.com
 0.0.0.0 kzyadnfufmif.com
 0.0.0.0 labapwlkyov.com
@@ -16147,6 +16157,7 @@
 0.0.0.0 lunarads.com
 0.0.0.0 lutoorgourgi.com
 0.0.0.0 luxope.com
+0.0.0.0 luzongixoo.net
 0.0.0.0 lvtuucmyfpz.com
 0.0.0.0 lwddlhcdwmr.com
 0.0.0.0 lwgadm.com
@@ -16394,8 +16405,10 @@
 0.0.0.0 msgose.com
 0.0.0.0 msincsayqmji.com
 0.0.0.0 msvobeuhec.com
+0.0.0.0 mt.binmanoboles.com
 0.0.0.0 mt34iofvjay.com
 0.0.0.0 mtree.com
+0.0.0.0 muermoabject.shop
 0.0.0.0 mufsresuwoxg.com
 0.0.0.0 mugpothop.com
 0.0.0.0 multilinkhost.com
@@ -16563,12 +16576,14 @@
 0.0.0.0 ntvpinp.com
 0.0.0.0 ntvpwpush.com
 0.0.0.0 ntvsw.com
+0.0.0.0 nuckinxuco.com
 0.0.0.0 nuclearads.com
 0.0.0.0 nudgehydrogen.com
 0.0.0.0 nuffnang.com.my
 0.0.0.0 nuggad.net
 0.0.0.0 nui.media
 0.0.0.0 numerosuffice.shop
+0.0.0.0 nuryotzgl.com
 0.0.0.0 nuseek.com
 0.0.0.0 nuzatbdmy.com
 0.0.0.0 nv3tosjqd.com
@@ -16985,6 +17000,7 @@
 0.0.0.0 pompadawe.com
 0.0.0.0 pontiflex.com
 0.0.0.0 ponysomebodymartyr.com
+0.0.0.0 poopelouque.com
 0.0.0.0 poowucatuz.net
 0.0.0.0 pop-under.ru
 0.0.0.0 pop.bid
@@ -17090,6 +17106,7 @@
 0.0.0.0 proximic.com
 0.0.0.0 psaltauw.net
 0.0.0.0 psausuck.net
+0.0.0.0 psipausaix.net
 0.0.0.0 psootchu.net
 0.0.0.0 psoroumukr.com
 0.0.0.0 psstt.com
@@ -17162,6 +17179,7 @@
 0.0.0.0 pusishegre.com
 0.0.0.0 puwpush.com
 0.0.0.0 pvclouds.com
+0.0.0.0 pvnocbyq.com
 0.0.0.0 pwieu.com
 0.0.0.0 pwmctl.com
 0.0.0.0 pwysruffoza.com
@@ -17448,6 +17466,7 @@
 0.0.0.0 rvrpushserv.com
 0.0.0.0 rwturquxinm.com
 0.0.0.0 rwukupjis.com
+0.0.0.0 rwulzuaqsafn.com
 0.0.0.0 rxeosevsso.com
 0.0.0.0 ryeqnyvbncdvg.com
 0.0.0.0 s.eunow4u.com
@@ -17669,6 +17688,7 @@
 0.0.0.0 soggy-surround.com
 0.0.0.0 solarcyclonesky.com
 0.0.0.0 soliads.net
+0.0.0.0 solibothnic.qpon
 0.0.0.0 sombersea.com
 0.0.0.0 sombersquirrel.com
 0.0.0.0 sombersurprise.com
@@ -18334,6 +18354,7 @@
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
 0.0.0.0 vityhoughinimal.com
+0.0.0.0 vivvuvkra.com
 0.0.0.0 vlogerads.com
 0.0.0.0 vmcxdaynkhnekp.com
 0.0.0.0 vmmpxl.com
@@ -18365,6 +18386,7 @@
 0.0.0.0 vugnubier.com
 0.0.0.0 vugpakba.com
 0.0.0.0 vujdudspear.com
+0.0.0.0 vupurdeeks.net
 0.0.0.0 vwahacrubri.com
 0.0.0.0 vww1.com
 0.0.0.0 vyfrxuytzn.com
@@ -18640,6 +18662,7 @@
 0.0.0.0 xplosion.de
 0.0.0.0 xponsor.com
 0.0.0.0 xq1.net
+0.0.0.0 xr.staxisclivias.com
 0.0.0.0 xrea.com
 0.0.0.0 xruamzpanbca.com
 0.0.0.0 xsaeafkfilbcur.com
