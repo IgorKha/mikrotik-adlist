@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.12
-! Last modified: 2025-07-20T06:11:06.583Z
+! Version: 1.0.17.24
+! Last modified: 2025-07-27T06:11:13.575Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -116,7 +116,6 @@
 0.0.0.0 350.com
 0.0.0.0 351.at
 0.0.0.0 36f.de
-0.0.0.0 3blogger.com
 0.0.0.0 3blogger.net
 0.0.0.0 3dn.ru
 0.0.0.0 3eeweb.com
@@ -209,7 +208,6 @@
 0.0.0.0 aioblogs.com
 0.0.0.0 airground.club
 0.0.0.0 airself.shop
-0.0.0.0 akuanakmamah.de
 0.0.0.0 al6.de
 0.0.0.0 alavps.com
 0.0.0.0 alboompro.com
@@ -992,7 +990,6 @@
 0.0.0.0 freebase.hu
 0.0.0.0 freeblog.biz
 0.0.0.0 freecities.com
-0.0.0.0 freecyberzone.com
 0.0.0.0 freeforums.net
 0.0.0.0 freeforums.org
 0.0.0.0 freehomepage.com
@@ -1046,6 +1043,7 @@
 0.0.0.0 fun.gg
 0.0.0.0 fun.pe
 0.0.0.0 fun5.de
+0.0.0.0 funsites.ro
 0.0.0.0 fw.bz
 0.0.0.0 fw.hu
 0.0.0.0 fwscheckout.com
@@ -1602,7 +1600,6 @@
 0.0.0.0 pro.vg
 0.0.0.0 pro3.de
 0.0.0.0 proboards.com
-0.0.0.0 prodepl.top
 0.0.0.0 profis.info
 0.0.0.0 profreehost.com
 0.0.0.0 prohosts.org
@@ -1654,7 +1651,6 @@
 0.0.0.0 rumahweb.org
 0.0.0.0 runhosting.com
 0.0.0.0 s.gp
-0.0.0.0 s4usf.com
 0.0.0.0 sa.gp
 0.0.0.0 citybios.sa.com
 0.0.0.0 lifecycle.sa.com

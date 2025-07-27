@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.72
-! Last modified: 2025-07-20T06:10:52.959Z
+! Version: 1.0.16.78
+! Last modified: 2025-07-27T06:11:00.237Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 orlovskyi.com
 0.0.0.0 pixel-see.com
 0.0.0.0 wissekeygroup.com
 0.0.0.0 crakrevenue.xyz
@@ -174,6 +175,7 @@
 0.0.0.0 adfgetlink.net
 0.0.0.0 adflowtube.com
 0.0.0.0 adglare.net
+0.0.0.0 adglidepro.com
 0.0.0.0 aditms.me
 0.0.0.0 adkmbc.com
 0.0.0.0 adlogists.com
@@ -223,6 +225,7 @@
 0.0.0.0 argrowlitheor.com
 0.0.0.0 asstaraptora.com
 0.0.0.0 astjigglypuffchan.com
+0.0.0.0 atp.revistamuchomas.com
 0.0.0.0 atsg.me
 0.0.0.0 auroraveil.bid
 0.0.0.0 awalesglower.com
@@ -277,6 +280,7 @@
 0.0.0.0 chpadblock.com
 0.0.0.0 cleanmypc.click
 0.0.0.0 clearwatch.tv
+0.0.0.0 clickblitzo.com
 0.0.0.0 clicksyncflow.com
 0.0.0.0 clixwells.com
 0.0.0.0 clladss.com
@@ -443,6 +447,7 @@
 0.0.0.0 itstuffnews.com
 0.0.0.0 iyfbodn.com
 0.0.0.0 izeeto.com
+0.0.0.0 izimuves.com
 0.0.0.0 jegiopad.top
 0.0.0.0 jeroud.com
 0.0.0.0 jiuwert.online
@@ -488,6 +493,7 @@
 0.0.0.0 making.party
 0.0.0.0 maquiags.com
 0.0.0.0 maredpt.com
+0.0.0.0 marketingthing.click
 0.0.0.0 maxconvtrk.com
 0.0.0.0 maxickedpantents.com
 0.0.0.0 maxidefender.xyz
@@ -537,6 +543,7 @@
 0.0.0.0 neuralmi.top
 0.0.0.0 newmytrp.com
 0.0.0.0 newrtbside.com
+0.0.0.0 next-lust.cfd
 0.0.0.0 nextpointkaynersave.com
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 nightbesties.com
@@ -577,6 +584,7 @@
 0.0.0.0 outoctillerytor.com
 0.0.0.0 ovardu.com
 0.0.0.0 oversolosisor.com
+0.0.0.0 ovret.com
 0.0.0.0 paehceman.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 paulastroid.com
@@ -703,7 +711,9 @@
 0.0.0.0 slatecharm.co
 0.0.0.0 slcuse.com
 0.0.0.0 sloto.live
+0.0.0.0 smrtmnk2.com
 0.0.0.0 sodefender.pro
+0.0.0.0 sp03k.sbs
 0.0.0.0 spareforads.top
 0.0.0.0 spin83qr.com
 0.0.0.0 sprinlof.com
@@ -751,6 +761,7 @@
 0.0.0.0 tracker-2.com
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracking-aws-5.com
+0.0.0.0 tracking.gusclicks.com
 0.0.0.0 trackingtraffo.com
 0.0.0.0 tracktds.live
 0.0.0.0 trackvisible.com
@@ -797,6 +808,7 @@
 0.0.0.0 visionvelvet.co
 0.0.0.0 visualmirage.co
 0.0.0.0 vizoalygrenn.com
+0.0.0.0 vmgjt.click
 0.0.0.0 vmmcdn.com
 0.0.0.0 voguelift.biz
 0.0.0.0 volleyballachiever.site
@@ -1058,7 +1070,6 @@
 0.0.0.0 go.zdos.ru
 0.0.0.0 spots.ru
 0.0.0.0 1qi.info
-0.0.0.0 popadon.com
 0.0.0.0 refpahrwzjlv.top
 0.0.0.0 betemolgar.com
 0.0.0.0 z.cdn.trafficdok.com
