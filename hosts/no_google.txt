@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
 ! Version: 1.0.14.55
-! Last modified: 2025-07-27T06:11:01.908Z
+! Last modified: 2025-08-03T06:10:51.843Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 *-android-context-data.googleapis.com
 0.0.0.0 *-chromecontentsuggestions-pa.googleapis.com

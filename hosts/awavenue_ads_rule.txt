@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.43
-! Last modified: 2025-07-27T06:11:00.118Z
+! Version: 1.0.15.46
+! Last modified: 2025-08-03T06:10:49.445Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -196,7 +196,6 @@
 0.0.0.0 api.ssp.xcultur.com
 0.0.0.0 api.statsig.com
 0.0.0.0 api.touch-moblie.com
-0.0.0.0 api.yfanads.com
 0.0.0.0 api5-normal-quic-lf.ixigua.com
 0.0.0.0 apiyd.my91app.com
 0.0.0.0 app-measurement.com
@@ -481,10 +480,8 @@
 0.0.0.0 mazu.m.qq.com
 0.0.0.0 mbdlog.iqiyi.com
 0.0.0.0 mcs.zijieapi.com
-0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
-0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 miav-cse.avlyun.com
@@ -598,7 +595,6 @@
 0.0.0.0 sdk-cache.video.ptqy.gitv.tv
 0.0.0.0 sdk.1rtb.net
 0.0.0.0 sdk.ad.smaato.net
-0.0.0.0 sdk.adx.adwangmai.com
 0.0.0.0 sdk.cferw.com
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk.hzsanjiaomao.com
@@ -657,10 +653,7 @@
 0.0.0.0 t.teads.tv
 0.0.0.0 t.track.ad.xiaomi.com
 0.0.0.0 t002.ottcn.com
-0.0.0.0 t1.a.market.xiaomi.com
 0.0.0.0 t1.teads.tv
-0.0.0.0 t2.a.market.xiaomi.com
-0.0.0.0 t3.a.market.xiaomi.com
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 t7z.cupid.ptqy.gitv.tv
 0.0.0.0 tangram.e.qq.com
@@ -740,7 +733,6 @@
 0.0.0.0 us.l.qq.com
 0.0.0.0 usr-api.aiclk.com
 0.0.0.0 v.110route.cn
-0.0.0.0 v.adintl.cn
 0.0.0.0 v.adx.hubcloud.com.cn
 0.0.0.0 v1-ad.video.yximgs.com
 0.0.0.0 v2-ad.video.yximgs.com
@@ -749,7 +741,6 @@
 0.0.0.0 v2mi.gdt.qq.com
 0.0.0.0 v3-ad.video.yximgs.com
 0.0.0.0 v3.gdt.qq.com
-0.0.0.0 vali-ugc.cp31.ott.cibntv.net
 0.0.0.0 vd6.l.qq.com
 0.0.0.0 vi.l.qq.com
 0.0.0.0 video-ad.sm.cn
@@ -804,3 +795,13 @@
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zxid-m.mobileservice.cn
+0.0.0.0 1rtb.com
+0.0.0.0 a.market.xiaomi.com
+0.0.0.0 adintl.cn
+0.0.0.0 adx.adwangmai.com
+0.0.0.0 data.hicloud.com
+0.0.0.0 log.aliyuncs.com
+0.0.0.0 ubixioe.com
+0.0.0.0 vlion.cn
+0.0.0.0 yfanads.com
+0.0.0.0 zhangyuyidong.cn
