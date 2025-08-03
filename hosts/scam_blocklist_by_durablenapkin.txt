@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.82
-! Last modified: 2025-07-27T06:11:08.059Z
+! Version: 1.0.17.88
+! Last modified: 2025-08-03T06:11:00.163Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -52,6 +52,7 @@
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
 0.0.0.0 allergyfl.com
+0.0.0.0 allnewsready.com
 0.0.0.0 allocation-uniswap.co
 0.0.0.0 allstarshirt.com
 0.0.0.0 allupdatenow.com
@@ -64,7 +65,6 @@
 0.0.0.0 app-uniswapping.org
 0.0.0.0 app.deflliama.tech
 0.0.0.0 app.uniwspapp.com
-0.0.0.0 appbipa.com
 0.0.0.0 appdrive.info
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -135,6 +135,7 @@
 0.0.0.0 bitsoft360.com
 0.0.0.0 bitsoft360.io
 0.0.0.0 bitsoft360.net
+0.0.0.0 bknstore.com
 0.0.0.0 black-sales.cloud
 0.0.0.0 blackabdo.company.site
 0.0.0.0 blackoutarchertender.com
@@ -175,6 +176,7 @@
 0.0.0.0 cda-zalukaj.prv.pl
 0.0.0.0 cdn-defac13.techresource.shop
 0.0.0.0 cdn-defac18.studyzone-investmentguru.com
+0.0.0.0 chandeco.com
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
 0.0.0.0 chesssorrydescend.com
@@ -217,7 +219,6 @@
 0.0.0.0 courier-tracking.com
 0.0.0.0 covex.it
 0.0.0.0 crackedpc.org
-0.0.0.0 cracksway.com
 0.0.0.0 crocssalenz.com
 0.0.0.0 crypto029.online
 0.0.0.0 cryptot.net
@@ -230,7 +231,6 @@
 0.0.0.0 czasnakino.pl
 0.0.0.0 czwcvfbc.page.link
 0.0.0.0 dailygiftstore.com
-0.0.0.0 danainstan.xyz
 0.0.0.0 danapintar.club
 0.0.0.0 danylevych.com
 0.0.0.0 daradis.com
@@ -299,7 +299,6 @@
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 ekommmedia.com
 0.0.0.0 ellezz.com
-0.0.0.0 elonweb.org
 0.0.0.0 elrifeno.com
 0.0.0.0 emberio.com
 0.0.0.0 en-trezor.io
@@ -325,7 +324,6 @@
 0.0.0.0 evisaindia.org
 0.0.0.0 evisaindiaonline.org
 0.0.0.0 ex-torrenty.org
-0.0.0.0 exclusivebuyz4uu.shop
 0.0.0.0 exfresutexi.info
 0.0.0.0 expressmovers.com
 0.0.0.0 ezycases.com
@@ -333,6 +331,7 @@
 0.0.0.0 facebook-google-vptyyny63pwfipshmm.vercel.app
 0.0.0.0 facebook-google-ygggvmvciad74v9lhi.vercel.app
 0.0.0.0 facebook-support-team-980.pages.med.br
+0.0.0.0 faithmim.online
 0.0.0.0 familybestgifts.com
 0.0.0.0 familygiftlove.myshopify.com
 0.0.0.0 familygiftville.com
@@ -386,16 +385,17 @@
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
 0.0.0.0 fullview.pl
 0.0.0.0 fundanemt.org
 0.0.0.0 funfilenow.com
+0.0.0.0 furnishmyhome.ca
 0.0.0.0 furykms.com
 0.0.0.0 fveco.com
 0.0.0.0 gamedrive.org
-0.0.0.0 gamers-world.fun
 0.0.0.0 gamingbuffs.com
 0.0.0.0 gamingtoolz.club
 0.0.0.0 gcqcanada.com
@@ -422,7 +422,6 @@
 0.0.0.0 glitchy.go2cloud.org
 0.0.0.0 gload.info
 0.0.0.0 globalvisacorp.com
-0.0.0.0 gogiworld.com
 0.0.0.0 goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -454,7 +453,6 @@
 0.0.0.0 hippie-pets.com
 0.0.0.0 hisgr.buzz
 0.0.0.0 hityvod.pl
-0.0.0.0 hmccommerce.com
 0.0.0.0 hoka-us.com
 0.0.0.0 homelarr.com.br
 0.0.0.0 hookahheroes.com
@@ -544,7 +542,6 @@
 0.0.0.0 kino-cda.pl
 0.0.0.0 kinomaniak.cc
 0.0.0.0 kinonline.pl
-0.0.0.0 kiophsx9.sa.com
 0.0.0.0 kisserine.com
 0.0.0.0 kitchendecor.shop
 0.0.0.0 klasykavod.pl
@@ -607,13 +604,11 @@
 0.0.0.0 mega-heritage.com
 0.0.0.0 mega-kino.pl
 0.0.0.0 megoindonesia.com
-0.0.0.0 mercyzone.com
 0.0.0.0 meudetran.co
 0.0.0.0 microgull.com
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 microsoft.teams-live.com
-0.0.0.0 midnightsociety-x.com
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 miningco.site
@@ -714,7 +709,6 @@
 0.0.0.0 nayatowerinstallation.in.net
 0.0.0.0 neozor.com
 0.0.0.0 netflix-logariasmos.com
-0.0.0.0 netfucks1.com
 0.0.0.0 nevaon.com
 0.0.0.0 new.gdtot.me
 0.0.0.0 new2.gdtot.sbs
@@ -781,7 +775,6 @@
 0.0.0.0 onrunningshop.com
 0.0.0.0 ontario-energy.com
 0.0.0.0 orderquilt.com
-0.0.0.0 ousd-vault.com
 0.0.0.0 outarshop.fi
 0.0.0.0 outel.abmarketworks.com
 0.0.0.0 outlet-alfresco.com
@@ -831,7 +824,6 @@
 0.0.0.0 post-nachsenden.de
 0.0.0.0 powerboostup.com
 0.0.0.0 prawdziwefilmy.pl
-0.0.0.0 premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
 0.0.0.0 presale-friday.info
@@ -866,7 +858,6 @@
 0.0.0.0 robinmooreband.com
 0.0.0.0 rockchief.com
 0.0.0.0 rosateeshop.com
-0.0.0.0 rosettahome.cn
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
 0.0.0.0 rsaonlinenow.com.au
@@ -923,7 +914,6 @@
 0.0.0.0 smartpower4all.org
 0.0.0.0 smartproduct.site
 0.0.0.0 smtpget.com
-0.0.0.0 smtpwire.com
 0.0.0.0 smvisa.co.il
 0.0.0.0 sodipi.com
 0.0.0.0 software19797.blogspot.com
@@ -998,7 +988,6 @@
 0.0.0.0 telemarktalk.com
 0.0.0.0 tencheckit.org
 0.0.0.0 teodoroautopecas.com
-0.0.0.0 teslafond.io
 0.0.0.0 teslamaked.com
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
@@ -1035,7 +1024,6 @@
 0.0.0.0 travelexpress.us.com
 0.0.0.0 travelvisabookings.com
 0.0.0.0 travisa.com
-0.0.0.0 treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 tripinpremiumsnacks.com
@@ -1065,6 +1053,7 @@
 0.0.0.0 unho.unhesiss.shop
 0.0.0.0 uni-swap.online
 0.0.0.0 uni-swap.space
+0.0.0.0 unifully.com
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap.cool
 0.0.0.0 uniswap.host
@@ -1147,7 +1136,6 @@
 0.0.0.0 uniswaplending.xyz
 0.0.0.0 uniswapnft.xyz
 0.0.0.0 uniswapr.org
-0.0.0.0 uniswaps.tech
 0.0.0.0 uniswapstake.xyz
 0.0.0.0 uniswapstaking.xyz
 0.0.0.0 uniswaptoken.xyz

@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
-! Version: 1.0.15.11
-! Last modified: 2025-07-27T06:11:05.678Z
+! Version: 1.0.15.21
+! Last modified: 2025-08-03T06:10:57.117Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 daro.so
+0.0.0.0 adrop.io
 0.0.0.0 adgirl.yes24.com
 0.0.0.0 ad.api.adwiser.kr
 0.0.0.0 recoshopping.naver.com
@@ -217,6 +219,8 @@
 0.0.0.0 ttse.b-cdn.net
 0.0.0.0 i.keezip.com
 0.0.0.0 awd.spochak.com
+0.0.0.0 appmon.shinhan.com
+0.0.0.0 ads.ahnlab.com
 0.0.0.0 adpacker.net
 0.0.0.0 ad.yna.co.kr
 0.0.0.0 veta.naver.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.24
-! Last modified: 2025-07-27T06:11:13.575Z
+! Version: 1.0.17.29
+! Last modified: 2025-08-03T06:11:06.704Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -231,7 +231,6 @@
 0.0.0.0 anchor-blog.com
 0.0.0.0 and-friends.de
 0.0.0.0 and-you.de
-0.0.0.0 andologin99.com
 0.0.0.0 anfliegen.de
 0.0.0.0 angelfire.com
 0.0.0.0 angelinsblog.com
@@ -319,6 +318,7 @@
 0.0.0.0 blackapplehost.com
 0.0.0.0 blackblogs.org
 0.0.0.0 blakelysboutique.shop
+0.0.0.0 blaogy.com
 0.0.0.0 blazingblog.com
 0.0.0.0 bleepblogs.com
 0.0.0.0 bligblogging.com
@@ -847,7 +847,6 @@
 0.0.0.0 elbloglibre.com
 0.0.0.0 elegantrosebridal.shop
 0.0.0.0 elementfx.com
-0.0.0.0 eligiblecell.shop
 0.0.0.0 elizabethsfashion.shop
 0.0.0.0 emmasbowtique.shop
 0.0.0.0 emoneysale.shop
