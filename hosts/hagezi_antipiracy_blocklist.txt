@@ -1,10 +1,12 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-! Version: 1.0.18.61
-! Last modified: 2025-08-03T06:10:52.260Z
+! Version: 1.0.18.79
+! Last modified: 2025-08-10T06:10:55.256Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 003396815.xyz
 0.0.0.0 0123456789nonexistent.com
 0.0.0.0 0123movie.net
 0.0.0.0 0123movie.onl
+0.0.0.0 0123movie.online
 0.0.0.0 0123movie.stream
 0.0.0.0 0123movie.ws
 0.0.0.0 0123movies.com
@@ -12,8 +14,11 @@
 0.0.0.0 0123movies.one
 0.0.0.0 0123moviesfree.org
 0.0.0.0 01streaming.click
+0.0.0.0 01streaming.stream
 0.0.0.0 01streaming.tv
+0.0.0.0 032312.xyz
 0.0.0.0 037hdmovie.com
+0.0.0.0 066855.xyz
 0.0.0.0 0902797.xyz
 0.0.0.0 0day.ro
 0.0.0.0 0dayddl.com
@@ -24,7 +29,6 @@
 0.0.0.0 0mag.net
 0.0.0.0 0magnet.com
 0.0.0.0 0second.com
-0.0.0.0 tracker.0x7c0.com
 0.0.0.0 weedy.1.vg
 0.0.0.0 1-2-3movies.com
 0.0.0.0 1-thepiratebay.org
@@ -191,6 +195,7 @@
 0.0.0.0 1watch-free.cc
 0.0.0.0 1watch-free.me
 0.0.0.0 1xstream.com
+0.0.0.0 20090910.xyz
 0.0.0.0 20links.com
 0.0.0.0 t.213891.xyz
 0.0.0.0 22-hd.com
@@ -203,7 +208,7 @@
 0.0.0.0 24h.tv
 0.0.0.0 24urban.com
 0.0.0.0 24warez.ru
-0.0.0.0 2600.com
+0.0.0.0 250412.xyz
 0.0.0.0 266528.xyz
 0.0.0.0 2bbit.com
 0.0.0.0 2bcalvi.com
@@ -222,6 +227,7 @@
 0.0.0.0 amerikasimperialism.2ya.com
 0.0.0.0 danime.2ya.com
 0.0.0.0 300kg.ru
+0.0.0.0 320110.xyz
 0.0.0.0 321n.net
 0.0.0.0 337hhh.xyz
 0.0.0.0 33filmstreaming.com
@@ -245,7 +251,9 @@
 0.0.0.0 3movierulz.sc
 0.0.0.0 3rcommunications.com
 0.0.0.0 generatory.3xg.pl
+0.0.0.0 402604020.xyz
 0.0.0.0 420project.org
+0.0.0.0 441001.xyz
 0.0.0.0 456movie.com
 0.0.0.0 456movie.net
 0.0.0.0 480mkv.com
@@ -324,6 +332,8 @@
 0.0.0.0 tracker.52pt.site
 0.0.0.0 admin.52ywp.com
 0.0.0.0 54new.com
+0.0.0.0 5927778.xyz
+0.0.0.0 5mins.shop
 0.0.0.0 5movierulz.vc
 0.0.0.0 5movies.buzz
 0.0.0.0 5movies.cloud
@@ -338,6 +348,8 @@
 0.0.0.0 60-fps.org
 0.0.0.0 61626c.net
 0.0.0.0 64dd.org
+0.0.0.0 654321.best
+0.0.0.0 661321.xyz
 0.0.0.0 6ahddutb1ucc3cp.ru
 0.0.0.0 6box.me
 0.0.0.0 6stream.xyz
@@ -348,6 +360,7 @@
 0.0.0.0 720pstream.nu
 0.0.0.0 720pstream.se
 0.0.0.0 77help.ru
+0.0.0.0 78964564.xyz
 0.0.0.0 7mag.net
 0.0.0.0 7movs.com
 0.0.0.0 7tor.org
@@ -355,7 +368,9 @@
 0.0.0.0 7track.org
 0.0.0.0 7xstream.com
 0.0.0.0 7xtream.com
+0.0.0.0 870726.xyz
 0.0.0.0 87av.com
+0.0.0.0 opentracker.8880085.xyz
 0.0.0.0 open.8a.is
 0.0.0.0 8ebooks.net
 0.0.0.0 8hacks.com
@@ -365,6 +380,7 @@
 0.0.0.0 8wsm.com
 0.0.0.0 94hiphop.com
 0.0.0.0 960303.xyz
+0.0.0.0 9993721.xyz
 0.0.0.0 9anime.ru
 0.0.0.0 9anime.to
 0.0.0.0 9anime.zone
@@ -373,6 +389,7 @@
 0.0.0.0 9goal.tv
 0.0.0.0 9mod.com
 0.0.0.0 9movies.top
+0.0.0.0 9xflix.golf
 0.0.0.0 bttrack.9you.com
 0.0.0.0 a1cyberlinkbd.com
 0.0.0.0 a2zapk.com
@@ -416,6 +433,7 @@
 0.0.0.0 torrenttracker.nwc.acsalaska.net
 0.0.0.0 activationkeys.org
 0.0.0.0 activembd.com
+0.0.0.0 actrue.fun
 0.0.0.0 actvid.com
 0.0.0.0 actvid.rs
 0.0.0.0 acxx.de
@@ -492,6 +510,7 @@
 0.0.0.0 alldebrid.it
 0.0.0.0 alldj.org
 0.0.0.0 alleenretail.org
+0.0.0.0 allesanddro.de
 0.0.0.0 allesender.de
 0.0.0.0 allevertakstream.space
 0.0.0.0 allfreeapk.com
@@ -623,6 +642,7 @@
 0.0.0.0 altadefinizione01.bet
 0.0.0.0 altadefinizione01.boutique
 0.0.0.0 altadefinizione01.cc
+0.0.0.0 altadefinizione01.click
 0.0.0.0 altadefinizione01.cloud
 0.0.0.0 altadefinizione01.com
 0.0.0.0 altadefinizione01.email
@@ -761,6 +781,7 @@
 0.0.0.0 animepill.com
 0.0.0.0 animeplex.fun
 0.0.0.0 animeram.cc
+0.0.0.0 tc.animereactor.ru
 0.0.0.0 animerealms.org
 0.0.0.0 animerush.tv
 0.0.0.0 animes.so
@@ -921,6 +942,7 @@
 0.0.0.0 academic-p2p.appspot.com
 0.0.0.0 carbon-bonsai-621.appspot.com
 0.0.0.0 cernet-tracker.appspot.com
+0.0.0.0 appstoreforpc.com
 0.0.0.0 appstorrent.ru
 0.0.0.0 apptaca.com
 0.0.0.0 apptracker.org
@@ -1022,13 +1044,16 @@
 0.0.0.0 audiobookbay.nl
 0.0.0.0 audiobookbay.se
 0.0.0.0 audiobookol.com
+0.0.0.0 audiobooks.cloud
 0.0.0.0 audiobooksbee.com
 0.0.0.0 audiobookss.com
 0.0.0.0 audionews.org
 0.0.0.0 audionews.ru
 0.0.0.0 audiop2p.com
 0.0.0.0 audiostuff.ro
+0.0.0.0 audiotracer.com
 0.0.0.0 aurastresser.com
+0.0.0.0 auratorrent.pl
 0.0.0.0 autocadbmjes.com
 0.0.0.0 autocadbmsa.com
 0.0.0.0 autocadbnaqk.com
@@ -1399,6 +1424,7 @@
 0.0.0.0 blunter.xyz
 0.0.0.0 blutopia.xyz
 0.0.0.0 bmitbd.com
+0.0.0.0 bmovies.is
 0.0.0.0 bmovies.nl
 0.0.0.0 bmovies.vip
 0.0.0.0 bms-hosxp.com
@@ -1424,13 +1450,25 @@
 0.0.0.0 bokashoka.com
 0.0.0.0 bolly4u.tube
 0.0.0.0 bollyflix.army
+0.0.0.0 bollyflix.baby
+0.0.0.0 bollyflix.credit
+0.0.0.0 bollyflix.fish
+0.0.0.0 bollyflix.fit
 0.0.0.0 bollyflix.pub
+0.0.0.0 bollyflix.run
+0.0.0.0 bollyflix.services
+0.0.0.0 bollyflix.solutions
+0.0.0.0 bollyflix.tr
+0.0.0.0 bollyflix.work
 0.0.0.0 bollywood.eu
 0.0.0.0 bolmovies.com
 0.0.0.0 bomplay.com
 0.0.0.0 bondhuitbd.com
 0.0.0.0 bonoov.fr
+0.0.0.0 bonsaihd.fun
 0.0.0.0 bonsaihd.live
+0.0.0.0 bt.bontal.net
+0.0.0.0 tracker.bontal.net
 0.0.0.0 bookaudiobook.net
 0.0.0.0 bookaura.top
 0.0.0.0 bookddl.com
@@ -1537,6 +1575,7 @@
 0.0.0.0 tracker.btzero.net
 0.0.0.0 btzone.org
 0.0.0.0 buddycenters.shop
+0.0.0.0 buddyfly.top
 0.0.0.0 buffstream.io
 0.0.0.0 buffstreams.app
 0.0.0.0 buffstreams.sx
@@ -1562,6 +1601,7 @@
 0.0.0.0 bvlist.com
 0.0.0.0 bwtorrents.com
 0.0.0.0 tracker.bwtorrents.tv
+0.0.0.0 bxks.site
 0.0.0.0 bxks.space
 0.0.0.0 byfiles.com
 0.0.0.0 bypassed.life
@@ -1631,6 +1671,7 @@
 0.0.0.0 casacinema.nl
 0.0.0.0 casacinema.org
 0.0.0.0 casacinema.pics
+0.0.0.0 casacinema.red
 0.0.0.0 casacinema.ru
 0.0.0.0 casacinema.skin
 0.0.0.0 casacinema.us
@@ -1649,6 +1690,7 @@
 0.0.0.0 cb01.boats
 0.0.0.0 cb01.builders
 0.0.0.0 cb01.care
+0.0.0.0 cb01.cc
 0.0.0.0 cb01.cfd
 0.0.0.0 cb01.charity
 0.0.0.0 cb01.cleaning
@@ -1732,6 +1774,7 @@
 0.0.0.0 cb01.world
 0.0.0.0 cb01.ws
 0.0.0.0 cb01.xyz
+0.0.0.0 cb01.yachts
 0.0.0.0 cbo1.biz
 0.0.0.0 cboku.com
 0.0.0.0 tracker.ccc.de
@@ -1749,6 +1792,7 @@
 0.0.0.0 central-torrent.eu
 0.0.0.0 certcommunity.org
 0.0.0.0 cestpasbien.org
+0.0.0.0 cestrm.xyz
 0.0.0.0 cg-gamespc.com
 0.0.0.0 cgpeers.com
 0.0.0.0 ch3oh.ru
@@ -1872,9 +1916,11 @@
 0.0.0.0 cinemalux.cfd
 0.0.0.0 cinemalux.cyou
 0.0.0.0 cinemalux.icu
+0.0.0.0 cinemalux.lat
 0.0.0.0 cinemamovies.pl
 0.0.0.0 cinemanija.com
 0.0.0.0 cinemastore.hu
+0.0.0.0 cinemathek.net
 0.0.0.0 cinematik.net
 0.0.0.0 cinemaunlocked.com
 0.0.0.0 cinemay.in
@@ -1920,6 +1966,7 @@
 0.0.0.0 cmovies.ac
 0.0.0.0 cmovies.co
 0.0.0.0 cmovies.fm
+0.0.0.0 cmovies.is
 0.0.0.0 cmovies.mobi
 0.0.0.0 cmovies.one
 0.0.0.0 cmovies.so
@@ -2043,6 +2090,7 @@
 0.0.0.0 comebackdownload.com
 0.0.0.0 comicaso.space
 0.0.0.0 comicat.org
+0.0.0.0 comicbt.com
 0.0.0.0 comicextra.com
 0.0.0.0 comick.io
 0.0.0.0 comicmafia.to
@@ -2102,6 +2150,7 @@
 0.0.0.0 cpasbien.me
 0.0.0.0 cpasbien.rip
 0.0.0.0 cpasbien.sh
+0.0.0.0 cpasbien.site
 0.0.0.0 cpasbien.to
 0.0.0.0 cpasbien-torrent.biz
 0.0.0.0 cpasbien-torrents.fr
@@ -2114,6 +2163,7 @@
 0.0.0.0 crack-cd.net
 0.0.0.0 crack4patch.com
 0.0.0.0 crack4soft.com
+0.0.0.0 crack55.com
 0.0.0.0 crack81.com
 0.0.0.0 crackaio.com
 0.0.0.0 crackcrew.com
@@ -2150,6 +2200,7 @@
 0.0.0.0 crackserialpro.com
 0.0.0.0 crackserver.com
 0.0.0.0 cracksfiles.com
+0.0.0.0 crackslink.com
 0.0.0.0 cracksnow.com
 0.0.0.0 cracksoftwareguru.com
 0.0.0.0 crackspider.net
@@ -2185,6 +2236,7 @@
 0.0.0.0 cricfree.me
 0.0.0.0 cricfree.org
 0.0.0.0 cricfree.pw
+0.0.0.0 cricfree.sc
 0.0.0.0 cricfree.stream
 0.0.0.0 cricfree.sx
 0.0.0.0 cricfree.to
@@ -2270,6 +2322,7 @@
 0.0.0.0 cybermania.ws
 0.0.0.0 cybernetbd.com
 0.0.0.0 cybernetcommunications.net
+0.0.0.0 cyberphoenix.org
 0.0.0.0 cybervm.io
 0.0.0.0 cyberwares.ru
 0.0.0.0 cyberwarez.info
@@ -2279,6 +2332,8 @@
 0.0.0.0 torrents.czteam.ro
 0.0.0.0 cztorrent.net
 0.0.0.0 d-addicts.com
+0.0.0.0 d-s.io
+0.0.0.0 d0000d.com
 0.0.0.0 d123movies.to
 0.0.0.0 d4download.com
 0.0.0.0 bingoportal.da.ru
@@ -2367,7 +2422,6 @@
 0.0.0.0 tracker.ddunlimited.net
 0.0.0.0 ddwarez.com
 0.0.0.0 deadfrog.us
-0.0.0.0 tracker.deadorbit.nl
 0.0.0.0 fe.dealclub.de
 0.0.0.0 deamonbytes.net
 0.0.0.0 deathlord.eu
@@ -2390,6 +2444,7 @@
 0.0.0.0 deluge-torrent.org
 0.0.0.0 delves.tv
 0.0.0.0 demonii.com
+0.0.0.0 open.demonii.si
 0.0.0.0 demonoid.com
 0.0.0.0 demonoid.is
 0.0.0.0 demonoid.ph
@@ -2399,6 +2454,7 @@
 0.0.0.0 demons-eye.me
 0.0.0.0 demozoo.org
 0.0.0.0 dendox.org
+0.0.0.0 deporte-libre.click
 0.0.0.0 azn-project.depthstrike.com
 0.0.0.0 derechosmadretierra.org
 0.0.0.0 descargaapk.com
@@ -2428,6 +2484,7 @@
 0.0.0.0 cm.dfnbd.net
 0.0.0.0 em.dfnbd.net
 0.0.0.0 srl.dfnbd.net
+0.0.0.0 torrent.dfnbd.net
 0.0.0.0 tube.dfnbd.net
 0.0.0.0 tv.dfnbd.net
 0.0.0.0 dfox.it
@@ -2435,7 +2492,6 @@
 0.0.0.0 tr-rh-zhuqiy.dgj055.icu
 0.0.0.0 tr-zhuqiy-1.dgj055.icu
 0.0.0.0 tr-zhuqiy-2.dgj055.icu
-0.0.0.0 tracker-zhuqiy.dgj055.icu
 0.0.0.0 trl-zhuqiy.dgj055.icu
 0.0.0.0 tracker.zhuqiy.dgj055.icu
 0.0.0.0 dhakadownload.com
@@ -2461,6 +2517,7 @@
 0.0.0.0 www2.digitaldistractions.org
 0.0.0.0 digitalduniya.net
 0.0.0.0 digitalhive.org
+0.0.0.0 digitalmusicians.ca
 0.0.0.0 digitalpanic.org
 0.0.0.0 digitalstreet.org
 0.0.0.0 dilandau.com
@@ -2498,6 +2555,8 @@
 0.0.0.0 djconway.com
 0.0.0.0 djleak.com
 0.0.0.0 dl-more.eu
+0.0.0.0 bt.dl1234.com
+0.0.0.0 dl480p.xyz
 0.0.0.0 dl4all.biz
 0.0.0.0 dl4all.org
 0.0.0.0 dl4free.com
@@ -2526,8 +2585,11 @@
 0.0.0.0 valakas.rollo.dnsabr.com
 0.0.0.0 jungleland.dnsalias.com
 0.0.0.0 cine.do.am
+0.0.0.0 do0od.com
+0.0.0.0 do7go.com
 0.0.0.0 doc-doc.ru
 0.0.0.0 docer.pl
+0.0.0.0 doceru.online
 0.0.0.0 doci.pl
 0.0.0.0 docspedia.org
 0.0.0.0 docspedia.world
@@ -2548,11 +2610,21 @@
 0.0.0.0 dontorrents.com
 0.0.0.0 dontorrents.org
 0.0.0.0 dood.la
+0.0.0.0 dood.pm
 0.0.0.0 dood.re
+0.0.0.0 dood.sh
+0.0.0.0 dood.so
 0.0.0.0 dood.to
+0.0.0.0 dood.watch
+0.0.0.0 dood.wf
+0.0.0.0 dood.ws
+0.0.0.0 dood.yt
 0.0.0.0 doodcdn.com
+0.0.0.0 doods.pro
 0.0.0.0 doodstream.com
 0.0.0.0 tr.doogh.club
+0.0.0.0 dooodster.com
+0.0.0.0 dooood.com
 0.0.0.0 doopes.com
 0.0.0.0 dopebox.cc
 0.0.0.0 dopebox.net
@@ -2605,7 +2677,9 @@
 0.0.0.0 downtr.cc
 0.0.0.0 downturk.net
 0.0.0.0 doxma.com
+0.0.0.0 dp27.ru
 0.0.0.0 dpstream.cc
+0.0.0.0 dpstream.lol
 0.0.0.0 dpstream.net
 0.0.0.0 dpstream.rip
 0.0.0.0 dpstreaming.org
@@ -2678,15 +2752,18 @@
 0.0.0.0 duboku.tv
 0.0.0.0 duboku.vip
 0.0.0.0 cutscloud.duckdns.org
+0.0.0.0 kamikazee.duckdns.org
+0.0.0.0 rekcart.duckdns.org
+0.0.0.0 thinking.duckdns.org
 0.0.0.0 tr4ck3r.duckdns.org
 0.0.0.0 tracker.ducks.party
 0.0.0.0 duckwad.net
 0.0.0.0 dudestream.com
 0.0.0.0 dummipedia.org
-0.0.0.0 tracker.dump.cl
 0.0.0.0 dunia21.app
 0.0.0.0 dunia21.bid
 0.0.0.0 dunia21.cc
+0.0.0.0 dunia21.club
 0.0.0.0 dunia21.download
 0.0.0.0 dunia21.me
 0.0.0.0 dunia21.mov
@@ -2754,6 +2831,7 @@
 0.0.0.0 edels-stube.eu
 0.0.0.0 edgeemu.net
 0.0.0.0 edgeoftheworld.net
+0.0.0.0 tracker.edkj.club
 0.0.0.0 edmag.net
 0.0.0.0 tracker.sjtu.edu.cn
 0.0.0.0 aarinfantasy.edwardk.info
@@ -2779,6 +2857,26 @@
 0.0.0.0 iscariote.edwardk.info
 0.0.0.0 ee3.me
 0.0.0.0 efilmy.tv
+0.0.0.0 egydead.art
+0.0.0.0 egydead.ca
+0.0.0.0 egydead.cam
+0.0.0.0 egydead.center
+0.0.0.0 egydead.fun
+0.0.0.0 egydead.fyi
+0.0.0.0 egydead.info
+0.0.0.0 egydead.ink
+0.0.0.0 egydead.live
+0.0.0.0 egydead.me
+0.0.0.0 egydead.onl
+0.0.0.0 egydead.org
+0.0.0.0 egydead.pro
+0.0.0.0 egydead.show
+0.0.0.0 egydead.site
+0.0.0.0 egydead.space
+0.0.0.0 egydead.video
+0.0.0.0 egydead.watch
+0.0.0.0 egydead.world
+0.0.0.0 egydeadw.sbs
 0.0.0.0 egyptfans.net
 0.0.0.0 ehho.net
 0.0.0.0 ehtracker.org
@@ -2853,6 +2951,7 @@
 0.0.0.0 epublibre.org
 0.0.0.0 erai-raws.info
 0.0.0.0 erdgeist.org
+0.0.0.0 erdoflix.com
 0.0.0.0 hshop.erista.me
 0.0.0.0 erotixxx.net
 0.0.0.0 retracker.nn.ertelecom.ru
@@ -2862,6 +2961,7 @@
 0.0.0.0 espnv2.online
 0.0.0.0 live.esportivos.one
 0.0.0.0 estrenoslatinos.com
+0.0.0.0 esubmovie.net
 0.0.0.0 liber3.eth.limo
 0.0.0.0 ethor.net
 0.0.0.0 etproxy.com
@@ -2892,6 +2992,7 @@
 0.0.0.0 europixhd.site
 0.0.0.0 europixhd.top
 0.0.0.0 eurostreaming.actor
+0.0.0.0 eurostreaming.app
 0.0.0.0 eurostreaming.archi
 0.0.0.0 eurostreaming.bar
 0.0.0.0 eurostreaming.be
@@ -2899,12 +3000,15 @@
 0.0.0.0 eurostreaming.bet
 0.0.0.0 eurostreaming.bid
 0.0.0.0 eurostreaming.bike
+0.0.0.0 eurostreaming.bio
 0.0.0.0 eurostreaming.biz
 0.0.0.0 eurostreaming.boo
+0.0.0.0 eurostreaming.buzz
 0.0.0.0 eurostreaming.cash
 0.0.0.0 eurostreaming.cc
 0.0.0.0 eurostreaming.chat
 0.0.0.0 eurostreaming.click
+0.0.0.0 eurostreaming.cloud
 0.0.0.0 eurostreaming.club
 0.0.0.0 eurostreaming.co
 0.0.0.0 eurostreaming.coffee
@@ -2972,6 +3076,7 @@
 0.0.0.0 eurostreaming.tv
 0.0.0.0 eurostreaming.us
 0.0.0.0 eurostreaming.vg
+0.0.0.0 eurostreaming.vip
 0.0.0.0 eurostreaming.vision
 0.0.0.0 eurostreaming.vote
 0.0.0.0 eurostreaming.voto
@@ -3096,6 +3201,7 @@
 0.0.0.0 fatcatapk.com
 0.0.0.0 fawesome.tv
 0.0.0.0 fbdown.me
+0.0.0.0 fbiwarning.online
 0.0.0.0 fboxtv.com
 0.0.0.0 fboxz.to
 0.0.0.0 fbstream.tv
@@ -3104,6 +3210,7 @@
 0.0.0.0 fcnetbd.net
 0.0.0.0 fcstream.net
 0.0.0.0 fddbits.com
+0.0.0.0 fdlib.com
 0.0.0.0 fdown.net
 0.0.0.0 fdown.world
 0.0.0.0 fdownload.app
@@ -3163,6 +3270,7 @@
 0.0.0.0 fileshunt.com
 0.0.0.0 filespace.com
 0.0.0.0 filespayouts.com
+0.0.0.0 filestream.me
 0.0.0.0 filetracker.pl
 0.0.0.0 filetram.com
 0.0.0.0 fileupload.pw
@@ -3328,6 +3436,7 @@
 0.0.0.0 filmstreaming.pics
 0.0.0.0 filmstreaming.plus
 0.0.0.0 filmstreaming.pro
+0.0.0.0 filmstreaming.pw
 0.0.0.0 filmstreaming.red
 0.0.0.0 filmstreaming.rip
 0.0.0.0 filmstreaming.sbs
@@ -3377,6 +3486,7 @@
 0.0.0.0 findanime.net
 0.0.0.0 findmovies.vip
 0.0.0.0 findnzb.net
+0.0.0.0 finvip.org
 0.0.0.0 nunflix-firebase.firebaseapp.com
 0.0.0.0 firebit.net
 0.0.0.0 fireget.com
@@ -3404,9 +3514,11 @@
 0.0.0.0 flashfilms-hd.top
 0.0.0.0 flashnetbd.com
 0.0.0.0 flashtorrents.org
+0.0.0.0 flemmix.sbs
 0.0.0.0 flenix.net
 0.0.0.0 flextorrents.com
 0.0.0.0 flickystream.com
+0.0.0.0 flixanity.site
 0.0.0.0 flixanity.xyz
 0.0.0.0 flixdump.com
 0.0.0.0 flixgo.biz
@@ -3460,6 +3572,7 @@
 0.0.0.0 fmovies.co
 0.0.0.0 fmovies.date
 0.0.0.0 fmovies.fo
+0.0.0.0 fmovies.gd
 0.0.0.0 fmovies.hn
 0.0.0.0 fmovies.llc
 0.0.0.0 fmovies.one
@@ -3555,6 +3668,7 @@
 0.0.0.0 free-proxy.fr
 0.0.0.0 free-telecharger.net
 0.0.0.0 free-telecharger.org
+0.0.0.0 free-telecharger.top
 0.0.0.0 free-telecharger.xyz
 0.0.0.0 open.free-tracker.ga
 0.0.0.0 free4pc.org
@@ -3630,6 +3744,7 @@
 0.0.0.0 freshwap.cc
 0.0.0.0 freshwap.us
 0.0.0.0 friends-torrent.com
+0.0.0.0 friendsonlinebd.com
 0.0.0.0 frmovies.live
 0.0.0.0 fromhot.com
 0.0.0.0 fromhot.to
@@ -3727,6 +3842,7 @@
 0.0.0.0 game-torrent.info
 0.0.0.0 game3rb.com
 0.0.0.0 gamebounty.world
+0.0.0.0 gameburnworld.com
 0.0.0.0 gamecopyworld.com
 0.0.0.0 gamecopyworld.eu
 0.0.0.0 gamedrive.org
@@ -3803,6 +3919,7 @@
 0.0.0.0 getcomics.info
 0.0.0.0 getcomics.org
 0.0.0.0 ip.getcrazy.me
+0.0.0.0 getfbvid.com
 0.0.0.0 getfreegames.net
 0.0.0.0 getgamez.net
 0.0.0.0 getintopc.com
@@ -3824,7 +3941,6 @@
 0.0.0.0 ghatailonline.net
 0.0.0.0 sparkle.ghostchu-services.top
 0.0.0.0 tracker.ghostchu-services.top
-0.0.0.0 utracker.ghostchu-services.top
 0.0.0.0 media.ghurionline.com
 0.0.0.0 giardiniblog.it
 0.0.0.0 gid-online.ru
@@ -3863,8 +3979,10 @@
 0.0.0.0 cinetide.glitch.me
 0.0.0.0 gload.cc
 0.0.0.0 gload.to
+0.0.0.0 global-evolve.com
 0.0.0.0 global-sets.com
 0.0.0.0 globalcommunicationbd.com
+0.0.0.0 server.globalnetworkbd.com
 0.0.0.0 globalwarez.com
 0.0.0.0 glodls.to
 0.0.0.0 glorybits.org
@@ -3965,6 +4083,7 @@
 0.0.0.0 greetingsonlinebd.com
 0.0.0.0 tracker.grepler.com
 0.0.0.0 greylodge.org
+0.0.0.0 grifon.info
 0.0.0.0 grinderz.org
 0.0.0.0 gringoxp.com
 0.0.0.0 storage.groupees.com
@@ -4003,6 +4122,7 @@
 0.0.0.0 guardaserie.builders
 0.0.0.0 guardaserie.cam
 0.0.0.0 guardaserie.cc
+0.0.0.0 guardaserie.club
 0.0.0.0 guardaserie.co
 0.0.0.0 guardaserie.coach
 0.0.0.0 guardaserie.coffee
@@ -4019,6 +4139,7 @@
 0.0.0.0 guardaserie.it
 0.0.0.0 guardaserie.life
 0.0.0.0 guardaserie.limited
+0.0.0.0 guardaserie.lol
 0.0.0.0 guardaserie.markets
 0.0.0.0 guardaserie.media
 0.0.0.0 guardaserie.men
@@ -4050,6 +4171,8 @@
 0.0.0.0 guardaserie.vip
 0.0.0.0 guardaserie.watch
 0.0.0.0 guardaserie.ws
+0.0.0.0 guardaserie.wtf
+0.0.0.0 guardaserie.xyz
 0.0.0.0 guardaserie01.click
 0.0.0.0 guardaserie01.fm
 0.0.0.0 guardaserie01.vg
@@ -4250,6 +4373,7 @@
 0.0.0.0 tracker.hifitechindia.com
 0.0.0.0 high-way.me
 0.0.0.0 highlightstore.me
+0.0.0.0 tr.highstar.shop
 0.0.0.0 highteahop.top
 0.0.0.0 hikarinoakariost.info
 0.0.0.0 torrents.hikarinokiseki.com
@@ -4265,6 +4389,7 @@
 0.0.0.0 hitboss.com
 0.0.0.0 hitfile.net
 0.0.0.0 tracker.hitpt.com
+0.0.0.0 hitsfilms.net
 0.0.0.0 hitsports.pro
 0.0.0.0 hitzwarez.net
 0.0.0.0 tracker.hiyj.cn
@@ -4278,6 +4403,7 @@
 0.0.0.0 hoerspielprojekt.de
 0.0.0.0 hoichoi24.com
 0.0.0.0 holaanime.to
+0.0.0.0 hollabackonline.com
 0.0.0.0 hollymoviehd.cc
 0.0.0.0 hollymoviehd.com
 0.0.0.0 hollymoviehd-official.com
@@ -4295,6 +4421,7 @@
 0.0.0.0 v1046920.hosted-by-vdsina.ru
 0.0.0.0 v74853.hosted-by-vdsina.com
 0.0.0.0 webstresser-free.hostthegame.com
+0.0.0.0 hostxy.com
 0.0.0.0 hotaudiobooks.com
 0.0.0.0 hotcamsplays.life
 0.0.0.0 hotne.ws
@@ -4330,7 +4457,6 @@
 0.0.0.0 hyperproxy.net
 0.0.0.0 hypertor.com
 0.0.0.0 hypertorrent.com
-0.0.0.0 torrent.i.ng
 0.0.0.0 i-b.co
 0.0.0.0 i123movies.club
 0.0.0.0 i1apk.com
@@ -4536,7 +4662,6 @@
 0.0.0.0 irwarez.com
 0.0.0.0 isitdownyet.com
 0.0.0.0 islamictorrents.net
-0.0.0.0 ismaarino.com
 0.0.0.0 isohunt.app
 0.0.0.0 isohunt.ch
 0.0.0.0 isohunt.com
@@ -4582,6 +4707,7 @@
 0.0.0.0 italiaserie.cc
 0.0.0.0 itcnbd.com
 0.0.0.0 itmn.org
+0.0.0.0 itnetzone.com
 0.0.0.0 itoma.info
 0.0.0.0 itorrent.tv
 0.0.0.0 itorrent.ws
@@ -4595,6 +4721,7 @@
 0.0.0.0 tracker3.itzmx.com
 0.0.0.0 tracker4.itzmx.com
 0.0.0.0 ivesoccer.sx
+0.0.0.0 iwannawatch.is
 0.0.0.0 ixinews.com
 0.0.0.0 izalukaj.pl
 0.0.0.0 izofile.com
@@ -4671,7 +4798,6 @@
 0.0.0.0 juraganfilm.vip
 0.0.0.0 juraganfilm.xyz
 0.0.0.0 jurnal-portal.ru
-0.0.0.0 ttracker.just-h.party
 0.0.0.0 justdubs.org
 0.0.0.0 justinwb.com
 0.0.0.0 tracker.justseed.it
@@ -4700,6 +4826,7 @@
 0.0.0.0 kat.ph
 0.0.0.0 kat.rip
 0.0.0.0 kat.to
+0.0.0.0 katcr.co
 0.0.0.0 katcr.to
 0.0.0.0 katfile.com
 0.0.0.0 kati3kat.tube
@@ -4707,6 +4834,7 @@
 0.0.0.0 katmoviehd.fi
 0.0.0.0 katmoviehd.nl
 0.0.0.0 katmoviehd.vin
+0.0.0.0 katunblock.com
 0.0.0.0 katushka.net
 0.0.0.0 katworld.net
 0.0.0.0 katz.cd
@@ -4740,8 +4868,10 @@
 0.0.0.0 keysfull.com
 0.0.0.0 keysmovie.us
 0.0.0.0 khinsider.com
+0.0.0.0 khmermovie168.org
 0.0.0.0 khulnaflix.net
 0.0.0.0 kickass.cm
+0.0.0.0 kickass.so
 0.0.0.0 kickass.to
 0.0.0.0 kickass.ws
 0.0.0.0 kickass2.ch
@@ -4768,6 +4898,7 @@
 0.0.0.0 max2wwe.kilu.de
 0.0.0.0 kimanime.ru
 0.0.0.0 kimcartoon.si
+0.0.0.0 kimcartoon.to
 0.0.0.0 kimoitv.com
 0.0.0.0 kingdom-kvcd.net
 0.0.0.0 kingdom-leaks.com
@@ -4815,19 +4946,23 @@
 0.0.0.0 kinonadzor.net
 0.0.0.0 kinorun.com
 0.0.0.0 kinos.to
+0.0.0.0 kinotochka.org
 0.0.0.0 kinotracker.org
 0.0.0.0 kinotron.top
 0.0.0.0 kinoua.pro
+0.0.0.0 kinoua.tv
 0.0.0.0 kinoukr.com
 0.0.0.0 kinovezha.com
 0.0.0.0 kinovibe.vip
 0.0.0.0 kinox.am
+0.0.0.0 kinox.bz
 0.0.0.0 kinox.click
 0.0.0.0 kinox.cloud
 0.0.0.0 kinox.club
 0.0.0.0 kinox.digital
 0.0.0.0 kinox.direct
 0.0.0.0 kinox.express
+0.0.0.0 kinox.fun
 0.0.0.0 kinox.fyi
 0.0.0.0 kinox.gratis
 0.0.0.0 kinox.io
@@ -4852,6 +4987,7 @@
 0.0.0.0 kinozapas.ru
 0.0.0.0 kinozapas.ws
 0.0.0.0 kinozavr.org
+0.0.0.0 kiosfilm21.site
 0.0.0.0 kipflix.xyz
 0.0.0.0 kipwatch.xyz
 0.0.0.0 kiss-anime.ws
@@ -4881,7 +5017,6 @@
 0.0.0.0 kludd.com
 0.0.0.0 kmnbd.net
 0.0.0.0 kmsautoplus.su
-0.0.0.0 tracker.home.kmzs123.cn
 0.0.0.0 tracker.kmzs123.cn
 0.0.0.0 tracker.kmzs123.top
 0.0.0.0 knaben.eu
@@ -4949,10 +5084,12 @@
 0.0.0.0 layer7-stresser.xyz
 0.0.0.0 laze.cc
 0.0.0.0 leaker.me
+0.0.0.0 leakshare.net
 0.0.0.0 learnbits.me
 0.0.0.0 learnbits.org
 0.0.0.0 learner.org
 0.0.0.0 learningdl.net
+0.0.0.0 learnunlocked.com
 0.0.0.0 tracker.ledreactor.org
 0.0.0.0 leeapk.com
 0.0.0.0 leechers-paradise.org
@@ -4962,7 +5099,6 @@
 0.0.0.0 leechking.com
 0.0.0.0 leechlisting.com
 0.0.0.0 tracker.leechshield.link
-0.0.0.0 leechtube.com
 0.0.0.0 leechturk.com
 0.0.0.0 leelo.ru
 0.0.0.0 leet-tracker.moe
@@ -4976,6 +5112,7 @@
 0.0.0.0 lelejoy.com
 0.0.0.0 lemigliorivpn.com
 0.0.0.0 tracker.lemonhd.com
+0.0.0.0 leninist.online
 0.0.0.0 tracker.leniter.org
 0.0.0.0 leopard-raws.org
 0.0.0.0 lepiratebay.org
@@ -4989,6 +5126,7 @@
 0.0.0.0 letflix.tv
 0.0.0.0 letitbit.net
 0.0.0.0 letiziagolosa.com
+0.0.0.0 letmewatchthis.is
 0.0.0.0 letmewatchthis.watch
 0.0.0.0 letsroll911.org
 0.0.0.0 letstream.site
@@ -5000,6 +5138,7 @@
 0.0.0.0 levidia.to
 0.0.0.0 movies.levrx.de
 0.0.0.0 movies.levrx.lol
+0.0.0.0 lhbooks.top
 0.0.0.0 libble.com
 0.0.0.0 liberty-land.net
 0.0.0.0 libertyland.al
@@ -5038,9 +5177,13 @@
 0.0.0.0 limetorrents.buzz
 0.0.0.0 limetorrents.cc
 0.0.0.0 limetorrents.co
+0.0.0.0 limetorrents.info
+0.0.0.0 limetorrents.link
 0.0.0.0 limetorrents.lol
 0.0.0.0 limetorrents.online
+0.0.0.0 limetorrents.pro
 0.0.0.0 limetorrents.so
+0.0.0.0 limetorrents.to
 0.0.0.0 limetorrents.xyz
 0.0.0.0 limetorrents.zone
 0.0.0.0 limetorrentx.cc
@@ -5059,6 +5202,7 @@
 0.0.0.0 smart.lionsmart.cc
 0.0.0.0 liteapke.com
 0.0.0.0 liteapks.com
+0.0.0.0 liteapks.mobi
 0.0.0.0 live-kooora.com
 0.0.0.0 live-kooora-tv.com
 0.0.0.0 live-kooora-tv.net
@@ -5098,7 +5242,6 @@
 0.0.0.0 lizardstresser.su
 0.0.0.0 lk21.cloud
 0.0.0.0 lk21.org
-0.0.0.0 lk21hd.com
 0.0.0.0 lk21id.com
 0.0.0.0 lk21official.cc
 0.0.0.0 lk21official.info
@@ -5111,7 +5254,6 @@
 0.0.0.0 lnx-bbc.org
 0.0.0.0 load.to
 0.0.0.0 loadbaba.com
-0.0.0.0 locatedinfain.com
 0.0.0.0 tracker.logirl.moe
 0.0.0.0 open.lolicon.eu
 0.0.0.0 tracker.loligirl.cn
@@ -5210,10 +5352,10 @@
 0.0.0.0 macfiles.org
 0.0.0.0 macgamesland.com
 0.0.0.0 macgamesworld.com
+0.0.0.0 macgamez-download.com
 0.0.0.0 macintoshgarden.org
 0.0.0.0 macked.app
 0.0.0.0 macnulled.com
-0.0.0.0 macoscrack.com
 0.0.0.0 macserialjunkie.com
 0.0.0.0 macsoftdownload.com
 0.0.0.0 macsourceports.com
@@ -5255,15 +5397,11 @@
 0.0.0.0 mamul.am
 0.0.0.0 manga-addict.fr
 0.0.0.0 mangadex.org
-0.0.0.0 mangadex.tv
 0.0.0.0 mangafire.to
-0.0.0.0 mangakakalot.tv
 0.0.0.0 mangamura.org
-0.0.0.0 manganelo.tv
 0.0.0.0 mangaokusana.com
 0.0.0.0 mangapark.net
 0.0.0.0 mangapoisk.io
-0.0.0.0 mangareader.tv
 0.0.0.0 mangasee123.com
 0.0.0.0 mangogamers.com
 0.0.0.0 manicomio-share.com
@@ -5272,6 +5410,7 @@
 0.0.0.0 marcrobledo.com
 0.0.0.0 mariocube.com
 0.0.0.0 mariumnetwork.com
+0.0.0.0 market-re.quest
 0.0.0.0 tracker.marshyonline.net
 0.0.0.0 martin-gebhardt.eu
 0.0.0.0 massgrave.dev
@@ -5335,7 +5474,6 @@
 0.0.0.0 megakino.bid
 0.0.0.0 megakino.bio
 0.0.0.0 megakino.biz
-0.0.0.0 megakino.cab
 0.0.0.0 megakino.co
 0.0.0.0 megakino.dev
 0.0.0.0 megakino.farm
@@ -5343,7 +5481,6 @@
 0.0.0.0 megakino.gratis
 0.0.0.0 megakino.guru
 0.0.0.0 megakino.how
-0.0.0.0 megakino.ink
 0.0.0.0 megakino.kim
 0.0.0.0 megakino.kiwi
 0.0.0.0 megakino.mba
@@ -5403,6 +5540,7 @@
 0.0.0.0 mejortorrentt.org
 0.0.0.0 melen.net
 0.0.0.0 melomaniacos.com
+0.0.0.0 melomovie.site
 0.0.0.0 merlinwz.com
 0.0.0.0 mes-ddl.com
 0.0.0.0 mes-meilleurs-films.fr
@@ -5489,11 +5627,11 @@
 0.0.0.0 mma-tracker.org
 0.0.0.0 mmastreams.cc
 0.0.0.0 mmosite.com
-0.0.0.0 mmoviesjoy.com
 0.0.0.0 mmult.ru
 0.0.0.0 mo9999.net
 0.0.0.0 mob.org
 0.0.0.0 mobdro.to
+0.0.0.0 mobilecrack.world
 0.0.0.0 mobilesites.org
 0.0.0.0 mobilestan.net
 0.0.0.0 mobiletvshows.site
@@ -5503,7 +5641,6 @@
 0.0.0.0 mod-yolo.com
 0.0.0.0 modapkcloud.com
 0.0.0.0 modapkdown.com
-0.0.0.0 modapp.org
 0.0.0.0 modcombo.com
 0.0.0.0 modded-1.com
 0.0.0.0 moddedguru.com
@@ -5512,6 +5649,7 @@
 0.0.0.0 moddroid.io
 0.0.0.0 moddude.com
 0.0.0.0 moded1.com
+0.0.0.0 modestme.site
 0.0.0.0 modfyp.com
 0.0.0.0 modhello.com
 0.0.0.0 modhihe.com
@@ -5583,6 +5721,7 @@
 0.0.0.0 movie-web.me
 0.0.0.0 movie2k.to
 0.0.0.0 movie4k.ag
+0.0.0.0 movie4k.is
 0.0.0.0 movie4k.org
 0.0.0.0 movie4k.sx
 0.0.0.0 movie4k.to
@@ -5595,7 +5734,6 @@
 0.0.0.0 moviebb.net
 0.0.0.0 moviebeamz.com
 0.0.0.0 movieblogarea.com
-0.0.0.0 db1.moviebox.com
 0.0.0.0 movieboxbd.com
 0.0.0.0 moviedom.live
 0.0.0.0 moviedream.ws
@@ -5612,6 +5750,7 @@
 0.0.0.0 moviehdfree.net
 0.0.0.0 movieheaven.org
 0.0.0.0 moviehunterz.cc
+0.0.0.0 moviejesus.com
 0.0.0.0 moviekids.tv
 0.0.0.0 movieking.cc
 0.0.0.0 movielabor.com
@@ -5664,6 +5803,7 @@
 0.0.0.0 movieserver.net
 0.0.0.0 moviesfoundonline.com
 0.0.0.0 movieshd.watch
+0.0.0.0 moviesite.hu
 0.0.0.0 moviesjoy.is
 0.0.0.0 moviesjoy.life
 0.0.0.0 moviesjoy.net
@@ -5722,7 +5862,6 @@
 0.0.0.0 mp3-juices.net
 0.0.0.0 mp3-juices.ws
 0.0.0.0 mp3000.net
-0.0.0.0 mp3box.to
 0.0.0.0 mp3db.pro
 0.0.0.0 mp3fast.online
 0.0.0.0 mp3flac.site
@@ -5762,6 +5901,7 @@
 0.0.0.0 mrunblock.bond
 0.0.0.0 mrunblock.pro
 0.0.0.0 ettv.mrunblock.bar
+0.0.0.0 torrentdownloads.mrunblock.xyz
 0.0.0.0 mrunlock.space
 0.0.0.0 mscracks.com
 0.0.0.0 mserver.link
@@ -5781,8 +5921,9 @@
 0.0.0.0 multicanais.fans
 0.0.0.0 multicanais.in
 0.0.0.0 multicanais.live
-0.0.0.0 multicanais.today
+0.0.0.0 multicanais.nz
 0.0.0.0 multicanaishd.online
+0.0.0.0 multreactor.ru
 0.0.0.0 mults.info
 0.0.0.0 munki.org
 0.0.0.0 murmurs.com
@@ -5798,7 +5939,6 @@
 0.0.0.0 muxiv.com
 0.0.0.0 mvgroup.org
 0.0.0.0 mxroom.com
-0.0.0.0 tracker.itscraftsoftware.my.id
 0.0.0.0 my-123movies.com
 0.0.0.0 my-cinema.net
 0.0.0.0 my-free-mp3.cc
@@ -5972,7 +6112,6 @@
 0.0.0.0 netmatrixbd.com
 0.0.0.0 netmirror.my
 0.0.0.0 netmovies.to
-0.0.0.0 netnaija.xyz
 0.0.0.0 netonlinebd.com
 0.0.0.0 netplayz.ru
 0.0.0.0 netplusbd.com
@@ -5984,6 +6123,7 @@
 0.0.0.0 networkstresser.net
 0.0.0.0 neu-pro.com
 0.0.0.0 neuf.xyz
+0.0.0.0 neufneuf.space
 0.0.0.0 neuvertonung.de
 0.0.0.0 neverland.ws
 0.0.0.0 dark-warez.new.fr
@@ -6115,7 +6255,7 @@
 0.0.0.0 canardscitrons.nohost.me
 0.0.0.0 ssb14.nohost.me
 0.0.0.0 nolatapers.org
-0.0.0.0 nomat.fun
+0.0.0.0 nonton-movie21.com
 0.0.0.0 noobsubs.com
 0.0.0.0 nopay.info
 0.0.0.0 nopaystation.com
@@ -6133,6 +6273,7 @@
 0.0.0.0 novamov.com
 0.0.0.0 novamovie.net
 0.0.0.0 novanon.net
+0.0.0.0 novaopcj.icu
 0.0.0.0 novaset.net
 0.0.0.0 novastream.top
 0.0.0.0 novelas360.com
@@ -6153,12 +6294,8 @@
 0.0.0.0 nsaneforums.com
 0.0.0.0 nsmbhd.net
 0.0.0.0 nstress.com
-0.0.0.0 reisub.nsupdate.info
 0.0.0.0 nsw2u.com
-0.0.0.0 nsw2u.in
-0.0.0.0 nsw2u.net
 0.0.0.0 nsw2u.org
-0.0.0.0 nsw2u.xyz
 0.0.0.0 nswdb.com
 0.0.0.0 nswgame.com
 0.0.0.0 nsxafiliados.com
@@ -6207,7 +6344,6 @@
 0.0.0.0 nfo.nydus.org
 0.0.0.0 top.nydus.org
 0.0.0.0 u.nydus.org
-0.0.0.0 nzb.cat
 0.0.0.0 nzb.cc
 0.0.0.0 nzb.is
 0.0.0.0 nzb.su
@@ -6310,8 +6446,8 @@
 0.0.0.0 online-tv.ws
 0.0.0.0 online24fullmovies.com
 0.0.0.0 onlineflix.stream
-0.0.0.0 onlinekora-tv.com
 0.0.0.0 onlybestmovie.com
+0.0.0.0 onlyforscholarship.online
 0.0.0.0 onlytorrents.com
 0.0.0.0 onnosomoy.com
 0.0.0.0 nyaaapi.onrender.com
@@ -6326,13 +6462,11 @@
 0.0.0.0 open.cd
 0.0.0.0 tracker.open-internet.nl
 0.0.0.0 openbittorrent.com
-0.0.0.0 tracker.openbtba.com
 0.0.0.0 openclip.info
 0.0.0.0 openload.co
 0.0.0.0 openloadfreetv.me
 0.0.0.0 openloadmov.com
 0.0.0.0 openloadmov.net
-0.0.0.0 openloadmovie.org
 0.0.0.0 openloadmovie.ws
 0.0.0.0 openloadmovies.ac
 0.0.0.0 openloadmovies.bz
@@ -6399,6 +6533,7 @@
 0.0.0.0 ns389251.ovh.net
 0.0.0.0 vps-dd0a0715.vps.ovh.net
 0.0.0.0 ovh-booter.com
+0.0.0.0 oxtorrent.cc
 0.0.0.0 oxtorrent.co
 0.0.0.0 oxtorrent.com
 0.0.0.0 oxtorrent.me
@@ -6434,14 +6569,12 @@
 0.0.0.0 pahe.ink
 0.0.0.0 pahe.li
 0.0.0.0 pahe.ph
-0.0.0.0 paidmovies.com
 0.0.0.0 paitara.com
 0.0.0.0 pallok.com
 0.0.0.0 panda.cd
 0.0.0.0 panda-streaming.net
 0.0.0.0 pandacd.io
 0.0.0.0 pandaclubbd.com
-0.0.0.0 pandopuntokualda.com
 0.0.0.0 pandoworld.cn
 0.0.0.0 pangzitv.com
 0.0.0.0 panoric.com
@@ -6461,10 +6594,8 @@
 0.0.0.0 partidosenvivo.gratis
 0.0.0.0 partis.si
 0.0.0.0 passion-musique.net
-0.0.0.0 passpulse.net
 0.0.0.0 passthepopcorn.me
 0.0.0.0 passthepopcorn.org
-0.0.0.0 passwordscity.net
 0.0.0.0 patalpuri.com
 0.0.0.0 tpb.patatje.eu
 0.0.0.0 patchfree.com
@@ -6502,6 +6633,7 @@
 0.0.0.0 pelis-plus.co
 0.0.0.0 pelis24.se
 0.0.0.0 pelis24.to
+0.0.0.0 pelisflix20.icu
 0.0.0.0 pelisplus.blog
 0.0.0.0 pelisplus.co
 0.0.0.0 pelisplus.gratis
@@ -6532,7 +6664,6 @@
 0.0.0.0 piraat.xyz
 0.0.0.0 piracy.su
 0.0.0.0 piracyproxy.net
-0.0.0.0 piratbaytpb.one
 0.0.0.0 piratbit.top
 0.0.0.0 pirate.lk
 0.0.0.0 pirate.trade
@@ -6569,6 +6700,8 @@
 0.0.0.0 piratebay-proxy.to
 0.0.0.0 piratebay-proxylist.com
 0.0.0.0 piratebay-proxylist.net
+0.0.0.0 piratebay1.info
+0.0.0.0 piratebay1.live
 0.0.0.0 piratebay1.xyz
 0.0.0.0 piratebayblocked.com
 0.0.0.0 piratebaylive.com
@@ -6604,7 +6737,6 @@
 0.0.0.0 pirateproxy.cc
 0.0.0.0 pirateproxy.click
 0.0.0.0 pirateproxy.cloud
-0.0.0.0 pirateproxy.fi
 0.0.0.0 pirateproxy.ga
 0.0.0.0 pirateproxy.id
 0.0.0.0 pirateproxy.ink
@@ -6616,8 +6748,10 @@
 0.0.0.0 pirateproxy.site
 0.0.0.0 pirateproxy.space
 0.0.0.0 pirateproxy.tf
+0.0.0.0 pirateproxy.top
 0.0.0.0 pirateproxy.vet
 0.0.0.0 pirateproxy.win
+0.0.0.0 pirateproxy.world
 0.0.0.0 pirateproxy.wtf
 0.0.0.0 pirateproxy.yt
 0.0.0.0 pirateproxy-bay.com
@@ -6783,7 +6917,6 @@
 0.0.0.0 privtracker.com
 0.0.0.0 pro-evolution.org
 0.0.0.0 proaudiotorrents.org
-0.0.0.0 procracks.net
 0.0.0.0 procracksoft.com
 0.0.0.0 prodesigntools.com
 0.0.0.0 prodigem.com
@@ -6816,6 +6949,7 @@
 0.0.0.0 proxifiedpiratebay.org
 0.0.0.0 proxtpb.art
 0.0.0.0 proxy.ru
+0.0.0.0 proxy-bay.mov
 0.0.0.0 proxybay.bz
 0.0.0.0 proxybay.page
 0.0.0.0 proxybay.pro
@@ -6830,7 +6964,6 @@
 0.0.0.0 proxyindex.net
 0.0.0.0 proxypirate.ml
 0.0.0.0 proxypirate.tk
-0.0.0.0 proxyproxy.fi
 0.0.0.0 proxyrarbg.org
 0.0.0.0 proxyrarbg.to
 0.0.0.0 proxyspotting.in
@@ -6867,7 +7000,6 @@
 0.0.0.0 publichd.se
 0.0.0.0 publictorrent.net
 0.0.0.0 publictracker.ch
-0.0.0.0 publictracker.xyz
 0.0.0.0 pubt.net
 0.0.0.0 puca.in
 0.0.0.0 punisheriptv.tv
@@ -6919,6 +7051,8 @@
 0.0.0.0 putlockergo.co
 0.0.0.0 putlockerhd.co
 0.0.0.0 putlockerhd.io
+0.0.0.0 putlockerhd.is
+0.0.0.0 putlockerr.is
 0.0.0.0 putlockers.ag
 0.0.0.0 putlockers.am
 0.0.0.0 putlockers.bar
@@ -6947,7 +7081,6 @@
 0.0.0.0 putlockerss.online
 0.0.0.0 putlockerstoworld2.com
 0.0.0.0 putlockert.com
-0.0.0.0 putlockertv.ist
 0.0.0.0 putlockertv.onl
 0.0.0.0 putlockertv.to
 0.0.0.0 putlockerwatch.com
@@ -7215,8 +7348,8 @@
 0.0.0.0 rojadirectaenvivo.club
 0.0.0.0 rojadirectaenvivo.com
 0.0.0.0 rojadirectaenvivo.life
-0.0.0.0 rojadirectaenvivo.site
 0.0.0.0 rojadirectaenvivo.watch
+0.0.0.0 rojadirectaenvivotv.me
 0.0.0.0 rojadirectaes.org
 0.0.0.0 rojadirectahd.online
 0.0.0.0 rojadirectahdenvivo.com
@@ -7224,10 +7357,10 @@
 0.0.0.0 rojadirectaorg.com
 0.0.0.0 rojadirectas.org
 0.0.0.0 rojadirectatv.at
-0.0.0.0 rojadirectatv.la
 0.0.0.0 rojadirectatv.top
 0.0.0.0 rojadirectatv.tv
 0.0.0.0 rojadirectatv.uno
+0.0.0.0 rojadirectatvhd.me
 0.0.0.0 rojadirectatvhd.site
 0.0.0.0 rojadirectatvs.com
 0.0.0.0 rojadirectaz.top
@@ -7377,7 +7510,6 @@
 0.0.0.0 search-torrent.com
 0.0.0.0 searchcracks.com
 0.0.0.0 seasonvar.ru
-0.0.0.0 secret-cinema.com
 0.0.0.0 secret-cinema.net
 0.0.0.0 securedgen.com
 0.0.0.0 seed.lt
@@ -7436,7 +7568,6 @@
 0.0.0.0 serie-streaming.net
 0.0.0.0 serieflix.biz
 0.0.0.0 serien.cam
-0.0.0.0 serien.dev
 0.0.0.0 serien.digital
 0.0.0.0 serien.life
 0.0.0.0 serien.me
@@ -7505,6 +7636,7 @@
 0.0.0.0 shabri.org
 0.0.0.0 shadow.lv
 0.0.0.0 tracker.shadowthein.net
+0.0.0.0 shahidrazi.online
 0.0.0.0 shanaproject.com
 0.0.0.0 share2downloads.com
 0.0.0.0 shareadictos.com
@@ -7538,6 +7670,8 @@
 0.0.0.0 bt.shinsen-subs.org
 0.0.0.0 shipofharkinian.com
 0.0.0.0 shiro.is
+0.0.0.0 tracker.shittyurl.org
+0.0.0.0 udp-tracker.shittyurl.org
 0.0.0.0 tracker.shkinev.me
 0.0.0.0 shnflac.net
 0.0.0.0 shogiroom.com
@@ -7553,7 +7687,6 @@
 0.0.0.0 siambit.com
 0.0.0.0 siambt.com
 0.0.0.0 sidequestvr.com
-0.0.0.0 pj.sidewalkcrusaders.com
 0.0.0.0 aus.sierules.com
 0.0.0.0 sifara.com
 0.0.0.0 siliconguide.com
@@ -7615,6 +7748,7 @@
 0.0.0.0 sladinki007.net
 0.0.0.0 slam.ws
 0.0.0.0 sleek.to
+0.0.0.0 vibe.sleepyinternetfun.xyz
 0.0.0.0 slidemovies.org
 0.0.0.0 slider.kz
 0.0.0.0 tracker.slitopen.me
@@ -7675,6 +7809,7 @@
 0.0.0.0 soaperpage.com
 0.0.0.0 soapertv.cc
 0.0.0.0 soapgate.org
+0.0.0.0 socagol.tv
 0.0.0.0 soccerbite.net
 0.0.0.0 soccerinhd.com
 0.0.0.0 socceron.name
@@ -7722,6 +7857,7 @@
 0.0.0.0 solarion.hu
 0.0.0.0 solarmovie.app
 0.0.0.0 solarmovie.cr
+0.0.0.0 solarmovie.do
 0.0.0.0 solarmovie.fm
 0.0.0.0 solarmovie.fun
 0.0.0.0 solarmovie.ink
@@ -7776,6 +7912,7 @@
 0.0.0.0 speedplusisp.net
 0.0.0.0 speedshare.info
 0.0.0.0 speedsports.me
+0.0.0.0 speltorrents.se
 0.0.0.0 watch.spencerdevs.xyz
 0.0.0.0 sphtml.com
 0.0.0.0 spicymags.xyz
@@ -7800,7 +7937,6 @@
 0.0.0.0 sportlemon.live
 0.0.0.0 sportlemon.net
 0.0.0.0 sportlemon.pro
-0.0.0.0 sportlemon24.com
 0.0.0.0 sportlemone.top
 0.0.0.0 sportlemons.net
 0.0.0.0 sportlemons.tv
@@ -7811,7 +7947,6 @@
 0.0.0.0 sports-prime.com
 0.0.0.0 sports-stream.info
 0.0.0.0 sportsbay.dk
-0.0.0.0 sportsbay.es
 0.0.0.0 sportsbay.org
 0.0.0.0 sportsbay.sx
 0.0.0.0 sportsbay.top
@@ -7820,6 +7955,7 @@
 0.0.0.0 sportsleading.online
 0.0.0.0 sportslive.me
 0.0.0.0 sportsonline.gl
+0.0.0.0 sportsonline.so
 0.0.0.0 sportsonline.to
 0.0.0.0 v3.sportsonline.sx
 0.0.0.0 sportstream.tv
@@ -7838,6 +7974,7 @@
 0.0.0.0 srrxxx.com
 0.0.0.0 srstop.link
 0.0.0.0 tracker.srv00.com
+0.0.0.0 sserial.net
 0.0.0.0 107.189.10.20.sslip.io
 0.0.0.0 ssonlinebd.com
 0.0.0.0 ssrmovies.com
@@ -7940,6 +8077,7 @@
 0.0.0.0 streamingcommunity.bet
 0.0.0.0 streamingcommunity.bio
 0.0.0.0 streamingcommunity.black
+0.0.0.0 streamingcommunity.boats
 0.0.0.0 streamingcommunity.boutique
 0.0.0.0 streamingcommunity.cam
 0.0.0.0 streamingcommunity.center
@@ -7988,7 +8126,6 @@
 0.0.0.0 streamingcommunity.skin
 0.0.0.0 streamingcommunity.stream
 0.0.0.0 streamingcommunity.tax
-0.0.0.0 streamingcommunity.taxi
 0.0.0.0 streamingcommunity.team
 0.0.0.0 streamingcommunity.tel
 0.0.0.0 streamingcommunity.to
@@ -8038,6 +8175,7 @@
 0.0.0.0 streammovies.to
 0.0.0.0 streamonhd.me
 0.0.0.0 streamonsport.net
+0.0.0.0 streamonsport28.xyz
 0.0.0.0 streamoz.me
 0.0.0.0 streamshunters.com
 0.0.0.0 streamsthunder.tv
@@ -8054,6 +8192,7 @@
 0.0.0.0 streamworld.ws
 0.0.0.0 streamz.cc
 0.0.0.0 streamz.ws
+0.0.0.0 streamzone.es
 0.0.0.0 streamzone.org
 0.0.0.0 streamzone.ru
 0.0.0.0 streema.com
@@ -8091,6 +8230,7 @@
 0.0.0.0 sumotracker.org
 0.0.0.0 nagios.tks.sumy.ua
 0.0.0.0 sun123.tv
+0.0.0.0 sun4mile.asia
 0.0.0.0 sunnymovies.site
 0.0.0.0 sunonlinebd.com
 0.0.0.0 sunplex.net
@@ -8134,6 +8274,7 @@
 0.0.0.0 sweet-paris.com
 0.0.0.0 swetracker.org
 0.0.0.0 swetv.org
+0.0.0.0 tracker.swifte.space
 0.0.0.0 swiftnetbd.com
 0.0.0.0 swteam.ws
 0.0.0.0 syfiles.com
@@ -8183,7 +8324,6 @@
 0.0.0.0 tantifilm.eu
 0.0.0.0 tantifilm.fm
 0.0.0.0 tantifilm.fyi
-0.0.0.0 tantifilm.golf
 0.0.0.0 tantifilm.hair
 0.0.0.0 tantifilm.homes
 0.0.0.0 tantifilm.icu
@@ -8214,6 +8354,7 @@
 0.0.0.0 tantifilm.tv
 0.0.0.0 tantifilm.uno
 0.0.0.0 tantifilm.vg
+0.0.0.0 tantifilm.vip
 0.0.0.0 tantifilm.watch
 0.0.0.0 tantifilm.work
 0.0.0.0 tantifilm.ws
@@ -8237,6 +8378,7 @@
 0.0.0.0 tb7.pl
 0.0.0.0 tc-boxing.com
 0.0.0.0 tracker.tcp.exchange
+0.0.0.0 torrent.tdjs.tech
 0.0.0.0 teach12.com
 0.0.0.0 teamberga.xyz
 0.0.0.0 teamfx.org
@@ -8253,7 +8395,6 @@
 0.0.0.0 techzero.cn
 0.0.0.0 tecknat.net
 0.0.0.0 teentorrents.com
-0.0.0.0 teh-doc.ru
 0.0.0.0 tehparadox.net
 0.0.0.0 milanesitracker.tekcities.com
 0.0.0.0 telecharge-magazines.com
@@ -8273,6 +8414,7 @@
 0.0.0.0 tennis.stream
 0.0.0.0 tenvoi.com
 0.0.0.0 tenyardtorrents.com
+0.0.0.0 terbit21.asia
 0.0.0.0 terbit21.click
 0.0.0.0 terbit21.club
 0.0.0.0 terbit21.co
@@ -8361,7 +8503,6 @@
 0.0.0.0 thepirate-bayproxy.com
 0.0.0.0 thepiratebay.asia
 0.0.0.0 thepiratebay.by
-0.0.0.0 thepiratebay.cam
 0.0.0.0 thepiratebay.cr
 0.0.0.0 thepiratebay.cx
 0.0.0.0 thepiratebay.ee
@@ -8394,6 +8535,7 @@
 0.0.0.0 thepiratebay10.org
 0.0.0.0 thepiratebay11.org
 0.0.0.0 thepiratebay2.to
+0.0.0.0 thepiratebay3.org
 0.0.0.0 thepiratebay3.to
 0.0.0.0 thepiratebay9.info
 0.0.0.0 thepiratebay9.net
@@ -8469,7 +8611,6 @@
 0.0.0.0 tikmovies.com
 0.0.0.0 time2watch.in
 0.0.0.0 time2watch.tv
-0.0.0.0 time4tv.shop
 0.0.0.0 timenai.com
 0.0.0.0 timepassbd.com
 0.0.0.0 timepassbd.live
@@ -8478,7 +8619,6 @@
 0.0.0.0 tracker.tiny-vps.com
 0.0.0.0 tinyls.net
 0.0.0.0 tinyzone.tv
-0.0.0.0 tinyzonehd.net
 0.0.0.0 tinyzonetv.cc
 0.0.0.0 tinyzonetv.to
 0.0.0.0 tioanime.com
@@ -8533,12 +8673,11 @@
 0.0.0.0 topelite.com
 0.0.0.0 topeuropix.net
 0.0.0.0 topeuropix.site
-0.0.0.0 topevents.us
 0.0.0.0 topflix.live
 0.0.0.0 topflix.one
-0.0.0.0 topgmovies.net
 0.0.0.0 tophos.org
 0.0.0.0 toplist.cz
+0.0.0.0 topmovies.cat
 0.0.0.0 topmoviesonline.org
 0.0.0.0 topnet.in
 0.0.0.0 topnow.se
@@ -8603,6 +8742,7 @@
 0.0.0.0 torrent9.blue
 0.0.0.0 torrent9.fm
 0.0.0.0 torrent9.gg
+0.0.0.0 torrent9.is
 0.0.0.0 torrent9.ph
 0.0.0.0 torrent9.pl
 0.0.0.0 torrent9.sh
@@ -8625,6 +8765,7 @@
 0.0.0.0 torrentchile.org
 0.0.0.0 torrentcity.net
 0.0.0.0 torrentcity.pl
+0.0.0.0 torrentclub.space
 0.0.0.0 torrentday.com
 0.0.0.0 torrentdb.li
 0.0.0.0 torrentdia.com
@@ -8651,7 +8792,6 @@
 0.0.0.0 torrentfreak.com
 0.0.0.0 torrentfunk.com
 0.0.0.0 torrentfunk2.com
-0.0.0.0 torrentgaga.com
 0.0.0.0 torrentgalaxy.mx
 0.0.0.0 torrentgalaxy.org
 0.0.0.0 torrentgalaxy.to
@@ -8682,7 +8822,6 @@
 0.0.0.0 torrentleech.org
 0.0.0.0 torrentleech.pl
 0.0.0.0 torrentleex.com
-0.0.0.0 torrentlike.com
 0.0.0.0 torrentline.net
 0.0.0.0 torrentlite.org
 0.0.0.0 torrentlocomotive.com
@@ -8837,7 +8976,6 @@
 0.0.0.0 tpbproxy.online
 0.0.0.0 tpbproxy.xyz
 0.0.0.0 tpbproxypirate.com
-0.0.0.0 trackarr.org
 0.0.0.0 tracker.army
 0.0.0.0 tracker.bz
 0.0.0.0 tracker.cl
@@ -8853,6 +8991,7 @@
 0.0.0.0 traderz.org
 0.0.0.0 traffilm.net
 0.0.0.0 traht.org
+0.0.0.0 trainsaw.com
 0.0.0.0 tranceroute.com
 0.0.0.0 trancetraffic.com
 0.0.0.0 transamrit.net
@@ -8860,13 +8999,13 @@
 0.0.0.0 trantor.is
 0.0.0.0 triahgames.com
 0.0.0.0 tribalmixes.com
+0.0.0.0 tricitytorrents.com
 0.0.0.0 triptorrents.com
 0.0.0.0 tracker.tritan.gg
 0.0.0.0 tronott.tv
 0.0.0.0 troypoint.com
 0.0.0.0 trozam.net
 0.0.0.0 trungkien.us
-0.0.0.0 trupornolabs.org
 0.0.0.0 tryfile.com
 0.0.0.0 tryfreegames.com
 0.0.0.0 tracker.tryhackx.org
@@ -8885,6 +9024,7 @@
 0.0.0.0 tubidymp3download.com
 0.0.0.0 tufan.live
 0.0.0.0 tugaleech.net
+0.0.0.0 tuhinenterprise.com
 0.0.0.0 tulsapost.com
 0.0.0.0 anwer8.tumblr.com
 0.0.0.0 bigeyes2015-1watchonline.tumblr.com
@@ -8920,6 +9060,7 @@
 0.0.0.0 tracker.tv-vault.me
 0.0.0.0 tv-zalukaj.pl
 0.0.0.0 tv0800.com
+0.0.0.0 tv1337.buzz
 0.0.0.0 tv24bd.com
 0.0.0.0 tvbd.live
 0.0.0.0 mts.tvbit.co
@@ -8928,6 +9069,7 @@
 0.0.0.0 tvids.net
 0.0.0.0 tvkora-online.com
 0.0.0.0 tvnihon.com
+0.0.0.0 tvonlinehd.org
 0.0.0.0 tvpinto.com
 0.0.0.0 tvron.net
 0.0.0.0 tvsboy.com
@@ -8979,6 +9121,7 @@
 0.0.0.0 uaserials.com
 0.0.0.0 uaserials.net
 0.0.0.0 uaserials.pro
+0.0.0.0 uateam.tv
 0.0.0.0 uatracker.net
 0.0.0.0 uatyan.com
 0.0.0.0 uplay.ubi.com
@@ -9000,6 +9143,7 @@
 0.0.0.0 uflix.cc
 0.0.0.0 uflix.to
 0.0.0.0 ufs.pt
+0.0.0.0 ugda.online
 0.0.0.0 piracitoplista.ugu.pl
 0.0.0.0 uhdbits.org
 0.0.0.0 uhdmovies.cat
@@ -9036,6 +9180,7 @@
 0.0.0.0 ultramovies.net
 0.0.0.0 websites.umich.edu
 0.0.0.0 ummagurau.com
+0.0.0.0 unbl0ck.fun
 0.0.0.0 unbl0ck.online
 0.0.0.0 unbl4you.lol
 0.0.0.0 mp3li.unblckd.club
@@ -9047,7 +9192,6 @@
 0.0.0.0 unblocked.dk
 0.0.0.0 unblocked.id
 0.0.0.0 unblocked.is
-0.0.0.0 unblocked.lc
 0.0.0.0 unblocked.lol
 0.0.0.0 unblocked.pw
 0.0.0.0 unblocked.to
@@ -9172,6 +9316,7 @@
 0.0.0.0 newalbumreleases.unblockit.ist
 0.0.0.0 newalbumreleases.unblockit.kim
 0.0.0.0 newalbumreleases.unblockit.me
+0.0.0.0 newalbumreleases.unblockit.name
 0.0.0.0 newalbumreleases.unblockit.nz
 0.0.0.0 newalbumreleases.unblockit.onl
 0.0.0.0 newalbumreleases.unblockit.uno
@@ -9201,6 +9346,7 @@
 0.0.0.0 unimay.media
 0.0.0.0 union-crax.xyz
 0.0.0.0 uniondht.org
+0.0.0.0 uniongang.tv
 0.0.0.0 unionpeer.org
 0.0.0.0 uniquedownloadbd.com
 0.0.0.0 uniquenetbd.com
@@ -9212,6 +9358,7 @@
 0.0.0.0 united-ddl.com
 0.0.0.0 unitedmods.net
 0.0.0.0 universalmediaserver.com
+0.0.0.0 univisionbd.net
 0.0.0.0 unknownbooter.co
 0.0.0.0 unknownsite.de
 0.0.0.0 unlimitedserials.com
@@ -9293,11 +9440,11 @@
 0.0.0.0 vcbd.net
 0.0.0.0 vcdquality.com
 0.0.0.0 vce-besplatno.ru
+0.0.0.0 vddek.fun
 0.0.0.0 vdomela.com
 0.0.0.0 vdos-s.co
 0.0.0.0 vdos-s.com
 0.0.0.0 tracker.vectahosting.eu
-0.0.0.0 vedigratis.com
 0.0.0.0 vedohd.uno
 0.0.0.0 vegamovies.ist
 0.0.0.0 vegamovies.ngo
@@ -9325,6 +9472,7 @@
 0.0.0.0 wovie.vercel.app
 0.0.0.0 zmov.vercel.app
 0.0.0.0 verfilmeshd.gratis
+0.0.0.0 veritasforall.online
 0.0.0.0 vernaruto.tv
 0.0.0.0 verpeliculasultra.com
 0.0.0.0 verpelisonline.tv
@@ -9357,7 +9505,6 @@
 0.0.0.0 vidcloud1.com
 0.0.0.0 vidcloud9.com
 0.0.0.0 vidclouds.icu
-0.0.0.0 vide.cx
 0.0.0.0 vide0.net
 0.0.0.0 vidembed.net
 0.0.0.0 videobin.co
@@ -9367,7 +9514,7 @@
 0.0.0.0 videoneat.com
 0.0.0.0 videospider.in
 0.0.0.0 videothek.cx
-0.0.0.0 videq.dev
+0.0.0.0 videqstream.com
 0.0.0.0 vider.info
 0.0.0.0 vider.love
 0.0.0.0 vidhog.com
@@ -9409,7 +9556,6 @@
 0.0.0.0 vipboxtv.se
 0.0.0.0 vipboxtv.sk
 0.0.0.0 viperplay.net
-0.0.0.0 viperplay.online
 0.0.0.0 vipleague.app
 0.0.0.0 vipleague.im
 0.0.0.0 vipleague.lc
@@ -9448,6 +9594,7 @@
 0.0.0.0 voirdrama.org
 0.0.0.0 voirfilm.vip
 0.0.0.0 voirfilms.al
+0.0.0.0 voirfilms.io
 0.0.0.0 voirfilms.tel
 0.0.0.0 voirfilms.ws
 0.0.0.0 voirfilmstreaming.online
@@ -9511,14 +9658,12 @@
 0.0.0.0 gsm.waptop.info
 0.0.0.0 warez.com
 0.0.0.0 warez.ge
-0.0.0.0 nox.warez.hu
 0.0.0.0 warez-bb.icu
 0.0.0.0 warez-bb.org
 0.0.0.0 warez-centre.com
 0.0.0.0 warez-files.com
 0.0.0.0 warez-heaven.ws
 0.0.0.0 warez-host.com
-0.0.0.0 warez-serbia.com
 0.0.0.0 warez-ts.org
 0.0.0.0 warez-vislovo.ru
 0.0.0.0 warez-world.org
@@ -9530,7 +9675,6 @@
 0.0.0.0 warezcidayi.com
 0.0.0.0 warezcode.com
 0.0.0.0 warezcore.com
-0.0.0.0 warezcrack.net
 0.0.0.0 warezdownloads.info
 0.0.0.0 warezfactor.com
 0.0.0.0 warezfortune.com
@@ -9564,7 +9708,6 @@
 0.0.0.0 wareztuga.ws
 0.0.0.0 warezturkey.org
 0.0.0.0 warezwitch.com
-0.0.0.0 warezworm.com
 0.0.0.0 warezws.com
 0.0.0.0 warindustries.com
 0.0.0.0 warlog.info
@@ -9588,6 +9731,7 @@
 0.0.0.0 watchepisodes4.com
 0.0.0.0 watchepisodeseries.com
 0.0.0.0 watchfilm.net
+0.0.0.0 watchfree.at
 0.0.0.0 watchfree.to
 0.0.0.0 watchfreemovies.ch
 0.0.0.0 watchfullmovie.co
@@ -9615,7 +9759,6 @@
 0.0.0.0 watchserieshd.ru
 0.0.0.0 watchserieshd.tv
 0.0.0.0 watchseriess.net
-0.0.0.0 watchsomuch.com
 0.0.0.0 watchsomuch.org
 0.0.0.0 watchsomuch.tv
 0.0.0.0 watchsomuchtorrents.com
@@ -9722,6 +9865,7 @@
 0.0.0.0 wobno.fr
 0.0.0.0 wobno.net
 0.0.0.0 wonderfulsubs.com
+0.0.0.0 wookastreaming.fr
 0.0.0.0 downloadmovietorrent.wordpress.com
 0.0.0.0 japanesetorrents.wordpress.com
 0.0.0.0 overdoss.wordpress.com
@@ -9817,7 +9961,6 @@
 0.0.0.0 xmovies8.si
 0.0.0.0 xn--80a4b.com
 0.0.0.0 xn--950bz4kqroyzjblb.com
-0.0.0.0 tracker.xn--djrq4gl4hvoi.top
 0.0.0.0 xn--firstrowsport-8xe.eu
 0.0.0.0 budvartrekker.xn-s.eu
 0.0.0.0 hd-hu.xn-s.eu
@@ -9881,11 +10024,13 @@
 0.0.0.0 yeshd.net
 0.0.0.0 yesmovies.ag
 0.0.0.0 yesmovies.at
+0.0.0.0 yesmovies.gg
 0.0.0.0 yesmovies.love
 0.0.0.0 yesmovies.mn
 0.0.0.0 yesmovies.mom
 0.0.0.0 yesmovies.movie
 0.0.0.0 yesmovies.pm
+0.0.0.0 yesmovies.sh
 0.0.0.0 yesmovies.so
 0.0.0.0 yesmovies.tech
 0.0.0.0 yesmovies.to
@@ -9953,7 +10098,6 @@
 0.0.0.0 youtrade.tv
 0.0.0.0 youwatch.org
 0.0.0.0 yowaapp.com
-0.0.0.0 yoxplay.xyz
 0.0.0.0 ntorrent.yoyo.pl
 0.0.0.0 yoyomovies.net
 0.0.0.0 yqzuji.com
@@ -9972,7 +10116,6 @@
 0.0.0.0 ytmp4.is
 0.0.0.0 ytricks.co
 0.0.0.0 yts.ag
-0.0.0.0 yts.ai
 0.0.0.0 yts.am
 0.0.0.0 yts.autos
 0.0.0.0 yts.digital
@@ -9986,7 +10129,6 @@
 0.0.0.0 yts.mx
 0.0.0.0 yts.pl
 0.0.0.0 yts.pm
-0.0.0.0 yts.re
 0.0.0.0 yts.rs
 0.0.0.0 yts.st
 0.0.0.0 yts.to
@@ -10036,6 +10178,7 @@
 0.0.0.0 zaniob.com
 0.0.0.0 zaycev.net
 0.0.0.0 zbigz.com
+0.0.0.0 zbook.in
 0.0.0.0 zcrack.com
 0.0.0.0 zcultfm.com
 0.0.0.0 zdig1.biz
@@ -10057,10 +10200,10 @@
 0.0.0.0 media.zerointernet.net
 0.0.0.0 zeropaid.com
 0.0.0.0 zerotracker.com
-0.0.0.0 zetorrents.biz
 0.0.0.0 zetorrents.io
 0.0.0.0 zetracker.net
 0.0.0.0 zeus-net.pw
+0.0.0.0 zhibook.xyz
 0.0.0.0 zhongzishenqi.com
 0.0.0.0 tracker.zhuqiy.top
 0.0.0.0 zipcodeshop.com
@@ -10072,7 +10215,15 @@
 0.0.0.0 zipnetbd.com
 0.0.0.0 zippyshare.com
 0.0.0.0 zippyshare.day
+0.0.0.0 zlib520.online
+0.0.0.0 zlib996.online
+0.0.0.0 zlibi.top
 0.0.0.0 zlibrarya.online
+0.0.0.0 zlii.online
+0.0.0.0 zliq.online
+0.0.0.0 zlir.online
+0.0.0.0 zliv.online
+0.0.0.0 zliw.online
 0.0.0.0 bt.zlofenix.org
 0.0.0.0 zlotracker.org
 0.0.0.0 zmovie.ru
