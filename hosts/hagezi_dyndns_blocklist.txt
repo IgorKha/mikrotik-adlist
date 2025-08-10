@@ -1,12 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.15.78
-! Last modified: 2025-08-03T06:11:06.563Z
+! Version: 1.0.15.87
+! Last modified: 2025-08-10T06:11:07.723Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
 0.0.0.0 0x.no
 0.0.0.0 100mountain.com
 0.0.0.0 10dv.com
+0.0.0.0 10x.es
 0.0.0.0 120v.ac
 0.0.0.0 1337.cx
 0.0.0.0 16-b.it
@@ -96,6 +97,7 @@
 0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
+0.0.0.0 awiki.org
 0.0.0.0 ax.lt
 0.0.0.0 b0ne.com
 0.0.0.0 b0tnet.com
@@ -129,6 +131,7 @@
 0.0.0.0 blogdns.net
 0.0.0.0 blogdns.org
 0.0.0.0 blogsite.org
+0.0.0.0 blogsite.xyz
 0.0.0.0 blogsyte.com
 0.0.0.0 bloodforthebloodgod.com
 0.0.0.0 bloom.us
@@ -281,6 +284,7 @@
 0.0.0.0 digitalgroupe.com
 0.0.0.0 dip.jp
 0.0.0.0 ditchyourip.com
+0.0.0.0 diyplans.org
 0.0.0.0 dlinkddns.com
 0.0.0.0 dmtr.ru
 0.0.0.0 dnet.hu
@@ -450,6 +454,7 @@
 0.0.0.0 echoparklake.com
 0.0.0.0 edns.biz
 0.0.0.0 effers.com
+0.0.0.0 eiresol.com
 0.0.0.0 elchemi.com
 0.0.0.0 elitter.net
 0.0.0.0 embeddedonline.org
@@ -495,6 +500,7 @@
 0.0.0.0 faqserv.com
 0.0.0.0 farted.net
 0.0.0.0 fartit.com
+0.0.0.0 fatdiary.org
 0.0.0.0 fdns.uk
 0.0.0.0 fearpenguins.com
 0.0.0.0 feste-ip.net
@@ -1020,6 +1026,7 @@
 0.0.0.0 net-freaks.com
 0.0.0.0 netcabo.pt
 0.0.0.0 netdorm.com
+0.0.0.0 netlord.de
 0.0.0.0 netmask.ca
 0.0.0.0 networkguru.com
 0.0.0.0 networkoutpost.com
@@ -1121,7 +1128,6 @@
 0.0.0.0 pointto.us
 0.0.0.0 port0.org
 0.0.0.0 port25.biz
-0.0.0.0 portalindustries.org
 0.0.0.0 portfwd.com
 0.0.0.0 portmap.host
 0.0.0.0 prettyweak.com
@@ -1268,6 +1274,7 @@
 0.0.0.0 sne.jp
 0.0.0.0 socialadhesion.com
 0.0.0.0 softether.net
+0.0.0.0 solfa.org
 0.0.0.0 solidmation.com
 0.0.0.0 sonnish.com
 0.0.0.0 soon.it
@@ -1331,6 +1338,7 @@
 0.0.0.0 thatip.com
 0.0.0.0 thddns.net
 0.0.0.0 the-button.com
+0.0.0.0 theblacklist.org
 0.0.0.0 thehomeserver.net
 0.0.0.0 themcmillans.org
 0.0.0.0 thenest.org
@@ -1351,6 +1359,7 @@
 0.0.0.0 trailsendlodge.org
 0.0.0.0 trickip.net
 0.0.0.0 trickip.org
+0.0.0.0 trieditmyself.com
 0.0.0.0 tru.io
 0.0.0.0 truthvid.com
 0.0.0.0 tscng.org
@@ -1387,7 +1396,6 @@
 0.0.0.0 venez.fr
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
-0.0.0.0 vicinanza.org
 0.0.0.0 viewdns.net
 0.0.0.0 viiic.net
 0.0.0.0 vincomlimited.com

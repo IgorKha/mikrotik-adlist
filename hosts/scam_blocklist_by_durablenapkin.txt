@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.88
-! Last modified: 2025-08-03T06:11:00.163Z
+! Version: 1.0.17.95
+! Last modified: 2025-08-10T06:11:01.913Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -15,7 +15,6 @@
 0.0.0.0 3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
-0.0.0.0 47n78xprrvp1.top
 0.0.0.0 555sq.com.cn
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
@@ -61,10 +60,10 @@
 0.0.0.0 am-freights.com
 0.0.0.0 amorpulse.com
 0.0.0.0 amznshirts.com
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 app-uniswapping.org
 0.0.0.0 app.deflliama.tech
-0.0.0.0 app.uniwspapp.com
 0.0.0.0 appdrive.info
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -130,6 +129,7 @@
 0.0.0.0 binomoweblogin.com
 0.0.0.0 binorobot.com
 0.0.0.0 bisertravel.com.mk
+0.0.0.0 bitdefender.top
 0.0.0.0 bite-life.com
 0.0.0.0 bitsoft360.app
 0.0.0.0 bitsoft360.com
@@ -139,7 +139,6 @@
 0.0.0.0 black-sales.cloud
 0.0.0.0 blackabdo.company.site
 0.0.0.0 blackoutarchertender.com
-0.0.0.0 blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
 0.0.0.0 bltskins.com
@@ -199,7 +198,6 @@
 0.0.0.0 cnhnotificou.co
 0.0.0.0 cnhvirtual.co
 0.0.0.0 cnqwli.info
-0.0.0.0 coco-vip-shop.com
 0.0.0.0 cofdeal.com
 0.0.0.0 coffeeteaware.com
 0.0.0.0 cognatesyringe.com
@@ -331,7 +329,6 @@
 0.0.0.0 facebook-google-vptyyny63pwfipshmm.vercel.app
 0.0.0.0 facebook-google-ygggvmvciad74v9lhi.vercel.app
 0.0.0.0 facebook-support-team-980.pages.med.br
-0.0.0.0 faithmim.online
 0.0.0.0 familybestgifts.com
 0.0.0.0 familygiftlove.myshopify.com
 0.0.0.0 familygiftville.com
@@ -377,6 +374,7 @@
 0.0.0.0 fiusps.com
 0.0.0.0 fkpgr.buzz
 0.0.0.0 flattee.com
+0.0.0.0 flwzen.com
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 food-network.fwh.is
 0.0.0.0 foreveusps.com
@@ -385,7 +383,6 @@
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
-0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
@@ -418,6 +415,7 @@
 0.0.0.0 gig-os.com
 0.0.0.0 gimboy.com
 0.0.0.0 gimp.zendesk.com
+0.0.0.0 gjseep.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 glitchy.go2cloud.org
 0.0.0.0 gload.info
@@ -433,7 +431,6 @@
 0.0.0.0 gtltelecomgroup.in
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 gunstee.com
-0.0.0.0 habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 haceroberomaste.com
 0.0.0.0 hairyfy.com
@@ -516,7 +513,6 @@
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
 0.0.0.0 iphonedefender.com
-0.0.0.0 iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
 0.0.0.0 iteeus.com
 0.0.0.0 itseasy.com
@@ -608,7 +604,6 @@
 0.0.0.0 microgull.com
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
-0.0.0.0 microsoft.teams-live.com
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 miningco.site
@@ -699,7 +694,6 @@
 0.0.0.0 navi8.com
 0.0.0.0 navi85.com
 0.0.0.0 navi86.ru
-0.0.0.0 navi87.com
 0.0.0.0 navi88.com
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
@@ -782,7 +776,6 @@
 0.0.0.0 own3d.tv
 0.0.0.0 p.arty2night.com
 0.0.0.0 p8ydfra.lvditoys.com
-0.0.0.0 pacmoonn.icu
 0.0.0.0 padsims.com
 0.0.0.0 pages.tempisite.com
 0.0.0.0 pandzee.com
@@ -908,6 +901,7 @@
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
+0.0.0.0 skinszone.net
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 smartokids.com
@@ -952,7 +946,6 @@
 0.0.0.0 storagestory.com
 0.0.0.0 store-aleteia.org
 0.0.0.0 store-swatch.com
-0.0.0.0 store-uni-app.com
 0.0.0.0 store25848025.company.site
 0.0.0.0 storeax.com
 0.0.0.0 storecollegeonline.com
@@ -1161,11 +1154,11 @@
 0.0.0.0 validsteamkeys.com
 0.0.0.0 vanced-official.com
 0.0.0.0 vegamartz.com
-0.0.0.0 veilcurtin.world
 0.0.0.0 vencord.app
 0.0.0.0 venezuelabaseballjerseys.com
 0.0.0.0 verfun.com
 0.0.0.0 vernahora.app
+0.0.0.0 vessideutschland.net
 0.0.0.0 vessisdeutschland.com
 0.0.0.0 vider-cda.pl
 0.0.0.0 vider-pl.pl
@@ -1224,10 +1217,8 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
-0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
-0.0.0.0 xajzfwgs.com
 0.0.0.0 xcartpro.com
 0.0.0.0 xn--airupespaa-19a.com
 0.0.0.0 xn--airuptrkiye-yhb.com
@@ -1273,6 +1264,7 @@
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 zerowasteinitiative.com
+0.0.0.0 zillify.cfd
 0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com
 0.0.0.0 zolrqw.palatlaldate.com

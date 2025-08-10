@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.53
-! Last modified: 2025-08-03T06:10:42.640Z
+! Version: 1.0.15.56
+! Last modified: 2025-08-10T06:10:46.854Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180searchassistant.com
@@ -638,6 +638,7 @@
 0.0.0.0 adsbydelema.com
 0.0.0.0 adscale.de
 0.0.0.0 adscholar.com
+0.0.0.0 adscience.nl
 0.0.0.0 adsco.re
 0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
@@ -1311,7 +1312,6 @@
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmvrclicks000.com
 0.0.0.0 cnomy.com
-0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cnvlink.com
 0.0.0.0 cny.yoyo.org
@@ -1619,7 +1619,6 @@
 0.0.0.0 faultycanvas.com
 0.0.0.0 fave.co
 0.0.0.0 fc.webmasterpro.de
-0.0.0.0 feathr.co
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
 0.0.0.0 feedmob.com
@@ -2034,7 +2033,6 @@
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveintent.com
 0.0.0.0 livelylaugh.com
-0.0.0.0 livelyreward.com
 0.0.0.0 liverail.com
 0.0.0.0 livingsleet.com
 0.0.0.0 lizardslaugh.com
@@ -2465,6 +2463,7 @@
 0.0.0.0 pointroll.com
 0.0.0.0 pokkt.com
 0.0.0.0 polishedfolly.com
+0.0.0.0 polo.feathr.co
 0.0.0.0 popads.net
 0.0.0.0 popcash.net
 0.0.0.0 popmyads.com
@@ -3043,6 +3042,7 @@
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
 0.0.0.0 thebugs.ws
+0.0.0.0 themangotea.com
 0.0.0.0 themoneytizer.com
 0.0.0.0 therapistla.com
 0.0.0.0 thinkitten.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.29
-! Last modified: 2025-08-03T06:11:06.704Z
+! Version: 1.0.17.42
+! Last modified: 2025-08-10T06:11:07.822Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -53,6 +53,7 @@
 0.0.0.0 100webspace.net
 0.0.0.0 100ws.com
 0.0.0.0 10gbfreehost.com
+0.0.0.0 10h.us
 0.0.0.0 110mb.com
 0.0.0.0 111mb.de
 0.0.0.0 114.at
@@ -248,13 +249,17 @@
 0.0.0.0 arrangiert.de
 0.0.0.0 articlesblogger.com
 0.0.0.0 artsold.top
+0.0.0.0 arvandblog.ir
 0.0.0.0 arwebo.com
 0.0.0.0 asablo.jp
+0.0.0.0 asblog.ir
 0.0.0.0 asia.cm
 0.0.0.0 asia.gp
 0.0.0.0 asiaal.shop
+0.0.0.0 asrblog.ir
 0.0.0.0 at.cr
 0.0.0.0 at.st
+0.0.0.0 atrinblog.ir
 0.0.0.0 atsnx.com
 0.0.0.0 atspace.biz
 0.0.0.0 atspace.com
@@ -288,6 +293,7 @@
 0.0.0.0 bcbloggers.com
 0.0.0.0 bcz.com
 0.0.0.0 be.gp
+0.0.0.0 bearblog.dev
 0.0.0.0 bearsfanteamshop.com
 0.0.0.0 bebinmall.today
 0.0.0.0 bedava-sitem.com
@@ -368,6 +374,7 @@
 0.0.0.0 blogator.net
 0.0.0.0 blogblog.com
 0.0.0.0 blogbright.net
+0.0.0.0 blogbus.com
 0.0.0.0 blogcdn.com
 0.0.0.0 blogchaat.com
 0.0.0.0 blogcheese.com
@@ -387,6 +394,7 @@
 0.0.0.0 blogdrive.com
 0.0.0.0 blogdun.com
 0.0.0.0 blogeasy.com
+0.0.0.0 bloger.cz
 0.0.0.0 bloger.hr
 0.0.0.0 blogerus.com
 0.0.0.0 bloges.org
@@ -404,6 +412,7 @@
 0.0.0.0 bloggang.com
 0.0.0.0 bloggazza.com
 0.0.0.0 bloggazzo.com
+0.0.0.0 blogger-news.net
 0.0.0.0 bloggerbags.com
 0.0.0.0 bloggerchest.com
 0.0.0.0 bloggersdelight.dk
@@ -824,6 +833,7 @@
 0.0.0.0 eazylaunch.com
 0.0.0.0 eb2a.com
 0.0.0.0 ebeesboutique.shop
+0.0.0.0 eblogmall.com
 0.0.0.0 ebuykind.shop
 0.0.0.0 ec.gp
 0.0.0.0 ecardalert.com
@@ -1160,6 +1170,7 @@
 0.0.0.0 hu.kg
 0.0.0.0 huicopper.com
 0.0.0.0 humor-blog.com
+0.0.0.0 humorme.info
 0.0.0.0 hund.in
 0.0.0.0 hundredtrue.shop
 0.0.0.0 hupont.hu
@@ -1284,6 +1295,7 @@
 0.0.0.0 klingler.us
 0.0.0.0 kolido.net
 0.0.0.0 kr.gp
+0.0.0.0 kraftonevent.com
 0.0.0.0 kulichki.net
 0.0.0.0 kulichki.ru
 0.0.0.0 kurzschliessen.de
@@ -1328,6 +1340,7 @@
 0.0.0.0 look4blog.com
 0.0.0.0 losblogos.com
 0.0.0.0 loveslife.biz
+0.0.0.0 lovestoblog.com
 0.0.0.0 lowescouponn.com
 0.0.0.0 loxblog.com
 0.0.0.0 lspmr.org
@@ -1338,7 +1351,6 @@
 0.0.0.0 luzzati.com
 0.0.0.0 tripod.lycos.de
 0.0.0.0 tripod.lycos.it
-0.0.0.0 lydincentives.com
 0.0.0.0 m.vu
 0.0.0.0 ma.gp
 0.0.0.0 ma-page.fr
@@ -1359,6 +1371,7 @@
 0.0.0.0 mastertopforum.org
 0.0.0.0 mdkblog.com
 0.0.0.0 mdtwo.top
+0.0.0.0 mdwrite.net
 0.0.0.0 me.gp
 0.0.0.0 me.ly
 0.0.0.0 mediafirex.icu
@@ -1375,7 +1388,6 @@
 0.0.0.0 mihanblog.com
 0.0.0.0 mindmix.ru
 0.0.0.0 mindnmagick.com
-0.0.0.0 misoya.shop
 0.0.0.0 mit-wenig-geld.de
 0.0.0.0 mixh.jp
 0.0.0.0 mizum.site
@@ -1477,8 +1489,6 @@
 0.0.0.0 nstemp.com
 0.0.0.0 nut.cc
 0.0.0.0 nuvox.net
-0.0.0.0 nyanyash.ru
-0.0.0.0 nyashk.ru
 0.0.0.0 nyccards.shop
 0.0.0.0 nyccenter.shop
 0.0.0.0 blogs.nytimes.com
@@ -1544,7 +1554,6 @@
 0.0.0.0 paginawebgratis.es
 0.0.0.0 pancake.run
 0.0.0.0 panel-1.de
-0.0.0.0 parisgrocery.top
 0.0.0.0 parknhost.com
 0.0.0.0 parsiblog.com
 0.0.0.0 party.lc
@@ -1622,8 +1631,8 @@
 0.0.0.0 radiola.club
 0.0.0.0 raidersfanteamshop.com
 0.0.0.0 re2.de
-0.0.0.0 realscienceblogs.com
 0.0.0.0 reblog.hu
+0.0.0.0 recentblog.net
 0.0.0.0 reco.ws
 0.0.0.0 regruhosting.ru
 0.0.0.0 rentvalues.biz
@@ -1790,6 +1799,7 @@
 0.0.0.0 teamzonesports.com
 0.0.0.0 tearosediner.net
 0.0.0.0 techionblog.com
+0.0.0.0 technetbloggers.de
 0.0.0.0 teenradio.shop
 0.0.0.0 tehno-politen.ru
 0.0.0.0 tek-blogs.com
@@ -1822,6 +1832,7 @@
 0.0.0.0 therainblog.com
 0.0.0.0 thezenweb.com
 0.0.0.0 thisistap.com
+0.0.0.0 thoughtlanes.net
 0.0.0.0 tianyablog.com
 0.0.0.0 ticketxking.com
 0.0.0.0 tie.cl
@@ -1861,6 +1872,7 @@
 0.0.0.0 turbo.site
 0.0.0.0 turkish.lc
 0.0.0.0 tusblogos.com
+0.0.0.0 tutorial-blog.net
 0.0.0.0 tuxfamily.org
 0.0.0.0 tw.gp
 0.0.0.0 tw1.ru
@@ -1916,6 +1928,7 @@
 0.0.0.0 vblogetin.com
 0.0.0.0 vdxh.com
 0.0.0.0 ve.gp
+0.0.0.0 vefblog.net
 0.0.0.0 verifypass.pw
 0.0.0.0 veritafinancebank.com
 0.0.0.0 verkniffen.de
@@ -2025,7 +2038,6 @@
 0.0.0.0 website.org
 0.0.0.0 website-home.ws
 0.0.0.0 website2.me
-0.0.0.0 websitehostfree.com
 0.0.0.0 webspawner.com
 0.0.0.0 webstarts.com
 0.0.0.0 webwave.dev
@@ -2071,8 +2083,6 @@
 0.0.0.0 xaper.com
 0.0.0.0 xbl0g.com
 0.0.0.0 xblog.in
-0.0.0.0 xbloggers.com
-0.0.0.0 xdiheu.cn
 0.0.0.0 xinei.shop
 0.0.0.0 xl.lc
 0.0.0.0 xml.in
@@ -2124,7 +2134,6 @@
 0.0.0.0 zensurfrei.com
 0.0.0.0 zepatifcommerce.shop
 0.0.0.0 ziblogs.com
-0.0.0.0 zjxjmp.cn
 0.0.0.0 zoekvinden.nl
 0.0.0.0 zohosites.com
 0.0.0.0 zoomblog.com

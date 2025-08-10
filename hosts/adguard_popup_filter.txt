@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.81
-! Last modified: 2025-08-03T06:10:49.772Z
+! Version: 1.0.16.82
+! Last modified: 2025-08-10T06:10:53.144Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 orlovskyi.com
 0.0.0.0 pixel-see.com
@@ -267,6 +267,7 @@
 0.0.0.0 boxthis.xyz
 0.0.0.0 brainberries.co
 0.0.0.0 brationalfilarded.com
+0.0.0.0 brujoshooch.shop
 0.0.0.0 bunth.net
 0.0.0.0 c3j7rk-rtbix.top
 0.0.0.0 calcatesituate.top
@@ -469,6 +470,7 @@
 0.0.0.0 lamplynx.com
 0.0.0.0 land.pixelsee.app
 0.0.0.0 landerhq.com
+0.0.0.0 leadgainz.com
 0.0.0.0 leadshurriedlysoak.com
 0.0.0.0 lehemhavita.club
 0.0.0.0 leoyard.com
@@ -555,6 +557,7 @@
 0.0.0.0 nontraditionally.rest
 0.0.0.0 noohapou.com
 0.0.0.0 noolt.com
+0.0.0.0 northauthority.xyz
 0.0.0.0 northdownload.com
 0.0.0.0 northrtbads.top
 0.0.0.0 nothingfairnessdemonstrate.com
@@ -595,6 +598,7 @@
 0.0.0.0 permanentillnessclever.com
 0.0.0.0 pewyophic.top
 0.0.0.0 pexorise.com
+0.0.0.0 phazashabu.pro
 0.0.0.0 pheniter.com
 0.0.0.0 phgotof2.com
 0.0.0.0 pilotstracking.com
@@ -790,6 +794,7 @@
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
 0.0.0.0 unoptedcoupe.top
+0.0.0.0 unrolltougher.shop
 0.0.0.0 unseaminoax.click
 0.0.0.0 upodaitie.net
 0.0.0.0 upuplets.com
