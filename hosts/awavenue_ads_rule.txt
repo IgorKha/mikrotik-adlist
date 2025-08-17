@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
 ! Version: 1.0.15.48
-! Last modified: 2025-08-10T06:10:53.001Z
+! Last modified: 2025-08-17T06:10:36.254Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.17.95
-! Last modified: 2025-08-10T06:11:01.913Z
+! Version: 1.0.18.2
+! Last modified: 2025-08-17T06:10:44.017Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -55,6 +55,7 @@
 0.0.0.0 allocation-uniswap.co
 0.0.0.0 allstarshirt.com
 0.0.0.0 allupdatenow.com
+0.0.0.0 alphatowercompany.in
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 am-freights.com
@@ -92,7 +93,6 @@
 0.0.0.0 babybeddingdesign.com
 0.0.0.0 bagsdeuter.com
 0.0.0.0 bajeczki.org.pl
-0.0.0.0 balkeryswep.online
 0.0.0.0 baltic-pipe-finansowy.blogspot.com
 0.0.0.0 baltic79.wordpress.com
 0.0.0.0 balticpipe.wordpress.com
@@ -103,7 +103,6 @@
 0.0.0.0 beeaar.com
 0.0.0.0 beecrave.com
 0.0.0.0 benecharm.com
-0.0.0.0 benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 best-torrents.com
 0.0.0.0 bestiamos.com
@@ -123,7 +122,6 @@
 0.0.0.0 binomo1.com
 0.0.0.0 binomo2.zendesk.com
 0.0.0.0 binomoidr.com
-0.0.0.0 binomorupiah-id.com
 0.0.0.0 binomotop.com
 0.0.0.0 binomoweb.org
 0.0.0.0 binomoweblogin.com
@@ -158,6 +156,7 @@
 0.0.0.0 buylikes.se
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
+0.0.0.0 by-emmamuller.de
 0.0.0.0 c.dreamdating1.fun
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 caly-film.cc
@@ -208,7 +207,6 @@
 0.0.0.0 compoundexotics.com
 0.0.0.0 comprehension.unstal.cfd
 0.0.0.0 confira.io
-0.0.0.0 containably.com
 0.0.0.0 coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 cooperation-odoo.com
@@ -223,7 +221,6 @@
 0.0.0.0 csbestplayers.com
 0.0.0.0 cshrewards.net
 0.0.0.0 customizerbox.com
-0.0.0.0 customurink.com
 0.0.0.0 cutty.app
 0.0.0.0 cycle100percent.com
 0.0.0.0 czasnakino.pl
@@ -280,7 +277,6 @@
 0.0.0.0 dressesloves.com
 0.0.0.0 dresseslovesootd.com
 0.0.0.0 duitpanas.top
-0.0.0.0 dunkansp.info
 0.0.0.0 dwlae.top
 0.0.0.0 e-indianvisa.com
 0.0.0.0 e-touristvisa.com
@@ -337,7 +333,6 @@
 0.0.0.0 faze1.com
 0.0.0.0 faze10.com
 0.0.0.0 faze2.com
-0.0.0.0 faze24.com
 0.0.0.0 faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 faze47.com
@@ -372,6 +367,7 @@
 0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fitgirlrepacksite.com
 0.0.0.0 fiusps.com
+0.0.0.0 fix-live.tech
 0.0.0.0 fkpgr.buzz
 0.0.0.0 flattee.com
 0.0.0.0 flwzen.com
@@ -431,6 +427,7 @@
 0.0.0.0 gtltelecomgroup.in
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 gunstee.com
+0.0.0.0 habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 haceroberomaste.com
 0.0.0.0 hairyfy.com
@@ -438,7 +435,6 @@
 0.0.0.0 happymod.cloud
 0.0.0.0 haruko.store
 0.0.0.0 headsets4business.co.uk
-0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 helpuspsnow.ru
@@ -509,10 +505,10 @@
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
 0.0.0.0 informationpolicy.cloud
-0.0.0.0 innomediacreate.com
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
 0.0.0.0 iphonedefender.com
+0.0.0.0 iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
 0.0.0.0 iteeus.com
 0.0.0.0 itseasy.com
@@ -522,6 +518,7 @@
 0.0.0.0 januashop.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
+0.0.0.0 jewellvanmarter.za.com
 0.0.0.0 jonausa.com
 0.0.0.0 jourl.live
 0.0.0.0 jsdimmigration.com
@@ -538,6 +535,7 @@
 0.0.0.0 kino-cda.pl
 0.0.0.0 kinomaniak.cc
 0.0.0.0 kinonline.pl
+0.0.0.0 kiophsx9.sa.com
 0.0.0.0 kisserine.com
 0.0.0.0 kitchendecor.shop
 0.0.0.0 klasykavod.pl
@@ -574,7 +572,6 @@
 0.0.0.0 lodrat.org
 0.0.0.0 lojavariedadesvariedades.com
 0.0.0.0 look-like-star.myshopify.com
-0.0.0.0 lootcs.com
 0.0.0.0 lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
 0.0.0.0 lskg.shop
@@ -584,7 +581,6 @@
 0.0.0.0 lucysstyle.com
 0.0.0.0 lumustore.top
 0.0.0.0 luxsgear.com
-0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -595,13 +591,11 @@
 0.0.0.0 maxdebrid.com
 0.0.0.0 mayor4london.com
 0.0.0.0 mcds100.com
-0.0.0.0 mcsglobalcargo.com
 0.0.0.0 meaningift.com
 0.0.0.0 mega-heritage.com
 0.0.0.0 mega-kino.pl
 0.0.0.0 megoindonesia.com
 0.0.0.0 meudetran.co
-0.0.0.0 microgull.com
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 miles.plumenetwork.xyz
@@ -664,7 +658,6 @@
 0.0.0.0 navi30.ru
 0.0.0.0 navi33.com
 0.0.0.0 navi35.com
-0.0.0.0 navi35.ru
 0.0.0.0 navi36.ru
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
@@ -685,7 +678,6 @@
 0.0.0.0 navi63.ru
 0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
-0.0.0.0 navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 navi72.com
 0.0.0.0 navi72.ru
@@ -697,8 +689,6 @@
 0.0.0.0 navi88.com
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
-0.0.0.0 navi94.com
-0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 nayatowerinstallation.in.net
 0.0.0.0 neozor.com
@@ -837,6 +827,7 @@
 0.0.0.0 quotex.com.in
 0.0.0.0 rastreiobrasil.co
 0.0.0.0 rastreiocorreio.co
+0.0.0.0 record-x-center.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 regularizedenatran.co
 0.0.0.0 remessacorreio.site
@@ -910,6 +901,7 @@
 0.0.0.0 smtpget.com
 0.0.0.0 smvisa.co.il
 0.0.0.0 sodipi.com
+0.0.0.0 softgetpc.com
 0.0.0.0 software19797.blogspot.com
 0.0.0.0 softzspot.com
 0.0.0.0 solution7energieqc.com
@@ -1042,8 +1034,6 @@
 0.0.0.0 ultrasonica.info
 0.0.0.0 ultrawa.com
 0.0.0.0 um-bs.com
-0.0.0.0 unambia.orchael.fun
-0.0.0.0 unho.unhesiss.shop
 0.0.0.0 uni-swap.online
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
@@ -1154,6 +1144,7 @@
 0.0.0.0 validsteamkeys.com
 0.0.0.0 vanced-official.com
 0.0.0.0 vegamartz.com
+0.0.0.0 velmaglendenning.ru.com
 0.0.0.0 vencord.app
 0.0.0.0 venezuelabaseballjerseys.com
 0.0.0.0 verfun.com
@@ -1182,7 +1173,6 @@
 0.0.0.0 visatoindia.org
 0.0.0.0 visumbuitenland.nl
 0.0.0.0 vizjer-pl.pl
-0.0.0.0 vizjer.com.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film
@@ -1201,7 +1191,6 @@
 0.0.0.0 wazofurniture.com
 0.0.0.0 weathly.com
 0.0.0.0 webvod.pl
-0.0.0.0 werfew.com
 0.0.0.0 whbinder.com
 0.0.0.0 wikeb.com
 0.0.0.0 wintexfashions.com
@@ -1219,6 +1208,7 @@
 0.0.0.0 base-vod.pl
 0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
+0.0.0.0 xajzfwgs.com
 0.0.0.0 xcartpro.com
 0.0.0.0 xn--airupespaa-19a.com
 0.0.0.0 xn--airuptrkiye-yhb.com
@@ -1231,7 +1221,6 @@
 0.0.0.0 yeswevibe.com
 0.0.0.0 yeyvibe.com
 0.0.0.0 ygtube.xyz
-0.0.0.0 yhdshop.com
 0.0.0.0 yofi-yofi.com
 0.0.0.0 youdebrid.com
 0.0.0.0 yourdatefind.com

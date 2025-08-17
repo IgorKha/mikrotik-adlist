@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.82
-! Last modified: 2025-08-10T06:10:53.144Z
+! Version: 1.0.16.84
+! Last modified: 2025-08-17T06:10:36.326Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 update-macosx.com
 0.0.0.0 orlovskyi.com
 0.0.0.0 pixel-see.com
 0.0.0.0 wissekeygroup.com
@@ -168,7 +169,6 @@
 0.0.0.0 abadit5rckd.com
 0.0.0.0 abbeysabollae.top
 0.0.0.0 accecmtrk.com
-0.0.0.0 acrooktait.top
 0.0.0.0 adblock-360.com
 0.0.0.0 adblockermax.com
 0.0.0.0 adblockerprofessional.com
@@ -232,7 +232,6 @@
 0.0.0.0 auroraveil.bid
 0.0.0.0 awalesglower.com
 0.0.0.0 awecrptjmp.com
-0.0.0.0 awesomeprizedrive.co
 0.0.0.0 bakabok.com
 0.0.0.0 baldo-toj.com
 0.0.0.0 bashfulleadsock.com
@@ -270,7 +269,6 @@
 0.0.0.0 brujoshooch.shop
 0.0.0.0 bunth.net
 0.0.0.0 c3j7rk-rtbix.top
-0.0.0.0 calcatesituate.top
 0.0.0.0 cam-maus.info
 0.0.0.0 camliveshow.xyz
 0.0.0.0 camptrck.com
@@ -281,7 +279,6 @@
 0.0.0.0 checkcdn.net
 0.0.0.0 choogeet.net
 0.0.0.0 chpadblock.com
-0.0.0.0 cleanmypc.click
 0.0.0.0 clearwatch.tv
 0.0.0.0 clickblitzo.com
 0.0.0.0 clicksyncflow.com
@@ -305,7 +302,6 @@
 0.0.0.0 crockadilla.com
 0.0.0.0 cryptomcw.com
 0.0.0.0 ctosrd.com
-0.0.0.0 cuveeoxanate.top
 0.0.0.0 cybkit.com
 0.0.0.0 daleelerah.info
 0.0.0.0 datatechdrift.com
@@ -337,7 +333,6 @@
 0.0.0.0 donkeyflower.xyz
 0.0.0.0 doostozoa.net
 0.0.0.0 downloading-addon.com
-0.0.0.0 downloads-windows-pc.com
 0.0.0.0 dpuppers.com
 0.0.0.0 dreamteamaffiliates.com
 0.0.0.0 drsmediaexchange.com
@@ -454,7 +449,6 @@
 0.0.0.0 jegiopad.top
 0.0.0.0 jeroud.com
 0.0.0.0 jiuwert.online
-0.0.0.0 joggerkochia.top
 0.0.0.0 js-check.com
 0.0.0.0 junkyadexchange.com
 0.0.0.0 junmediadclikrmdi.com
@@ -482,9 +476,7 @@
 0.0.0.0 loazuptaice.net
 0.0.0.0 locooler-ageneral.com
 0.0.0.0 lovemiingle.life
-0.0.0.0 luntedepsom.top
 0.0.0.0 lust-burning.rest
-0.0.0.0 lust-goddess.buzz
 0.0.0.0 luxq8.com
 0.0.0.0 lwnbts.com
 0.0.0.0 lxkzcss.xyz
@@ -545,7 +537,6 @@
 0.0.0.0 nersionitsumpute.com
 0.0.0.0 netrefer.co
 0.0.0.0 nettrackway.com
-0.0.0.0 neuralmi.top
 0.0.0.0 newmytrp.com
 0.0.0.0 newrtbside.com
 0.0.0.0 next-lust.cfd
@@ -596,7 +587,6 @@
 0.0.0.0 paulastroid.com
 0.0.0.0 pemsrv.com
 0.0.0.0 permanentillnessclever.com
-0.0.0.0 pewyophic.top
 0.0.0.0 pexorise.com
 0.0.0.0 phazashabu.pro
 0.0.0.0 pheniter.com
@@ -633,7 +623,6 @@
 0.0.0.0 provenpixel.com
 0.0.0.0 prwave.info
 0.0.0.0 psockapa.net
-0.0.0.0 pttraffic.online
 0.0.0.0 pubadx.one
 0.0.0.0 pubtrky.com
 0.0.0.0 pupspu.com
@@ -647,26 +636,21 @@
 0.0.0.0 pushub.net
 0.0.0.0 qnp16tstw.com
 0.0.0.0 qualiclicks.com
-0.0.0.0 quernstomped.top
 0.0.0.0 qwikln.com
 0.0.0.0 racunn.com
 0.0.0.0 rbtfit.com
 0.0.0.0 rcdn-web.com
-0.0.0.0 rdrm2.click
 0.0.0.0 realsh.xyz
 0.0.0.0 realtime-bid.com
 0.0.0.0 recommended-twice.com
 0.0.0.0 redaffil.com
 0.0.0.0 redirectingat.com
 0.0.0.0 reebr.com
-0.0.0.0 relevefr.top
-0.0.0.0 remv43-rtbix.top
 0.0.0.0 resentreaccotia.com
 0.0.0.0 rexsrv.com
 0.0.0.0 rhinoaffiliates.com
 0.0.0.0 riflesurfing.xyz
 0.0.0.0 riftharp.com
-0.0.0.0 rizzomdaledh.top
 0.0.0.0 rmhfrtnd.com
 0.0.0.0 rmzsglng.com
 0.0.0.0 rndskittytor.com
@@ -692,7 +676,6 @@
 0.0.0.0 schedulerationally.com
 0.0.0.0 score-feed.com
 0.0.0.0 searchresultsadblocker.com
-0.0.0.0 seatrackingdomain.com
 0.0.0.0 secretarypleasure.xyz
 0.0.0.0 security-suggestion.com
 0.0.0.0 security-u.com
@@ -715,7 +698,6 @@
 0.0.0.0 skated.co
 0.0.0.0 skylindo.com
 0.0.0.0 skywardjourneys.co
-0.0.0.0 slatecharm.co
 0.0.0.0 slcuse.com
 0.0.0.0 sloto.live
 0.0.0.0 smrtmnk2.com
@@ -753,7 +735,6 @@
 0.0.0.0 theirbellstudio.co
 0.0.0.0 theonesstoodtheirground.com
 0.0.0.0 tigerbrluck.com
-0.0.0.0 tilqwekuszfa.com
 0.0.0.0 tjwsg.com
 0.0.0.0 toequiet.website
 0.0.0.0 toiletpaper.life
@@ -793,7 +774,6 @@
 0.0.0.0 ungiblechan.com
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
-0.0.0.0 unoptedcoupe.top
 0.0.0.0 unrolltougher.shop
 0.0.0.0 unseaminoax.click
 0.0.0.0 upodaitie.net
@@ -814,7 +794,6 @@
 0.0.0.0 violationphysics.click
 0.0.0.0 viralnewsbd.xyz
 0.0.0.0 virelon.com
-0.0.0.0 visionvelvet.co
 0.0.0.0 visualmirage.co
 0.0.0.0 vizoalygrenn.com
 0.0.0.0 vmgjt.click

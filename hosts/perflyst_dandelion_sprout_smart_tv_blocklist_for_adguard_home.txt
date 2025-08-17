@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
 ! Version: 1.0.14.52
-! Last modified: 2025-08-10T06:10:57.153Z
+! Last modified: 2025-08-17T06:10:40.556Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 smartclip.com
 0.0.0.0 smartclip.net

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.42
-! Last modified: 2025-08-10T06:11:07.822Z
+! Version: 1.0.17.45
+! Last modified: 2025-08-17T06:10:49.236Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -16,7 +16,6 @@
 0.0.0.0 00dvd.com
 0.0.0.0 00family.com
 0.0.0.0 00freehost.com
-0.0.0.0 00freeweb.com
 0.0.0.0 00game.com
 0.0.0.0 00go.com
 0.0.0.0 00home.com
@@ -988,7 +987,6 @@
 0.0.0.0 fotosdefrases.com
 0.0.0.0 fr.gp
 0.0.0.0 fr.nf
-0.0.0.0 frankclassic.shop
 0.0.0.0 free.bg
 0.0.0.0 free.cr
 0.0.0.0 free.lc
@@ -1043,7 +1041,6 @@
 0.0.0.0 freezoka.net
 0.0.0.0 freightinternationalservices.com
 0.0.0.0 frenchboard.com
-0.0.0.0 freshmember.com
 0.0.0.0 frewwebs.com
 0.0.0.0 friendcircles.com
 0.0.0.0 fuer-alle.de
@@ -1132,7 +1129,6 @@
 0.0.0.0 hiblogger.net
 0.0.0.0 highclassacademia.com
 0.0.0.0 hilfe24h.de
-0.0.0.0 hilfigeroutlet.at
 0.0.0.0 hinerava.com
 0.0.0.0 hkearth.xyz
 0.0.0.0 hklevel.club
@@ -1171,7 +1167,6 @@
 0.0.0.0 huicopper.com
 0.0.0.0 humor-blog.com
 0.0.0.0 humorme.info
-0.0.0.0 hund.in
 0.0.0.0 hundredtrue.shop
 0.0.0.0 hupont.hu
 0.0.0.0 hyderabadadda.com

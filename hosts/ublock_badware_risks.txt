@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.18.82
-! Last modified: 2025-08-10T06:11:07.443Z
+! Version: 1.0.18.94
+! Last modified: 2025-08-17T06:10:48.952Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -268,7 +268,6 @@
 0.0.0.0 beyourxfriend.com
 0.0.0.0 bybygnom.com
 0.0.0.0 paderrer.com
-0.0.0.0 best-site-online.com
 0.0.0.0 softronline.click
 0.0.0.0 skipalos.xyz
 0.0.0.0 makenoads.com
@@ -537,8 +536,6 @@
 0.0.0.0 nbsfmradio.com
 0.0.0.0 ngazi.co.tz
 0.0.0.0 video-watch1.com
-0.0.0.0 choseoffhandsight.com
-0.0.0.0 melodydownloader.com
 0.0.0.0 neptunclicks.com
 0.0.0.0 imgfil.com
 0.0.0.0 urlcod.com
@@ -559,7 +556,6 @@
 0.0.0.0 bafybeiexjty7qmufu5jvbyln5ce5mue2lqw2htafc3api4wwsefxet5k54.ipfs.dweb.link
 0.0.0.0 chargerlogistics-dot-exceldocsverification.uk.r.appspot.com
 0.0.0.0 bizerba-dot-azure-projectfiles.uk.r.appspot.com
-0.0.0.0 aajdrp.com
 0.0.0.0 italianlottery.com
 0.0.0.0 007itshop.com
 0.0.0.0 e-tax-nta.web.app
@@ -597,6 +593,12 @@
 0.0.0.0 modii.xyz
 0.0.0.0 fffvviuebyw.bond
 0.0.0.0 cod-luxurybag-jp.shop
+0.0.0.0 promotkc.cc
+0.0.0.0 le.lrtkzy2.shop
+0.0.0.0 app.kamlno.network
+0.0.0.0 macclear.com
+0.0.0.0 onepiecegoods.com
+0.0.0.0 printslamdunk.com
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 coup-ling-dm.net
@@ -849,7 +851,6 @@
 0.0.0.0 dosudosuo.com
 0.0.0.0 fanfande.net
 0.0.0.0 female-good.work
-0.0.0.0 forum0120.com
 0.0.0.0 foundate-core.net
 0.0.0.0 li-neeee.net
 0.0.0.0 make2022.com
@@ -932,7 +933,6 @@
 0.0.0.0 sxtown.jp
 0.0.0.0 syakoba.com
 0.0.0.0 upforit.com
-0.0.0.0 vhills.net
 0.0.0.0 votteetten.com
 0.0.0.0 vqydliiyda.net
 0.0.0.0 xn--4dkua4c8143c.jp
@@ -1107,7 +1107,6 @@
 0.0.0.0 gyakunan.net
 0.0.0.0 higher-mainnd.jp
 0.0.0.0 igazre.com
-0.0.0.0 jinsei-uranai2023.com
 0.0.0.0 kantei-oracle.com
 0.0.0.0 lover-c.com
 0.0.0.0 mamagathering.org
@@ -1218,7 +1217,6 @@
 0.0.0.0 let.attract1v3.com
 0.0.0.0 lmoox5.net
 0.0.0.0 utg.ri64-pdmv.com
-0.0.0.0 getmatch.jp
 0.0.0.0 hn-mizuki.com
 0.0.0.0 urara02032023.com
 0.0.0.0 gloria-divination.
@@ -1908,6 +1906,7 @@
 0.0.0.0 smatch-love.app
 0.0.0.0 tr53vs.com
 0.0.0.0 spankvideo.net
+0.0.0.0 mihayume.com
 0.0.0.0 webogram.org
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
@@ -2102,7 +2101,6 @@
 0.0.0.0 apples-24x7-customer-help-line.pages.dev
 0.0.0.0 apples-24x7-help.pages.dev
 0.0.0.0 icloud.apple-*.cn
-0.0.0.0 fedexridn.com
 0.0.0.0 e-serviceparts.info
 0.0.0.0 cardverify*-booking.com
 0.0.0.0 air-bnb.check-
@@ -2195,6 +2193,14 @@
 0.0.0.0 caixa-login-banco-home-login-auth-h.codeanyapp.com
 0.0.0.0 caixa-*.codeanyapp.com
 0.0.0.0 biblio.sviluppo.host
+0.0.0.0 bbvaar.zeabur.app
+0.0.0.0 programajourney.com
+0.0.0.0 bdvenlinea*.pages.dev
+0.0.0.0 bdvenlineaconfirmate.pages.dev
+0.0.0.0 bdvenlinea-banvenez-beram.pages.dev
+0.0.0.0 tinchapshinhan.online
+0.0.0.0 americanexpressempresas.com
+0.0.0.0 amxprd.com
 0.0.0.0 recompensaszurichsantander.com.mx
 0.0.0.0 santander.*.fino.digital
 0.0.0.0 santander.cf.sandbox.motrada.ch
@@ -2514,7 +2520,6 @@
 0.0.0.0 uudaikhachhang-
 0.0.0.0 nang-hang-
 0.0.0.0 mojgov.weebly.com
-0.0.0.0 chinhphu.cc
 0.0.0.0 lapdatinternet.net
 0.0.0.0 hethongnhanvien.com
 0.0.0.0 hethongvaynhanh247.com
@@ -2899,8 +2904,6 @@
 0.0.0.0 justdakota.top
 0.0.0.0 bsnltowersite.in
 0.0.0.0 dareka4te.shop
-0.0.0.0 jqueri.at
-0.0.0.0 jsdelivr.at
 0.0.0.0 gstatis.co
 0.0.0.0 pekanbaru.one
 0.0.0.0 securevault.top
@@ -2940,7 +2943,6 @@
 0.0.0.0 semrushshop.com
 0.0.0.0 megadrive.solutions
 0.0.0.0 geeksprosoftwareprints.org
-0.0.0.0 printcaretech.com
 0.0.0.0 lesivs.com
 0.0.0.0 longchampblackfriday.com
 0.0.0.0 jcrewblackfriday.com
@@ -3019,7 +3021,6 @@
 0.0.0.0 accbing.com
 0.0.0.0 swap-ether.site
 0.0.0.0 raydiumx.org
-0.0.0.0 mdexswap.live
 0.0.0.0 dodoexchange.live
 0.0.0.0 v4-biswap.com
 0.0.0.0 kyberwsap.net
@@ -3132,3 +3133,70 @@
 0.0.0.0 virusscanner.live
 0.0.0.0 mobiltr-islemlerim.com.tr
 0.0.0.0 pttavm.*.com.tr
+0.0.0.0 zlib.is
+0.0.0.0 z-lib.ai
+0.0.0.0 z-lib.club
+0.0.0.0 z-lib.dev
+0.0.0.0 z-lib.ink
+0.0.0.0 z-lib.li
+0.0.0.0 z-lib.nl
+0.0.0.0 zlib.to
+0.0.0.0 zlibrary.is
+0.0.0.0 z-library.cc
+0.0.0.0 z-lib.ee
+0.0.0.0 z-lib.tf
+0.0.0.0 z-lib.wf
+0.0.0.0 z-lib.ws
+0.0.0.0 z-lib.lol
+0.0.0.0 zlibis.com
+0.0.0.0 zlibrary.st
+0.0.0.0 zlibrary.lol
+0.0.0.0 z-library.live
+0.0.0.0 z-library.wiki
+0.0.0.0 z-lib.wiki
+0.0.0.0 z-library.help
+0.0.0.0 activator-kmspico.net
+0.0.0.0 dazactivator.com
+0.0.0.0 get-kmspico.com
+0.0.0.0 getkmspico.medium.com
+0.0.0.0 km-spico.ru
+0.0.0.0 kms-pc.com
+0.0.0.0 kms-pico-download.com
+0.0.0.0 kmspico-activator-crack.com
+0.0.0.0 kmspico-activator-free.com
+0.0.0.0 kmspico-activator.in
+0.0.0.0 kmspico-mafia.com
+0.0.0.0 kmspico-official.medium.com
+0.0.0.0 kmspico-official.xyz
+0.0.0.0 kmspico-oficial.com
+0.0.0.0 kmspico-software.net
+0.0.0.0 kmspico-tools2.site
+0.0.0.0 kmspico.blog
+0.0.0.0 kmspico.co
+0.0.0.0 kmspico.dev
+0.0.0.0 kmspico.download
+0.0.0.0 kmspico.icu
+0.0.0.0 micaesoft.com
+0.0.0.0 kmspico.space
+0.0.0.0 kmspico.uno
+0.0.0.0 kmspico.ws
+0.0.0.0 kmspicoactivator.net
+0.0.0.0 kmspicoativador.org
+0.0.0.0 kmspicodownloads.com
+0.0.0.0 kmspicofficial.com
+0.0.0.0 kmspicofficial.pages.dev
+0.0.0.0 kmspicoofficial.com
+0.0.0.0 kmspicoportable.com
+0.0.0.0 massgrav.shop
+0.0.0.0 massgrav.zapto.org
+0.0.0.0 massgrave.hopto.org
+0.0.0.0 massgraves.online
+0.0.0.0 mrkmspico.com
+0.0.0.0 official-kmspico.co
+0.0.0.0 official-kmspico.com
+0.0.0.0 official-kmspico.org
+0.0.0.0 officialkmspico.download
+0.0.0.0 officialkmspico.info
+0.0.0.0 officialkmspico.net
+0.0.0.0 officials-kmspico.com
+0.0.0.0 faciet.client-ac.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.14.79
-! Last modified: 2025-08-10T06:10:56.601Z
+! Version: 1.0.14.80
+! Last modified: 2025-08-17T06:10:39.975Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -199,6 +199,7 @@
 0.0.0.0 couplesdating.co.nz
 0.0.0.0 crushonfeature.com
 0.0.0.0 csajokespasik.hu
+0.0.0.0 cuddlyconnect.com
 0.0.0.0 cupidbay.com
 0.0.0.0 cupid.com
 0.0.0.0 cupid-match.com
@@ -216,6 +217,7 @@
 0.0.0.0 dateforeal.com
 0.0.0.0 datefree.com
 0.0.0.0 dateinasia.com
+0.0.0.0 dateinspire.com
 0.0.0.0 dateland.co.il
 0.0.0.0 dateleicestershiresingles.co.uk
 0.0.0.0 dateline.co.uk
@@ -727,6 +729,7 @@
 0.0.0.0 parship.co.uk
 0.0.0.0 partner-services.com
 0.0.0.0 passion.com
+0.0.0.0 peekabooheart.com
 0.0.0.0 pentecostalpeoplemeet.com
 0.0.0.0 peoplemedia.com
 0.0.0.0 peoplemeet.com
@@ -880,6 +883,7 @@
 0.0.0.0 roastdating.com
 0.0.0.0 rockabillydate.com
 0.0.0.0 rollosfaciles.com
+0.0.0.0 romanticrelay.com
 0.0.0.0 rsvp.com.au
 0.0.0.0 ru-brides.com
 0.0.0.0 russiaforyou.com
