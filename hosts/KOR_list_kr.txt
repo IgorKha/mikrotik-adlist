@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
-! Version: 1.0.15.26
-! Last modified: 2025-08-10T06:10:59.277Z
+! Version: 1.0.15.27
+! Last modified: 2025-08-17T06:10:41.822Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 daro.so
 0.0.0.0 adrop.io
@@ -224,7 +224,6 @@
 0.0.0.0 ads.ahnlab.com
 0.0.0.0 adpacker.net
 0.0.0.0 ad.yna.co.kr
-0.0.0.0 veta.naver.com
 0.0.0.0 planad.net
 0.0.0.0 aedi.ai
 0.0.0.0 mobon.net

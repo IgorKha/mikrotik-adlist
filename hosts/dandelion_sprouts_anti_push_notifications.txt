@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
-! Version: 1.0.14.60
-! Last modified: 2025-08-10T06:10:55.028Z
+! Version: 1.0.14.61
+! Last modified: 2025-08-17T06:10:38.717Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 potisni.me
 0.0.0.0 allownotification.com
@@ -30,6 +30,7 @@
 0.0.0.0 centrnotify.com
 0.0.0.0 confirmit.com
 0.0.0.0 conforama-push.com
+0.0.0.0 controlpush.com
 0.0.0.0 css.xjsx.lol
 0.0.0.0 digipush.io
 0.0.0.0 dpns-notifications.com
@@ -41,6 +42,7 @@
 0.0.0.0 larapush.com
 0.0.0.0 linker.hr
 0.0.0.0 luravius.com
+0.0.0.0 my-pu.sh
 0.0.0.0 neopush.io
 0.0.0.0 news2day.me
 0.0.0.0 notifee-manager.cz
@@ -105,6 +107,7 @@
 0.0.0.0 pushvip.ru
 0.0.0.0 pushwhy.com
 0.0.0.0 pushy.ai
+0.0.0.0 puuush.me
 0.0.0.0 quarepush.com
 0.0.0.0 quaruzon.com
 0.0.0.0 qushad.com
@@ -120,7 +123,6 @@
 0.0.0.0 topswp.com
 0.0.0.0 unative.com
 0.0.0.0 virtualpushplatform.com
-0.0.0.0 webpush.jp
 0.0.0.0 webpushr.com
 0.0.0.0 webpushs.com
 0.0.0.0 worldpush.co
@@ -406,7 +408,6 @@
 0.0.0.0 trendentrium.com
 0.0.0.0 trenrasius.com
 0.0.0.0 tutad.ru
-0.0.0.0 u21drwj6mp.com
 0.0.0.0 unattepush.com
 0.0.0.0 us.xmlppcbuzz.com
 0.0.0.0 valkirum.com
@@ -417,8 +418,6 @@
 0.0.0.0 vitalectium.com
 0.0.0.0 volanosier.com
 0.0.0.0 vultispotus.com
-0.0.0.0 webpush.hackers.com
-0.0.0.0 webpush.ria.com
 0.0.0.0 wertendium.com
 0.0.0.0 womanshouz.ru
 0.0.0.0 wp.24smi.org

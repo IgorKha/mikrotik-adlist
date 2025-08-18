@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.56
-! Last modified: 2025-08-10T06:10:46.854Z
+! Version: 1.0.15.60
+! Last modified: 2025-08-17T06:10:30.605Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180searchassistant.com
@@ -918,6 +918,7 @@
 0.0.0.0 api.kameleoon.com
 0.0.0.0 api.lab.amplitude.com
 0.0.0.0 api.rudderlabs.com
+0.0.0.0 api.swetrix.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 apolloprogram.io
 0.0.0.0 app-analytics-v2.snapchat.com
@@ -1055,7 +1056,6 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 bebi.com
 0.0.0.0 beemray.com
-0.0.0.0 begun.ru
 0.0.0.0 behavioralengine.com
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
@@ -1607,6 +1607,7 @@
 0.0.0.0 fabric.io
 0.0.0.0 fadedsnow.com
 0.0.0.0 fairfeeling.com
+0.0.0.0 fakedisguise.com
 0.0.0.0 fallaciousfifth.com
 0.0.0.0 fam-ad.com
 0.0.0.0 farethief.com
@@ -1780,6 +1781,7 @@
 0.0.0.0 hightrafficads.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 histats.com
+0.0.0.0 historytrade.com
 0.0.0.0 hit-parade.com
 0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
@@ -2170,6 +2172,7 @@
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 milotree.com
+0.0.0.0 mineinvoice.com
 0.0.0.0 minewhat.com
 0.0.0.0 mintegral.com
 0.0.0.0 mittencattle.com
@@ -2217,7 +2220,6 @@
 0.0.0.0 mtree.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mundanenail.com
-0.0.0.0 mundanepollution.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 muteknife.com
 0.0.0.0 muwmedia.com
@@ -2472,6 +2474,7 @@
 0.0.0.0 popunder.ru
 0.0.0.0 popunhot1.blogspot.com
 0.0.0.0 popup.msn.com
+0.0.0.0 popupmoney.com
 0.0.0.0 popupnation.com
 0.0.0.0 popuptraffic.com
 0.0.0.0 porngraph.com
@@ -2668,7 +2671,6 @@
 0.0.0.0 richmails.com
 0.0.0.0 richstring.com
 0.0.0.0 rightstats.com
-0.0.0.0 riktok.pl
 0.0.0.0 ringplant.com
 0.0.0.0 ringsrecord.com
 0.0.0.0 ritzyrepresentative.com

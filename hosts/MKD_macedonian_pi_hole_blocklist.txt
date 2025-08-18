@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_20.txt
 ! Version: 1.0.14.53
-! Last modified: 2025-08-10T06:10:58.202Z
+! Last modified: 2025-08-17T06:10:41.050Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 10bet.com
 0.0.0.0 2mdn.net
