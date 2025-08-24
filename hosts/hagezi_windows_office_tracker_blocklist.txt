@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.60
-! Last modified: 2025-08-17T06:10:40.182Z
+! Version: 1.0.0.62
+! Last modified: 2025-08-24T06:10:25.786Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -95,6 +95,7 @@
 0.0.0.0 pgteu3-word-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu4-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu4-word-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu5-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu5-word-telemetry-vip.officeapps.live.com
@@ -165,10 +166,6 @@
 0.0.0.0 clarity.microsoft.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 events-sandbox.data.microsoft.com
-0.0.0.0 settings.data.microsoft.com
-0.0.0.0 settings-sandbox.data.microsoft.com
-0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
@@ -321,7 +318,6 @@
 0.0.0.0 agps-location-livenet.trafficmanager.net
 0.0.0.0 analytics.trafficmanager.net
 0.0.0.0 analytics-listener.trafficmanager.net
-0.0.0.0 atm-settingsfe-prod-geo2.trafficmanager.net
 0.0.0.0 avdab-p-corniche-events-relay.trafficmanager.net
 0.0.0.0 avdab-s-corniche-events-relay.trafficmanager.net
 0.0.0.0 avdab-t-corniche-events-relay.trafficmanager.net
@@ -357,9 +353,6 @@
 0.0.0.0 rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 self-events-data.trafficmanager.net
-0.0.0.0 settingsfd-geo.trafficmanager.net
-0.0.0.0 settingsfd-ppe.trafficmanager.net
-0.0.0.0 settingsfd-sandbox.trafficmanager.net
 0.0.0.0 ssp-prod-eastus-nonmutt.trafficmanager.net
 0.0.0.0 stats-partner.trafficmanager.net
 0.0.0.0 teams-events-data.trafficmanager.net

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.18.94
-! Last modified: 2025-08-17T06:10:48.952Z
+! Version: 1.0.19.8
+! Last modified: 2025-08-24T06:10:35.083Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -366,6 +366,7 @@
 0.0.0.0 cdn.ourru.com
 0.0.0.0 china-sister-hong-ty.blogspot.com
 0.0.0.0 cdn.710k.com
+0.0.0.0 cdnservice.ink
 0.0.0.0 discordvip.createsocialcard.top
 0.0.0.0 whatsapp-32w.pages.dev
 0.0.0.0 c0nt4ct-me.pages.dev
@@ -597,8 +598,8 @@
 0.0.0.0 le.lrtkzy2.shop
 0.0.0.0 app.kamlno.network
 0.0.0.0 macclear.com
-0.0.0.0 onepiecegoods.com
-0.0.0.0 printslamdunk.com
+0.0.0.0 pixiv.verificationidentity.click
+0.0.0.0 complete-to-continue.pages.dev
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 coup-ling-dm.net
@@ -1907,6 +1908,11 @@
 0.0.0.0 tr53vs.com
 0.0.0.0 spankvideo.net
 0.0.0.0 mihayume.com
+0.0.0.0 lvrc.jp
+0.0.0.0 dearmonalisa.com
+0.0.0.0 nogruptexn.com
+0.0.0.0 paulssuitswholeshop-jp.shop
+0.0.0.0 ralphclothing-jp.com
 0.0.0.0 webogram.org
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
@@ -1934,18 +1940,14 @@
 0.0.0.0 stb-media.xyz
 0.0.0.0 theweddingmahotsav.com
 0.0.0.0 hodllane.com
-0.0.0.0 165-227-173-120.plesk.page
 0.0.0.0 pushlandings.b-cdn.net
-0.0.0.0 64-226-126-114.plesk.page
 0.0.0.0 fastndio.s3.eu-central-1.amazonaws.com
 0.0.0.0 pub-77106c9273be4f3fbec6b6d6c3c51b7f.r2.dev
 0.0.0.0 setkuttina.pages.dev
 0.0.0.0 certificate-certificate.gettrials.com
-0.0.0.0 boring-tesla.149-102-231-176.plesk.page
 0.0.0.0 xbasugigqiuegiwqdbsx.s3.ap-northeast-1.amazonaws.com
 0.0.0.0 uwqghwfdwqywetqwfghewqeqweig.s3.ap-southeast-2.amazonaws.com
 0.0.0.0 fantastic-salamander-c721cb.netlify.app
-0.0.0.0 jp-helplineweb-chrsmjinfgtizonedswebs-01.s3.ap-southeast-2.amazonaws.com
 0.0.0.0 germanytechsupport.pages.dev
 0.0.0.0 systemsupport.pages.dev
 0.0.0.0 techsupport-ev2.pages.dev
@@ -2110,6 +2112,7 @@
 0.0.0.0 group-postban.firebaseapp.com
 0.0.0.0 adobecloud5xpo.yolasite.com
 0.0.0.0 adobepd*.glitch.me
+0.0.0.0 doc*-order*adobe.glitch.me
 0.0.0.0 vstergioul.sites.sch.gr
 0.0.0.0 netflix.avdhoothadke.com
 0.0.0.0 ija.xwi.mybluehost.me
@@ -2120,6 +2123,11 @@
 0.0.0.0 chn-allegroshopac.one
 0.0.0.0 allegrolokalnie.pl-
 0.0.0.0 allegrolokalnie.*.shop
+0.0.0.0 racks.pages.dev
+0.0.0.0 rackweb-----support*.weebly.com
+0.0.0.0 danakagetrsm.vercel.app
+0.0.0.0 layanan-app.com
+0.0.0.0 pemesanan*.glowz.my.id
 0.0.0.0 orange53.yolasite.com
 0.0.0.0 dev-7614646544.pantheonsite.io
 0.0.0.0 smsmmsernorepls.wixsite.com
@@ -2148,6 +2156,10 @@
 0.0.0.0 939l.xyz
 0.0.0.0 ebnays.xyz
 0.0.0.0 51eabay.com
+0.0.0.0 hologramid.cn
+0.0.0.0 jybelinda.com
+0.0.0.0 sanpelmaquinas.com.br
+0.0.0.0 airpsite.club
 0.0.0.0 diwapa3051.wixsite.com
 0.0.0.0 idhnochalter.wixsite.com
 0.0.0.0 cajewar736.wixsite.com
@@ -2168,10 +2180,33 @@
 0.0.0.0 attonlineservice*.wixstudio.com
 0.0.0.0 currentlyatt*.weebly.com
 0.0.0.0 currentlymail*.weebly.com
+0.0.0.0 attmailservice*.weebly.com
 0.0.0.0 att-currently-*.weeblysite.com
 0.0.0.0 2025*maintenance.weebly.com
 0.0.0.0 plum-binder-*.typedream.app
+0.0.0.0 homelogginbbt.weebly.com
+0.0.0.0 loogginhomebtcom.weebly.com
+0.0.0.0 callonjehovandprayinthemorning.weebly.com
+0.0.0.0 boardband.univer.se
+0.0.0.0 agenziaentrateriscossione.com
+0.0.0.0 aitimaforou.web.app
 0.0.0.0 dichvucong*.top
+0.0.0.0 seeproc.com.br
+0.0.0.0 liveflo.qxlva.io
+0.0.0.0 student-finance-auth.firebaseapp.com
+0.0.0.0 insolvency-development.co.uk
+0.0.0.0 isz.bqv.mybluehost.me
+0.0.0.0 polufredsoa.2mydns.net
+0.0.0.0 kkg.yaf.temporary.site
+0.0.0.0 antai-gouv-fr.troliga.sk
+0.0.0.0 amz.boy.mybluehost.me
+0.0.0.0 vmb.wvs.mybluehost.me
+0.0.0.0 kby.oqp.mybluehost.me
+0.0.0.0 vdv.oqp.mybluehost.me
+0.0.0.0 impotsgouv.*.wcomhost.com
+0.0.0.0 amandes*.serv00.net
+0.0.0.0 internal-checker.com
+0.0.0.0 banque-online.com
 0.0.0.0 vdbank.com.vn
 0.0.0.0 conveyancingportal.com
 0.0.0.0 bmoreferral.com
@@ -2193,6 +2228,19 @@
 0.0.0.0 caixa-login-banco-home-login-auth-h.codeanyapp.com
 0.0.0.0 caixa-*.codeanyapp.com
 0.0.0.0 biblio.sviluppo.host
+0.0.0.0 www-winbank-lfremhmida*.codeanyapp.com
+0.0.0.0 laurenmjackson.serv00.net
+0.0.0.0 sparkasse-safety.de
+0.0.0.0 sparkasse-oberhessen.info
+0.0.0.0 itaconsorciodigital.com.br
+0.0.0.0 td-online-carta.codeanyapp.com
+0.0.0.0 e-cmv.ph
+0.0.0.0 somosbancolombia.zeabur.app
+0.0.0.0 bancolombiaapp.glitch.me
+0.0.0.0 cancelaciondeseguros-*.azurewebsites.net
+0.0.0.0 lbg-calcs.vercel.app
+0.0.0.0 gohvb-d634f.web.app
+0.0.0.0 gohvb-*.web.app
 0.0.0.0 bbvaar.zeabur.app
 0.0.0.0 programajourney.com
 0.0.0.0 bdvenlinea*.pages.dev
@@ -2226,6 +2274,7 @@
 0.0.0.0 instagram.irancell-10g-free.rf.gd
 0.0.0.0 businesslnstagram.zya.me
 0.0.0.0 instagram0639.blogspot.
+0.0.0.0 kkinstagram.com
 0.0.0.0 slimhealth.us
 0.0.0.0 mail.pages.exchange-midasbuy.com
 0.0.0.0 notificationbyfacebook.
@@ -2413,6 +2462,7 @@
 0.0.0.0 itrustcapitaalloginn.webflow.io
 0.0.0.0 secure---sso---robinhood---com-cdn.webflow.io
 0.0.0.0 sso--en--cobo--trsuted-auth.webflow.io
+0.0.0.0 netcoislogin-zone.webflow.io
 0.0.0.0 pepecoinsuper-airdrop.pages.dev
 0.0.0.0 appmemekombatclaim.pages.dev
 0.0.0.0 testmyaa.pages.dev
@@ -2432,6 +2482,7 @@
 0.0.0.0 final-claim.pages.dev
 0.0.0.0 alienxchain*.pages.dev
 0.0.0.0 xcoinspro.com
+0.0.0.0 lab-chaingpt.net
 0.0.0.0 metamask*.webflow.io
 0.0.0.0 bitvavo*.cc
 0.0.0.0 bitvavo*.top
@@ -2790,6 +2841,7 @@
 0.0.0.0 iqpoll.cn
 0.0.0.0 zhandouxian.com
 0.0.0.0 tempisite.com
+0.0.0.0 hapeblox.blogspot.com
 0.0.0.0 sparrowwallet.net
 0.0.0.0 electrum.is
 0.0.0.0 tracker.club-os.com
@@ -3200,3 +3252,8 @@
 0.0.0.0 officialkmspico.net
 0.0.0.0 officials-kmspico.com
 0.0.0.0 faciet.client-ac.com
+0.0.0.0 lazada.hnjqpm.com
+0.0.0.0 sasktel.mmspos.com
+0.0.0.0 onepiecegoods.com
+0.0.0.0 printslamdunk.com
+0.0.0.0 jujutsukaisengoods.com

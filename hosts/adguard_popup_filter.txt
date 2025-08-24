@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.84
-! Last modified: 2025-08-17T06:10:36.326Z
+! Version: 1.0.16.86
+! Last modified: 2025-08-24T06:10:17.343Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 update-macosx.com
 0.0.0.0 orlovskyi.com
@@ -376,6 +376,7 @@
 0.0.0.0 fomalhautgacrux.com
 0.0.0.0 forooqso.tv
 0.0.0.0 freetrckr.com
+0.0.0.0 frequentjam.com
 0.0.0.0 freshpops.net
 0.0.0.0 frostykitten.com
 0.0.0.0 fstsrv16.com
@@ -548,6 +549,7 @@
 0.0.0.0 nontraditionally.rest
 0.0.0.0 noohapou.com
 0.0.0.0 noolt.com
+0.0.0.0 north-verification.com
 0.0.0.0 northauthority.xyz
 0.0.0.0 northdownload.com
 0.0.0.0 northrtbads.top
@@ -579,6 +581,7 @@
 0.0.0.0 optvz.com
 0.0.0.0 otoadom.com
 0.0.0.0 outoctillerytor.com
+0.0.0.0 ouzalruksengung.com
 0.0.0.0 ovardu.com
 0.0.0.0 oversolosisor.com
 0.0.0.0 ovret.com
@@ -594,6 +597,7 @@
 0.0.0.0 pilotstracking.com
 0.0.0.0 pisism.com
 0.0.0.0 playmmogames.com
+0.0.0.0 playonlinegames.space
 0.0.0.0 playstretch.host
 0.0.0.0 plinksplanet.com
 0.0.0.0 plorexdry.com
@@ -783,6 +787,7 @@
 0.0.0.0 vasstycom.com
 0.0.0.0 verdepromo.info
 0.0.0.0 vfgte.com
+0.0.0.0 vicegoriest.shop
 0.0.0.0 viiadaof.com
 0.0.0.0 viibslav.com
 0.0.0.0 viiczfvm.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.60
-! Last modified: 2025-08-17T06:10:30.605Z
+! Version: 1.0.15.62
+! Last modified: 2025-08-24T06:10:11.337Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180searchassistant.com
@@ -676,7 +676,6 @@
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.kontent.com
-0.0.0.0 adserver.lecool.com
 0.0.0.0 adserver.mobi
 0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.nydailynews.com
@@ -872,7 +871,6 @@
 0.0.0.0 analytics.algoepico.net
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.cloudron.io
-0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.emarketer.com
 0.0.0.0 analytics.ext.go-tellm.com
 0.0.0.0 analytics.google.com
@@ -983,6 +981,7 @@
 0.0.0.0 b3.videoamp.com
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 backbeatmedia.com
+0.0.0.0 bagsurprise.com
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner.ambercoastcasino.com
 0.0.0.0 banner.buempliz-online.ch
@@ -1822,6 +1821,7 @@
 0.0.0.0 hueadsortb.com
 0.0.0.0 hueadsxml.com
 0.0.0.0 hurricanedigitalmedia.com
+0.0.0.0 hustlercoach.com
 0.0.0.0 hydraconcept.com
 0.0.0.0 hydramedia.com
 0.0.0.0 hyperbanner.net
@@ -1915,6 +1915,7 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 j93557g.com
 0.0.0.0 jads.co
+0.0.0.0 jamexport.com
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
 0.0.0.0 jinkads.de
@@ -1959,6 +1960,7 @@
 0.0.0.0 l6b587txj1.com
 0.0.0.0 lakequincy.com
 0.0.0.0 lameletters.com
+0.0.0.0 landkarts.com
 0.0.0.0 larati.net
 0.0.0.0 largebrass.com
 0.0.0.0 laughcloth.com
@@ -2714,7 +2716,6 @@
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
 0.0.0.0 sadloaf.com
-0.0.0.0 safeanalytics.net
 0.0.0.0 sail-horizon.com
 0.0.0.0 samplesamba.com
 0.0.0.0 samsungacr.com
