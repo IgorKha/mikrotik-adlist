@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.48
-! Last modified: 2025-08-17T06:10:36.254Z
+! Version: 1.0.15.51
+! Last modified: 2025-08-24T06:10:17.259Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -171,6 +171,7 @@
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.lemurbrowser.com
 0.0.0.0 andrqd.play.aiseet.atianqi.com
+0.0.0.0 ap.dongdianqiu.com
 0.0.0.0 ap.dongqiudi.com
 0.0.0.0 apd-pcdnwxlogin.teg.tencent-cloud.net
 0.0.0.0 apd-pcdnwxnat.teg.tencent-cloud.net
@@ -227,8 +228,10 @@
 0.0.0.0 bgg.baidu.com
 0.0.0.0 bianxian.com
 0.0.0.0 bingads.microsoft.com
+0.0.0.0 biz.weibo.com
 0.0.0.0 bj.ad.track.66mobi.com
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 bootpreload.uve.weibo.com
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 bsrv.qq.com
 0.0.0.0 bugly.qq.com
@@ -362,6 +365,7 @@
 0.0.0.0 heads-ak.spotify.com.edgesuite.net
 0.0.0.0 heads-fa.spotify.com
 0.0.0.0 hexagon-analytics.com
+0.0.0.0 hlog.bigda.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 hotupgrade.hpplay.cn
@@ -488,6 +492,7 @@
 0.0.0.0 micro-xdb.com
 0.0.0.0 mini-prog-drm.vodplayvideo.net
 0.0.0.0 miui-fxcse.avlyun.com
+0.0.0.0 mlog.bigda.com
 0.0.0.0 mmgame.qpic.cn
 0.0.0.0 mnqlog.ldmnq.com
 0.0.0.0 moatads.com
@@ -724,6 +729,7 @@
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 umini.shujupie.com
+0.0.0.0 union-mlog.bigda.com
 0.0.0.0 union.baidu.cn
 0.0.0.0 union.baidu.com
 0.0.0.0 update.avlyun.sec.miui.com

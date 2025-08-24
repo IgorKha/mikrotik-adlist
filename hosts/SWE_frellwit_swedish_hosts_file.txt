@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.21
-! Last modified: 2025-08-17T06:10:40.896Z
+! Version: 1.0.15.25
+! Last modified: 2025-08-24T06:10:26.614Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1terms.com
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -110,6 +110,7 @@
 0.0.0.0 analytics.apotekhjartat.se
 0.0.0.0 analytics.arvika.se
 0.0.0.0 analytics.ciseway.se
+0.0.0.0 analytics.citreamedia.com
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.elle.se
@@ -168,6 +169,7 @@
 0.0.0.0 applets.ebxcdn.com
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 apps-cdn.relevant-digital.com
+0.0.0.0 app.visitor-analytics.io
 0.0.0.0 apsislead.com
 0.0.0.0 aquaplatform.com
 0.0.0.0 arbetaren.innocraft.cloud
@@ -194,6 +196,7 @@
 0.0.0.0 banners.instaforex.com
 0.0.0.0 banners.wsnonline.dk
 0.0.0.0 bannersnack.com
+0.0.0.0 bb-pbc.mainroll.com
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 bcm.interactives.dk
 0.0.0.0 bellmetric.net
@@ -253,6 +256,7 @@
 0.0.0.0 cdn.adt532.com
 0.0.0.0 cdn.adt545.net
 0.0.0.0 cdn.adt567.net
+0.0.0.0 cdn.adt574.com
 0.0.0.0 cdn.adt598.com
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn.advisible.com
@@ -315,6 +319,7 @@
 0.0.0.0 cdn-header-bidding.snack-media.com
 0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 cdn-scripts.signifyd.com
+0.0.0.0 cdn.confiant-integrations.net
 0.0.0.0 cdn.dep-x.com
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 cdn.lrkt-in.com
@@ -480,6 +485,7 @@
 0.0.0.0 get.optad360.io
 0.0.0.0 get.s-onetag.com
 0.0.0.0 glitnoraffiliates.elb.myaffiliates.com
+0.0.0.0 go.affiliationcloud.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 go.ezoic.net
 0.0.0.0 graphics.adrecord.com
@@ -571,6 +577,7 @@
 0.0.0.0 lifeofsvea.mainroll.com
 0.0.0.0 litix.io
 0.0.0.0 live.demand.supply
+0.0.0.0 load.a.receptskatt.se
 0.0.0.0 load.sumome.com
 0.0.0.0 loadbalancer.visitor-analytics.io
 0.0.0.0 loader.wisepops.com
@@ -582,6 +589,7 @@
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 longchampstockholm.com.se
 0.0.0.0 look.ufinkln.com
+0.0.0.0 ls.dycdn.net
 0.0.0.0 lwadm.com
 0.0.0.0 m.extellio.com
 0.0.0.0 m1.analytics.sitevision-cloud.se
@@ -761,6 +769,7 @@
 0.0.0.0 scripts.makeinfluence.com
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 scripts.simpleanalyticscdn.com
+0.0.0.0 scripts.stay22.com
 0.0.0.0 scripts.opti-digital.com
 0.0.0.0 script.e-space.se
 0.0.0.0 sdk.pulse.schibsted.com
@@ -1100,6 +1109,7 @@
 0.0.0.0 widgets.spklw.com
 0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 wix-engage-visitors-prod-16.firebaseio.com
+0.0.0.0 wlcoolbet.adsrv.eacdn.com
 0.0.0.0 wleuroearners.adsrv.eacdn.com
 0.0.0.0 woomio.com
 0.0.0.0 wrap.tradedoubler.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.15.87
-! Last modified: 2025-08-17T06:10:49.159Z
+! Version: 1.0.15.90
+! Last modified: 2025-08-24T06:10:35.334Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -97,7 +97,6 @@
 0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
-0.0.0.0 awiki.org
 0.0.0.0 ax.lt
 0.0.0.0 b0ne.com
 0.0.0.0 b0tnet.com
@@ -131,7 +130,6 @@
 0.0.0.0 blogdns.net
 0.0.0.0 blogdns.org
 0.0.0.0 blogsite.org
-0.0.0.0 blogsite.xyz
 0.0.0.0 blogsyte.com
 0.0.0.0 bloodforthebloodgod.com
 0.0.0.0 bloom.us
@@ -249,7 +247,6 @@
 0.0.0.0 darksair.org
 0.0.0.0 darktech.org
 0.0.0.0 davidsagar.com
-0.0.0.0 dd-dns.de
 0.0.0.0 ddns.info
 0.0.0.0 ddns.me
 0.0.0.0 ddns.mobi
@@ -345,7 +342,6 @@
 0.0.0.0 doyleandprendergast.com
 0.0.0.0 dp76.com
 0.0.0.0 dpcube.com
-0.0.0.0 dray-dns.de
 0.0.0.0 drayddns.com
 0.0.0.0 dropfiles.net
 0.0.0.0 drunkensailor.org
@@ -377,7 +373,6 @@
 0.0.0.0 dyn-access.org
 0.0.0.0 dyn-ip24.de
 0.0.0.0 dyn-o-saur.com
-0.0.0.0 dyn-vpn.de
 0.0.0.0 dynalias.com
 0.0.0.0 dynalias.net
 0.0.0.0 dynalias.org
@@ -820,7 +815,6 @@
 0.0.0.0 itekgroup.com
 0.0.0.0 itemdb.com
 0.0.0.0 itsaol.com
-0.0.0.0 iu4ever.org
 0.0.0.0 iugaming.com
 0.0.0.0 ivc.cc
 0.0.0.0 ix.tc
@@ -1401,7 +1395,6 @@
 0.0.0.0 vincomlimited.com
 0.0.0.0 vitalwerks.com
 0.0.0.0 vizvaz.com
-0.0.0.0 voles35.ru
 0.0.0.0 voyez.ca
 0.0.0.0 vpn64.de
 0.0.0.0 vpndns.net
