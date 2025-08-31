@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.51
-! Last modified: 2025-08-24T06:10:35.422Z
+! Version: 1.0.17.54
+! Last modified: 2025-08-31T06:33:54.534Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -133,7 +133,6 @@
 0.0.0.0 50megs.com
 0.0.0.0 50webs.com
 0.0.0.0 50webs.org
-0.0.0.0 blog.51cto.com
 0.0.0.0 530.at
 0.0.0.0 59bloggers.com
 0.0.0.0 5gbfree.com
@@ -810,6 +809,7 @@
 0.0.0.0 download.sh
 0.0.0.0 downloaden24.de
 0.0.0.0 dox4.com
+0.0.0.0 dpdns.org
 0.0.0.0 dr.ag
 0.0.0.0 dragndropbuilder.com
 0.0.0.0 dreamstation.com
@@ -841,6 +841,7 @@
 0.0.0.0 ecrater.com
 0.0.0.0 editboard.com
 0.0.0.0 edoctransfer.com
+0.0.0.0 edu.eu
 0.0.0.0 edublogs.com
 0.0.0.0 edublogs.org
 0.0.0.0 educationalimpactblog.com
@@ -869,7 +870,6 @@
 0.0.0.0 eo3.de
 0.0.0.0 blog.eonet.jp
 0.0.0.0 epizy.com
-0.0.0.0 equalside.shop
 0.0.0.0 erlegen.de
 0.0.0.0 es.gp
 0.0.0.0 es-bbvacliente-movil.com
@@ -1276,7 +1276,6 @@
 0.0.0.0 kann-helfen.de
 0.0.0.0 kataweb.it
 0.0.0.0 keepfree.de
-0.0.0.0 keetkotoun.com
 0.0.0.0 kidnumber.shop
 0.0.0.0 kilu.at
 0.0.0.0 kilu.biz
@@ -1621,6 +1620,7 @@
 0.0.0.0 qowap.com
 0.0.0.0 qu.am
 0.0.0.0 quiztionnaire.uk
+0.0.0.0 qzz.io
 0.0.0.0 r.gp
 0.0.0.0 r2.dev
 0.0.0.0 radiola.club
@@ -1654,11 +1654,8 @@
 0.0.0.0 rumahweb.org
 0.0.0.0 runhosting.com
 0.0.0.0 s.gp
+0.0.0.0 sa.com
 0.0.0.0 sa.gp
-0.0.0.0 citybios.sa.com
-0.0.0.0 lifecycle.sa.com
-0.0.0.0 lineroaming.sa.com
-0.0.0.0 regentcoin.sa.com
 0.0.0.0 safe-girogate.com
 0.0.0.0 safe-ws.de
 0.0.0.0 safwhatsapp.top
@@ -1907,6 +1904,7 @@
 0.0.0.0 uphero.com
 0.0.0.0 uploader.eu
 0.0.0.0 urlaub.lc
+0.0.0.0 us.kg
 0.0.0.0 us.nf
 0.0.0.0 us.st
 0.0.0.0 usa.gg
@@ -2090,6 +2088,7 @@
 0.0.0.0 xtgem.com
 0.0.0.0 xtreemhost.com
 0.0.0.0 xuu.pl
+0.0.0.0 xx.kg
 0.0.0.0 xx.lc
 0.0.0.0 xxl.lc
 0.0.0.0 xxxxxxxx.jp
@@ -2115,11 +2114,9 @@
 0.0.0.0 yovip.net
 0.0.0.0 yuku.com
 0.0.0.0 z.gp
+0.0.0.0 za.com
 0.0.0.0 za.gp
 0.0.0.0 za.net
-0.0.0.0 awi.za.com
-0.0.0.0 baxiys.za.com
-0.0.0.0 ishg.za.com
 0.0.0.0 zamsblog.com
 0.0.0.0 zapacesauto.shop
 0.0.0.0 zeblog.com

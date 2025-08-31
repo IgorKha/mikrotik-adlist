@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.2
-! Last modified: 2025-08-24T06:10:25.950Z
+! Version: 1.0.0.3
+! Last modified: 2025-08-31T06:33:44.236Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -53,10 +53,6 @@
 0.0.0.0 icosa-service-us.allawnos.com
 0.0.0.0 icota-service-eu.allawnos.com
 0.0.0.0 icota-service-in.allawnos.com
-0.0.0.0 lang-server-eu.allawnos.com
-0.0.0.0 lang-server-in.allawnos.com
-0.0.0.0 lang-server-sg.allawnos.com
-0.0.0.0 lang-server-us.allawnos.com
 0.0.0.0 lockcard-service-in.allawnos.com
 0.0.0.0 moa-upload-in.allawnos.com
 0.0.0.0 moa-upload-sg.allawnos.com

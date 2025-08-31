@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-! Version: 1.0.0.27
-! Last modified: 2025-08-24T06:10:25.704Z
+! Version: 1.0.0.28
+! Last modified: 2025-08-31T06:33:43.961Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -63,6 +63,7 @@
 0.0.0.0 conn-v2.samsung.japps.cn
 0.0.0.0 report-v2.samsung.japps.cn
 0.0.0.0 sis-v2.samsung.japps.cn
+0.0.0.0 moai-dev-samsung.com
 0.0.0.0 samsungcard.sc.omtrdc.net
 0.0.0.0 samsungnorthamerica.sc.omtrdc.net
 0.0.0.0 samsung.com.ssl.sc.omtrdc.net
@@ -79,13 +80,17 @@
 0.0.0.0 samsungturkey.tt.omtrdc.net
 0.0.0.0 samsungus.tt.omtrdc.net
 0.0.0.0 samsungtv-d.openx.net
+0.0.0.0 qmds-dev-samsung.com
 0.0.0.0 zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com
 0.0.0.0 zn9xowqszdbqtbfwx-seasamsung.siteintercept.qualtrics.com
 0.0.0.0 znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com
 0.0.0.0 znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com
 0.0.0.0 zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
 0.0.0.0 sia.internet.apps.samsung.com
+0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dls-account.di.atlas.samsung.com
+0.0.0.0 dqa-auth.di.atlas.samsung.com
+0.0.0.0 regi.di.atlas.samsung.com
 0.0.0.0 images.b2bindia.samsung.com
 0.0.0.0 analytics.bigdata.samsung.com
 0.0.0.0 lp.americas.business.samsung.com
@@ -99,6 +104,8 @@
 0.0.0.0 channelusa.samsung.com
 0.0.0.0 images.chbusiness.samsung.com
 0.0.0.0 dc.dqa.samsung.com
+0.0.0.0 dls-ddc.dqa.samsung.com
+0.0.0.0 dls-udc.dqa.samsung.com
 0.0.0.0 event-tracking.samsung.com
 0.0.0.0 images.frbusiness.samsung.com
 0.0.0.0 bldr.mkt.samsung.com
@@ -131,6 +138,8 @@
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 report.gras.samsungdm.com
+0.0.0.0 dev-apigw.samsungdmroute.com
+0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 analytics.samsungedo.com
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 bpu.samsungelectronics.com

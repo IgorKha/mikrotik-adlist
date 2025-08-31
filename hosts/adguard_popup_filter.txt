@@ -1,7 +1,11 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.86
-! Last modified: 2025-08-24T06:10:17.343Z
+! Version: 1.0.16.90
+! Last modified: 2025-08-31T06:33:34.774Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 flaegrudad.com
+0.0.0.0 cloudshielders.com
+0.0.0.0 tdcegypt.com
+0.0.0.0 cractivator.com
 0.0.0.0 update-macosx.com
 0.0.0.0 orlovskyi.com
 0.0.0.0 pixel-see.com
@@ -267,7 +271,9 @@
 0.0.0.0 brainberries.co
 0.0.0.0 brationalfilarded.com
 0.0.0.0 brujoshooch.shop
+0.0.0.0 bucksmein.com
 0.0.0.0 bunth.net
+0.0.0.0 byethost41.net
 0.0.0.0 c3j7rk-rtbix.top
 0.0.0.0 cam-maus.info
 0.0.0.0 camliveshow.xyz
@@ -309,6 +315,7 @@
 0.0.0.0 date2024.com
 0.0.0.0 date4sex.pro
 0.0.0.0 datesassistant.com
+0.0.0.0 dateyou2024.com
 0.0.0.0 datingforyour4.site
 0.0.0.0 dc-rotator.com
 0.0.0.0 ddbhm.pro
@@ -355,6 +362,7 @@
 0.0.0.0 enrtx.com
 0.0.0.0 equides.pro
 0.0.0.0 escortlist.pro
+0.0.0.0 evil-candle.pro
 0.0.0.0 excellingvista.com
 0.0.0.0 exclkplat.com
 0.0.0.0 exclplatmain.com
@@ -472,6 +480,7 @@
 0.0.0.0 lindychat.com
 0.0.0.0 linksprf.com
 0.0.0.0 litteracywing.pro
+0.0.0.0 livespacelivekeyrealclub.com
 0.0.0.0 lmdfmd.com
 0.0.0.0 loadtime.org
 0.0.0.0 loazuptaice.net
@@ -644,6 +653,7 @@
 0.0.0.0 racunn.com
 0.0.0.0 rbtfit.com
 0.0.0.0 rcdn-web.com
+0.0.0.0 reallyzills.top
 0.0.0.0 realsh.xyz
 0.0.0.0 realtime-bid.com
 0.0.0.0 recommended-twice.com
@@ -651,6 +661,7 @@
 0.0.0.0 redirectingat.com
 0.0.0.0 reebr.com
 0.0.0.0 resentreaccotia.com
+0.0.0.0 revertsskimmia.shop
 0.0.0.0 rexsrv.com
 0.0.0.0 rhinoaffiliates.com
 0.0.0.0 riflesurfing.xyz
@@ -736,6 +747,7 @@
 0.0.0.0 tbeiu658gftk.com
 0.0.0.0 tgel2ebtx.ru
 0.0.0.0 thebtrads.top
+0.0.0.0 thefasthorse.com
 0.0.0.0 theirbellstudio.co
 0.0.0.0 theonesstoodtheirground.com
 0.0.0.0 tigerbrluck.com
@@ -796,6 +808,7 @@
 0.0.0.0 viigetxc.com
 0.0.0.0 viiyutty.com
 0.0.0.0 viiyxefb.com
+0.0.0.0 vilytaku.com
 0.0.0.0 violationphysics.click
 0.0.0.0 viralnewsbd.xyz
 0.0.0.0 virelon.com
