@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
-! Version: 1.0.15.55
-! Last modified: 2025-08-31T06:33:46.167Z
+! Version: 1.0.15.62
+! Last modified: 2025-09-07T06:09:57.461Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 mman.kr
+0.0.0.0 admize.io
 0.0.0.0 adguru.kr
 0.0.0.0 image.cauly.co.kr
 0.0.0.0 bridgelabs.kr
@@ -196,7 +198,6 @@
 0.0.0.0 ad.esmplus.com
 0.0.0.0 adcheck.about.co.kr
 0.0.0.0 ads.mncmedia.co.kr
-0.0.0.0 mtag.mman.kr
 0.0.0.0 ssp.meba.kr
 0.0.0.0 ad.adnmore.co.kr
 0.0.0.0 adapi.about.co.kr

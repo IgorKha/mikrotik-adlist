@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.90
-! Last modified: 2025-08-31T06:33:34.774Z
+! Version: 1.0.16.95
+! Last modified: 2025-09-07T06:09:43.798Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 sosalkebab.com
+0.0.0.0 droplink.digital
 0.0.0.0 flaegrudad.com
 0.0.0.0 cloudshielders.com
 0.0.0.0 tdcegypt.com
@@ -220,6 +222,7 @@
 0.0.0.0 alpenridge.top
 0.0.0.0 alpine-vpn.com
 0.0.0.0 aneorwd.com
+0.0.0.0 animeloundry.com
 0.0.0.0 antcixn.com
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 antjgr.com
@@ -830,6 +833,7 @@
 0.0.0.0 webfanclub.com
 0.0.0.0 webmedrtb.com
 0.0.0.0 wetrackgames.com
+0.0.0.0 wettigo136.com
 0.0.0.0 wewearegogogo.com
 0.0.0.0 wheceelt.net
 0.0.0.0 where-to.shop
@@ -1210,7 +1214,6 @@
 0.0.0.0 origoclick.com
 0.0.0.0 passion.com
 0.0.0.0 performanceonclick.com
-0.0.0.0 playhydrax.com
 0.0.0.0 porn-upload.com
 0.0.0.0 pornz.fr
 0.0.0.0 potwm.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.54
-! Last modified: 2025-08-31T06:33:54.534Z
+! Version: 1.0.17.60
+! Last modified: 2025-09-07T06:10:08.896Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -922,8 +922,6 @@
 0.0.0.0 fb-business.com
 0.0.0.0 fblogs.com
 0.0.0.0 fbzsa.com
-0.0.0.0 fc2.com
-0.0.0.0 fc2web.com
 0.0.0.0 fcpages.com
 0.0.0.0 fe-boutique.shop
 0.0.0.0 ferreracademy.com
@@ -1267,7 +1265,6 @@
 0.0.0.0 jts-blog.com
 0.0.0.0 jugem.cc
 0.0.0.0 jugem.jp
-0.0.0.0 justaboutblogs.com
 0.0.0.0 justns.ru
 0.0.0.0 k.gp
 0.0.0.0 k1.cx
@@ -1352,7 +1349,6 @@
 0.0.0.0 maddsites.com
 0.0.0.0 madmouseblog.com
 0.0.0.0 mail.ht
-0.0.0.0 majesticbank.at
 0.0.0.0 majesticbank.de
 0.0.0.0 maktoobblog.com
 0.0.0.0 malltree.shop
@@ -1519,12 +1515,10 @@
 0.0.0.0 oooninja.com
 0.0.0.0 opisial.com
 0.0.0.0 orangeusa.shop
-0.0.0.0 orderedlinks.shop
 0.0.0.0 24.org.es
 0.0.0.0 orgsites.com
 0.0.0.0 osc.pl
 0.0.0.0 ourcodeblog.com
-0.0.0.0 outoverall.shop
 0.0.0.0 over-blog.com
 0.0.0.0 over-blog.fr
 0.0.0.0 over-blog.it
@@ -1800,6 +1794,7 @@
 0.0.0.0 teleporthq.app
 0.0.0.0 telrock.org
 0.0.0.0 tempisite.com
+0.0.0.0 temporary.site
 0.0.0.0 temporary-demo.site
 0.0.0.0 temu-jp.shop
 0.0.0.0 tentbuildingservices.eu
@@ -1808,7 +1803,6 @@
 0.0.0.0 testingnow.me
 0.0.0.0 tgpropower.top
 0.0.0.0 th.gp
-0.0.0.0 the-finance-world.com
 0.0.0.0 theblog.me
 0.0.0.0 theblogaddict.com
 0.0.0.0 theblogfairy.com
@@ -1868,6 +1862,7 @@
 0.0.0.0 tw.gp
 0.0.0.0 tw1.ru
 0.0.0.0 tweakblogs.net
+0.0.0.0 typedream.app
 0.0.0.0 u.gp
 0.0.0.0 ua.gp
 0.0.0.0 ubpages.com
@@ -1933,9 +1928,6 @@
 0.0.0.0 virus.in
 0.0.0.0 vmn.net
 0.0.0.0 vn.gp
-0.0.0.0 voellig-daneben.de
-0.0.0.0 vollidiot.net
-0.0.0.0 vollsten.de
 0.0.0.0 voten.in
 0.0.0.0 vpswala.org
 0.0.0.0 vxub.com
@@ -2062,6 +2054,7 @@
 0.0.0.0 writes.de
 0.0.0.0 wssblogs.com
 0.0.0.0 wtcsites.com
+0.0.0.0 wuaze.com
 0.0.0.0 www4.me
 0.0.0.0 wy5532.com
 0.0.0.0 x.gp
