@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt
-! Version: 1.0.14.81
-! Last modified: 2025-08-31T06:33:43.872Z
+! Version: 1.0.14.83
+! Last modified: 2025-09-07T06:09:54.231Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -40,7 +40,6 @@
 0.0.0.0 migcreport.g.mi.com
 0.0.0.0 mis.g.mi.com
 0.0.0.0 in.tv.global.mi.com
-0.0.0.0 hd.mi.com
 0.0.0.0 a.hl.mi.com
 0.0.0.0 idm.iot.mi.com
 0.0.0.0 api.jr.mi.com
@@ -198,7 +197,7 @@
 0.0.0.0 data.game.xiaomi.com
 0.0.0.0 notice.game.xiaomi.com
 0.0.0.0 static.game.xiaomi.com
-0.0.0.0 voip.game.xiaomi.com
+0.0.0.0 wl.voip.game.xiaomi.com
 0.0.0.0 wap.game.xiaomi.com
 0.0.0.0 idmb.app.chat.global.xiaomi.net
 0.0.0.0 fr.resolver.msg.global.xiaomi.net
@@ -304,7 +303,6 @@
 0.0.0.0 mishop.pandora.xiaomi.com
 0.0.0.0 pull.mitv.pandora.xiaomi.com
 0.0.0.0 mob.pandora.xiaomi.com
-0.0.0.0 monitor.pandora.xiaomi.com
 0.0.0.0 netcheck.pandora.xiaomi.com
 0.0.0.0 ottl7-l2.pandora.xiaomi.com
 0.0.0.0 media.pre.pandora.xiaomi.com

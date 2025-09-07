@@ -1,19 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt
-! Version: 1.0.14.74
-! Last modified: 2025-08-31T06:33:45.146Z
+! Version: 1.0.14.76
+! Last modified: 2025-09-07T06:09:56.179Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
-0.0.0.0 adtodate.ir
-0.0.0.0 adrooz.com
-0.0.0.0 affilio.ir
-0.0.0.0 analyt.ir
 0.0.0.0 scripts-ads.s3.ir-thr-at1.arvanstorage.com
 0.0.0.0 error-tracking.arvancloud.com
-0.0.0.0 adexo.ir
-0.0.0.0 adexofiles.ir
-0.0.0.0 adskav.com
-0.0.0.0 advn.ir
-0.0.0.0 amaroid.net
-0.0.0.0 lnk.amaroid.net
 0.0.0.0 analytics.aasaam.com
 0.0.0.0 analytics-2.aasaam.com
 0.0.0.0 analytics-3.aasaam.com
@@ -142,21 +132,6 @@
 0.0.0.0 tapsell.ir
 0.0.0.0 toppopup.com
 0.0.0.0 counter.toolsir.com
-0.0.0.0 usermap.net
-0.0.0.0 userfriendly.ir
-0.0.0.0 utopclick.com
-0.0.0.0 utop.ir
-0.0.0.0 vatanclick.ir
-0.0.0.0 wideads.com
-0.0.0.0 xjs.lol
-0.0.0.0 xmlx.lol
-0.0.0.0 yelloadwise.ir
-0.0.0.0 ylad.ir
-0.0.0.0 yektanet.com
-0.0.0.0 sentry.yektanet.tech
-0.0.0.0 yekbux.com
-0.0.0.0 zarad.net
-0.0.0.0 zarpop.com
 0.0.0.0 ads.aftab.cc
 0.0.0.0 analytics.asiatech.ir
 0.0.0.0 dsp.aparat.com
