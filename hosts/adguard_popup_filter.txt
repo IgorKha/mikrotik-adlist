@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.95
-! Last modified: 2025-09-07T06:09:43.798Z
+! Version: 1.0.16.98
+! Last modified: 2025-09-14T06:10:13.125Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 protect-myphone.com
 0.0.0.0 sosalkebab.com
 0.0.0.0 droplink.digital
 0.0.0.0 flaegrudad.com
@@ -282,6 +283,7 @@
 0.0.0.0 camliveshow.xyz
 0.0.0.0 camptrck.com
 0.0.0.0 candyai.love
+0.0.0.0 casinobonusdeals.io
 0.0.0.0 cautommityring.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 chambermaidthree.xyz
@@ -652,6 +654,7 @@
 0.0.0.0 pushub.net
 0.0.0.0 qnp16tstw.com
 0.0.0.0 qualiclicks.com
+0.0.0.0 quixoticzest.com
 0.0.0.0 qwikln.com
 0.0.0.0 racunn.com
 0.0.0.0 rbtfit.com
@@ -698,11 +701,9 @@
 0.0.0.0 security-suggestion.com
 0.0.0.0 security-u.com
 0.0.0.0 securitycheckonline.com
-0.0.0.0 serving-refor.com
 0.0.0.0 servsserverz.com
 0.0.0.0 sessfetchio.com
 0.0.0.0 sexemulator.tube-sexs.com
-0.0.0.0 sgad.site
 0.0.0.0 sgben.com
 0.0.0.0 shakingtacklingunpeeled.com
 0.0.0.0 shauladubhe.top

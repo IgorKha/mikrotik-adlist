@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.15.91
-! Last modified: 2025-09-07T06:10:08.746Z
+! Version: 1.0.15.96
+! Last modified: 2025-09-14T06:10:37.888Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -12,6 +12,7 @@
 0.0.0.0 1337.cx
 0.0.0.0 16-b.it
 0.0.0.0 1cooldns.com
+0.0.0.0 1dumb.com
 0.0.0.0 2288.org
 0.0.0.0 24-7.ro
 0.0.0.0 25u.com
@@ -483,6 +484,7 @@
 0.0.0.0 eurotank.ro
 0.0.0.0 eva.hk
 0.0.0.0 everton.com
+0.0.0.0 evils.in
 0.0.0.0 expired-dns.com
 0.0.0.0 ez-ip.net
 0.0.0.0 ezua.com
@@ -816,6 +818,7 @@
 0.0.0.0 itekgroup.com
 0.0.0.0 itemdb.com
 0.0.0.0 itsaol.com
+0.0.0.0 iu4ever.org
 0.0.0.0 iugaming.com
 0.0.0.0 ivc.cc
 0.0.0.0 ix.tc
@@ -964,6 +967,8 @@
 0.0.0.0 myddns.me
 0.0.0.0 myddns.rocks
 0.0.0.0 mydissent.net
+0.0.0.0 mydns.bz
+0.0.0.0 mydns.jp
 0.0.0.0 myeffect.net
 0.0.0.0 myftp.biz
 0.0.0.0 myftp.info
@@ -1027,6 +1032,7 @@
 0.0.0.0 networkoutpost.com
 0.0.0.0 nflfan.org
 0.0.0.0 nhlfan.net
+0.0.0.0 no-domain.name
 0.0.0.0 no-ip.be
 0.0.0.0 no-ip.biz
 0.0.0.0 no-ip.ca
@@ -1363,6 +1369,7 @@
 0.0.0.0 tvlinux.com
 0.0.0.0 twilightparadox.com
 0.0.0.0 twodns.de
+0.0.0.0 twsuser.com
 0.0.0.0 tzo.com
 0.0.0.0 ucvradio.cl
 0.0.0.0 udp64.de
@@ -1396,6 +1403,7 @@
 0.0.0.0 vincomlimited.com
 0.0.0.0 vitalwerks.com
 0.0.0.0 vizvaz.com
+0.0.0.0 voles35.ru
 0.0.0.0 voyez.ca
 0.0.0.0 vpn64.de
 0.0.0.0 vpndns.net

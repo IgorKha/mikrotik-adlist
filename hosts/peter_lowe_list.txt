@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.65
-! Last modified: 2025-09-07T06:09:36.439Z
+! Version: 1.0.15.67
+! Last modified: 2025-09-14T06:10:06.420Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -750,7 +750,6 @@
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
 0.0.0.0 adt598.com
-0.0.0.0 adtech-digital.ru
 0.0.0.0 adtech.com
 0.0.0.0 adtech.de
 0.0.0.0 adtechjp.com
@@ -1772,6 +1771,7 @@
 0.0.0.0 helpcollar.com
 0.0.0.0 hentaicounter.com
 0.0.0.0 herbalaffiliateprogram.com
+0.0.0.0 hexcan.com
 0.0.0.0 hexusads.fluent.ltd.uk
 0.0.0.0 heyos.com
 0.0.0.0 hf5rbejvpwds.com
@@ -1956,6 +1956,7 @@
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 krxd.net
 0.0.0.0 ktu.sv2.biz
+0.0.0.0 kvsadman.com
 0.0.0.0 l1.britannica.com
 0.0.0.0 lakequincy.com
 0.0.0.0 lameletters.com
@@ -1972,6 +1973,7 @@
 0.0.0.0 leadclick.com
 0.0.0.0 leadinfo.net
 0.0.0.0 leadingedgecash.com
+0.0.0.0 leadplace.fr
 0.0.0.0 leadspace.com
 0.0.0.0 leadzupc.com
 0.0.0.0 leaplunchroom.com
@@ -3043,6 +3045,7 @@
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
 0.0.0.0 thebugs.ws
+0.0.0.0 thecrazychili.com
 0.0.0.0 themangotea.com
 0.0.0.0 themoneytizer.com
 0.0.0.0 therapistla.com
