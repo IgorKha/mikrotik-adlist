@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.60
-! Last modified: 2025-09-07T06:10:08.896Z
+! Version: 1.0.17.68
+! Last modified: 2025-09-14T06:10:38.046Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -116,6 +116,7 @@
 0.0.0.0 350.com
 0.0.0.0 351.at
 0.0.0.0 36f.de
+0.0.0.0 3blogger.com
 0.0.0.0 3blogger.net
 0.0.0.0 3dn.ru
 0.0.0.0 3eeweb.com
@@ -159,6 +160,7 @@
 0.0.0.0 989.at
 0.0.0.0 9gb.de
 0.0.0.0 9k.com
+0.0.0.0 9x.si
 0.0.0.0 a.gp
 0.0.0.0 a-loch.de
 0.0.0.0 a0001.net
@@ -197,6 +199,7 @@
 0.0.0.0 actoblog.com
 0.0.0.0 admarketlocation.com
 0.0.0.0 aed1.host
+0.0.0.0 aeonfree.com
 0.0.0.0 affiliatblogger.com
 0.0.0.0 africafull.top
 0.0.0.0 ag.gp
@@ -558,6 +561,7 @@
 0.0.0.0 bookmark.com
 0.0.0.0 bookspace.fr
 0.0.0.0 booru.org
+0.0.0.0 boosterblog.com
 0.0.0.0 boundpeter.shop
 0.0.0.0 boutiqueond.shop
 0.0.0.0 boxmail.biz
@@ -771,7 +775,6 @@
 0.0.0.0 de-2.de
 0.0.0.0 de-info.de
 0.0.0.0 deandryesclothing.shop
-0.0.0.0 deno.dev
 0.0.0.0 design.tl
 0.0.0.0 designcarthosting.com
 0.0.0.0 designertoblog.com
@@ -1164,6 +1167,7 @@
 0.0.0.0 huicopper.com
 0.0.0.0 humor-blog.com
 0.0.0.0 humorme.info
+0.0.0.0 hund.in
 0.0.0.0 hundredtrue.shop
 0.0.0.0 hupont.hu
 0.0.0.0 hyderabadadda.com
@@ -1370,6 +1374,7 @@
 0.0.0.0 meilleurforum.com
 0.0.0.0 memoryislife.com
 0.0.0.0 menstudent.shop
+0.0.0.0 merchats.com
 0.0.0.0 mex.tl
 0.0.0.0 mforos.com
 0.0.0.0 miarroba.com
@@ -1620,6 +1625,7 @@
 0.0.0.0 radiola.club
 0.0.0.0 raidersfanteamshop.com
 0.0.0.0 re2.de
+0.0.0.0 realscienceblogs.com
 0.0.0.0 reblog.hu
 0.0.0.0 recentblog.net
 0.0.0.0 reco.ws
@@ -1803,6 +1809,7 @@
 0.0.0.0 testingnow.me
 0.0.0.0 tgpropower.top
 0.0.0.0 th.gp
+0.0.0.0 the-finance-world.com
 0.0.0.0 theblog.me
 0.0.0.0 theblogaddict.com
 0.0.0.0 theblogfairy.com
@@ -1928,6 +1935,9 @@
 0.0.0.0 virus.in
 0.0.0.0 vmn.net
 0.0.0.0 vn.gp
+0.0.0.0 voellig-daneben.de
+0.0.0.0 vollidiot.net
+0.0.0.0 vollsten.de
 0.0.0.0 voten.in
 0.0.0.0 vpswala.org
 0.0.0.0 vxub.com
@@ -2066,6 +2076,7 @@
 0.0.0.0 xaper.com
 0.0.0.0 xbl0g.com
 0.0.0.0 xblog.in
+0.0.0.0 xbloggers.com
 0.0.0.0 xinei.shop
 0.0.0.0 xl.lc
 0.0.0.0 xml.in
@@ -2123,5 +2134,6 @@
 0.0.0.0 zustimmen.de
 0.0.0.0 zwphosting.com
 0.0.0.0 zx9.de
+0.0.0.0 zya.me
 0.0.0.0 zymic.com
 0.0.0.0 zyrosite.com
