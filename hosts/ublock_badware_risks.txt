@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.19.50
-! Last modified: 2025-09-14T06:10:37.515Z
+! Version: 1.0.19.57
+! Last modified: 2025-09-21T06:10:37.815Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -1878,7 +1878,15 @@
 0.0.0.0 kimikoi8.com
 0.0.0.0 l0ve-zer0.com
 0.0.0.0 zer0-l0ve.com
-0.0.0.0 webogram.org
+0.0.0.0 belongirreplaceabletwice.com
+0.0.0.0 unableirreplaceablegaze.com
+0.0.0.0 0uj6.com
+0.0.0.0 6n5d.com
+0.0.0.0 7sb3.com
+0.0.0.0 yr-root.com
+0.0.0.0 mightembarrassedlaw.com
+0.0.0.0 lustsexloveclub.vip
+0.0.0.0 passionsex.vip
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
 0.0.0.0 tgram.ru
@@ -1929,6 +1937,7 @@
 0.0.0.0 goldendoghotel.com
 0.0.0.0 heattercer.com
 0.0.0.0 girlsmakeithard.monster
+0.0.0.0 grootcam.shop
 0.0.0.0 crackedpc.org
 0.0.0.0 cracksway.com
 0.0.0.0 gamingnewsanalyst.com
@@ -2208,6 +2217,7 @@
 0.0.0.0 ingresocancelacion.wixsite.com
 0.0.0.0 caixa-login-banco-home-login-auth-h.codeanyapp.com
 0.0.0.0 caixa-*.codeanyapp.com
+0.0.0.0 cashpro-online-prosollutlion.cc
 0.0.0.0 biblio.sviluppo.host
 0.0.0.0 www-winbank-lfremhmida*.codeanyapp.com
 0.0.0.0 laurenmjackson.serv00.net
@@ -2250,7 +2260,6 @@
 0.0.0.0 wa-groupbebe.pages.dev
 0.0.0.0 fr-instagram.com
 0.0.0.0 igleak.info
-0.0.0.0 instagram-vip.cc
 0.0.0.0 instagram.irancell-10g-free.rf.gd
 0.0.0.0 businesslnstagram.zya.me
 0.0.0.0 instagram-nextjs-three.vercel.app
@@ -2309,6 +2318,7 @@
 0.0.0.0 online-ops.mypasschange.com
 0.0.0.0 page-suspension.com
 0.0.0.0 feacboolk.com
+0.0.0.0 meta-for-business-
 0.0.0.0 lazada.bbc6666.com
 0.0.0.0 mayxanhsupport.com
 0.0.0.0 steam.zssjsq.com
@@ -2425,7 +2435,6 @@
 0.0.0.0 metamsklogix.godaddysites.com
 0.0.0.0 usalgixa-mupohld.godaddysites.com
 0.0.0.0 tomarket-rewards.vercel.app
-0.0.0.0 interface-git-parallel-cypress-uniswap.vercel.app
 0.0.0.0 tronlink-walletextension.webflow.io
 0.0.0.0 itrustcapitaalloginn.webflow.io
 0.0.0.0 secure---sso---robinhood---com-cdn.webflow.io
@@ -2451,6 +2460,8 @@
 0.0.0.0 final-claim.pages.dev
 0.0.0.0 alienxchain*.pages.dev
 0.0.0.0 xcoinspro.com
+0.0.0.0 interface-git-parallel-cypress-uniswap.vercel.app
+0.0.0.0 web3-projects-beta.vercel.app
 0.0.0.0 metamask*.webflow.io
 0.0.0.0 bitvavo*.cc
 0.0.0.0 bitvavo*.top
@@ -3185,3 +3196,9 @@
 0.0.0.0 33ok.club
 0.0.0.0 protect-myphone.com
 0.0.0.0 hltvorg.com
+0.0.0.0 tradingsview.net
+0.0.0.0 florida.revenue-*.net
+0.0.0.0 phila.revenue*.cc
+0.0.0.0 bitchats.app
+0.0.0.0 bitchat.pro
+0.0.0.0 bitchat.live

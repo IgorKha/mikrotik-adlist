@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.18.30
-! Last modified: 2025-09-14T06:10:29.935Z
+! Version: 1.0.18.37
+! Last modified: 2025-09-21T06:10:31.919Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -138,7 +138,6 @@
 0.0.0.0 breakshirts.com
 0.0.0.0 brttre.com
 0.0.0.0 bsnltowerinstallations.com
-0.0.0.0 bsnltowersite.in
 0.0.0.0 bsntowoff.com
 0.0.0.0 btc9339.com
 0.0.0.0 buddhakind.com
@@ -147,7 +146,6 @@
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
 0.0.0.0 by-emmamuller.de
-0.0.0.0 c.dreamdating1.fun
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 caly-film.cc
 0.0.0.0 camerotica.cfd
@@ -216,6 +214,7 @@
 0.0.0.0 czasnakino.pl
 0.0.0.0 czwcvfbc.page.link
 0.0.0.0 dailygiftstore.com
+0.0.0.0 danainstan.xyz
 0.0.0.0 danylevych.com
 0.0.0.0 daradis.com
 0.0.0.0 dash.pocketuniverse.app
@@ -223,7 +222,6 @@
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
 0.0.0.0 dbkdsale.com
-0.0.0.0 ddcad3.reviewgiftfb.com
 0.0.0.0 ddzk513bd.com
 0.0.0.0 debridlink.com
 0.0.0.0 decompraschile.com
@@ -279,6 +277,7 @@
 0.0.0.0 ebuy8.shop
 0.0.0.0 ecs-online.ffm.to
 0.0.0.0 edecher.com
+0.0.0.0 edgeupgrade.com
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 ekommmedia.com
 0.0.0.0 ellezz.com
@@ -355,6 +354,7 @@
 0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fitgirlrepacksite.com
 0.0.0.0 fiusps.com
+0.0.0.0 fixpub.com
 0.0.0.0 fkpgr.buzz
 0.0.0.0 flattee.com
 0.0.0.0 flwzen.com
@@ -570,7 +570,6 @@
 0.0.0.0 malgorzataschlegel.click
 0.0.0.0 manageyourorder.com
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
-0.0.0.0 manta-network-v2.us
 0.0.0.0 maxdebrid.com
 0.0.0.0 mayor4london.com
 0.0.0.0 mcds100.com
@@ -655,6 +654,7 @@
 0.0.0.0 navi63.ru
 0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
+0.0.0.0 navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 navi72.com
 0.0.0.0 navi72.ru
@@ -801,7 +801,6 @@
 0.0.0.0 quotex.com.in
 0.0.0.0 rastreiobrasil.co
 0.0.0.0 rastreiocorreio.co
-0.0.0.0 record-x-center.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 regularizedenatran.co
 0.0.0.0 remessacorreio.site
@@ -1005,6 +1004,7 @@
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
 0.0.0.0 uniswap-v3.com
+0.0.0.0 uniswap-wallet.pro
 0.0.0.0 uniswap.cool
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.markets

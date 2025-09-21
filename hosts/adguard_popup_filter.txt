@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.16.98
-! Last modified: 2025-09-14T06:10:13.125Z
+! Version: 1.0.17.3
+! Last modified: 2025-09-21T06:10:17.720Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 protect-myphone.com
 0.0.0.0 sosalkebab.com
@@ -167,14 +167,12 @@
 0.0.0.0 1asb.com
 0.0.0.0 367p.com
 0.0.0.0 3ckz.com
-0.0.0.0 554koaylwga7.top
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 7flies12.de
 0.0.0.0 905trk.com
 0.0.0.0 a-ads.com
 0.0.0.0 abadit5rckd.com
-0.0.0.0 abbeysabollae.top
 0.0.0.0 accecmtrk.com
 0.0.0.0 adblock-360.com
 0.0.0.0 adblockermax.com
@@ -191,7 +189,6 @@
 0.0.0.0 admeking.com
 0.0.0.0 admobe.com
 0.0.0.0 adoni-nea.com
-0.0.0.0 adqit.com
 0.0.0.0 ads4trk.com
 0.0.0.0 adscdn.net
 0.0.0.0 adsco.re
@@ -226,7 +223,6 @@
 0.0.0.0 animeloundry.com
 0.0.0.0 antcixn.com
 0.0.0.0 antiadblocksystems.com
-0.0.0.0 antjgr.com
 0.0.0.0 appointeeivyspongy.com
 0.0.0.0 approved.website
 0.0.0.0 appslime.com
@@ -240,8 +236,6 @@
 0.0.0.0 auroraveil.bid
 0.0.0.0 awalesglower.com
 0.0.0.0 awecrptjmp.com
-0.0.0.0 bakabok.com
-0.0.0.0 baldo-toj.com
 0.0.0.0 bashfulleadsock.com
 0.0.0.0 basicflownetowork.co.in
 0.0.0.0 bayshorline.com
@@ -260,6 +254,7 @@
 0.0.0.0 betterdirectit.com
 0.0.0.0 betzapdoson.com
 0.0.0.0 bincatracs.com
+0.0.0.0 bkprglyptic.shop
 0.0.0.0 blcdog.com
 0.0.0.0 blehcourt.com
 0.0.0.0 block-ad.com
@@ -274,7 +269,6 @@
 0.0.0.0 boxthis.xyz
 0.0.0.0 brainberries.co
 0.0.0.0 brationalfilarded.com
-0.0.0.0 brujoshooch.shop
 0.0.0.0 bucksmein.com
 0.0.0.0 bunth.net
 0.0.0.0 byethost41.net
@@ -283,6 +277,7 @@
 0.0.0.0 camliveshow.xyz
 0.0.0.0 camptrck.com
 0.0.0.0 candyai.love
+0.0.0.0 cashgzb.com
 0.0.0.0 casinobonusdeals.io
 0.0.0.0 cautommityring.com
 0.0.0.0 cddtsecure.com
@@ -391,7 +386,6 @@
 0.0.0.0 freetrckr.com
 0.0.0.0 frequentjam.com
 0.0.0.0 freshpops.net
-0.0.0.0 frostykitten.com
 0.0.0.0 fstsrv16.com
 0.0.0.0 fstsrv9.com
 0.0.0.0 fuck-ads.vercel.app
@@ -540,7 +534,6 @@
 0.0.0.0 modoodeul.com
 0.0.0.0 momotrk.com
 0.0.0.0 movie-tv-free.com
-0.0.0.0 my-hub.top
 0.0.0.0 mylot.com
 0.0.0.0 mynutraresearch.com
 0.0.0.0 mypopadpro.com
@@ -774,6 +767,7 @@
 0.0.0.0 tracktds.live
 0.0.0.0 trackvisible.com
 0.0.0.0 trakit20.com
+0.0.0.0 trakzon.com
 0.0.0.0 trasupr.com
 0.0.0.0 trckswrm.com
 0.0.0.0 trkless.com
@@ -791,6 +785,7 @@
 0.0.0.0 twinrdsyte.com
 0.0.0.0 typical-hub.com
 0.0.0.0 tyqwjh23d.com
+0.0.0.0 u7do.sbs
 0.0.0.0 ungiblechan.com
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
@@ -838,7 +833,6 @@
 0.0.0.0 wewearegogogo.com
 0.0.0.0 wheceelt.net
 0.0.0.0 where-to.shop
-0.0.0.0 wifescamara.click
 0.0.0.0 wintrck.com
 0.0.0.0 woevr.com
 0.0.0.0 wovensur.com
@@ -858,15 +852,12 @@
 0.0.0.0 zarosnap.com
 0.0.0.0 zavirand.com
 0.0.0.0 zrlqm.com
-0.0.0.0 zuisinchills.shop
 0.0.0.0 00771944.xyz
 0.0.0.0 00857731.xyz
 0.0.0.0 01045395.xyz
-0.0.0.0 03180d2d.live
 0.0.0.0 04424170.xyz
 0.0.0.0 05420795.xyz
 0.0.0.0 07421283.xyz
-0.0.0.0 08f8f073.xyz
 0.0.0.0 09745951.xyz
 0.0.0.0 10523745.xyz
 0.0.0.0 10614305.xyz
@@ -878,7 +869,6 @@
 0.0.0.0 15272973.xyz
 0.0.0.0 15752525.xyz
 0.0.0.0 16327739.xyz
-0.0.0.0 164de830.live
 0.0.0.0 16972675.xyz
 0.0.0.0 17022993.xyz
 0.0.0.0 19009143.xyz
@@ -891,9 +881,7 @@
 0.0.0.0 224cc86d.xyz
 0.0.0.0 23879858.xyz
 0.0.0.0 23907453.xyz
-0.0.0.0 24052107.live
 0.0.0.0 24837724.xyz
-0.0.0.0 28d287b9.xyz
 0.0.0.0 2d979880.xyz
 0.0.0.0 2edef809.xyz
 0.0.0.0 30937261.xyz
@@ -908,7 +896,6 @@
 0.0.0.0 40451343.xyz
 0.0.0.0 4126fe80.xyz
 0.0.0.0 42869755.xyz
-0.0.0.0 45496fee.xyz
 0.0.0.0 4602306b.xyz
 0.0.0.0 46276192.xyz
 0.0.0.0 47296536.xyz
@@ -924,12 +911,9 @@
 0.0.0.0 56514411.xyz
 0.0.0.0 59644010.xyz
 0.0.0.0 59768910.xyz
-0.0.0.0 5cc3ac02.xyz
 0.0.0.0 60571086.xyz
 0.0.0.0 65035033.xyz
-0.0.0.0 656f1ba3.xyz
 0.0.0.0 65894140.xyz
-0.0.0.0 70b927c8.live
 0.0.0.0 72075223.xyz
 0.0.0.0 72356275.xyz
 0.0.0.0 72560514.xyz
@@ -939,7 +923,6 @@
 0.0.0.0 74142961.xyz
 0.0.0.0 75690049.xyz
 0.0.0.0 77886044.xyz
-0.0.0.0 7841ffda.xyz
 0.0.0.0 78847798.xyz
 0.0.0.0 78b78ff8.xyz
 0.0.0.0 79180284.xyz
@@ -954,32 +937,21 @@
 0.0.0.0 89263907.xyz
 0.0.0.0 89407765.xyz
 0.0.0.0 89871256.xyz
-0.0.0.0 8eef59a5.live
 0.0.0.0 91301246.xyz
 0.0.0.0 92790388.xyz
 0.0.0.0 9354ee72.xyz
 0.0.0.0 94597672.xyz
-0.0.0.0 97496b9d.xyz
 0.0.0.0 98140548.xyz
 0.0.0.0 98383163.xyz
 0.0.0.0 98738797.xyz
 0.0.0.0 98853171.xyz
-0.0.0.0 a5d2d040.xyz
 0.0.0.0 a908a849.xyz
-0.0.0.0 b0f2f18e.xyz
 0.0.0.0 b395bfcd.xyz
-0.0.0.0 b70456bf.xyz
 0.0.0.0 ba0bf98c.xyz
-0.0.0.0 bc0ca74b.live
 0.0.0.0 c2a0076d.xyz
-0.0.0.0 ce56df44.xyz
-0.0.0.0 dcad1d97.xyz
-0.0.0.0 e75d10b9.live
 0.0.0.0 e8e2063b.xyz
 0.0.0.0 ea6c0ac4.xyz
-0.0.0.0 f33d11b5.xyz
 0.0.0.0 f54cd504.xyz
-0.0.0.0 f6b458fd.xyz
 0.0.0.0 fe9dc503.xyz
 0.0.0.0 img-load.com
 0.0.0.0 1lzz.com
@@ -1306,10 +1278,12 @@
 0.0.0.0 64p3am9x95ct.com
 0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 a63t9o1azf.com
+0.0.0.0 adbsys.icu
 0.0.0.0 auredzeon.com
 0.0.0.0 dairouzy.net
 0.0.0.0 iwtserve.com
 0.0.0.0 pheersie.com
+0.0.0.0 shqbsdjatunl.com
 0.0.0.0 ueuodgnrhb.com
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 track.aptitudemedia.co
