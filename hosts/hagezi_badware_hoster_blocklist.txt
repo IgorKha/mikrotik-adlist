@@ -1,13 +1,18 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.68
-! Last modified: 2025-09-14T06:10:38.046Z
+! Version: 1.0.17.74
+! Last modified: 2025-09-21T06:10:38.202Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
+0.0.0.0 000nethost.com
 0.0.0.0 000space.com
+0.0.0.0 000webapp.com
 0.0.0.0 000webhost.com
+0.0.0.0 000webhost.fr
+0.0.0.0 000webhost.info
 0.0.0.0 000webhostapp.com
 0.0.0.0 000webhotapp.com
+0.0.0.0 000worldwide.com
 0.0.0.0 00author.com
 0.0.0.0 00band.com
 0.0.0.0 00books.com
@@ -76,6 +81,7 @@
 0.0.0.0 1colony.com
 0.0.0.0 1fr1.net
 0.0.0.0 1freewebspace.com
+0.0.0.0 1gb.ru
 0.0.0.0 1hwy.com
 0.0.0.0 1shop.de
 0.0.0.0 1sthost.org
@@ -104,6 +110,7 @@
 0.0.0.0 24.nl
 0.0.0.0 24.tl
 0.0.0.0 258.at
+0.0.0.0 260mb.net
 0.0.0.0 270.at
 0.0.0.0 2all.de
 0.0.0.0 2fh.co
@@ -574,7 +581,9 @@
 0.0.0.0 bravejournal.net
 0.0.0.0 bravenet.com
 0.0.0.0 bravepages.com
+0.0.0.0 bravesites.com
 0.0.0.0 brazilbill.shop
+0.0.0.0 brizy.site
 0.0.0.0 bstyledstore.shop
 0.0.0.0 bugs3.com
 0.0.0.0 builderall.net
@@ -587,12 +596,35 @@
 0.0.0.0 bx5.de
 0.0.0.0 byet.host
 0.0.0.0 byethost.com
+0.0.0.0 byethost10.com
+0.0.0.0 byethost11.com
+0.0.0.0 byethost12.com
+0.0.0.0 byethost13.com
+0.0.0.0 byethost14.com
+0.0.0.0 byethost15.com
+0.0.0.0 byethost16.com
+0.0.0.0 byethost17.com
+0.0.0.0 byethost18.com
+0.0.0.0 byethost2.com
+0.0.0.0 byethost22.com
+0.0.0.0 byethost24.com
 0.0.0.0 byethost3.com
+0.0.0.0 byethost31.com
+0.0.0.0 byethost32.com
+0.0.0.0 byethost33.com
+0.0.0.0 byethost4.com
+0.0.0.0 byethost5.com
+0.0.0.0 byethost6.com
+0.0.0.0 byethost7.com
+0.0.0.0 byethost8.com
+0.0.0.0 byethost9.com
 0.0.0.0 byto.de
 0.0.0.0 bz.tc
 0.0.0.0 c.la
 0.0.0.0 c.pl
+0.0.0.0 c0.pl
 0.0.0.0 ca.gp
+0.0.0.0 cabanova.com
 0.0.0.0 cafeblog.hu
 0.0.0.0 caixa-soportecliente.com
 0.0.0.0 canalblog.com
@@ -657,6 +689,7 @@
 0.0.0.0 blogspot.co.nz
 0.0.0.0 blogspot.co.uk
 0.0.0.0 blogspot.co.za
+0.0.0.0 dothome.co.kr
 0.0.0.0 tripod.lycos.co.uk
 0.0.0.0 thamboli.co.za
 0.0.0.0 threembb.co.uk
@@ -722,10 +755,12 @@
 0.0.0.0 corolain.ru
 0.0.0.0 cowblog.fr
 0.0.0.0 cprapid.com
+0.0.0.0 sitebeat.crazydomains.com
 0.0.0.0 creablog.com
 0.0.0.0 creacionblog.com
 0.0.0.0 creamclothinginc.shop
 0.0.0.0 createblog.com
+0.0.0.0 creatorlink.net
 0.0.0.0 creatuforo.com
 0.0.0.0 crossurl.shop
 0.0.0.0 crypto-market-world.com
@@ -736,6 +771,7 @@
 0.0.0.0 csdazzle.shop
 0.0.0.0 csublogs.com
 0.0.0.0 ct8.pl
+0.0.0.0 ctempurl.com
 0.0.0.0 cubavalue.shop
 0.0.0.0 cum.fi
 0.0.0.0 cwcity.de
@@ -829,6 +865,7 @@
 0.0.0.0 dynamicboard.de
 0.0.0.0 e.gp
 0.0.0.0 e-docssig.com
+0.0.0.0 e-kei.pl
 0.0.0.0 e-monsite.com
 0.0.0.0 easy4blog.com
 0.0.0.0 easyfreehosting.com
@@ -862,7 +899,6 @@
 0.0.0.0 elementfx.com
 0.0.0.0 elizabethsfashion.shop
 0.0.0.0 emmasbowtique.shop
-0.0.0.0 emoneysale.shop
 0.0.0.0 emyspot.com
 0.0.0.0 energycd.shop
 0.0.0.0 english.lc
@@ -942,6 +978,7 @@
 0.0.0.0 fitnell.com
 0.0.0.0 flashbuilder.net
 0.0.0.0 flazio.com
+0.0.0.0 fleek.co
 0.0.0.0 fleek.cool
 0.0.0.0 flf.li
 0.0.0.0 flirten.info
@@ -988,6 +1025,7 @@
 0.0.0.0 fotosdefrases.com
 0.0.0.0 fr.gp
 0.0.0.0 fr.nf
+0.0.0.0 framer.app
 0.0.0.0 free.bg
 0.0.0.0 free.cr
 0.0.0.0 free.lc
@@ -998,6 +1036,7 @@
 0.0.0.0 freebase.hu
 0.0.0.0 freeblog.biz
 0.0.0.0 freecities.com
+0.0.0.0 freecluster.eu
 0.0.0.0 freeforums.net
 0.0.0.0 freeforums.org
 0.0.0.0 freehomepage.com
@@ -1071,7 +1110,6 @@
 0.0.0.0 getblogs.net
 0.0.0.0 getenjoyment.net
 0.0.0.0 getresponsesite.com
-0.0.0.0 gg123.vip
 0.0.0.0 gigarocket.net
 0.0.0.0 gilde.in
 0.0.0.0 gildenseite.de
@@ -1103,7 +1141,6 @@
 0.0.0.0 greatnow.com
 0.0.0.0 grecofioredesigns.shop
 0.0.0.0 greecemar.shop
-0.0.0.0 greekstatus.shop
 0.0.0.0 grwebsite.com
 0.0.0.0 gta.team
 0.0.0.0 gtempurl.com
@@ -1148,7 +1185,9 @@
 0.0.0.0 hostingfailov.com
 0.0.0.0 hostingsiteforfree.com
 0.0.0.0 hostkda.com
+0.0.0.0 hostland.pro
 0.0.0.0 hostmeans.shop
+0.0.0.0 hostseba.com
 0.0.0.0 hot.lc
 0.0.0.0 hotloss.shop
 0.0.0.0 hotusa.org
@@ -1195,6 +1234,7 @@
 0.0.0.0 imblogs.net
 0.0.0.0 imess.net
 0.0.0.0 imtokne.vip
+0.0.0.0 imweb.me
 0.0.0.0 in.gp
 0.0.0.0 in24.de
 0.0.0.0 inbox24.eu

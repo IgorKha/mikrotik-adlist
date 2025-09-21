@@ -1,38 +1,38 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_36.txt
-! Version: 1.0.14.52
-! Last modified: 2025-09-14T06:10:28.402Z
+! Version: 1.0.14.53
+! Last modified: 2025-09-21T06:10:30.681Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 ad.admitad.com
 0.0.0.0 adart.hostin.lt
 0.0.0.0 adbox.lt
 0.0.0.0 adclick.lt
+0.0.0.0 ads.one.lt
+0.0.0.0 ads.vmedija.lt
 0.0.0.0 adsplius.lt
 0.0.0.0 adverum.lt
 0.0.0.0 aleja.lt
+0.0.0.0 banners.adnetmedia.lt
 0.0.0.0 banners.igloro.info
 0.0.0.0 bms.creativepartner.lt
-0.0.0.0 eads.lt
-0.0.0.0 prod.one.lt
-0.0.0.0 trackers.adtarget.me
 0.0.0.0 darnipora.lt
-0.0.0.0 keliones.lt
-0.0.0.0 top100.lt
-0.0.0.0 on-line.lt
-0.0.0.0 rkl.draugas.lt
-0.0.0.0 komi.lt
-0.0.0.0 ad.admitad.com
-0.0.0.0 ads.vmedija.lt
-0.0.0.0 ads.one.lt
+0.0.0.0 eads.lt
 0.0.0.0 enlabspartners.com
-0.0.0.0 r-scale-fb.static.go3.tv
 0.0.0.0 freewheel-mtgx-tv.akamaized.net
-0.0.0.0 tygafso.com
-0.0.0.0 vswcdns.com
-0.0.0.0 skpiramide.lt
-0.0.0.0 revive.imones.lt
-0.0.0.0 banners.adnetmedia.lt
-0.0.0.0 static.grupinis.lt
-0.0.0.0 xlixpdhpfpnlor.xyz
-0.0.0.0 topsport.lt
+0.0.0.0 keliones.lt
+0.0.0.0 komi.lt
+0.0.0.0 on-line.lt
 0.0.0.0 peacto.com
 0.0.0.0 plius.lt
+0.0.0.0 prod.one.lt
+0.0.0.0 r-scale-fb.static.go3.tv
+0.0.0.0 revive.imones.lt
+0.0.0.0 rkl.draugas.lt
 0.0.0.0 skaitliukas.eu
+0.0.0.0 skpiramide.lt
+0.0.0.0 static.grupinis.lt
+0.0.0.0 top100.lt
+0.0.0.0 topsport.lt
+0.0.0.0 trackers.adtarget.me
+0.0.0.0 tygafso.com
+0.0.0.0 vswcdns.com
+0.0.0.0 xlixpdhpfpnlor.xyz

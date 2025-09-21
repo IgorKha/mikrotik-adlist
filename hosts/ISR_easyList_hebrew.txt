@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
-! Version: 1.0.14.65
-! Last modified: 2025-09-14T06:10:29.614Z
+! Version: 1.0.14.69
+! Last modified: 2025-09-21T06:10:31.707Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com
@@ -110,6 +110,7 @@
 0.0.0.0 mizrahi-il.com
 0.0.0.0 movitop.info
 0.0.0.0 namesakeoscilloscopemarquis.com
+0.0.0.0 noa-eden.com
 0.0.0.0 noa-tikim.com
 0.0.0.0 nothering.com
 0.0.0.0 noya-il.com
@@ -130,6 +131,7 @@
 0.0.0.0 play.milly-style.co.il
 0.0.0.0 plushome.co.il
 0.0.0.0 premium-offers.space
+0.0.0.0 protyshop.com
 0.0.0.0 quick-date.xyz
 0.0.0.0 rateonclick.com
 0.0.0.0 regi.tech
@@ -154,6 +156,7 @@
 0.0.0.0 totalmedia2.ynet.co.il
 0.0.0.0 tracknotify.com
 0.0.0.0 trustmedia.co.il
+0.0.0.0 try-smiley.com
 0.0.0.0 tvfeel.cc
 0.0.0.0 twobluedeer.com
 0.0.0.0 unbouncepages.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
 ! Version: 1.0.0.29
-! Last modified: 2025-09-14T06:10:23.456Z
+! Last modified: 2025-09-21T06:10:27.107Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
