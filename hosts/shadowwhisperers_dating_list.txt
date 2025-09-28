@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.14.99
-! Last modified: 2025-09-21T06:10:26.918Z
+! Version: 1.0.15.2
+! Last modified: 2025-09-28T06:33:49.710Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -158,7 +158,6 @@
 0.0.0.0 celibest.com
 0.0.0.0 celibouest.com
 0.0.0.0 celibparis.com
-0.0.0.0 charmdate.com
 0.0.0.0 chatdate.app
 0.0.0.0 chattijd.be
 0.0.0.0 chemistry.com
@@ -467,6 +466,7 @@
 0.0.0.0 friendfinder.com
 0.0.0.0 friendscout24.es
 0.0.0.0 friendscout24.it
+0.0.0.0 frienifits.com
 0.0.0.0 fruitz.io
 0.0.0.0 frumster.com
 0.0.0.0 funkyfish-dating.com
@@ -516,6 +516,8 @@
 0.0.0.0 hiv-single.com
 0.0.0.0 hommepansement.com
 0.0.0.0 homodate.be
+0.0.0.0 hubpeople.ai
+0.0.0.0 hubpeople.com
 0.0.0.0 hushlove.com
 0.0.0.0 ichwilldichjetzt.com
 0.0.0.0 icouple.fr

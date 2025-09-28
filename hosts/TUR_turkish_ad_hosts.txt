@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.62
-! Last modified: 2025-09-21T06:10:30.772Z
+! Version: 1.0.14.64
+! Last modified: 2025-09-28T06:33:53.026Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -67,6 +67,7 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
+0.0.0.0 aax-us-east-retail-direct.amazon.com
 0.0.0.0 abundantservantexact.com
 0.0.0.0 ac3bce28b1ec4def93c344b2d5e13909-4c4cc75a16ed.cdn.forter.com
 0.0.0.0 acdn.adnxs.com
@@ -288,11 +289,13 @@
 0.0.0.0 api-stg.ensonhaber.com
 0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 api16-access-wf-sg.pangle.io
 0.0.0.0 api2.amplitude.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.siftscience.com
 0.0.0.0 apis.kostprice.com
 0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.io
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.chat.xiaomi.net
@@ -331,7 +334,6 @@
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
-0.0.0.0 audit-tcfv2.cmp.quantcast.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 avhtaapxml.com
 0.0.0.0 avlsh.visilabs.net
@@ -585,6 +587,7 @@
 0.0.0.0 cluster.awmdelivery.com
 0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.mgid.com
+0.0.0.0 cmp.quantcast.com
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cnt.nuvid.com
@@ -1240,6 +1243,7 @@
 0.0.0.0 odr.mookie1.com
 0.0.0.0 offer.slgnt.eu
 0.0.0.0 offerwall.yandex.net
+0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 oglenreklamiiaa.net
 0.0.0.0 oglenreklamiixs.net
 0.0.0.0 oglenvaktireklamms.net

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.18.37
-! Last modified: 2025-09-21T06:10:31.919Z
+! Version: 1.0.18.45
+! Last modified: 2025-09-28T06:33:54.072Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -27,7 +27,6 @@
 0.0.0.0 adminicesm.life
 0.0.0.0 adzfree-watch.net
 0.0.0.0 affordableforyouusa5.godaddysites.com
-0.0.0.0 ailurophilestealer.shop
 0.0.0.0 air-up-turkiye.com
 0.0.0.0 air-upfrance.com
 0.0.0.0 airteltower.com
@@ -35,7 +34,6 @@
 0.0.0.0 airup-fi.com
 0.0.0.0 airup-gr.com
 0.0.0.0 airup-it.shop
-0.0.0.0 airup-nederland.com
 0.0.0.0 airup-romania.com
 0.0.0.0 airupbulgaria.com
 0.0.0.0 airupespana.com
@@ -67,7 +65,6 @@
 0.0.0.0 artdecorhome.store
 0.0.0.0 arthoodie.com
 0.0.0.0 arvetellefsen.no
-0.0.0.0 astronomyfitmisguided.com
 0.0.0.0 asvbaen.info
 0.0.0.0 atlaspvs.com
 0.0.0.0 atrendsz.com
@@ -124,6 +121,7 @@
 0.0.0.0 binorobot.com
 0.0.0.0 bisertravel.com.mk
 0.0.0.0 bite-life.com
+0.0.0.0 bitsoft360.com
 0.0.0.0 black-sales.cloud
 0.0.0.0 blackabdo.company.site
 0.0.0.0 blackoutarchertender.com
@@ -156,7 +154,6 @@
 0.0.0.0 caraci.it
 0.0.0.0 carngr.sbs
 0.0.0.0 carsaratek.com
-0.0.0.0 casha.xyz
 0.0.0.0 casualdating1.com
 0.0.0.0 cda-pl.pl
 0.0.0.0 cda-zalukaj.prv.pl
@@ -190,6 +187,7 @@
 0.0.0.0 coinaps.com
 0.0.0.0 coinreq.com
 0.0.0.0 colorandcotton.com
+0.0.0.0 com-id15421.info
 0.0.0.0 compoundexotics.com
 0.0.0.0 comprehension.unstal.cfd
 0.0.0.0 confira.io
@@ -209,6 +207,7 @@
 0.0.0.0 csbestplayers.com
 0.0.0.0 cshrewards.net
 0.0.0.0 customizerbox.com
+0.0.0.0 customurink.com
 0.0.0.0 cutty.app
 0.0.0.0 cycle100percent.com
 0.0.0.0 czasnakino.pl
@@ -241,7 +240,6 @@
 0.0.0.0 deytee.com
 0.0.0.0 dezpez.com
 0.0.0.0 dieserbenni.ru
-0.0.0.0 dischargebackhanded.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 distryct.shop
@@ -256,7 +254,6 @@
 0.0.0.0 dolomiteoutlet.com
 0.0.0.0 dolystore.com
 0.0.0.0 dopestore.pl
-0.0.0.0 download.instructionclub.com
 0.0.0.0 drama-queen.cc
 0.0.0.0 draxu.com
 0.0.0.0 dreamgreenshoe.com
@@ -315,7 +312,6 @@
 0.0.0.0 familybestgifts.com
 0.0.0.0 familygiftlove.myshopify.com
 0.0.0.0 familygiftville.com
-0.0.0.0 familyshark.com
 0.0.0.0 familystore.com
 0.0.0.0 faze1.com
 0.0.0.0 faze10.com
@@ -366,6 +362,7 @@
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
@@ -487,6 +484,7 @@
 0.0.0.0 indiavisa.my
 0.0.0.0 indiavisa.org
 0.0.0.0 indiavisaonline.org
+0.0.0.0 infinityto.com
 0.0.0.0 info-animals.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
@@ -501,10 +499,8 @@
 0.0.0.0 ivisa.com
 0.0.0.0 j-natural.com
 0.0.0.0 jagkart.com
-0.0.0.0 januashop.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
-0.0.0.0 jonausa.com
 0.0.0.0 jourl.live
 0.0.0.0 jsdimmigration.com
 0.0.0.0 jsdimmigrations.com
@@ -517,6 +513,7 @@
 0.0.0.0 kidsmama.online
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 kingcampoutdoors.co.jp
+0.0.0.0 kino-cda.pl
 0.0.0.0 kinomaniak.cc
 0.0.0.0 kinonline.pl
 0.0.0.0 kisserine.com
@@ -537,8 +534,10 @@
 0.0.0.0 kredit-rupiah.com
 0.0.0.0 krediteksklusif.com
 0.0.0.0 kuyhaa.cc
+0.0.0.0 ladiesmeetnow.top
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 lasercutjewelry.net
+0.0.0.0 last-blink.com
 0.0.0.0 lds.xyz
 0.0.0.0 ledgerlivewallets.com
 0.0.0.0 lemstore.com
@@ -580,7 +579,6 @@
 0.0.0.0 meudetran.co
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
-0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 miucart.com
 0.0.0.0 mizunsports.com
@@ -666,8 +664,8 @@
 0.0.0.0 navi88.com
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
+0.0.0.0 navi98.com
 0.0.0.0 navi99.com
-0.0.0.0 nayatowerinstallation.in.net
 0.0.0.0 neozor.com
 0.0.0.0 netflix-logariasmos.com
 0.0.0.0 nevaon.com
@@ -747,7 +745,6 @@
 0.0.0.0 paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 pasarkta.pasaruang.id
-0.0.0.0 pateim.com
 0.0.0.0 path2zillion.com
 0.0.0.0 pekanbaru.one
 0.0.0.0 peppatees.com
@@ -769,7 +766,6 @@
 0.0.0.0 pipopi.com
 0.0.0.0 piratedrive.com
 0.0.0.0 pjs.outlet.com
-0.0.0.0 pl-vider.pl
 0.0.0.0 pl.vider-info.pl
 0.0.0.0 player-cda.pl
 0.0.0.0 player-qr.com
@@ -900,6 +896,7 @@
 0.0.0.0 stallioncredit.com
 0.0.0.0 startuplatte.com
 0.0.0.0 steamgateways.com
+0.0.0.0 steampowered.cn.com
 0.0.0.0 steamunlock.com
 0.0.0.0 stearncommunjty.net
 0.0.0.0 stellara.de
@@ -907,9 +904,7 @@
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 storagestory.com
 0.0.0.0 store-aleteia.org
-0.0.0.0 store-swatch.com
 0.0.0.0 store25848025.company.site
-0.0.0.0 storeax.com
 0.0.0.0 storecollegeonline.com
 0.0.0.0 storesp.com
 0.0.0.0 streamabie.com
@@ -991,7 +986,6 @@
 0.0.0.0 twiiiter.com
 0.0.0.0 twinsbio.com
 0.0.0.0 twitterr.com
-0.0.0.0 ubnuntu.com
 0.0.0.0 ucapsidop.info
 0.0.0.0 ucureo.com
 0.0.0.0 udrop.com
@@ -1004,7 +998,6 @@
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
 0.0.0.0 uniswap-v3.com
-0.0.0.0 uniswap-wallet.pro
 0.0.0.0 uniswap.cool
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.markets

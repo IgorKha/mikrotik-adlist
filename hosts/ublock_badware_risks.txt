@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.19.57
-! Last modified: 2025-09-21T06:10:37.815Z
+! Version: 1.0.19.69
+! Last modified: 2025-09-28T06:34:00.539Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -139,7 +139,6 @@
 0.0.0.0 inspirationhistorical.com
 0.0.0.0 maroohost.online
 0.0.0.0 amigosdetuciudad.com
-0.0.0.0 bb-delivery.icu
 0.0.0.0 praterage-colled.com
 0.0.0.0 pwrtds.com
 0.0.0.0 trackbyfast.com
@@ -192,7 +191,6 @@
 0.0.0.0 onenightfriend.com
 0.0.0.0 buddygays.com
 0.0.0.0 localsnapsext.com
-0.0.0.0 heartmedia.biz
 0.0.0.0 djin.site
 0.0.0.0 antivirus.landerhd.com
 0.0.0.0 love7date.info
@@ -246,7 +244,6 @@
 0.0.0.0 clean-2-clean.club
 0.0.0.0 top-official-app.com
 0.0.0.0 pornonenight.com
-0.0.0.0 youfindadate.top
 0.0.0.0 besluor.com
 0.0.0.0 postyourlife.com
 0.0.0.0 rplnd60.com
@@ -307,13 +304,11 @@
 0.0.0.0 mialifestyle.com
 0.0.0.0 miafann.online
 0.0.0.0 binomasia.com
-0.0.0.0 ehnax.sbs
 0.0.0.0 remor.xyz
 0.0.0.0 adultminglenight.click
 0.0.0.0 derriks.site
 0.0.0.0 datenaughtysingles.click
 0.0.0.0 flirtyconnection.click
-0.0.0.0 lamilagq.com
 0.0.0.0 lurk-online.com
 0.0.0.0 matcher.one
 0.0.0.0 onlyhotdgirl.com
@@ -366,7 +361,6 @@
 0.0.0.0 gocrazy.gg
 0.0.0.0 games-blacksoft.com
 0.0.0.0 freefiles-upload.com
-0.0.0.0 zencloud.life
 0.0.0.0 projecthygieia.com
 0.0.0.0 zxcprogs.shop
 0.0.0.0 fusionhacks.cc
@@ -513,7 +507,6 @@
 0.0.0.0 geoflix.me
 0.0.0.0 skymods.net
 0.0.0.0 haxsoft.com
-0.0.0.0 zenlytrade.com
 0.0.0.0 nbsfmradio.com
 0.0.0.0 ngazi.co.tz
 0.0.0.0 video-watch1.com
@@ -555,10 +548,8 @@
 0.0.0.0 toythieves.com
 0.0.0.0 rigidconcrete.ca
 0.0.0.0 sportslevels.com
-0.0.0.0 jaborcall.app
 0.0.0.0 cqjykj.com
 0.0.0.0 btemgb.com
-0.0.0.0 amaeex.one
 0.0.0.0 ec2-13-230-253-66.ap-northeast-1.compute.amazonaws.com
 0.0.0.0 my-bitbank.cc
 0.0.0.0 lcskincarecenter.com
@@ -573,6 +564,10 @@
 0.0.0.0 macclear.com
 0.0.0.0 complete-to-continue.pages.dev
 0.0.0.0 pichk.myqcloud.com
+0.0.0.0 gooqlee.com
+0.0.0.0 jsdajp.click
+0.0.0.0 jsda-check.com
+0.0.0.0 yyqxjp.vip
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 coup-ling-dm.net
@@ -734,7 +729,6 @@
 0.0.0.0 gtir5die6sutngr.jpn.com
 0.0.0.0 happiness-gate.com
 0.0.0.0 iikanjiyanakanjide.wixsite.com
-0.0.0.0 kisekichikara.com
 0.0.0.0 loto-chance.com
 0.0.0.0 makoto-in-room.wixsite.com
 0.0.0.0 moira-101.com
@@ -1057,7 +1051,6 @@
 0.0.0.0 circle7-bd.com
 0.0.0.0 club-house.link
 0.0.0.0 cocoro-liberty.com
-0.0.0.0 d-will.net
 0.0.0.0 during-the-holiday.com
 0.0.0.0 every-bisque.com
 0.0.0.0 every-blanched.com
@@ -1109,7 +1102,6 @@
 0.0.0.0 will-kantei.com
 0.0.0.0 wkdk.jp
 0.0.0.0 6xy-zg.com
-0.0.0.0 cwa-2020.com
 0.0.0.0 dwoetbarcrooplsloiwh.com
 0.0.0.0 gargar.making-garden.com
 0.0.0.0 ytjon-d2s1ah.com
@@ -1217,7 +1209,6 @@
 0.0.0.0 xdpiwrx7ub.net
 0.0.0.0 sns3615.com
 0.0.0.0 go-ld-li-ne.site
-0.0.0.0 gold-line.click
 0.0.0.0 gold-line.online
 0.0.0.0 cloudmax.jp
 0.0.0.0 mamakatu42.blogspot.com
@@ -1229,7 +1220,6 @@
 0.0.0.0 grabgiftcard.net
 0.0.0.0 awapp.store
 0.0.0.0 appxfree.com
-0.0.0.0 appxfree.top
 0.0.0.0 kounnomichishirube.net
 0.0.0.0 lucksignpost0804.org
 0.0.0.0 lightning02s.com
@@ -1293,7 +1283,6 @@
 0.0.0.0 maiwa12.jp
 0.0.0.0 mat-chy.site
 0.0.0.0 me08mo.com
-0.0.0.0 media-matchinggo.com
 0.0.0.0 meltiest.jp
 0.0.0.0 meltylove.jp
 0.0.0.0 mem44.com
@@ -1359,7 +1348,6 @@
 0.0.0.0 pktbuu.morau.top
 0.0.0.0 qxb0v.com
 0.0.0.0 w0o.eu
-0.0.0.0 ilovu.store
 0.0.0.0 iris-making.com
 0.0.0.0 lm-mousey-happy.com
 0.0.0.0 speeds5-mmiliked.com
@@ -1451,9 +1439,6 @@
 0.0.0.0 wawahrsdfrhfsdfh.com
 0.0.0.0 hoshiyomi-yakata.com
 0.0.0.0 hoshiyomi-yakata.jp
-0.0.0.0 admin-matching-pair.jp
-0.0.0.0 matching-pair.jp
-0.0.0.0 media-matching-pair.jp
 0.0.0.0 mimiray-k.jp
 0.0.0.0 miray-k.jp
 0.0.0.0 luna-ria.jp
@@ -1461,7 +1446,6 @@
 0.0.0.0 free-ren.jp
 0.0.0.0 free-ren.com
 0.0.0.0 fortune-crystal.com
-0.0.0.0 ctl.ultima.fun
 0.0.0.0 fab-inst.com
 0.0.0.0 ai-mono.jp
 0.0.0.0 again-agreement.com
@@ -1486,7 +1470,6 @@
 0.0.0.0 mithu02s.com
 0.0.0.0 impoverishedordealscrutinize.com
 0.0.0.0 hfykmfd1.com
-0.0.0.0 urgentrecommendationclimate.com
 0.0.0.0 lien-lienam.com
 0.0.0.0 rune-luna-moon.com
 0.0.0.0 blue-could.com
@@ -2137,7 +2120,6 @@
 0.0.0.0 payer-ma-acture-*.mystrikingly.com
 0.0.0.0 amazon-*.shop
 0.0.0.0 amazon8898.com
-0.0.0.0 dalobatter.com
 0.0.0.0 signup-amazon.com
 0.0.0.0 ecommrce-web-amazon.netlify.app
 0.0.0.0 etisalat-amazonprime.com
@@ -2146,14 +2128,12 @@
 0.0.0.0 amazonway.co
 0.0.0.0 orders-processed.com
 0.0.0.0 ebayonstores.com
-0.0.0.0 shop-line.vip
 0.0.0.0 939l.xyz
 0.0.0.0 ebnays.xyz
 0.0.0.0 51eabay.com
 0.0.0.0 hologramid.cn
 0.0.0.0 jybelinda.com
 0.0.0.0 sanpelmaquinas.com.br
-0.0.0.0 airpsite.club
 0.0.0.0 diwapa3051.wixsite.com
 0.0.0.0 idhnochalter.wixsite.com
 0.0.0.0 cajewar736.wixsite.com
@@ -2205,7 +2185,6 @@
 0.0.0.0 spareb1.com
 0.0.0.0 amigosdelasfinanzas.com
 0.0.0.0 anz.brandkit.io
-0.0.0.0 baovietin.top
 0.0.0.0 moonlightproshop.com
 0.0.0.0 nbtbank.architect-cert.fiservapps.com
 0.0.0.0 douroweb.eu
@@ -2218,6 +2197,7 @@
 0.0.0.0 caixa-login-banco-home-login-auth-h.codeanyapp.com
 0.0.0.0 caixa-*.codeanyapp.com
 0.0.0.0 cashpro-online-prosollutlion.cc
+0.0.0.0 naturesucrefoot.fr
 0.0.0.0 biblio.sviluppo.host
 0.0.0.0 www-winbank-lfremhmida*.codeanyapp.com
 0.0.0.0 laurenmjackson.serv00.net
@@ -2254,7 +2234,6 @@
 0.0.0.0 mpinsureit.com
 0.0.0.0 delivery-globaldhlauth.github.io
 0.0.0.0 myjobdhl.earcu.com
-0.0.0.0 firavave.club
 0.0.0.0 play.funfourmob.com
 0.0.0.0 wathzapp.com
 0.0.0.0 wa-groupbebe.pages.dev
@@ -2281,7 +2260,6 @@
 0.0.0.0 vww-facebook.com.vn
 0.0.0.0 www-facebooks.com.vn
 0.0.0.0 faceb00k.com.vn
-0.0.0.0 mobile-facebook.com.vn
 0.0.0.0 m-facebookk.com.vn
 0.0.0.0 mfacebookk.com.vn
 0.0.0.0 fakeserhelpsreivew-
@@ -2323,12 +2301,10 @@
 0.0.0.0 mayxanhsupport.com
 0.0.0.0 steam.zssjsq.com
 0.0.0.0 steamcommunitylog.chez.com
-0.0.0.0 steemcommuntiy.com
 0.0.0.0 workshop-users.com
 0.0.0.0 cn-steam.com
 0.0.0.0 namcards.com
 0.0.0.0 shengsizhanchang.com
-0.0.0.0 gaerana.io.vn
 0.0.0.0 mobilelegendsmycode.com
 0.0.0.0 pubg-arena.top
 0.0.0.0 register-turnamen.free.nf
@@ -2365,7 +2341,6 @@
 0.0.0.0 mlcrosoftonline.com.eu-secured.com
 0.0.0.0 hr-systemmet.dk
 0.0.0.0 microsoft-notifcation.com
-0.0.0.0 eunssiatel.tech
 0.0.0.0 docusine.com
 0.0.0.0 sitio-interno.com
 0.0.0.0 authsignonstaff*.softr.app
@@ -2378,8 +2353,6 @@
 0.0.0.0 nexprosystems.com
 0.0.0.0 scanlonchiro.com
 0.0.0.0 telegramhcn.com
-0.0.0.0 telegerasm.work
-0.0.0.0 telegeram.work
 0.0.0.0 webtelegram.eu.org
 0.0.0.0 zhongwen-telegram.com
 0.0.0.0 telergctm.vip
@@ -2395,7 +2368,6 @@
 0.0.0.0 uspac.sbs
 0.0.0.0 informed.delivery*.top
 0.0.0.0 info-tracking*.cc
-0.0.0.0 upgradeyourspotify.cc
 0.0.0.0 spoti-safe-support*.codeanyapp.com
 0.0.0.0 spoti-*.codeanyapp.com
 0.0.0.0 spolify-support-premium.codeanyapp.com
@@ -2425,7 +2397,6 @@
 0.0.0.0 routerprotocol-migrate.com
 0.0.0.0 whitelist-memefi.com
 0.0.0.0 gz-gmy.com
-0.0.0.0 mantanetworkcn.com
 0.0.0.0 mode-claim.xyz
 0.0.0.0 claim-bool.com
 0.0.0.0 tpro-airdrop.pages.dev
@@ -2476,10 +2447,12 @@
 0.0.0.0 pink-sales.pages.dev
 0.0.0.0 pink-sale.pages.dev
 0.0.0.0 coinbaseexnsion.webflow.io
+0.0.0.0 coiiinbseprologn.godaddysites.com
 0.0.0.0 178368-coinbase.com
 0.0.0.0 llq.rsq.mybluehost.me
 0.0.0.0 mail.*-coinbase.com
 0.0.0.0 gawavalen.fun
+0.0.0.0 paticableharent.com
 0.0.0.0 imtoken.org.cn
 0.0.0.0 imtoken-bl.click
 0.0.0.0 topen.im
@@ -2497,7 +2470,6 @@
 0.0.0.0 sso-*.webflow.io
 0.0.0.0 mmitalianbeef.square.site
 0.0.0.0 bigbauer.com
-0.0.0.0 lkmw88.com
 0.0.0.0 vangphutai.com
 0.0.0.0 autoscurt24.de
 0.0.0.0 hk668.cc
@@ -2555,34 +2527,24 @@
 0.0.0.0 uudai-tructuyen-
 0.0.0.0 uudaikhachhang-
 0.0.0.0 nang-hang-
-0.0.0.0 mojgov.weebly.com
-0.0.0.0 lapdatinternet.net
 0.0.0.0 hethongnhanvien.com
 0.0.0.0 hethongvaynhanh247.com
-0.0.0.0 bethivetranh2024.weebly.com
 0.0.0.0 momoshopvip.com
-0.0.0.0 baovietn.vip
 0.0.0.0 baoviet*.vip
 0.0.0.0 iazada.com
 0.0.0.0 hotrokhachhang-
 0.0.0.0 cham-soc-the-
-0.0.0.0 tikinew.club
 0.0.0.0 pddgov.cc
 0.0.0.0 vssid.*.cc
 0.0.0.0 kbthuhoivontreo.com
-0.0.0.0 sendotv.shop
-0.0.0.0 vnsendotv.vip
 0.0.0.0 sdfsshop1.com
 0.0.0.0 tikivn84.com
 0.0.0.0 558-558-559.com
 0.0.0.0 nzx65821s.com
 0.0.0.0 hethongnoibo.bio.link
-0.0.0.0 sendovn.shop
-0.0.0.0 baovietvc.top
 0.0.0.0 baoviet*.top
 0.0.0.0 nhanvienghtk.com
 0.0.0.0 tienichshiinhan.com
-0.0.0.0 ebayu.top
 0.0.0.0 bcavnvnvngov.com
 0.0.0.0 hangtietkiem.online
 0.0.0.0 vamcvn.org
@@ -2595,7 +2557,6 @@
 0.0.0.0 thuongmai-dientu.com
 0.0.0.0 tiki886.vip
 0.0.0.0 jetkingncsc.com
-0.0.0.0 vieegovn.cc
 0.0.0.0 thongtincancuoc.com
 0.0.0.0 vietcp.com
 0.0.0.0 ccbcavn.cc
@@ -2609,7 +2570,6 @@
 0.0.0.0 vnairlines.net
 0.0.0.0 giaohangtietkiem-cskh.com
 0.0.0.0 lazada.ac
-0.0.0.0 tb88789.com
 0.0.0.0 tikione.vip
 0.0.0.0 tikifreeship.
 0.0.0.0 tiktok-svip*.com
@@ -2627,7 +2587,6 @@
 0.0.0.0 evnspccskh.com
 0.0.0.0 aeoonmallstore.com
 0.0.0.0 nhanvienhanghoa.com
-0.0.0.0 dichvutonghop.vip
 0.0.0.0 giaohangtietkiem24.com
 0.0.0.0 amazoni1.com
 0.0.0.0 amazouo9.com
@@ -2658,31 +2617,10 @@
 0.0.0.0 vingroupfund.com
 0.0.0.0 vinmarket.net
 0.0.0.0 westernunion*.wixsite.com
-0.0.0.0 bleyeare.com
-0.0.0.0 holancha.com
-0.0.0.0 conackmar.com
-0.0.0.0 bughter.com
-0.0.0.0 uresnaus.com
-0.0.0.0 orundompes.com
-0.0.0.0 iteparyleb.com
 0.0.0.0 etensiten.com
-0.0.0.0 matectord.com
-0.0.0.0 ebortbide.com
-0.0.0.0 ioncibria.com
-0.0.0.0 legropth.com
-0.0.0.0 mandalveca.com
-0.0.0.0 gataterso.com
-0.0.0.0 newreuti.com
-0.0.0.0 halowasus.com
-0.0.0.0 moncelork.com
-0.0.0.0 opiumundi.com
-0.0.0.0 ripliguay.com
 0.0.0.0 pelastorl.com
-0.0.0.0 usecurter.com
 0.0.0.0 tickovent.com
-0.0.0.0 aphenunci.com
 0.0.0.0 orownsdow.com
-0.0.0.0 identente.com
 0.0.0.0 datumdellago.com
 0.0.0.0 lokuracristiana.com
 0.0.0.0 clinicaimplantologica3d.com
@@ -2698,14 +2636,11 @@
 0.0.0.0 intended9.com
 0.0.0.0 aging3.co
 0.0.0.0 amernamproa.com
-0.0.0.0 tivorica.su
-0.0.0.0 xylentura.su
 0.0.0.0 marketplace-item-*.000.pe
 0.0.0.0 runningapplications-b7dae-default-rtdb.firebaseio.com
 0.0.0.0 magicslimnhatban.com
 0.0.0.0 giamcannhatban.com
 0.0.0.0 waredot.com
-0.0.0.0 waredot.us
 0.0.0.0 kmspico-
 0.0.0.0 kms-full.com
 0.0.0.0 kmspico.io
@@ -2727,7 +2662,6 @@
 0.0.0.0 union.macoms.la
 0.0.0.0 polyfill-js.cn
 0.0.0.0 get-express-vpn.online
-0.0.0.0 joannstoressales.shop
 0.0.0.0 pcapp.store
 0.0.0.0 convertwithwave.com
 0.0.0.0 withsecurify.com
@@ -2819,10 +2753,7 @@
 0.0.0.0 trendor.website
 0.0.0.0 trendori.shop
 0.0.0.0 vizualis.online
-0.0.0.0 accept.bar
-0.0.0.0 cdn-webstats.com
 0.0.0.0 cpeciadogfoods.com
-0.0.0.0 inspectdlet.net
 0.0.0.0 clearnetfab.net
 0.0.0.0 iconstaff.top
 0.0.0.0 jquerypackageus.com
@@ -2830,7 +2761,6 @@
 0.0.0.0 lererikal.org
 0.0.0.0 nothingillegal.bond
 0.0.0.0 paie-locli.com
-0.0.0.0 sellerstat.site
 0.0.0.0 statsseo.com
 0.0.0.0 statstoday.org
 0.0.0.0 vincaolet.xyz
@@ -2930,7 +2860,6 @@
 0.0.0.0 geeksprosoftwareprints.org
 0.0.0.0 lesivs.com
 0.0.0.0 longchampblackfriday.com
-0.0.0.0 jcrewblackfriday.com
 0.0.0.0 dopeblackfriday.shop
 0.0.0.0 llbeanblackfridays.shop
 0.0.0.0 makitablackfriday.shop
@@ -2941,7 +2870,6 @@
 0.0.0.0 usps-packages-*.com
 0.0.0.0 info-trackingcas.cc
 0.0.0.0 gnxuohpr.icu
-0.0.0.0 mexcgbaip.vip
 0.0.0.0 pub-549d59daefd74f7583e1766800fe7b07.r2.dev
 0.0.0.0 cdncloud.icu
 0.0.0.0 wallpaper-engine.pro
@@ -2962,7 +2890,6 @@
 0.0.0.0 semrushmall.com
 0.0.0.0 pubgrlxvote.top
 0.0.0.0 teleqpnm.cn
-0.0.0.0 ads-overview.com
 0.0.0.0 adsg00gle-v3.vercel.app
 0.0.0.0 edeetion.com
 0.0.0.0 cleverjumper.com
@@ -2996,7 +2923,6 @@
 0.0.0.0 turtleclient.xyz
 0.0.0.0 irs.gov-
 0.0.0.0 hansonherbo.com
-0.0.0.0 manta-network-v2.us
 0.0.0.0 en-trezor.io
 0.0.0.0 coiincmi.com
 0.0.0.0 swap-ether.site
@@ -3108,7 +3034,6 @@
 0.0.0.0 carrotsaystopping.com
 0.0.0.0 webnotif.online
 0.0.0.0 virusscanner.live
-0.0.0.0 mobiltr-islemlerim.com.tr
 0.0.0.0 pttavm.*.com.tr
 0.0.0.0 zlib.is
 0.0.0.0 z-lib.ai
@@ -3196,9 +3121,21 @@
 0.0.0.0 33ok.club
 0.0.0.0 protect-myphone.com
 0.0.0.0 hltvorg.com
-0.0.0.0 tradingsview.net
 0.0.0.0 florida.revenue-*.net
 0.0.0.0 phila.revenue*.cc
 0.0.0.0 bitchats.app
 0.0.0.0 bitchat.pro
 0.0.0.0 bitchat.live
+0.0.0.0 upa1bit.
+0.0.0.0 upbitbr.
+0.0.0.0 y-comblnator.com
+0.0.0.0 paradlgm.com
+0.0.0.0 guarda.dev
+0.0.0.0 guardan.io
+0.0.0.0 official-ledger.live
+0.0.0.0 install-ledger.live
+0.0.0.0 en-ledger-install.com
+0.0.0.0 nachdiewelt.click
+0.0.0.0 seloriva.com
+0.0.0.0 seloriva.net
+0.0.0.0 client.*-blockfi.com

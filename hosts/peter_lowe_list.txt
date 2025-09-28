@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.74
-! Last modified: 2025-09-21T06:10:12.520Z
+! Version: 1.0.15.77
+! Last modified: 2025-09-28T06:33:35.682Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -63,6 +63,7 @@
 0.0.0.0 abtasty.com
 0.0.0.0 ac.rnm.ca
 0.0.0.0 accountsdoor.com
+0.0.0.0 acebunny.com
 0.0.0.0 acemlnb.com
 0.0.0.0 acobt.tech
 0.0.0.0 acridtwist.com
@@ -220,6 +221,7 @@
 0.0.0.0 adhese.com
 0.0.0.0 adhigh.net
 0.0.0.0 adhoc4.net
+0.0.0.0 adhub.media
 0.0.0.0 adhunter.media
 0.0.0.0 adimage.guardian.co.uk
 0.0.0.0 adimages.been.com
@@ -844,6 +846,7 @@
 0.0.0.0 ahalogy.com
 0.0.0.0 aheadday.com
 0.0.0.0 aim4media.com
+0.0.0.0 airplanecoffee.com
 0.0.0.0 airpush.com
 0.0.0.0 aistat.net
 0.0.0.0 ak0gsh40.com
@@ -1364,7 +1367,6 @@
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.cz
-0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
 0.0.0.0 counter.rambler.ru
@@ -1503,6 +1505,7 @@
 0.0.0.0 easyhits4u.com
 0.0.0.0 ebayadvertising.com
 0.0.0.0 ebuzzing.com
+0.0.0.0 echoacloud.com
 0.0.0.0 ecircle-ag.com
 0.0.0.0 ecleneue.com
 0.0.0.0 eclick.vn
@@ -1951,6 +1954,7 @@
 0.0.0.0 kickoffo.site
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
+0.0.0.0 kittycatking.com
 0.0.0.0 klclick.com
 0.0.0.0 klclick1.com
 0.0.0.0 kliks.nl
@@ -1976,7 +1980,6 @@
 0.0.0.0 layer-ad.de
 0.0.0.0 layer-ads.de
 0.0.0.0 lazybumblebee.com
-0.0.0.0 lbn.ru
 0.0.0.0 lead02.com
 0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
@@ -2344,7 +2347,6 @@
 0.0.0.0 omtrdc.net
 0.0.0.0 onaudience.com
 0.0.0.0 onclickads.net
-0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onegg.site
 0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
@@ -2967,6 +2969,7 @@
 0.0.0.0 summerobject.com
 0.0.0.0 sumo.com
 0.0.0.0 sumome.com
+0.0.0.0 sunsetcampfires.com
 0.0.0.0 superawesome.tv
 0.0.0.0 superchichair.com
 0.0.0.0 superclix.de
@@ -3285,6 +3288,7 @@
 0.0.0.0 vidcpm.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videoadex.com
+0.0.0.0 videoadstech.org
 0.0.0.0 videoegg.com
 0.0.0.0 videostats.kakao.com
 0.0.0.0 vidible.tv

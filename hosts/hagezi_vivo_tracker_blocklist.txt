@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
-! Version: 1.0.0.5
-! Last modified: 2025-09-21T06:10:27.310Z
+! Version: 1.0.0.6
+! Last modified: 2025-09-28T06:33:50.030Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -51,7 +51,9 @@
 0.0.0.0 cname-asia-stsdk09.vivoglobal.com
 0.0.0.0 cname-asia02-stsdk.vivoglobal.com
 0.0.0.0 cname-de-stsdk.vivoglobal.com
+0.0.0.0 cname-in-apport-stsdk.vivoglobal.com
 0.0.0.0 cname-in-bom01-nginxpool03.vivoglobal.com
+0.0.0.0 cname-in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0 co-cota.vivoglobal.com
 0.0.0.0 co-domaincfg.vivoglobal.com
