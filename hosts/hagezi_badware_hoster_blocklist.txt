@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.74
-! Last modified: 2025-09-21T06:10:38.202Z
+! Version: 1.0.17.75
+! Last modified: 2025-09-28T06:34:00.885Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000free.us
@@ -960,7 +960,6 @@
 0.0.0.0 fat-fly.com
 0.0.0.0 fb-business.com
 0.0.0.0 fblogs.com
-0.0.0.0 fbzsa.com
 0.0.0.0 fcpages.com
 0.0.0.0 fe-boutique.shop
 0.0.0.0 ferreracademy.com
@@ -1747,7 +1746,6 @@
 0.0.0.0 site123.me
 0.0.0.0 site90.net
 0.0.0.0 sitego.fr
-0.0.0.0 sitegoz.com
 0.0.0.0 sitelio.me
 0.0.0.0 sitepalace.com
 0.0.0.0 siterubix.com
@@ -2141,7 +2139,6 @@
 0.0.0.0 y0.pl
 0.0.0.0 y55.eu
 0.0.0.0 yamanoha.com
-0.0.0.0 ygrrvlvvgf.top
 0.0.0.0 yi.org
 0.0.0.0 yj.ae
 0.0.0.0 yola.com
@@ -2155,7 +2152,6 @@
 0.0.0.0 yourfreehosting.net
 0.0.0.0 yourjavascript.com
 0.0.0.0 yousher.com
-0.0.0.0 yovip.net
 0.0.0.0 yuku.com
 0.0.0.0 z.gp
 0.0.0.0 za.com

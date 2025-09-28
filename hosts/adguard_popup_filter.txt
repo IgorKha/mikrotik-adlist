@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.3
-! Last modified: 2025-09-21T06:10:17.720Z
+! Version: 1.0.17.9
+! Last modified: 2025-09-28T06:33:40.769Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 protect-myphone.com
 0.0.0.0 sosalkebab.com
@@ -167,6 +167,7 @@
 0.0.0.0 1asb.com
 0.0.0.0 367p.com
 0.0.0.0 3ckz.com
+0.0.0.0 3vetz.com
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 7flies12.de
@@ -197,6 +198,7 @@
 0.0.0.0 adstreampro.com
 0.0.0.0 adtelligent.com
 0.0.0.0 adtraction.com
+0.0.0.0 advertisoo.com
 0.0.0.0 adx1.com
 0.0.0.0 affcpatrk.com
 0.0.0.0 affflow.com
@@ -240,6 +242,7 @@
 0.0.0.0 basicflownetowork.co.in
 0.0.0.0 bayshorline.com
 0.0.0.0 bbmoe.com
+0.0.0.0 bboy1.com
 0.0.0.0 beamobserver.com
 0.0.0.0 behim.click
 0.0.0.0 bemobtrcks.com
@@ -287,6 +290,7 @@
 0.0.0.0 chpadblock.com
 0.0.0.0 clearwatch.tv
 0.0.0.0 clickblitzo.com
+0.0.0.0 clickmintads.site
 0.0.0.0 clicksyncflow.com
 0.0.0.0 clixwells.com
 0.0.0.0 clladss.com
@@ -317,8 +321,6 @@
 0.0.0.0 datesassistant.com
 0.0.0.0 dateyou2024.com
 0.0.0.0 datingforyour4.site
-0.0.0.0 dc-rotator.com
-0.0.0.0 ddbhm.pro
 0.0.0.0 debaucky.com
 0.0.0.0 deepsathegoh.com
 0.0.0.0 defandoar.xyz
@@ -343,7 +345,6 @@
 0.0.0.0 dpuppers.com
 0.0.0.0 dreamteamaffiliates.com
 0.0.0.0 drsmediaexchange.com
-0.0.0.0 drumskilxoa.click
 0.0.0.0 dsb68d.com
 0.0.0.0 dsp5stero.com
 0.0.0.0 dutydynamo.co
@@ -386,7 +387,6 @@
 0.0.0.0 freetrckr.com
 0.0.0.0 frequentjam.com
 0.0.0.0 freshpops.net
-0.0.0.0 fstsrv16.com
 0.0.0.0 fstsrv9.com
 0.0.0.0 fuck-ads.vercel.app
 0.0.0.0 fuse-cloud.com
@@ -420,7 +420,6 @@
 0.0.0.0 haveameet.com
 0.0.0.0 helicient.com
 0.0.0.0 heptix.net
-0.0.0.0 herma-tor.com
 0.0.0.0 hetapus.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hiasor.com
@@ -576,6 +575,7 @@
 0.0.0.0 offergate-software20.com
 0.0.0.0 offergate-software6.com
 0.0.0.0 offertops.info
+0.0.0.0 oglalavoodoo.world
 0.0.0.0 olopruy.com
 0.0.0.0 omegaadblock.net
 0.0.0.0 omgt3.com
@@ -623,6 +623,7 @@
 0.0.0.0 pretrackings.com
 0.0.0.0 prfwhite.com
 0.0.0.0 priestsuede.click
+0.0.0.0 prmtracking.com
 0.0.0.0 pro-adblocker.com
 0.0.0.0 profitablegatecpm.com
 0.0.0.0 profitableratecpm.com
@@ -811,6 +812,7 @@
 0.0.0.0 violationphysics.click
 0.0.0.0 viralnewsbd.xyz
 0.0.0.0 virelon.com
+0.0.0.0 visitarkqr.click
 0.0.0.0 visualmirage.co
 0.0.0.0 vizoalygrenn.com
 0.0.0.0 vmgjt.click

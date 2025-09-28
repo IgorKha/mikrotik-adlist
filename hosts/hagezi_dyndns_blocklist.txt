@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.15.96
-! Last modified: 2025-09-21T06:10:38.105Z
+! Version: 1.0.15.98
+! Last modified: 2025-09-28T06:34:00.803Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -349,7 +349,6 @@
 0.0.0.0 drunkensailor.org
 0.0.0.0 dsmtp.com
 0.0.0.0 dtdns.com
-0.0.0.0 dtdns.net
 0.0.0.0 dtdns.org
 0.0.0.0 dubya.info
 0.0.0.0 dubya.net
@@ -426,7 +425,6 @@
 0.0.0.0 dynnamn.ru
 0.0.0.0 dynns.com
 0.0.0.0 dyns.be
-0.0.0.0 dyns.cx
 0.0.0.0 dyns.net
 0.0.0.0 dynserv.org
 0.0.0.0 dynssl.com
@@ -484,7 +482,6 @@
 0.0.0.0 eurotank.ro
 0.0.0.0 eva.hk
 0.0.0.0 everton.com
-0.0.0.0 evils.in
 0.0.0.0 expired-dns.com
 0.0.0.0 ez-ip.net
 0.0.0.0 ezua.com
@@ -692,7 +689,6 @@
 0.0.0.0 humorvisite.eu
 0.0.0.0 hunnur.com
 0.0.0.0 iamallama.com
-0.0.0.0 icg.hk
 0.0.0.0 ics.tw
 0.0.0.0 ideasciviles.com
 0.0.0.0 idigo.org
@@ -832,7 +828,6 @@
 0.0.0.0 jetos.com
 0.0.0.0 jkub.com
 0.0.0.0 joe.dj
-0.0.0.0 jomblo.asia
 0.0.0.0 jonward.com
 0.0.0.0 jumpingcrab.com
 0.0.0.0 jundy.org
@@ -845,6 +840,7 @@
 0.0.0.0 kanda.ru
 0.0.0.0 kaohsiung.tv
 0.0.0.0 kck-saratov.ru
+0.0.0.0 keenetic.name
 0.0.0.0 keine-panik.net
 0.0.0.0 kellserve.com
 0.0.0.0 kicks-ass.net
