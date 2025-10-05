@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.77
-! Last modified: 2025-09-28T06:33:35.682Z
+! Version: 1.0.15.78
+! Last modified: 2025-10-05T06:10:07.787Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -278,7 +278,6 @@
 0.0.0.0 admidadsp.com
 0.0.0.0 adminder.com
 0.0.0.0 adminshop.com
-0.0.0.0 admix.in
 0.0.0.0 admixer.net
 0.0.0.0 admized.com
 0.0.0.0 admob.com
@@ -354,7 +353,6 @@
 0.0.0.0 ads.as4x.tmcs.net
 0.0.0.0 ads.as4x.tmcs.ticketmaster.com
 0.0.0.0 ads.asiafriendfinder.com
-0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.avazu.net
 0.0.0.0 ads.bb59.ru
 0.0.0.0 ads.betfair.com
@@ -1367,6 +1365,7 @@
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.cz
+0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
 0.0.0.0 counter.rambler.ru
@@ -1685,7 +1684,6 @@
 0.0.0.0 furryfork.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
-0.0.0.0 futuristicapparatus.com
 0.0.0.0 futuristicfifth.com
 0.0.0.0 futuristicframe.com
 0.0.0.0 fuzzybasketball.com
@@ -1776,7 +1774,6 @@
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 heap.com
-0.0.0.0 heimi-lwx.com
 0.0.0.0 hellobar.com
 0.0.0.0 helpcollar.com
 0.0.0.0 hentaicounter.com
@@ -1865,7 +1862,6 @@
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
-0.0.0.0 immensehoney.com
 0.0.0.0 imonomy.com
 0.0.0.0 imp.i312864.net
 0.0.0.0 impossibleexpansion.com
@@ -1970,7 +1966,6 @@
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kvsadman.com
 0.0.0.0 l1.britannica.com
-0.0.0.0 lakequincy.com
 0.0.0.0 lameletters.com
 0.0.0.0 landkarts.com
 0.0.0.0 larati.net
@@ -1980,6 +1975,7 @@
 0.0.0.0 layer-ad.de
 0.0.0.0 layer-ads.de
 0.0.0.0 lazybumblebee.com
+0.0.0.0 lbn.ru
 0.0.0.0 lead02.com
 0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
@@ -3256,7 +3252,6 @@
 0.0.0.0 url9467.comms-2.zoopla.co.uk
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
-0.0.0.0 userreplay.com
 0.0.0.0 userreplay.net
 0.0.0.0 users.maxcluster.net
 0.0.0.0 utils.mediageneral.net

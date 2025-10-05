@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.2
-! Last modified: 2025-09-28T06:33:49.710Z
+! Version: 1.0.15.5
+! Last modified: 2025-10-05T06:10:22.095Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -27,6 +27,7 @@
 0.0.0.0 5-a-7.com
 0.0.0.0 97tibo.com
 0.0.0.0 abcdatingadvisor.com
+0.0.0.0 abledlove.com
 0.0.0.0 ablesingles.co.uk
 0.0.0.0 academicsingles.co.uk
 0.0.0.0 academysingles.com
@@ -94,6 +95,7 @@
 0.0.0.0 badoocdn.com
 0.0.0.0 badoo.com
 0.0.0.0 baltic-women.com
+0.0.0.0 bangatrans.com
 0.0.0.0 bbpeoplemeet.com
 0.0.0.0 bbwcupid.com
 0.0.0.0 be2.at
@@ -115,6 +117,7 @@
 0.0.0.0 bez-kompleksov.com
 0.0.0.0 bezzabran.com
 0.0.0.0 bicupid.com
+0.0.0.0 bi-dating.com
 0.0.0.0 bigchurch.com
 0.0.0.0 bikerdatelink.com
 0.0.0.0 bikerplanet.com
@@ -128,6 +131,7 @@
 0.0.0.0 blackwhitedatingreviews.com
 0.0.0.0 blackwhite.singles
 0.0.0.0 blossoms.com
+0.0.0.0 blueswingers.com
 0.0.0.0 bonplanrencontre.fr
 0.0.0.0 boo-dating-prod.firebaseapp.com
 0.0.0.0 bookofmatches.com
@@ -178,6 +182,7 @@
 0.0.0.0 clubedamizade.com
 0.0.0.0 clubs-de-rencontres.fr
 0.0.0.0 coffeemeetsbagel.com
+0.0.0.0 conexiongay.es
 0.0.0.0 connectingsingles.com
 0.0.0.0 contactsingles.co.uk
 0.0.0.0 cooldating.be
@@ -196,6 +201,7 @@
 0.0.0.0 d1t13vwmbdrp1.cloudfront.net
 0.0.0.0 d2cxe615jwk4sg.cloudfront.net
 0.0.0.0 d8u.com
+0.0.0.0 dateasian.org
 0.0.0.0 dateasians.net
 0.0.0.0 datebrowse.com
 0.0.0.0 dateforeal.com
@@ -240,10 +246,12 @@
 0.0.0.0 datememe.com
 0.0.0.0 datemypet.com
 0.0.0.0 datemypet.imgix.net
+0.0.0.0 dateplaza.de
 0.0.0.0 datereadingsingles.co.uk
 0.0.0.0 daterfinder.com
 0.0.0.0 datesabroad.com
 0.0.0.0 dateseniorukrainian.com
+0.0.0.0 datesforyou.org
 0.0.0.0 datesuffolksingles.co.uk
 0.0.0.0 datetheuk.com
 0.0.0.0 datewesternislessingles.co.uk
@@ -269,6 +277,7 @@
 0.0.0.0 dating-in-california.com
 0.0.0.0 dating-italy.com
 0.0.0.0 dating-jedi.com
+0.0.0.0 datingme.org
 0.0.0.0 datingoman.com
 0.0.0.0 datingonline.com
 0.0.0.0 datingplanet.org
@@ -277,6 +286,7 @@
 0.0.0.0 datingrussianangels.net
 0.0.0.0 datingscout.com
 0.0.0.0 datingscript.com
+0.0.0.0 datingsite.de
 0.0.0.0 datingsites.nl
 0.0.0.0 datingsites-reviewed.com
 0.0.0.0 datingsitesreviews.com
@@ -285,6 +295,7 @@
 0.0.0.0 dating-south-africa.com
 0.0.0.0 datinguk.com
 0.0.0.0 datingwithherpes.org
+0.0.0.0 datingzero.com
 0.0.0.0 datingzest.com
 0.0.0.0 deafdatingzone.com
 0.0.0.0 deailinks.com
@@ -398,6 +409,7 @@
 0.0.0.0 divorcedsingles.club
 0.0.0.0 dmpet.imgix.net
 0.0.0.0 dogdatingplanet.com
+0.0.0.0 dogging.com.au
 0.0.0.0 domerencontre.com
 0.0.0.0 donneimmature.com
 0.0.0.0 drawingdownthemoon.co.uk
@@ -494,8 +506,10 @@
 0.0.0.0 gomatch.com
 0.0.0.0 gopromenad.com
 0.0.0.0 gorgeous-networks.com
+0.0.0.0 gothlover.com
 0.0.0.0 gothscene.com
 0.0.0.0 gotthem.com
+0.0.0.0 granny-date.com
 0.0.0.0 gratissexkontakt.com
 0.0.0.0 groony.com
 0.0.0.0 guayu.com
@@ -607,12 +621,15 @@
 0.0.0.0 letsbond.com
 0.0.0.0 letsmeet.com
 0.0.0.0 letsmeet.co.za
+0.0.0.0 letsmeetup.com
 0.0.0.0 lexa.nl
 0.0.0.0 libimseti.cz
 0.0.0.0 lilaherzen.de
+0.0.0.0 localgilfs.com
 0.0.0.0 localhottiesnow.com
 0.0.0.0 lonelywivesdatelink.com
 0.0.0.0 loopylove.com
+0.0.0.0 loquovipgay.com
 0.0.0.0 lottoie.com
 0.0.0.0 lovagency.com
 0.0.0.0 love2knowu.co.za
@@ -732,6 +749,7 @@
 0.0.0.0 onedate.com
 0.0.0.0 onelovespot.com
 0.0.0.0 onenightfriend.com
+0.0.0.0 onenightonly.us
 0.0.0.0 onenight-stand.eu
 0.0.0.0 onewife.com
 0.0.0.0 onlinedatingpost.com
@@ -981,6 +999,7 @@
 0.0.0.0 speeddatingmontreal.com
 0.0.0.0 sportdatingplanet.com
 0.0.0.0 sportydates.de
+0.0.0.0 ssbbwdating.com
 0.0.0.0 suchejetzt.com
 0.0.0.0 sugarbook.com
 0.0.0.0 sugarmatchmaking.com
@@ -1016,6 +1035,7 @@
 0.0.0.0 tinder.com
 0.0.0.0 tinderoplus.com
 0.0.0.0 tinderphotos-d1-ue1.s3.amazonaws.com
+0.0.0.0 todomaduras.es
 0.0.0.0 togethernetworks.com
 0.0.0.0 toietmoi.fr
 0.0.0.0 tonga-soa.com
@@ -1042,6 +1062,7 @@
 0.0.0.0 urbansocial.com
 0.0.0.0 u-rencontres.com
 0.0.0.0 valentimatchmaking.com
+0.0.0.0 vanessa69.com
 0.0.0.0 veemance.com.au
 0.0.0.0 vegadating.com
 0.0.0.0 vegaia.com

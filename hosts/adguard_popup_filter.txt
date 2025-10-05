@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.9
-! Last modified: 2025-09-28T06:33:40.769Z
+! Version: 1.0.17.18
+! Last modified: 2025-10-05T06:10:13.174Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 protect-myphone.com
 0.0.0.0 sosalkebab.com
@@ -190,11 +190,14 @@
 0.0.0.0 admeking.com
 0.0.0.0 admobe.com
 0.0.0.0 adoni-nea.com
+0.0.0.0 ads-blocker.app
 0.0.0.0 ads4trk.com
 0.0.0.0 adscdn.net
 0.0.0.0 adsco.re
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adspredictiv.com
+0.0.0.0 adsquasher.com
+0.0.0.0 adsquasher.pro
 0.0.0.0 adstreampro.com
 0.0.0.0 adtelligent.com
 0.0.0.0 adtraction.com
@@ -221,6 +224,7 @@
 0.0.0.0 alibabatraffic.com
 0.0.0.0 alpenridge.top
 0.0.0.0 alpine-vpn.com
+0.0.0.0 amichi.info
 0.0.0.0 aneorwd.com
 0.0.0.0 animeloundry.com
 0.0.0.0 antcixn.com
@@ -287,6 +291,7 @@
 0.0.0.0 chambermaidthree.xyz
 0.0.0.0 checkcdn.net
 0.0.0.0 choogeet.net
+0.0.0.0 choosingoffer.lol
 0.0.0.0 chpadblock.com
 0.0.0.0 clearwatch.tv
 0.0.0.0 clickblitzo.com
@@ -301,6 +306,7 @@
 0.0.0.0 coastalbloom.xyz
 0.0.0.0 colleem.com
 0.0.0.0 colorsealprosper.co
+0.0.0.0 colossal-pathway.life
 0.0.0.0 conestreshow.com
 0.0.0.0 controlclickflow.com
 0.0.0.0 coolserving.com
@@ -318,6 +324,7 @@
 0.0.0.0 date-till-late.us
 0.0.0.0 date2024.com
 0.0.0.0 date4sex.pro
+0.0.0.0 datedeskads.com
 0.0.0.0 datesassistant.com
 0.0.0.0 dateyou2024.com
 0.0.0.0 datingforyour4.site
@@ -370,6 +377,7 @@
 0.0.0.0 expdirclk.com
 0.0.0.0 extension-ad-stopper.com
 0.0.0.0 extsoft.info
+0.0.0.0 exxtended-access.com
 0.0.0.0 eyewondermedia.com
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
@@ -520,8 +528,6 @@
 0.0.0.0 metabatted.com
 0.0.0.0 metatrckpixel.com
 0.0.0.0 mgid.com
-0.0.0.0 mimosaavior.top
-0.0.0.0 mirfakpersei.com
 0.0.0.0 mirfakpersei.top
 0.0.0.0 mnaspm.com
 0.0.0.0 mndlvr.com
@@ -593,8 +599,10 @@
 0.0.0.0 oversolosisor.com
 0.0.0.0 ovret.com
 0.0.0.0 paehceman.com
+0.0.0.0 pagelivekeylearnbestz.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 paulastroid.com
+0.0.0.0 peaktrck.uno
 0.0.0.0 pemsrv.com
 0.0.0.0 permanentillnessclever.com
 0.0.0.0 pexorise.com
@@ -658,6 +666,7 @@
 0.0.0.0 realtime-bid.com
 0.0.0.0 recommended-twice.com
 0.0.0.0 redaffil.com
+0.0.0.0 redirecting.online
 0.0.0.0 redirectingat.com
 0.0.0.0 reebr.com
 0.0.0.0 resentreaccotia.com
@@ -773,6 +782,7 @@
 0.0.0.0 trckswrm.com
 0.0.0.0 trkless.com
 0.0.0.0 trknovi.com
+0.0.0.0 trkpostback.com
 0.0.0.0 trkred.com
 0.0.0.0 trksmorestreacking.com
 0.0.0.0 trpool.org
@@ -1043,6 +1053,7 @@
 0.0.0.0 zononi.com
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 clkfeed.com
+0.0.0.0 imaginarybad.com
 0.0.0.0 1463.info
 0.0.0.0 www.mir-stalkera.ru
 0.0.0.0 1wiipr.xyz
