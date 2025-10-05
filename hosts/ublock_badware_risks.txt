@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.19.69
-! Last modified: 2025-09-28T06:34:00.539Z
+! Version: 1.0.19.80
+! Last modified: 2025-10-05T06:10:36.147Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -347,6 +347,8 @@
 0.0.0.0 china-sister-hong-ty.blogspot.com
 0.0.0.0 cdn.710k.com
 0.0.0.0 cdnservice.ink
+0.0.0.0 nachhilfeteam.net
+0.0.0.0 adalh-zcq.com
 0.0.0.0 discordvip.createsocialcard.top
 0.0.0.0 whatsapp-32w.pages.dev
 0.0.0.0 c0nt4ct-me.pages.dev
@@ -568,6 +570,7 @@
 0.0.0.0 jsdajp.click
 0.0.0.0 jsda-check.com
 0.0.0.0 yyqxjp.vip
+0.0.0.0 appvip-download.cc
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 coup-ling-dm.net
@@ -1977,6 +1980,7 @@
 0.0.0.0 muskevent.info
 0.0.0.0 teslamaked.com
 0.0.0.0 cryptomusk.io
+0.0.0.0 sunperp.icu
 0.0.0.0 usmusk.net
 0.0.0.0 foundations-x2024.cloud
 0.0.0.0 foundations-x2024.sbs
@@ -2198,6 +2202,7 @@
 0.0.0.0 caixa-*.codeanyapp.com
 0.0.0.0 cashpro-online-prosollutlion.cc
 0.0.0.0 naturesucrefoot.fr
+0.0.0.0 easybank.abojo.dev
 0.0.0.0 biblio.sviluppo.host
 0.0.0.0 www-winbank-lfremhmida*.codeanyapp.com
 0.0.0.0 laurenmjackson.serv00.net
@@ -2352,6 +2357,7 @@
 0.0.0.0 mysign-mircrosoft.com
 0.0.0.0 nexprosystems.com
 0.0.0.0 scanlonchiro.com
+0.0.0.0 colibriteich.company
 0.0.0.0 telegramhcn.com
 0.0.0.0 webtelegram.eu.org
 0.0.0.0 zhongwen-telegram.com
@@ -2453,6 +2459,8 @@
 0.0.0.0 mail.*-coinbase.com
 0.0.0.0 gawavalen.fun
 0.0.0.0 paticableharent.com
+0.0.0.0 lameo.buzz
+0.0.0.0 bitenve.cc
 0.0.0.0 imtoken.org.cn
 0.0.0.0 imtoken-bl.click
 0.0.0.0 topen.im
@@ -3139,3 +3147,22 @@
 0.0.0.0 seloriva.com
 0.0.0.0 seloriva.net
 0.0.0.0 client.*-blockfi.com
+0.0.0.0 v2-app-lido-finance.cc
+0.0.0.0 app.v2lido.bond
+0.0.0.0 app-lido-finance-v2.com
+0.0.0.0 network-jpn.com
+0.0.0.0 statswpmy.com
+0.0.0.0 serenoirs.com
+0.0.0.0 exoduswallet.at
+0.0.0.0 setup-ledger.live
+0.0.0.0 official-ledger-app.live
+0.0.0.0 ai-atomic.org
+0.0.0.0 htex-panel.at
+0.0.0.0 simpleswap.ac
+0.0.0.0 simpleswap.to
+0.0.0.0 simpleswap.at
+0.0.0.0 simpleswap.ltd
+0.0.0.0 simpleswap.online
+0.0.0.0 rarible.io-nft.guru
+0.0.0.0 rarible.nft-markets.org
+0.0.0.0 pddeploy.com

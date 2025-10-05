@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.15.98
-! Last modified: 2025-09-28T06:34:00.803Z
+! Version: 1.0.16.0
+! Last modified: 2025-10-05T06:10:36.610Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -691,7 +691,6 @@
 0.0.0.0 iamallama.com
 0.0.0.0 ics.tw
 0.0.0.0 ideasciviles.com
-0.0.0.0 idigo.org
 0.0.0.0 idleplay.net
 0.0.0.0 4040.idv.tw
 0.0.0.0 ieserver.net
@@ -1127,7 +1126,6 @@
 0.0.0.0 port25.biz
 0.0.0.0 portfwd.com
 0.0.0.0 portmap.host
-0.0.0.0 prettyweak.com
 0.0.0.0 priamaakcia.sk
 0.0.0.0 privatedns.com
 0.0.0.0 privatedns.org

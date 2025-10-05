@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
-! Version: 1.0.14.69
-! Last modified: 2025-09-28T06:33:53.906Z
+! Version: 1.0.14.70
+! Last modified: 2025-10-05T06:10:28.823Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com
@@ -102,6 +102,7 @@
 0.0.0.0 makelove.co.il
 0.0.0.0 mashrokit.info
 0.0.0.0 maskoter.com
+0.0.0.0 matsato.com
 0.0.0.0 medical-rights.co.il
 0.0.0.0 meet-nowhere12.com
 0.0.0.0 meirav-il.com

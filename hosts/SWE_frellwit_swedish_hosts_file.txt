@@ -1,8 +1,7 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.29
-! Last modified: 2025-09-28T06:33:50.738Z
+! Version: 1.0.15.31
+! Last modified: 2025-10-05T06:10:24.198Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
-0.0.0.0 1terms.com
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
 0.0.0.0 1221d63988a216e58e8ee4e8bb38598031fdba93e0.nuid.imrworldwide.com
@@ -230,7 +229,6 @@
 0.0.0.0 c.bannerflow.net
 0.0.0.0 c.cintnetworks.com
 0.0.0.0 c.eacla.com
-0.0.0.0 c.flx1.com
 0.0.0.0 c1.adform.net
 0.0.0.0 cadmus.script.ac
 0.0.0.0 canariajournalen.ads.ramsalt.com
@@ -540,6 +538,7 @@
 0.0.0.0 inviso.rampanel.com
 0.0.0.0 invite.leanlab.co
 0.0.0.0 ion.btcswe.com
+0.0.0.0 ip.holid.io
 0.0.0.0 ipmeta.io
 0.0.0.0 izooto.com
 0.0.0.0 js.adsaga.se
@@ -919,7 +918,6 @@
 0.0.0.0 tourn.co
 0.0.0.0 tourn.se
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 tr.apsisforms.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adtraction.com
 0.0.0.0 track.postkodlotteriet.se

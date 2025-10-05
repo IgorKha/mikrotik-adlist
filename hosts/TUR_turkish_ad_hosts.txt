@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.64
-! Last modified: 2025-09-28T06:33:53.026Z
+! Version: 1.0.14.66
+! Last modified: 2025-10-05T06:10:27.688Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -503,6 +503,7 @@
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.personaclick.com
+0.0.0.0 cdn.piano.io
 0.0.0.0 cdn.playwire.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.preciso.net
@@ -559,6 +560,7 @@
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn9.forter.com
 0.0.0.0 cdnads.geeksforgeeks.org
+0.0.0.0 cdnhorizon.nnmtools.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 ced.sascdn.com
@@ -567,6 +569,7 @@
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 champagne.futurecdn.net
 0.0.0.0 childlikeform.com
+0.0.0.0 chimpstatic.com
 0.0.0.0 ciqepxipgs.com
 0.0.0.0 cis.schibsted.com
 0.0.0.0 ck.ads.oppomobile.com
@@ -587,6 +590,7 @@
 0.0.0.0 cluster.awmdelivery.com
 0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.mgid.com
+0.0.0.0 cmp.inmobi.com
 0.0.0.0 cmp.quantcast.com
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 cms.quantserve.com
@@ -719,6 +723,7 @@
 0.0.0.0 depart.trinitymedia.ai
 0.0.0.0 deploy.mopinion.com
 0.0.0.0 dexerto-cdn.relevant-digital.com
+0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 devices.carnivalmobile.com
@@ -787,6 +792,7 @@
 0.0.0.0 engine.adzerk.net
 0.0.0.0 engine.phn.doublepimp.com
 0.0.0.0 enormousfoot.com
+0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 epnt.ebay.com
 0.0.0.0 errnewlog.umeng.com
 0.0.0.0 etahub.com
@@ -1074,6 +1080,7 @@
 0.0.0.0 lgr.visilabs.net
 0.0.0.0 lh.limosiwooable.com
 0.0.0.0 lib.wtg-ads.com
+0.0.0.0 licensebuttons.net
 0.0.0.0 lider90.com
 0.0.0.0 limurol.com
 0.0.0.0 linkconnector.com
@@ -1176,6 +1183,7 @@
 0.0.0.0 microsoftmscompoc.tt.omtrdc.net
 0.0.0.0 mitdmp.whiteboxdigital.ru
 0.0.0.0 mobile.eum-appdynamics.com
+0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 mobile-collector.newrelic.com
@@ -1301,6 +1309,7 @@
 0.0.0.0 piwik.ubuntu-fr.org
 0.0.0.0 pix.eu.criteo.net
 0.0.0.0 pix.spot.im
+0.0.0.0 pix-cdn77.trafficjunky.net
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.facebook.com
@@ -1675,6 +1684,7 @@
 0.0.0.0 stpd.cloud
 0.0.0.0 stretchsquirrel.com
 0.0.0.0 strmrdrfrokd.site
+0.0.0.0 sts.applovin.com
 0.0.0.0 stun.fpapi.io
 0.0.0.0 stun.voiparound.com
 0.0.0.0 su.addthis.com

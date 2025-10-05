@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.18.45
-! Last modified: 2025-09-28T06:33:54.072Z
+! Version: 1.0.18.51
+! Last modified: 2025-10-05T06:10:29.171Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -24,7 +24,6 @@
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 account.ws-reward.com
-0.0.0.0 adminicesm.life
 0.0.0.0 adzfree-watch.net
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 air-up-turkiye.com
@@ -36,7 +35,6 @@
 0.0.0.0 airup-it.shop
 0.0.0.0 airup-romania.com
 0.0.0.0 airupbulgaria.com
-0.0.0.0 airupespana.com
 0.0.0.0 airupgreece.net
 0.0.0.0 airupnederlands.com
 0.0.0.0 airupsrbija.com
@@ -100,7 +98,6 @@
 0.0.0.0 bestiamos.com
 0.0.0.0 bestvod.pl
 0.0.0.0 big-sale-warehouse.com
-0.0.0.0 bikewhenever.com
 0.0.0.0 billboardwring.com
 0.0.0.0 binom0-web.com
 0.0.0.0 binomo-brokers.com
@@ -114,7 +111,6 @@
 0.0.0.0 binomo1.com
 0.0.0.0 binomo2.zendesk.com
 0.0.0.0 binomoidr.com
-0.0.0.0 binomorupiah-id.com
 0.0.0.0 binomotop.com
 0.0.0.0 binomoweb.org
 0.0.0.0 binomoweblogin.com
@@ -128,6 +124,7 @@
 0.0.0.0 bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
 0.0.0.0 bltskins.com
+0.0.0.0 bnidigital.com
 0.0.0.0 bolejug.us
 0.0.0.0 bombardina.pl
 0.0.0.0 botsuanah.com
@@ -154,6 +151,7 @@
 0.0.0.0 caraci.it
 0.0.0.0 carngr.sbs
 0.0.0.0 carsaratek.com
+0.0.0.0 casha.xyz
 0.0.0.0 casualdating1.com
 0.0.0.0 cda-pl.pl
 0.0.0.0 cda-zalukaj.prv.pl
@@ -187,7 +185,6 @@
 0.0.0.0 coinaps.com
 0.0.0.0 coinreq.com
 0.0.0.0 colorandcotton.com
-0.0.0.0 com-id15421.info
 0.0.0.0 compoundexotics.com
 0.0.0.0 comprehension.unstal.cfd
 0.0.0.0 confira.io
@@ -222,7 +219,6 @@
 0.0.0.0 dautee.com
 0.0.0.0 dbkdsale.com
 0.0.0.0 ddzk513bd.com
-0.0.0.0 debridlink.com
 0.0.0.0 decompraschile.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
@@ -246,6 +242,7 @@
 0.0.0.0 diteringion.com
 0.0.0.0 dkfodboldstore.com
 0.0.0.0 dleggere.com
+0.0.0.0 dogecoinevents.org
 0.0.0.0 dogparadiseshop.com
 0.0.0.0 dogparadisestore.com
 0.0.0.0 doh-gov.com
@@ -269,6 +266,7 @@
 0.0.0.0 e-visaindia.com
 0.0.0.0 e-visaindiaonline.com
 0.0.0.0 e-visums.nl
+0.0.0.0 earth-ling.org
 0.0.0.0 easynatures.com
 0.0.0.0 easyshoppingus.com
 0.0.0.0 ebuy8.shop
@@ -287,7 +285,6 @@
 0.0.0.0 esl-gaming.com
 0.0.0.0 eslgrandscup.com
 0.0.0.0 estiloserena.com.br
-0.0.0.0 et-reliefgc-ca.info
 0.0.0.0 etaindia.org
 0.0.0.0 etaindiaonline.com
 0.0.0.0 etv-in.com
@@ -359,6 +356,8 @@
 0.0.0.0 foreveusps.com
 0.0.0.0 forumdetran.co
 0.0.0.0 freebitcoin.pages.dev
+0.0.0.0 freedom.invoice5g-bill.com
+0.0.0.0 freedom.invoiceid-bill.com
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
@@ -450,7 +449,6 @@
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 ikiha.com
 0.0.0.0 iklrge.com
-0.0.0.0 ikoee.com
 0.0.0.0 imagemotorcycles.co.nz
 0.0.0.0 imlb2c.com
 0.0.0.0 india-e-visa.com
@@ -489,6 +487,7 @@
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
 0.0.0.0 informationpolicy.cloud
+0.0.0.0 innomediacreate.com
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
 0.0.0.0 iphonedefender.com
@@ -498,7 +497,7 @@
 0.0.0.0 itseasy.com
 0.0.0.0 ivisa.com
 0.0.0.0 j-natural.com
-0.0.0.0 jagkart.com
+0.0.0.0 januashop.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
 0.0.0.0 jourl.live
@@ -540,6 +539,7 @@
 0.0.0.0 last-blink.com
 0.0.0.0 lds.xyz
 0.0.0.0 ledgerlivewallets.com
+0.0.0.0 ledgerslive.org
 0.0.0.0 lemstore.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 levelbash.com
@@ -607,7 +607,6 @@
 0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
 0.0.0.0 namewrimo.info
-0.0.0.0 nanistores.com
 0.0.0.0 natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 natvisa.com
@@ -745,6 +744,7 @@
 0.0.0.0 paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 pasarkta.pasaruang.id
+0.0.0.0 pateim.com
 0.0.0.0 path2zillion.com
 0.0.0.0 pekanbaru.one
 0.0.0.0 peppatees.com
@@ -766,6 +766,7 @@
 0.0.0.0 pipopi.com
 0.0.0.0 piratedrive.com
 0.0.0.0 pjs.outlet.com
+0.0.0.0 pl-vider.pl
 0.0.0.0 pl.vider-info.pl
 0.0.0.0 player-cda.pl
 0.0.0.0 player-qr.com
@@ -773,7 +774,6 @@
 0.0.0.0 popeurope.com
 0.0.0.0 poppop.online
 0.0.0.0 porkbunrr.web.app
-0.0.0.0 portal-canaa374-post835-info.com
 0.0.0.0 post-nachsenden.de
 0.0.0.0 powerboostup.com
 0.0.0.0 prawdziwefilmy.pl
@@ -785,6 +785,7 @@
 0.0.0.0 primeleech.com
 0.0.0.0 primevod.pl
 0.0.0.0 printteestore.com
+0.0.0.0 produktretter.org
 0.0.0.0 promoalfresco.com
 0.0.0.0 promotebuy.com
 0.0.0.0 promotion40-form.com
@@ -941,7 +942,6 @@
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
-0.0.0.0 thegeekgifts.com
 0.0.0.0 thehappywood.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 theonepercentcommunity.com
@@ -1094,6 +1094,7 @@
 0.0.0.0 uprising.kip.pro
 0.0.0.0 ureashi.com
 0.0.0.0 us99.pro
+0.0.0.0 usakidsclothes.com
 0.0.0.0 uscampinghiking.com
 0.0.0.0 uschse04.my03.com
 0.0.0.0 uszjj.fyjkxzq.shop
@@ -1103,6 +1104,7 @@
 0.0.0.0 validacaodetran.co
 0.0.0.0 validsteamkeys.com
 0.0.0.0 vanced-official.com
+0.0.0.0 vanced.to
 0.0.0.0 vegamartz.com
 0.0.0.0 vencord.app
 0.0.0.0 venezuelabaseballjerseys.com
