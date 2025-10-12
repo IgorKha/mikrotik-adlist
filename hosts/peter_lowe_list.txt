@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.78
-! Last modified: 2025-10-05T06:10:07.787Z
+! Version: 1.0.15.83
+! Last modified: 2025-10-12T06:10:19.138Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -40,6 +40,7 @@
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.vartoken.com
+0.0.0.0 a.vdo.ai
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
@@ -198,6 +199,7 @@
 0.0.0.0 add.newmedia.cz
 0.0.0.0 addfreestats.com
 0.0.0.0 addme.com
+0.0.0.0 ade.clmbtech.com
 0.0.0.0 adecn.com
 0.0.0.0 adeimptrck.com
 0.0.0.0 ademails.com
@@ -392,7 +394,6 @@
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
-0.0.0.0 ads.directionsmag.com
 0.0.0.0 ads.doit.com.cn
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.dtpnetwork.biz
@@ -712,6 +713,7 @@
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
 0.0.0.0 adsfeed.brabys.com
+0.0.0.0 adsflowprime.top
 0.0.0.0 adshrink.it
 0.0.0.0 adside.com
 0.0.0.0 adsiduous.com
@@ -811,7 +813,6 @@
 0.0.0.0 adxpose.com
 0.0.0.0 adyoulike.com
 0.0.0.0 adz.rashflash.com
-0.0.0.0 adz2you.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
@@ -997,7 +998,6 @@
 0.0.0.0 banner.nixnet.cz
 0.0.0.0 banner.noblepoker.com
 0.0.0.0 banner.northsky.com
-0.0.0.0 banner.rbc.ru
 0.0.0.0 banner.reinstil.de
 0.0.0.0 banner.tanto.de
 0.0.0.0 banner.titan-dsl.de
@@ -1082,7 +1082,6 @@
 0.0.0.0 big-bang-ads.com
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
-0.0.0.0 bigreal.org
 0.0.0.0 billboard.cz
 0.0.0.0 birthdaybelief.com
 0.0.0.0 bitmedianetwork.com
@@ -1220,8 +1219,6 @@
 0.0.0.0 cl0udh0st1ng.com
 0.0.0.0 clck.ru
 0.0.0.0 clevernt.com
-0.0.0.0 click-1.pl
-0.0.0.0 click-2.eu
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.allkeyshop.com
@@ -1280,6 +1277,7 @@
 0.0.0.0 clickhereforcellphones.com
 0.0.0.0 clickngo.pro
 0.0.0.0 clickonometrics.pl
+0.0.0.0 clicks.checkatrade.com
 0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.eventbrite.com
@@ -1752,6 +1750,7 @@
 0.0.0.0 greystripe.com
 0.0.0.0 grouchybrothers.com
 0.0.0.0 groundtruth.com
+0.0.0.0 growthrx.in
 0.0.0.0 gscontxt.net
 0.0.0.0 guardeddirection.com
 0.0.0.0 guardedschool.com
@@ -1774,6 +1773,7 @@
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 heap.com
+0.0.0.0 heimi-lwx.com
 0.0.0.0 hellobar.com
 0.0.0.0 helpcollar.com
 0.0.0.0 hentaicounter.com
@@ -2004,7 +2004,6 @@
 0.0.0.0 li.patheos.com
 0.0.0.0 li.pmc.com
 0.0.0.0 li.realtor.com
-0.0.0.0 li.walmart.com
 0.0.0.0 li.ziffimages.com
 0.0.0.0 liadm.com
 0.0.0.0 libraryfacts.com
@@ -2301,6 +2300,7 @@
 0.0.0.0 nondescriptnote.com
 0.0.0.0 nondescriptstocking.com
 0.0.0.0 novem.pl
+0.0.0.0 nowaymail.com
 0.0.0.0 npttech.com
 0.0.0.0 nr-data.net
 0.0.0.0 nr.mmcdn.com
@@ -2505,6 +2505,7 @@
 0.0.0.0 predictad.com
 0.0.0.0 premium-offers.com
 0.0.0.0 presetrabbits.com
+0.0.0.0 prettyeasycafe.com
 0.0.0.0 previousplayground.com
 0.0.0.0 prf.hn
 0.0.0.0 priceypies.com
@@ -3212,7 +3213,6 @@
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trust.titanhq.com
-0.0.0.0 trustpid.com
 0.0.0.0 trustx.org
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndicate.net
@@ -3436,5 +3436,4 @@
 0.0.0.0 zonewedgeshaft.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zqtk.net
-0.0.0.0 zy16eoat1w.com
 0.0.0.0 zzhc.vnet.cn

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.66
-! Last modified: 2025-10-05T06:10:27.688Z
+! Version: 1.0.14.67
+! Last modified: 2025-10-12T06:10:35.510Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -170,6 +170,7 @@
 0.0.0.0 adsreklamizm.ga
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtest.avalibeyaz.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
@@ -281,6 +282,7 @@
 0.0.0.0 api.taps.io
 0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 api.useinsider.com
+0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-dataroid.akbank.com
 0.0.0.0 api-dataroid.akode.com
 0.0.0.0 api-eu.bidmachine.io
@@ -370,6 +372,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 bigrourg.net
+0.0.0.0 bingads.microsoft.com
 0.0.0.0 bireysel-reklam-sayfamiz.tk
 0.0.0.0 bitcireklam.com
 0.0.0.0 bmrg.reflected.net
@@ -397,6 +400,7 @@
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bts.a11k.com
 0.0.0.0 business.samsungusa.com
+0.0.0.0 business-api.tiktok.com
 0.0.0.0 busuanzi.ibruce.info
 0.0.0.0 buttons-config.sharethis.com
 0.0.0.0 c.aaxads.com
@@ -600,6 +604,7 @@
 0.0.0.0 cocoonelectronicsconfined.com
 0.0.0.0 code.createjs.com
 0.0.0.0 code.jivosite.com
+0.0.0.0 coinhive.com
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 collect.dolap.com
 0.0.0.0 collect.trendyol.com
@@ -869,6 +874,7 @@
 0.0.0.0 gamescdnfor.com
 0.0.0.0 gc.zgo.at
 0.0.0.0 gcdn.2mdn.net
+0.0.0.0 gemini.yahoo.com
 0.0.0.0 geniuslinkcdn.com
 0.0.0.0 geo.ads.audio.thisisdax.com
 0.0.0.0 geo.yahoo.com
@@ -1093,6 +1099,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.cookieyes.com
+0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.haberturk.com
 0.0.0.0 log.medietall.no
 0.0.0.0 log.pinterest.com
@@ -1230,6 +1237,7 @@
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 news.2xclick.ru
 0.0.0.0 news-muheji.com
+0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.toyota.com
 0.0.0.0 ng.virgul.com
 0.0.0.0 ng2.virgul.com
@@ -1490,6 +1498,7 @@
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 s.vi-serve.com
 0.0.0.0 s.visilabs.net
+0.0.0.0 s.youtube.com
 0.0.0.0 s-gm.mmstat.com
 0.0.0.0 s-img.idealmedia.io
 0.0.0.0 s0.2mdn.net
@@ -1586,6 +1595,7 @@
 0.0.0.0 slidecaffeinecrown.com
 0.0.0.0 slideff.com
 0.0.0.0 sm.rtb.mts.ru
+0.0.0.0 smartclip.com
 0.0.0.0 smetrics.nvidia.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 snap.licdn.com
@@ -1836,6 +1846,7 @@
 0.0.0.0 u3401.26.spylog.com
 0.0.0.0 ua.realtimely.io
 0.0.0.0 ubuyanalytics.ubuy.com
+0.0.0.0 udcm.yahoo.com
 0.0.0.0 udmserve.net
 0.0.0.0 uh.calepinphrasal.com
 0.0.0.0 uip.semasio.net
@@ -1900,6 +1911,7 @@
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w3-reporting-nel.reddit.com
 0.0.0.0 watchnewpics.space
+0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 waust.at
 0.0.0.0 wd.adcolony.com
 0.0.0.0 weather-analytics-events.apple.com

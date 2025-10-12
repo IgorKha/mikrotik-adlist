@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.51
-! Last modified: 2025-10-05T06:10:13.005Z
+! Version: 1.0.15.53
+! Last modified: 2025-10-12T06:10:23.881Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -232,6 +232,8 @@
 0.0.0.0 bj.ad.track.66mobi.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 bootpreload.uve.weibo.com
+0.0.0.0 browser.events.data.msn.cn
+0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 bsrv.qq.com
 0.0.0.0 bugly.qq.com
@@ -493,7 +495,6 @@
 0.0.0.0 mini-prog-drm.vodplayvideo.net
 0.0.0.0 miui-fxcse.avlyun.com
 0.0.0.0 mlog.bigda.com
-0.0.0.0 mmgame.qpic.cn
 0.0.0.0 mnqlog.ldmnq.com
 0.0.0.0 moatads.com
 0.0.0.0 mobads-logs.baidu.com

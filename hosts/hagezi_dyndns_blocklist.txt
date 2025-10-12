@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.0
-! Last modified: 2025-10-05T06:10:36.610Z
+! Version: 1.0.16.3
+! Last modified: 2025-10-12T06:10:43.773Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -18,6 +18,7 @@
 0.0.0.0 25u.com
 0.0.0.0 2fine.de
 0.0.0.0 2mydns.net
+0.0.0.0 2p.fm
 0.0.0.0 2waky.com
 0.0.0.0 3-a.net
 0.0.0.0 32-b.it
@@ -283,6 +284,7 @@
 0.0.0.0 digitalgroupe.com
 0.0.0.0 dip.jp
 0.0.0.0 ditchyourip.com
+0.0.0.0 divx.se
 0.0.0.0 diyplans.org
 0.0.0.0 dlinkddns.com
 0.0.0.0 dmtr.ru
@@ -425,6 +427,7 @@
 0.0.0.0 dynnamn.ru
 0.0.0.0 dynns.com
 0.0.0.0 dyns.be
+0.0.0.0 dyns.cx
 0.0.0.0 dyns.net
 0.0.0.0 dynserv.org
 0.0.0.0 dynssl.com
@@ -1392,6 +1395,7 @@
 0.0.0.0 venez.fr
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
+0.0.0.0 vicinanza.org
 0.0.0.0 viewdns.net
 0.0.0.0 viiic.net
 0.0.0.0 vincomlimited.com
