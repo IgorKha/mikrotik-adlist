@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.18
-! Last modified: 2025-10-05T06:10:13.174Z
+! Version: 1.0.17.22
+! Last modified: 2025-10-12T06:10:23.967Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 protect-myphone.com
 0.0.0.0 sosalkebab.com
@@ -225,6 +225,7 @@
 0.0.0.0 alpenridge.top
 0.0.0.0 alpine-vpn.com
 0.0.0.0 amichi.info
+0.0.0.0 amusing-injury.com
 0.0.0.0 aneorwd.com
 0.0.0.0 animeloundry.com
 0.0.0.0 antcixn.com
@@ -251,6 +252,7 @@
 0.0.0.0 behim.click
 0.0.0.0 bemobtrcks.com
 0.0.0.0 bemobtrk.com
+0.0.0.0 bemoonunbroid.shop
 0.0.0.0 bestchainconnection.com
 0.0.0.0 bestcleaner.online
 0.0.0.0 bestreceived.com
@@ -294,6 +296,7 @@
 0.0.0.0 choosingoffer.lol
 0.0.0.0 chpadblock.com
 0.0.0.0 clearwatch.tv
+0.0.0.0 click-for-preview.com
 0.0.0.0 clickblitzo.com
 0.0.0.0 clickmintads.site
 0.0.0.0 clicksyncflow.com
@@ -557,6 +560,7 @@
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 nightbesties.com
 0.0.0.0 ninancukankin.org
+0.0.0.0 nithyshipsi.com
 0.0.0.0 noavoahevugrib.com
 0.0.0.0 nontraditionally.rest
 0.0.0.0 noohapou.com
@@ -645,6 +649,7 @@
 0.0.0.0 psockapa.net
 0.0.0.0 pubadx.one
 0.0.0.0 pubtrky.com
+0.0.0.0 pulsivecerebra.top
 0.0.0.0 pupspu.com
 0.0.0.0 push-news.click
 0.0.0.0 push-sense.com
@@ -704,6 +709,7 @@
 0.0.0.0 security-suggestion.com
 0.0.0.0 security-u.com
 0.0.0.0 securitycheckonline.com
+0.0.0.0 sentimentalflight.com
 0.0.0.0 servsserverz.com
 0.0.0.0 sessfetchio.com
 0.0.0.0 sexemulator.tube-sexs.com
@@ -804,6 +810,7 @@
 0.0.0.0 unseaminoax.click
 0.0.0.0 upodaitie.net
 0.0.0.0 upuplets.com
+0.0.0.0 usedownloads.com
 0.0.0.0 utm-campaign.com
 0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
@@ -1033,6 +1040,7 @@
 0.0.0.0 sexemulator.com
 0.0.0.0 sexflirtbook.com
 0.0.0.0 sexintheuk.com
+0.0.0.0 sexpennyauctions.com
 0.0.0.0 slut2fuck.net
 0.0.0.0 snapcheat.app
 0.0.0.0 socialsex.biz
@@ -1051,8 +1059,6 @@
 0.0.0.0 xxxjmp.com
 0.0.0.0 xxxmatch.com
 0.0.0.0 zononi.com
-0.0.0.0 sexpennyauctions.com
-0.0.0.0 clkfeed.com
 0.0.0.0 imaginarybad.com
 0.0.0.0 1463.info
 0.0.0.0 www.mir-stalkera.ru

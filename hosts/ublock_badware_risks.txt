@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.19.80
-! Last modified: 2025-10-05T06:10:36.147Z
+! Version: 1.0.19.86
+! Last modified: 2025-10-12T06:10:43.478Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -500,6 +500,7 @@
 0.0.0.0 newgitgerto.xyz
 0.0.0.0 mariads.cfd
 0.0.0.0 gitfrominstall.com
+0.0.0.0 instagitkbs.sbs
 0.0.0.0 theannoyingsite.com
 0.0.0.0 smartklick.biz
 0.0.0.0 sale24-pills.com
@@ -1924,6 +1925,7 @@
 0.0.0.0 heattercer.com
 0.0.0.0 girlsmakeithard.monster
 0.0.0.0 grootcam.shop
+0.0.0.0 viruswarning*.web.core.windows.net
 0.0.0.0 crackedpc.org
 0.0.0.0 cracksway.com
 0.0.0.0 gamingnewsanalyst.com
@@ -2122,6 +2124,7 @@
 0.0.0.0 messagerie*.yolasite.com
 0.0.0.0 svropeauthentificatid.run.place
 0.0.0.0 payer-ma-acture-*.mystrikingly.com
+0.0.0.0 orange-connexion*.godaddysites.com
 0.0.0.0 amazon-*.shop
 0.0.0.0 amazon8898.com
 0.0.0.0 signup-amazon.com
@@ -2374,6 +2377,7 @@
 0.0.0.0 uspac.sbs
 0.0.0.0 informed.delivery*.top
 0.0.0.0 info-tracking*.cc
+0.0.0.0 uspost.*.cfd
 0.0.0.0 spoti-safe-support*.codeanyapp.com
 0.0.0.0 spoti-*.codeanyapp.com
 0.0.0.0 spolify-support-premium.codeanyapp.com
@@ -2437,6 +2441,16 @@
 0.0.0.0 final-claim.pages.dev
 0.0.0.0 alienxchain*.pages.dev
 0.0.0.0 xcoinspro.com
+0.0.0.0 bullishapp.cc
+0.0.0.0 bitoranges.com
+0.0.0.0 hswgs.com
+0.0.0.0 putrans.com
+0.0.0.0 qqh4.mom
+0.0.0.0 qqh5.mom
+0.0.0.0 snfee.com
+0.0.0.0 yzzrst.com
+0.0.0.0 zbzqgm.com
+0.0.0.0 zykqk.com
 0.0.0.0 interface-git-parallel-cypress-uniswap.vercel.app
 0.0.0.0 web3-projects-beta.vercel.app
 0.0.0.0 metamask*.webflow.io
@@ -3166,3 +3180,6 @@
 0.0.0.0 rarible.io-nft.guru
 0.0.0.0 rarible.nft-markets.org
 0.0.0.0 pddeploy.com
+0.0.0.0 killmalware.click
+0.0.0.0 morganryan.shop
+0.0.0.0 tring-tring.com
