@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.7
-! Last modified: 2025-10-12T06:10:31.900Z
+! Version: 1.0.15.10
+! Last modified: 2025-10-19T06:11:10.299Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -72,6 +72,7 @@
 0.0.0.0 appart-ages.fr
 0.0.0.0 arabdatingplanet.com
 0.0.0.0 arabiandate.com
+0.0.0.0 armadillo.co.za
 0.0.0.0 asexualitic.com
 0.0.0.0 asiafind.com
 0.0.0.0 asiafriendfinder.com
@@ -113,6 +114,7 @@
 0.0.0.0 behappy2day.com
 0.0.0.0 benaughty.com
 0.0.0.0 beshert.com
+0.0.0.0 bestprice.co.za
 0.0.0.0 bestrussianwoman.com
 0.0.0.0 bez-kompleksov.com
 0.0.0.0 bezzabran.com
@@ -149,6 +151,7 @@
 0.0.0.0 bustysingles.com.au
 0.0.0.0 buzzarab.com
 0.0.0.0 californiaflirt.com
+0.0.0.0 campus.co.za
 0.0.0.0 casual-date.com.ar
 0.0.0.0 casual-fling.com
 0.0.0.0 casualrandki.pl
@@ -401,7 +404,9 @@
 0.0.0.0 dialweb.fr
 0.0.0.0 diamond-dating.co.uk
 0.0.0.0 dilkarishta.com
+0.0.0.0 disabilitydating.net
 0.0.0.0 disabilitymatch.co.uk
+0.0.0.0 disabledlove.us
 0.0.0.0 disabledpassions.com
 0.0.0.0 disabledsinglesusa.com
 0.0.0.0 ditchordate.com
@@ -414,6 +419,7 @@
 0.0.0.0 domerencontre.com
 0.0.0.0 donneimmature.com
 0.0.0.0 drawingdownthemoon.co.uk
+0.0.0.0 dxbexpats.com
 0.0.0.0 dzf1174d4gjln.cloudfront.net
 0.0.0.0 e-amour.ch
 0.0.0.0 easternhoneys.com
@@ -453,6 +459,8 @@
 0.0.0.0 filipinokisses.com
 0.0.0.0 findanewlover.com
 0.0.0.0 findashemalelover.com
+0.0.0.0 finder.co.za
+0.0.0.0 findme.co.za
 0.0.0.0 findmymatches.com
 0.0.0.0 finya.de
 0.0.0.0 firstaffair.com
@@ -655,6 +663,7 @@
 0.0.0.0 lovez.jp
 0.0.0.0 lovinga.com
 0.0.0.0 lovoo.com
+0.0.0.0 lulusloveshack.com
 0.0.0.0 lusomeet.com
 0.0.0.0 lusomeet.fr
 0.0.0.0 lustvolleflirts.com
@@ -765,6 +774,7 @@
 0.0.0.0 oulfa.fr
 0.0.0.0 ourtime.com
 0.0.0.0 over50datingnorge.com
+0.0.0.0 over50sdating.net
 0.0.0.0 over50singlesmeet.com
 0.0.0.0 parisvideochat.com
 0.0.0.0 parom.hu
@@ -773,6 +783,7 @@
 0.0.0.0 parship.com
 0.0.0.0 partner-services.com
 0.0.0.0 passion.com
+0.0.0.0 patakadates.in
 0.0.0.0 patchwork-paar.de
 0.0.0.0 peekabooheart.com
 0.0.0.0 pegging.group
@@ -798,6 +809,7 @@
 0.0.0.0 proximeety.com
 0.0.0.0 proximeety.gr
 0.0.0.0 pure-app.com
+0.0.0.0 q2w.net
 0.0.0.0 quality-singles.com
 0.0.0.0 questchat.com
 0.0.0.0 radar-rencontres.fr
@@ -904,7 +916,9 @@
 0.0.0.0 rdv98.fr
 0.0.0.0 rdvadultere.com
 0.0.0.0 realpeopledating.com
+0.0.0.0 register.co.za
 0.0.0.0 reifefrauen.com
+0.0.0.0 relaxiones.es
 0.0.0.0 rencontrea.com
 0.0.0.0 rencontre-agriculteur.com
 0.0.0.0 rencontre-bordeaux.fr
@@ -925,6 +939,7 @@
 0.0.0.0 republicanpeoplemeet.com
 0.0.0.0 reseaucontact.com
 0.0.0.0 retrouve-moi.fr
+0.0.0.0 review.co.za
 0.0.0.0 roastdating.com
 0.0.0.0 rollosfaciles.com
 0.0.0.0 romancedubai.com
@@ -975,6 +990,7 @@
 0.0.0.0 singles.com
 0.0.0.0 singlesmontreal.com
 0.0.0.0 singlesolution.com
+0.0.0.0 sinsflirt.com
 0.0.0.0 sitederencontregratuit.org
 0.0.0.0 skandinaviadating.com
 0.0.0.0 skout.com
@@ -1041,6 +1057,7 @@
 0.0.0.0 toietmoi.fr
 0.0.0.0 tonga-soa.com
 0.0.0.0 top10maturedatingsites.com
+0.0.0.0 top20.co.za
 0.0.0.0 top5dating.co.uk
 0.0.0.0 topdatings.com
 0.0.0.0 toplop.com
@@ -1114,6 +1131,7 @@
 0.0.0.0 yourjewishdate.com
 0.0.0.0 yoursecrethookup.com
 0.0.0.0 zabido.com
+0.0.0.0 zarf.com
 0.0.0.0 zhenai91.com
 0.0.0.0 znamost.cz
 0.0.0.0 zoosk.com

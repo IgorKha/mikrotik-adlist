@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt
 ! Version: 1.0.14.86
-! Last modified: 2025-10-12T06:10:31.986Z
+! Last modified: 2025-10-19T06:11:10.401Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net

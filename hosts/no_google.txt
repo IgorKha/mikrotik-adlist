@@ -1,9 +1,7 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-! Version: 1.0.14.55
-! Last modified: 2025-10-12T06:10:30.351Z
+! Version: 1.0.14.57
+! Last modified: 2025-10-19T06:11:08.504Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
-0.0.0.0 *-android-context-data.googleapis.com
-0.0.0.0 *-chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 adgoogle.net
 0.0.0.0 crashlytics.com
 0.0.0.0 google-analytics-cn.com
@@ -24,7 +22,6 @@
 0.0.0.0 tangi.co
 0.0.0.0 gstatic.com
 0.0.0.0 gstatic.net
-0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com
 0.0.0.0 2mdn-cn.net
 0.0.0.0 2mdn.net
 0.0.0.0 agnss.goog
@@ -40,6 +37,7 @@
 0.0.0.0 bg-call-donation-dev.goog
 0.0.0.0 bg-call-donation.goog
 0.0.0.0 brightbytes.net
+0.0.0.0 chronicle.security
 0.0.0.0 chromecastexperiments.com
 0.0.0.0 chromeenterprise.google
 0.0.0.0 chromexperiments.com
@@ -299,6 +297,7 @@
 0.0.0.0 igoogle.com
 0.0.0.0 kaggle.com
 0.0.0.0 looker.com
+0.0.0.0 loon.com
 0.0.0.0 near.by
 0.0.0.0 ns-tld1.charlestonroadregistry.com
 0.0.0.0 papy.co.jp
@@ -966,6 +965,7 @@
 0.0.0.0 urchin.com
 0.0.0.0 urkkqhhehq.com
 0.0.0.0 us-central1-events-d07ac.cloudfunctions.net
+0.0.0.0 us-central1-ipgeolocation-414906.cloudfunctions.net
 0.0.0.0 uv9l56g4e9.com
 0.0.0.0 uyxk2yye5z.com
 0.0.0.0 uyxyuxj198.com
@@ -1582,11 +1582,6 @@
 0.0.0.0 youtubegaming.com
 0.0.0.0 ytimg.com
 0.0.0.0 fitbit.com
-0.0.0.0 GCP02-NF-01.corp.fitbit.com
-0.0.0.0 USVPNEast.corp.fitbit.com
-0.0.0.0 USVPNEAST.corp.fitbit.com
-0.0.0.0 USVPNWest.corp.fitbit.com
-0.0.0.0 USVPNWEST.corp.fitbit.com
 0.0.0.0 accounts.nest.com
 0.0.0.0 admin-migration.nest.com
 0.0.0.0 admin.nest.com
