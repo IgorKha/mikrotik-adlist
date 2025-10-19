@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.85
-! Last modified: 2025-10-12T06:10:43.865Z
+! Version: 1.0.17.91
+! Last modified: 2025-10-19T06:11:22.174Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -237,6 +237,7 @@
 0.0.0.0 blog.ru
 0.0.0.0 blog-online.eu
 0.0.0.0 blogcu.com
+0.0.0.0 blogcudinti.com
 0.0.0.0 blogg.de
 0.0.0.0 blogg.se
 0.0.0.0 blogger.ba
@@ -263,6 +264,7 @@
 0.0.0.0 blogspot.cz
 0.0.0.0 blogspot.de
 0.0.0.0 blogspot.dk
+0.0.0.0 blogspot.es
 0.0.0.0 blogspot.fi
 0.0.0.0 blogspot.fr
 0.0.0.0 blogspot.gr
@@ -433,7 +435,6 @@
 0.0.0.0 com24.at
 0.0.0.0 comeze.com
 0.0.0.0 comhem.se
-0.0.0.0 cominbaxz.xyz
 0.0.0.0 community.lc
 0.0.0.0 community24.eu
 0.0.0.0 comule.com
@@ -531,6 +532,7 @@
 0.0.0.0 ecardalert.com
 0.0.0.0 ecomplanet.com
 0.0.0.0 ecrater.com
+0.0.0.0 editorx.io
 0.0.0.0 edoctransfer.com
 0.0.0.0 edu.eu
 0.0.0.0 edublogs.org
@@ -624,7 +626,6 @@
 0.0.0.0 fotos.lc
 0.0.0.0 fr.gp
 0.0.0.0 fr.nf
-0.0.0.0 framer.app
 0.0.0.0 framer.website
 0.0.0.0 free.cr
 0.0.0.0 free.lc
@@ -704,8 +705,6 @@
 0.0.0.0 greecemar.shop
 0.0.0.0 grwebsite.com
 0.0.0.0 gtempurl.com
-0.0.0.0 gtexpsers.cc
-0.0.0.0 gtsepress.vip
 0.0.0.0 guest.de
 0.0.0.0 guide.lc
 0.0.0.0 guzhibo.cn
@@ -738,7 +737,6 @@
 0.0.0.0 hostingsiteforfree.com
 0.0.0.0 hostkda.com
 0.0.0.0 hostland.pro
-0.0.0.0 hostmeans.shop
 0.0.0.0 hostseba.com
 0.0.0.0 hot.lc
 0.0.0.0 hotloss.shop
@@ -814,7 +812,6 @@
 0.0.0.0 janhost.com
 0.0.0.0 jcmemoryscan.com
 0.0.0.0 jeun.fr
-0.0.0.0 jimdo.com
 0.0.0.0 jimdofree.com
 0.0.0.0 jimdosite.com
 0.0.0.0 jixx.de
@@ -964,7 +961,6 @@
 0.0.0.0 now.lc
 0.0.0.0 npx.de
 0.0.0.0 nut.cc
-0.0.0.0 nyccards.shop
 0.0.0.0 nyccenter.shop
 0.0.0.0 o.gp
 0.0.0.0 o-f.com
@@ -990,7 +986,6 @@
 0.0.0.0 onlinewebshop.net
 0.0.0.0 only4u.eu
 0.0.0.0 onmbl.com
-0.0.0.0 orangeusa.shop
 0.0.0.0 24.org.es
 0.0.0.0 orgsites.com
 0.0.0.0 over-blog.com
@@ -1026,7 +1021,6 @@
 0.0.0.0 pktriot.net
 0.0.0.0 pl.de
 0.0.0.0 pl.gp
-0.0.0.0 pl-oferta-id2387942371.top
 0.0.0.0 planet.tl
 0.0.0.0 plesk.page
 0.0.0.0 pnsiayfas.net
@@ -1101,7 +1095,6 @@
 0.0.0.0 seite.ru
 0.0.0.0 seite24.eu
 0.0.0.0 seite77.de
-0.0.0.0 serpgold.com
 0.0.0.0 serv00.net
 0.0.0.0 server.gg
 0.0.0.0 server.tl

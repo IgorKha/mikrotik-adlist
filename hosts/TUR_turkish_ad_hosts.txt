@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.67
-! Last modified: 2025-10-12T06:10:35.510Z
+! Version: 1.0.14.68
+! Last modified: 2025-10-19T06:11:14.204Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -91,6 +91,7 @@
 0.0.0.0 adbsmetrics.hyundai.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 addata.exxen.com
+0.0.0.0 addresseepaper.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 adeventtracker.spotify.com
@@ -98,16 +99,19 @@
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfp.fcloud.com.tr
 0.0.0.0 adfstat.yandex.ru
+0.0.0.0 adklik.com.tr
+0.0.0.0 admax.com.tr
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobedc.demdex.net
 0.0.0.0 adoni-nea.com
-0.0.0.0 addresseepaper.com
+0.0.0.0 adplay.com.tr
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.assemblyexchange.com
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads.bullionyield.com
+0.0.0.0 ads.code.com.tr
 0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 ads.dygdigital.com
 0.0.0.0 ads.ekstat.com
@@ -178,6 +182,7 @@
 0.0.0.0 advertising.twitter.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 adworld.com.tr
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 ae.mmstat.com
 0.0.0.0 affiliate.migros.com.tr
@@ -223,6 +228,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.halkbank.com.tr
 0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 analytics.olay.com.tr
 0.0.0.0 analytics.onedio.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pointdrive.linkedin.com
@@ -239,6 +245,7 @@
 0.0.0.0 analytics.ubports.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 analytics.yeniakit.com.tr
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-dev.bettermeter.com
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
@@ -355,6 +362,7 @@
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 bande2az.com
+0.0.0.0 banner.tmgrup.com.tr
 0.0.0.0 bat.bing.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bcp.crwdcntrl.net
@@ -399,6 +407,7 @@
 0.0.0.0 btloader.com
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bts.a11k.com
+0.0.0.0 bumerangshowsites.hurriyet.com.tr
 0.0.0.0 business.samsungusa.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 busuanzi.ibruce.info
@@ -574,6 +583,7 @@
 0.0.0.0 champagne.futurecdn.net
 0.0.0.0 childlikeform.com
 0.0.0.0 chimpstatic.com
+0.0.0.0 cinerreklam.com.tr
 0.0.0.0 ciqepxipgs.com
 0.0.0.0 cis.schibsted.com
 0.0.0.0 ck.ads.oppomobile.com
@@ -770,7 +780,6 @@
 0.0.0.0 du0pud0sdlmzf.cloudfront.net
 0.0.0.0 ductquest.com
 0.0.0.0 dukingdraon.com
-0.0.0.0 duyuru-geldi-reklam-basvuru-com.ml
 0.0.0.0 dwin1.com
 0.0.0.0 dx.mountain.com
 0.0.0.0 dxp.baidu.com
@@ -1018,6 +1027,7 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 ipac.ctnsnet.com
+0.0.0.0 ipcheck.tmgrup.com.tr
 0.0.0.0 iplocation-api.wp.trt.com.tr
 0.0.0.0 ipr.n11.com
 0.0.0.0 ir-na.amazon-adsystem.com
@@ -1061,9 +1071,7 @@
 0.0.0.0 jsonip.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kaanbabaads.net
-0.0.0.0 kampanya-reklam-is-bankasi-com.ml
 0.0.0.0 kampanyadiyariherseyburda.xyz
-0.0.0.0 kaanatesoglu7.net
 0.0.0.0 kgfjrb711.com
 0.0.0.0 kia.selphiu.com
 0.0.0.0 kimberlite.io
@@ -1088,6 +1096,7 @@
 0.0.0.0 lib.wtg-ads.com
 0.0.0.0 licensebuttons.net
 0.0.0.0 lider90.com
+0.0.0.0 lightning.cartoonnetwork.com.tr
 0.0.0.0 limurol.com
 0.0.0.0 linkconnector.com
 0.0.0.0 links.services.disqus.com
@@ -1133,7 +1142,6 @@
 0.0.0.0 map.sddan.com
 0.0.0.0 marazma.com
 0.0.0.0 marfeel-d.openx.net
-0.0.0.0 marketing.turkiyefinans.com.tr
 0.0.0.0 markreptiloid.com
 0.0.0.0 match.360yield.com
 0.0.0.0 match.adsrvr.org
@@ -1677,6 +1685,7 @@
 0.0.0.0 stats.kde.org
 0.0.0.0 stats.pornpics.com
 0.0.0.0 stats.redditmedia.com
+0.0.0.0 stats.tv8.com.tr
 0.0.0.0 stats.vidyome.com
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.vlitag.com
@@ -1705,6 +1714,9 @@
 0.0.0.0 svibeacon.onezapp.com
 0.0.0.0 sw.wpu.sh
 0.0.0.0 swimsolution.ap-reklama.cz
+0.0.0.0 swwcyk.aspor.com.tr
+0.0.0.0 swwcyk.atv.com.tr
+0.0.0.0 swwcyk.takvim.com.tr
 0.0.0.0 sync.1dmp.io
 0.0.0.0 sync.1rx.io
 0.0.0.0 sync.adkernel.com
@@ -1845,6 +1857,7 @@
 0.0.0.0 u10506.19.spylog.com
 0.0.0.0 u3401.26.spylog.com
 0.0.0.0 ua.realtimely.io
+0.0.0.0 uazmti.a101.com.tr
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 udcm.yahoo.com
 0.0.0.0 udmserve.net
@@ -1889,6 +1902,7 @@
 0.0.0.0 vast.vstserv.com
 0.0.0.0 vast.yomeno.xyz
 0.0.0.0 vc.hotjar.io
+0.0.0.0 vedznh.cumhuriyet.com.tr
 0.0.0.0 venetrigni.com
 0.0.0.0 video.ktkjmp.com
 0.0.0.0 video.mnaspm.com
@@ -1987,6 +2001,7 @@
 0.0.0.0 x.everestop.io
 0.0.0.0 x.thecatmachine.com
 0.0.0.0 x01.aidata.io
+0.0.0.0 xenaly.sozcu.com.tr
 0.0.0.0 xfwblpomxc.com
 0.0.0.0 xml.popmansion.com
 0.0.0.0 xmtvreklam3d.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
-! Version: 1.0.0.8
-! Last modified: 2025-10-12T06:10:32.237Z
+! Version: 1.0.0.9
+! Last modified: 2025-10-19T06:11:10.683Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
@@ -44,10 +44,6 @@
 0.0.0.0 asia-vcode-or.vivoglobal.com
 0.0.0.0 asia-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-vpushort-stsdk.vivoglobal.com
-0.0.0.0 cl-domaincfg.vivoglobal.com
-0.0.0.0 cl-romsp-unifyconfig.vivoglobal.com
-0.0.0.0 cl-st-sl.vivoglobal.com
-0.0.0.0 cl-vcode-api.vivoglobal.com
 0.0.0.0 cl-vcode-od.vivoglobal.com
 0.0.0.0 cname-ali-asia-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
@@ -60,7 +56,6 @@
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0 co-cota.vivoglobal.com
 0.0.0.0 co-domaincfg.vivoglobal.com
-0.0.0.0 co-err-up.vivoglobal.com
 0.0.0.0 co-onrt-stsdk.vivoglobal.com
 0.0.0.0 co-ort-stsdk.vivoglobal.com
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
@@ -71,16 +66,8 @@
 0.0.0.0 co-vcode-api.vivoglobal.com
 0.0.0.0 co-vcode-od.vivoglobal.com
 0.0.0.0 co-vcode-or.vivoglobal.com
-0.0.0.0 de-err-up.vivoglobal.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
-0.0.0.0 de-gdpr-vcode-od.vivoglobal.com
-0.0.0.0 de-onrt-stsdk.vivoglobal.com
-0.0.0.0 de-ort-stsdk.vivoglobal.com
-0.0.0.0 de-prt-stsdk.vivoglobal.com
-0.0.0.0 de-vcode-od.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
-0.0.0.0 eu-album-api.vivoglobal.com
-0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
 0.0.0.0 eu-onrt-stsdk.vivoglobal.com
@@ -89,7 +76,6 @@
 0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
 0.0.0.0 eu-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 eu-st-sl.vivoglobal.com
-0.0.0.0 eu-stsdk.vivoglobal.com
 0.0.0.0 eu-timesync.vivoglobal.com
 0.0.0.0 eu-vcode-api.vivoglobal.com
 0.0.0.0 eu-vcode-od.vivoglobal.com
@@ -122,7 +108,6 @@
 0.0.0.0 in-ort-stsdk.vivoglobal.com
 0.0.0.0 in-os-config-appstore.vivoglobal.com
 0.0.0.0 in-pnrt-stsdk.vivoglobal.com
-0.0.0.0 in-prt-stsdk.vivoglobal.com
 0.0.0.0 in-third-appstore.vivoglobal.com
 0.0.0.0 in-timesync.vivoglobal.com
 0.0.0.0 in-vcode-api.vivoglobal.com
@@ -135,7 +120,6 @@
 0.0.0.0 kz-monitor-stsdk.vivoglobal.com
 0.0.0.0 kz-onrt-stsdk.vivoglobal.com
 0.0.0.0 kz-ort-stsdk.vivoglobal.com
-0.0.0.0 kz-p.vivoglobal.com
 0.0.0.0 kz-pnrt-stsdk.vivoglobal.com
 0.0.0.0 kz-prt-stsdk.vivoglobal.com
 0.0.0.0 kz-romsp-unifyconfig.vivoglobal.com
@@ -143,7 +127,6 @@
 0.0.0.0 kz-st-sl.vivoglobal.com
 0.0.0.0 kz-st-sysupgrade.vivoglobal.com
 0.0.0.0 kz-stsdk.vivoglobal.com
-0.0.0.0 kz-timesync.vivoglobal.com
 0.0.0.0 kz-vcode-api.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com
@@ -167,14 +150,11 @@
 0.0.0.0 pnrt-stsdk.vivoglobal.com
 0.0.0.0 prt-stsdk.vivoglobal.com
 0.0.0.0 ro-up.vivoglobal.com
-0.0.0.0 ru-album-api.vivoglobal.com
-0.0.0.0 ru-analyzer-appstore.vivoglobal.com
 0.0.0.0 ru-commonitor-stsdk.vivoglobal.com
 0.0.0.0 ru-comonrt-stsdk.vivoglobal.com
 0.0.0.0 ru-comort-stsdk.vivoglobal.com
 0.0.0.0 ru-compnrt-stsdk.vivoglobal.com
 0.0.0.0 ru-comprt-stsdk.vivoglobal.com
-0.0.0.0 ru-cota.vivoglobal.com
 0.0.0.0 ru-err-up.vivoglobal.com
 0.0.0.0 ru-exstsdk.vivoglobal.com
 0.0.0.0 ru-monitor-stsdk.vivoglobal.com
@@ -212,12 +192,10 @@
 0.0.0.0 tr-album-api.vivoglobal.com
 0.0.0.0 tr-cota.vivoglobal.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
-0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-gdpr-vgc-datacenter.vivoglobal.com
 0.0.0.0 tr-onrt-stsdk.vivoglobal.com
 0.0.0.0 tr-ort-stsdk.vivoglobal.com
 0.0.0.0 tr-p.vivoglobal.com
-0.0.0.0 tr-pnrt-stsdk.vivoglobal.com
 0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
 0.0.0.0 tr-st-sysupgrade.vivoglobal.com
@@ -230,11 +208,5 @@
 0.0.0.0 tr-weather.vivoglobal.com
 0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 xn-ex-adreq-asa-c5b.vivoglobal.com
-0.0.0.0 za-p.vivoglobal.com
-0.0.0.0 zasc-cota.vivoglobal.com
-0.0.0.0 zasc-romsp-unifyconfig.vivoglobal.com
-0.0.0.0 zasc-vcode-api.vivoglobal.com
-0.0.0.0 zasc-vcode-od.vivoglobal.com
-0.0.0.0 zasc-vcode-or.vivoglobal.com
 0.0.0.0 h4g3z1-native.vivo.web.app
 0.0.0.0 vhs.wwstat.com

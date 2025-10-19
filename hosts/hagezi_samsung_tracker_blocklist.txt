@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-! Version: 1.0.0.29
-! Last modified: 2025-10-12T06:10:32.072Z
+! Version: 1.0.0.30
+! Last modified: 2025-10-19T06:11:10.497Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -51,13 +51,6 @@
 0.0.0.0 akcjasamsung.e-kei.pl
 0.0.0.0 samsung-akcja.e-kei.pl
 0.0.0.0 samsung.ecorebates.com
-0.0.0.0 samsungemea.everestengagement.com
-0.0.0.0 samsungeu.everestengagement.com
-0.0.0.0 samsungmy.everestengagement.com
-0.0.0.0 samsungsg.everestengagement.com
-0.0.0.0 samsungth.everestengagement.com
-0.0.0.0 samsungusa.everestengagement.com
-0.0.0.0 samsungvn.everestengagement.com
 0.0.0.0 samsung.telemetry.eyeo.com
 0.0.0.0 ehg-samsungusa.hitbox.com
 0.0.0.0 conn-v2.samsung.japps.cn

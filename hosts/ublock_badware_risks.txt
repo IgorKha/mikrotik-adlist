@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.19.86
-! Last modified: 2025-10-12T06:10:43.478Z
+! Version: 1.0.19.95
+! Last modified: 2025-10-19T06:11:21.802Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -347,6 +347,9 @@
 0.0.0.0 china-sister-hong-ty.blogspot.com
 0.0.0.0 cdn.710k.com
 0.0.0.0 cdnservice.ink
+0.0.0.0 vaccination.gov.ng
+0.0.0.0 thebook.digital
+0.0.0.0 pdf-up.com
 0.0.0.0 nachhilfeteam.net
 0.0.0.0 adalh-zcq.com
 0.0.0.0 discordvip.createsocialcard.top
@@ -448,12 +451,9 @@
 0.0.0.0 1980s.click
 0.0.0.0 xforce-cracks.com
 0.0.0.0 fileisready.com
-0.0.0.0 coronasfapps.net
 0.0.0.0 sustac.com
 0.0.0.0 hostt.link
 0.0.0.0 ncracked.com
-0.0.0.0 uploadingfilesetup.click
-0.0.0.0 uploadingfilesetup.store
 0.0.0.0 dr-community.online
 0.0.0.0 fullsetup.click
 0.0.0.0 fullsetup.pro
@@ -469,6 +469,7 @@
 0.0.0.0 gamesforpcfree.com
 0.0.0.0 noxbits.com
 0.0.0.0 upcommunity.click
+0.0.0.0 tech-softwares.com
 0.0.0.0 crackingpatching.com
 0.0.0.0 patchedfiles.com
 0.0.0.0 filexstorage.site
@@ -1874,6 +1875,24 @@
 0.0.0.0 mightembarrassedlaw.com
 0.0.0.0 lustsexloveclub.vip
 0.0.0.0 passionsex.vip
+0.0.0.0 brillante-etoile.com
+0.0.0.0 lamp-keeper-tomori.com
+0.0.0.0 journey-of-truth.com
+0.0.0.0 cf67ahu-mkooh.com
+0.0.0.0 kikon-match.co.jp
+0.0.0.0 pure-ppre-r.com
+0.0.0.0 dasikmonnb9.sbs
+0.0.0.0 jjiu3sqw.sbs
+0.0.0.0 kardon-rsa.com
+0.0.0.0 kvgp201er.sbs
+0.0.0.0 osjdd4d.sbs
+0.0.0.0 w0sqoketsl.sbs
+0.0.0.0 glitter-2025.com
+0.0.0.0 alor1-j6g2t.com
+0.0.0.0 ik-v60jh3j.com
+0.0.0.0 mn6q-6tw4h.com
+0.0.0.0 phm-2g.com
+0.0.0.0 r9-2an.com
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
 0.0.0.0 tgram.ru
@@ -1926,6 +1945,7 @@
 0.0.0.0 girlsmakeithard.monster
 0.0.0.0 grootcam.shop
 0.0.0.0 viruswarning*.web.core.windows.net
+0.0.0.0 xpoalswwkjddsljsy.com
 0.0.0.0 crackedpc.org
 0.0.0.0 cracksway.com
 0.0.0.0 gamingnewsanalyst.com
@@ -2845,8 +2865,18 @@
 0.0.0.0 pekanbaru.one
 0.0.0.0 securevault.top
 0.0.0.0 orca-slicer.
-0.0.0.0 orcaslicers.com
-0.0.0.0 theorcaslicer.com
+0.0.0.0 ocraslicer.
+0.0.0.0 orca3dslicer.
+0.0.0.0 orcaslice.
+0.0.0.0 orcaslicer.
+0.0.0.0 orcaslicer3d.
+0.0.0.0 orcaslicerdownload.
+0.0.0.0 orcaslicerofficial.
+0.0.0.0 orcaslicerr.
+0.0.0.0 orcaslicers.
+0.0.0.0 theorcaslicer.
+0.0.0.0 nvcleanstall.
+0.0.0.0 nvcleanstal.
 0.0.0.0 marabase-bi.com
 0.0.0.0 airupgreece.net
 0.0.0.0 airupfrance.fr
@@ -2896,6 +2926,10 @@
 0.0.0.0 cdncloud.icu
 0.0.0.0 wallpaper-engine.pro
 0.0.0.0 tobias-neller.link
+0.0.0.0 getfix.win
+0.0.0.0 cptchdm.icu
+0.0.0.0 ncloud.icu
+0.0.0.0 saocloud.icu
 0.0.0.0 dtioykqj1u8de.cloudfront.net
 0.0.0.0 partners-tds.com
 0.0.0.0 likeyoumakehappy.xyz
@@ -3183,3 +3217,13 @@
 0.0.0.0 killmalware.click
 0.0.0.0 morganryan.shop
 0.0.0.0 tring-tring.com
+0.0.0.0 vero-hr.click
+0.0.0.0 jackpotmastersdanske.com
+0.0.0.0 musicboxcr.com
+0.0.0.0 villasmbuva.co.mz
+0.0.0.0 fejyhy.com
+0.0.0.0 fenamu.com
+0.0.0.0 notwinningbutpartici.com
+0.0.0.0 elkendinsc.com
+0.0.0.0 stylexlab.ru
+0.0.0.0 marktplaats.ch
