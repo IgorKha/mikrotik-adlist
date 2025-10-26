@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.68
-! Last modified: 2025-10-19T06:11:14.204Z
+! Version: 1.0.14.69
+! Last modified: 2025-10-26T06:10:57.932Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -1506,7 +1506,6 @@
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 s.vi-serve.com
 0.0.0.0 s.visilabs.net
-0.0.0.0 s.youtube.com
 0.0.0.0 s-gm.mmstat.com
 0.0.0.0 s-img.idealmedia.io
 0.0.0.0 s0.2mdn.net

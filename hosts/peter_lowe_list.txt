@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.87
-! Last modified: 2025-10-19T06:10:57.133Z
+! Version: 1.0.15.90
+! Last modified: 2025-10-26T06:10:40.843Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -1375,6 +1375,7 @@
 0.0.0.0 cpays.com
 0.0.0.0 cpmstar.com
 0.0.0.0 cpu.samsungelectronics.com
+0.0.0.0 cpx-traffic.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
@@ -1504,7 +1505,6 @@
 0.0.0.0 ecleneue.com
 0.0.0.0 eclick.vn
 0.0.0.0 eclicks.deliveroo.com
-0.0.0.0 eclkmpbn.com
 0.0.0.0 eclkspbn.com
 0.0.0.0 ecoupons.com
 0.0.0.0 edaa.eu
@@ -2158,6 +2158,7 @@
 0.0.0.0 megawerbung.de
 0.0.0.0 meltmilk.com
 0.0.0.0 memorizeneck.com
+0.0.0.0 mercuryace.com
 0.0.0.0 merequartz.com
 0.0.0.0 metadsp.co.uk
 0.0.0.0 metaffiliation.com
@@ -2563,7 +2564,6 @@
 0.0.0.0 pushengage.com
 0.0.0.0 pushno.com
 0.0.0.0 pushtrack.co
-0.0.0.0 pushwhy.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 pxf.io
@@ -2907,6 +2907,7 @@
 0.0.0.0 stalesummer.com
 0.0.0.0 starffa.com
 0.0.0.0 starkscale.com
+0.0.0.0 starrynets.com
 0.0.0.0 startapp.com
 0.0.0.0 stat-track.com
 0.0.0.0 stat.cliche.se
@@ -2963,6 +2964,7 @@
 0.0.0.0 stupendoussnow.com
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 succeedscene.com
+0.0.0.0 successbuffet.com
 0.0.0.0 sugoicounter.com
 0.0.0.0 sulkycook.com
 0.0.0.0 summerobject.com
@@ -3200,7 +3202,6 @@
 0.0.0.0 triplelift.com
 0.0.0.0 triptease.io
 0.0.0.0 trk.4ff.pro
-0.0.0.0 trk.bad-tool-tell-doubt.xyz
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.techtarget.com
@@ -3249,6 +3250,7 @@
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwieldyhealth.com
 0.0.0.0 unwieldyimpulse.com
+0.0.0.0 upgradeyoga.com
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 urbanlaurel.com
 0.0.0.0 url9467.comms-2.zoopla.co.uk

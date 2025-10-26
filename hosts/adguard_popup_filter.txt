@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.22
-! Last modified: 2025-10-19T06:11:01.733Z
+! Version: 1.0.17.27
+! Last modified: 2025-10-26T06:10:45.629Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 parcelconsists.com
 0.0.0.0 protect-myphone.com
 0.0.0.0 sosalkebab.com
 0.0.0.0 droplink.digital
@@ -539,7 +540,6 @@
 0.0.0.0 mobile-ads.gaygalls.net
 0.0.0.0 mobile-ads.wycc.porn
 0.0.0.0 mobiletracking.ru
-0.0.0.0 modoodeul.com
 0.0.0.0 momotrk.com
 0.0.0.0 movie-tv-free.com
 0.0.0.0 mylot.com
@@ -565,9 +565,7 @@
 0.0.0.0 nontraditionally.rest
 0.0.0.0 noohapou.com
 0.0.0.0 noolt.com
-0.0.0.0 north-verification.com
 0.0.0.0 northauthority.xyz
-0.0.0.0 northdownload.com
 0.0.0.0 northrtbads.top
 0.0.0.0 nothingfairnessdemonstrate.com
 0.0.0.0 novibet.partners
@@ -620,7 +618,6 @@
 0.0.0.0 playstretch.host
 0.0.0.0 plinksplanet.com
 0.0.0.0 plorexdry.com
-0.0.0.0 pnouting.com
 0.0.0.0 podbex.com
 0.0.0.0 pooksys.site
 0.0.0.0 popblockergold.com
@@ -699,6 +696,7 @@
 0.0.0.0 rtbix.xyz
 0.0.0.0 rtbreachads.com
 0.0.0.0 s3g6.com
+0.0.0.0 sabasadara.com
 0.0.0.0 safeonlinetips.com
 0.0.0.0 savinist.com
 0.0.0.0 sawd.cloud
@@ -723,12 +721,14 @@
 0.0.0.0 singaporetradingchallengetracker1.com
 0.0.0.0 singelstodate.com
 0.0.0.0 singledatetime.com
+0.0.0.0 singlegirlsfinder.com
 0.0.0.0 skated.co
 0.0.0.0 skylindo.com
 0.0.0.0 skywardjourneys.co
 0.0.0.0 slcuse.com
 0.0.0.0 sloto.live
 0.0.0.0 smrtmnk2.com
+0.0.0.0 socialdate.me
 0.0.0.0 sodefender.pro
 0.0.0.0 sp03k.sbs
 0.0.0.0 spareforads.top
@@ -778,6 +778,7 @@
 0.0.0.0 tracker-2.com
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracking-aws-5.com
+0.0.0.0 tracking-zy.com
 0.0.0.0 tracking.gusclicks.com
 0.0.0.0 trackingtraffo.com
 0.0.0.0 tracktds.live

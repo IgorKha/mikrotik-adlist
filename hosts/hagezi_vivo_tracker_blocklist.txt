@@ -1,13 +1,17 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
-! Version: 1.0.0.9
-! Last modified: 2025-10-19T06:11:10.683Z
+! Version: 1.0.0.11
+! Last modified: 2025-10-26T06:10:54.511Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
+0.0.0.0 appstore-trace-h5sdk.vivo.com.cn
 0.0.0.0 dsplog-adnet.vivo.com.cn
+0.0.0.0 trace-h5sdk.vivo.com.cn
 0.0.0.0 tracking-adnet.vivo.com.cn
 0.0.0.0 vhs.wwstat.com.ctdns.cn
+0.0.0.0 trackercollect.ddxq.mobi
+0.0.0.0 trackerfeed.ddxq.mobi
 0.0.0.0 vhs.wwstat.com.eo.dnse0.com
 0.0.0.0 asia-abeacdataonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com
@@ -56,6 +60,7 @@
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0 co-cota.vivoglobal.com
 0.0.0.0 co-domaincfg.vivoglobal.com
+0.0.0.0 co-err-up.vivoglobal.com
 0.0.0.0 co-onrt-stsdk.vivoglobal.com
 0.0.0.0 co-ort-stsdk.vivoglobal.com
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
@@ -67,7 +72,10 @@
 0.0.0.0 co-vcode-od.vivoglobal.com
 0.0.0.0 co-vcode-or.vivoglobal.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
+0.0.0.0 de-gdpr-vcode-od.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
+0.0.0.0 eu-album-api.vivoglobal.com
+0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
 0.0.0.0 eu-onrt-stsdk.vivoglobal.com
@@ -76,6 +84,7 @@
 0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
 0.0.0.0 eu-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 eu-st-sl.vivoglobal.com
+0.0.0.0 eu-stsdk.vivoglobal.com
 0.0.0.0 eu-timesync.vivoglobal.com
 0.0.0.0 eu-vcode-api.vivoglobal.com
 0.0.0.0 eu-vcode-od.vivoglobal.com
@@ -127,6 +136,7 @@
 0.0.0.0 kz-st-sl.vivoglobal.com
 0.0.0.0 kz-st-sysupgrade.vivoglobal.com
 0.0.0.0 kz-stsdk.vivoglobal.com
+0.0.0.0 kz-timesync.vivoglobal.com
 0.0.0.0 kz-vcode-api.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com

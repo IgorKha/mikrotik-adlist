@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_20.txt
-! Version: 1.0.14.53
-! Last modified: 2025-10-19T06:11:11.723Z
+! Version: 1.0.14.54
+! Last modified: 2025-10-26T06:10:55.560Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 10bet.com
 0.0.0.0 2mdn.net
@@ -32,6 +32,7 @@
 0.0.0.0 ads.fashionel.mk
 0.0.0.0 ads.fokus.mk
 0.0.0.0 ads.foxit.mk
+0.0.0.0 ads.glamur.mk
 0.0.0.0 ads.gol.mk
 0.0.0.0 ads.gostivarpress.mk
 0.0.0.0 ads.grouper.mk
@@ -68,6 +69,7 @@
 0.0.0.0 ads.tocka.com.mk
 0.0.0.0 ads.trendolend.mk
 0.0.0.0 ads.tv21.tv
+0.0.0.0 ads.vecer.mk
 0.0.0.0 ads.vecer.press
 0.0.0.0 ads.vionservices.com
 0.0.0.0 ads.vrabotuvanje.com.mk

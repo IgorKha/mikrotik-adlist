@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.3
-! Last modified: 2025-10-19T06:11:22.079Z
+! Version: 1.0.16.4
+! Last modified: 2025-10-26T06:11:04.993Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -151,7 +151,6 @@
 0.0.0.0 bsn2bsn.com
 0.0.0.0 bumbleshrimp.com
 0.0.0.0 burlingtondrywall.com
-0.0.0.0 buys.ru
 0.0.0.0 buyshouses.net
 0.0.0.0 byte4byte.com
 0.0.0.0 cable-modem.org
@@ -161,7 +160,6 @@
 0.0.0.0 cashit.info
 0.0.0.0 cbopelousas.com
 0.0.0.0 cbu.net
-0.0.0.0 ccmissoula.com
 0.0.0.0 cechire.com
 0.0.0.0 celebsplay.com
 0.0.0.0 celltrak.mobi
@@ -920,7 +918,6 @@
 0.0.0.0 midjava.com
 0.0.0.0 migibts.net
 0.0.0.0 mikata.ru
-0.0.0.0 mikecartwright.net
 0.0.0.0 mil.nf
 0.0.0.0 mindhackers.org
 0.0.0.0 mine.bz
@@ -1458,7 +1455,6 @@
 0.0.0.0 yngling.com
 0.0.0.0 youdontcare.com
 0.0.0.0 youpc.ro
-0.0.0.0 yourspecialtee.com
 0.0.0.0 yourtrap.com
 0.0.0.0 z0d.eu
 0.0.0.0 z86.ru
