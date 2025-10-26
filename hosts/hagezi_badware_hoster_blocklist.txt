@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.91
-! Last modified: 2025-10-19T06:11:22.174Z
+! Version: 1.0.17.96
+! Last modified: 2025-10-26T06:11:05.103Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -307,6 +307,7 @@
 0.0.0.0 boutiqueond.shop
 0.0.0.0 boxmail.biz
 0.0.0.0 boxmode.io
+0.0.0.0 bplaced.de
 0.0.0.0 bplaced.net
 0.0.0.0 br.gp
 0.0.0.0 bravehost.com
@@ -346,6 +347,7 @@
 0.0.0.0 byethost9.com
 0.0.0.0 byto.de
 0.0.0.0 bz.tc
+0.0.0.0 c.la
 0.0.0.0 c.pl
 0.0.0.0 c0.pl
 0.0.0.0 ca.gp
@@ -649,7 +651,6 @@
 0.0.0.0 freetzi.com
 0.0.0.0 freevar.com
 0.0.0.0 freeweb.me
-0.0.0.0 freeweb.pk
 0.0.0.0 freewebhosting4u.com
 0.0.0.0 freewebhostingarea.com
 0.0.0.0 freewebhostmost.com
@@ -684,6 +685,7 @@
 0.0.0.0 gildenseite.de
 0.0.0.0 girlsense.com
 0.0.0.0 glitch.me
+0.0.0.0 sp.gname.net
 0.0.0.0 godaddysites.com
 0.0.0.0 godfrance.club
 0.0.0.0 godscience.shop
@@ -707,7 +709,6 @@
 0.0.0.0 gtempurl.com
 0.0.0.0 guest.de
 0.0.0.0 guide.lc
-0.0.0.0 guzhibo.cn
 0.0.0.0 gymsharkitaliaofficial.it
 0.0.0.0 h.gp
 0.0.0.0 hanefra7bikiemta.com
@@ -1138,7 +1139,6 @@
 0.0.0.0 square.site
 0.0.0.0 square7.ch
 0.0.0.0 srv1.org
-0.0.0.0 standardseoservices.com
 0.0.0.0 start.lc
 0.0.0.0 stormloader.com
 0.0.0.0 stormpages.com
@@ -1175,7 +1175,6 @@
 0.0.0.0 tggame.xyz
 0.0.0.0 tgpropower.top
 0.0.0.0 th.gp
-0.0.0.0 the-finance-world.com
 0.0.0.0 thisistap.com
 0.0.0.0 tiiny.host
 0.0.0.0 tilda.ws
@@ -1295,14 +1294,12 @@
 0.0.0.0 webnode.fr
 0.0.0.0 webnode.gr
 0.0.0.0 webnode.it
-0.0.0.0 webnode.jp
 0.0.0.0 webnode.mx
 0.0.0.0 webnode.nl
 0.0.0.0 webnode.page
 0.0.0.0 webnode.pt
 0.0.0.0 webnode.ro
 0.0.0.0 webnode.ru
-0.0.0.0 webnode.se
 0.0.0.0 webnode.sk
 0.0.0.0 webnode.tw
 0.0.0.0 webnode.vn

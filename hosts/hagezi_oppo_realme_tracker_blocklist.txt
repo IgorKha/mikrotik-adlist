@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.5
-! Last modified: 2025-10-19T06:11:10.777Z
+! Version: 1.0.0.6
+! Last modified: 2025-10-26T06:10:54.609Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -297,6 +297,7 @@
 0.0.0.0 browser-api-vn.heytapmobile.com
 0.0.0.0 browser-api-za.heytapmobile.com
 0.0.0.0 browser-sdk-fr.heytapmobile.com
+0.0.0.0 browser-sdk-in.heytapmobile.com
 0.0.0.0 browser-sdk-ru.heytapmobile.com
 0.0.0.0 browserfiles.heytapmobile.com
 0.0.0.0 api-gl.cdo.heytapmobile.com

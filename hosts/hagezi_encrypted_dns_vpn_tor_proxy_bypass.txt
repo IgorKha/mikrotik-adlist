@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt
-! Version: 1.0.21.93
-! Last modified: 2025-10-19T06:11:21.958Z
+! Version: 1.0.22.2
+! Last modified: 2025-10-26T06:11:04.864Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -168,8 +168,6 @@
 0.0.0.0 blacknig-ger.69.mu
 0.0.0.0 chickenzestyhawktuahbigblacknigfattass.69.mu
 0.0.0.0 i-ready.69.mu
-0.0.0.0 imsogoopy.69.mu
-0.0.0.0 proxyforhayes.69.mu
 0.0.0.0 dns.6level.net
 0.0.0.0 agh.710523.xyz
 0.0.0.0 71745718.online
@@ -209,7 +207,6 @@
 0.0.0.0 ddd.999369.xyz
 0.0.0.0 dns.9999.sg
 0.0.0.0 99proxy.com
-0.0.0.0 9w9.org
 0.0.0.0 dns.a47.me
 0.0.0.0 doh.aaaab3n.moe
 0.0.0.0 us.aab.im
@@ -329,6 +326,7 @@
 0.0.0.0 aliveproxies.com
 0.0.0.0 aliveproxy.com
 0.0.0.0 dns.aliyun.com
+0.0.0.0 resolvers-cn.httpdns.aliyuncs.com
 0.0.0.0 httpdns-api.aliyuncs.com
 0.0.0.0 httpdns-sc.aliyuncs.com
 0.0.0.0 alleesph.online
@@ -385,7 +383,6 @@
 0.0.0.0 andrewnw.xyz
 0.0.0.0 andrey93rus.ru
 0.0.0.0 dns.andreykiv.com
-0.0.0.0 androvpn.com
 0.0.0.0 doh.angry.im
 0.0.0.0 angrysky.ru
 0.0.0.0 anhphamhn82.uk
@@ -696,7 +693,6 @@
 0.0.0.0 bocaplanet.com
 0.0.0.0 d.bod.lol
 0.0.0.0 boda-vip.net
-0.0.0.0 bodvpn.com
 0.0.0.0 dns.bofh.in
 0.0.0.0 boi9osyg1uwtyafn.com
 0.0.0.0 doh.boje8.me
@@ -723,7 +719,6 @@
 0.0.0.0 adguard2.boykevanvugt.nl
 0.0.0.0 dns.braene.com
 0.0.0.0 dns.brahma.world
-0.0.0.0 bramka-proxy.pl
 0.0.0.0 bravedns.com
 0.0.0.0 tor.bravesoftware.com
 0.0.0.0 brazilproxy.com
@@ -908,7 +903,6 @@
 0.0.0.0 dns.cloudfiction.eu
 0.0.0.0 dns.233py.com.cdn.cloudflare.net
 0.0.0.0 dns.cloudflare.com
-0.0.0.0 ada.ns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 cloudflare-gateway.com
 0.0.0.0 api.cloudflareclient.com
@@ -1192,7 +1186,6 @@
 0.0.0.0 connectionvpn.com
 0.0.0.0 dns.consoro.eu
 0.0.0.0 constitutional.design
-0.0.0.0 dns.containerpi.com
 0.0.0.0 contassh.com
 0.0.0.0 contentabc.com
 0.0.0.0 dns.controld.com
@@ -1695,6 +1688,7 @@
 0.0.0.0 doh.sb
 0.0.0.0 doh.xyz
 0.0.0.0 dolopo.net
+0.0.0.0 domain.name
 0.0.0.0 domainownership.us
 0.0.0.0 adguard.domorome.wf
 0.0.0.0 dnsfilter.domotik.us
@@ -1761,7 +1755,6 @@
 0.0.0.0 ldaman.duckdns.org
 0.0.0.0 leoadguard.duckdns.org
 0.0.0.0 nas1403.duckdns.org
-0.0.0.0 nqh-dns.duckdns.org
 0.0.0.0 o--o.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
@@ -1802,7 +1795,6 @@
 0.0.0.0 oostelbos.dynu.com
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -2150,6 +2142,7 @@
 0.0.0.0 freebypassproxy.com
 0.0.0.0 freecanadavpn.com
 0.0.0.0 freecavpn.com
+0.0.0.0 hkname.freecdn.one
 0.0.0.0 freeconnect.link
 0.0.0.0 adblock.freeddns.org
 0.0.0.0 aydank.freeddns.org
@@ -2198,7 +2191,6 @@
 0.0.0.0 freeukvpn.com
 0.0.0.0 freevideoproxy.com
 0.0.0.0 freevmess.com
-0.0.0.0 freevpn.cloud
 0.0.0.0 freevpn.me
 0.0.0.0 freevpn.org
 0.0.0.0 freevpn.pw
@@ -2398,6 +2390,7 @@
 0.0.0.0 adguard.grantbruneau.com
 0.0.0.0 granules.us
 0.0.0.0 cloud.graphicpoint.pl
+0.0.0.0 grass.io
 0.0.0.0 gratisproxy.nl
 0.0.0.0 gratisvpn.com
 0.0.0.0 graveofhope.ru
@@ -2417,6 +2410,7 @@
 0.0.0.0 vps.grussenmeyer.com
 0.0.0.0 gamgasyoppakuteri-zenttodabi.gslb.info
 0.0.0.0 dns.gsmseti.net
+0.0.0.0 gsocket.io
 0.0.0.0 ms.gswsfh2021.site
 0.0.0.0 bigseal1.gu-natee.uk
 0.0.0.0 guanmengkai.com
@@ -2556,7 +2550,6 @@
 0.0.0.0 hidetheinternet.com
 0.0.0.0 hidethisip.net
 0.0.0.0 hidethistime.com
-0.0.0.0 hidevpn.info
 0.0.0.0 hideway.eu
 0.0.0.0 hideweb.org
 0.0.0.0 hidexy.com
@@ -2643,10 +2636,6 @@
 0.0.0.0 hotspotvpn.com
 0.0.0.0 dns.hotta.page
 0.0.0.0 doh.hottis.de
-0.0.0.0 hotunixispeak.hotunix.com
-0.0.0.0 rmerheadonionlink.hotunix.com
-0.0.0.0 schoology.hotunix.com
-0.0.0.0 somuchpeakk.hotunix.com
 0.0.0.0 dns.housedenolf.be
 0.0.0.0 howdy.id
 0.0.0.0 hoxx.com
@@ -2737,7 +2726,6 @@
 0.0.0.0 worldbookonline.ignorelist.com
 0.0.0.0 adguard.ihatemy.live
 0.0.0.0 dns.ihaveacloud.com
-0.0.0.0 hellotaka.iiiii.info
 0.0.0.0 iij.jp
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
@@ -3368,6 +3356,8 @@
 0.0.0.0 www-admin.mehtionthebeat.com
 0.0.0.0 peepod.meicosoft.com
 0.0.0.0 httpdns.meituan.com
+0.0.0.0 httpdnsmultiapi.meituan.com
+0.0.0.0 httpdnsmultiapivip.meituan.com
 0.0.0.0 httpdnsvip.meituan.com
 0.0.0.0 dns.melvin2204.nl
 0.0.0.0 membean.cf
@@ -3588,6 +3578,7 @@
 0.0.0.0 fi-hel-w-f-2.nashkan.net
 0.0.0.0 fi-hel-w-p-1.nashkan.net
 0.0.0.0 fr-gra-w-p-1.nashkan.net
+0.0.0.0 gb-cov-w-f-1.nashkan.net
 0.0.0.0 gb-cov-w-f-2.nashkan.net
 0.0.0.0 gb-cov-w-p-1.nashkan.net
 0.0.0.0 gb-lon-w-f-1.nashkan.net
@@ -3628,7 +3619,6 @@
 0.0.0.0 ne1.ca
 0.0.0.0 nebulaproxy.io
 0.0.0.0 dns.neeb.it
-0.0.0.0 dns.nefret.net
 0.0.0.0 dns.nekofish.cc
 0.0.0.0 nekoray.org
 0.0.0.0 nelsonleung.org
@@ -4036,8 +4026,6 @@
 0.0.0.0 photonsecure.com
 0.0.0.0 phpbido.com
 0.0.0.0 phproxysite.com
-0.0.0.0 doh.pi-dns.com
-0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 piaproxy.com
 0.0.0.0 piaproxy.net
 0.0.0.0 adg.pidns.de
@@ -4148,7 +4136,6 @@
 0.0.0.0 nyc-ny-us.prcdn.net
 0.0.0.0 tor-ca.prcdn.net
 0.0.0.0 waw-pl.prcdn.net
-0.0.0.0 predecessor.info
 0.0.0.0 premiumproxy.net
 0.0.0.0 premsocks.com
 0.0.0.0 presidentalhistory.wiki
@@ -4361,7 +4348,6 @@
 0.0.0.0 proxysite.site
 0.0.0.0 proxysite.top
 0.0.0.0 proxysite.us
-0.0.0.0 proxysite.video
 0.0.0.0 proxysitelist.net
 0.0.0.0 proxyslist.com
 0.0.0.0 proxysneak.com
@@ -4609,7 +4595,6 @@
 0.0.0.0 pns2.sadraidc.com
 0.0.0.0 safe-inet.com
 0.0.0.0 safeguardianvpn.com
-0.0.0.0 safenetbrowser.com
 0.0.0.0 dns1.saferbfc.org
 0.0.0.0 dns2.saferbfc.org
 0.0.0.0 safersurfing.net
@@ -4908,7 +4893,6 @@
 0.0.0.0 spicevpn.com
 0.0.0.0 spidervpn.org
 0.0.0.0 dns.spirio.fr
-0.0.0.0 sporium.org
 0.0.0.0 sportsballhub.com
 0.0.0.0 physicaleducation.sportseducationinstructors.org
 0.0.0.0 spys.one
@@ -4965,6 +4949,7 @@
 0.0.0.0 eu-browse.startpage.com
 0.0.0.0 eu1-browse.startpage.com
 0.0.0.0 eu2-browse.startpage.com
+0.0.0.0 eu3-browse.startpage.com
 0.0.0.0 proxy3.startpage.com
 0.0.0.0 s4-us2.startpage.com
 0.0.0.0 us1-browse.startpage.com
@@ -5150,6 +5135,7 @@
 0.0.0.0 dns.tefuir0829.cn
 0.0.0.0 family.dns.teknoholistik.com
 0.0.0.0 dns.teknologiku.com
+0.0.0.0 homenet.telecomitalia.it
 0.0.0.0 dns.telekom.de
 0.0.0.0 d51538618.access.telenet.be
 0.0.0.0 guard.telesterion.de
@@ -5378,7 +5364,6 @@
 0.0.0.0 ad.tzockt.beer
 0.0.0.0 u-proxy.com
 0.0.0.0 u8sj3.com
-0.0.0.0 ubint.net
 0.0.0.0 ublocker.info
 0.0.0.0 v1.ufamax.eu
 0.0.0.0 vless-service.ufodns.com
@@ -5554,7 +5539,6 @@
 0.0.0.0 unlocklab.io
 0.0.0.0 unmoor.com
 0.0.0.0 unp.im
-0.0.0.0 unrestrict.me
 0.0.0.0 unrestrictedsurf.com
 0.0.0.0 unrestricter.com
 0.0.0.0 unrestricter.org
@@ -5738,7 +5722,6 @@
 0.0.0.0 vpndns.ru
 0.0.0.0 vpndock.com
 0.0.0.0 vpndog.com
-0.0.0.0 vpneasy.info
 0.0.0.0 proxy.vpner.com
 0.0.0.0 vpnfan.com
 0.0.0.0 vpnfree.info
@@ -5832,7 +5815,6 @@
 0.0.0.0 dns.wargan.io
 0.0.0.0 abel.waringer-atg.de
 0.0.0.0 dns.warma.me
-0.0.0.0 warninglog.com
 0.0.0.0 dns.warpnine.de
 0.0.0.0 warpproxy.com
 0.0.0.0 dns.warrior.fr
@@ -5853,6 +5835,7 @@
 0.0.0.0 quadrogramma.vps.webdock.cloud
 0.0.0.0 webevade.com
 0.0.0.0 dns.webfork.in
+0.0.0.0 webhook.site
 0.0.0.0 weblockapp.com
 0.0.0.0 doh.webnmail.de
 0.0.0.0 weboproxy.com
@@ -5862,7 +5845,6 @@
 0.0.0.0 webproxy.com
 0.0.0.0 webproxy.online
 0.0.0.0 webproxy.to
-0.0.0.0 webproxy.us
 0.0.0.0 webproxyfree.net
 0.0.0.0 webproxyusa.com
 0.0.0.0 shark-pan.webredirect.org
@@ -5881,6 +5863,7 @@
 0.0.0.0 webxify.com
 0.0.0.0 webypass.info
 0.0.0.0 dns.wechat.com
+0.0.0.0 paydns.wechatpay.cn
 0.0.0.0 wedding-present.us
 0.0.0.0 resov.wehao.net
 0.0.0.0 dns.weibo.cn
@@ -5907,7 +5890,6 @@
 0.0.0.0 dns1-secure.wifire.it
 0.0.0.0 dns2-secure.wifire.it
 0.0.0.0 adguard.wifri.space
-0.0.0.0 hellotaka.wiki.gd
 0.0.0.0 wikimedia-dns.org
 0.0.0.0 wikimediadns.org
 0.0.0.0 wiksa.com
@@ -5956,7 +5938,6 @@
 0.0.0.0 home.wriedts.de
 0.0.0.0 writingessaypros.com
 0.0.0.0 dns.wryhf.com
-0.0.0.0 wtools.eu
 0.0.0.0 wuyou.pw
 0.0.0.0 ns2.wuyouss.com
 0.0.0.0 ns3.wuyouss.com
@@ -6111,6 +6092,7 @@
 0.0.0.0 zhengkaiyun.top
 0.0.0.0 dns140.zhhz.cc
 0.0.0.0 dns168.zhhz.cc
+0.0.0.0 httpdns.zhihu.com
 0.0.0.0 doh.zhongbr.uk
 0.0.0.0 res.zijji.com
 0.0.0.0 zippyproxy.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-! Version: 1.0.0.30
-! Last modified: 2025-10-19T06:11:10.497Z
+! Version: 1.0.0.31
+! Last modified: 2025-10-26T06:10:54.329Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -105,6 +105,8 @@
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 images.partnersupport.samsung.com
 0.0.0.0 plbusiness.samsung.com
+0.0.0.0 api.runestone.samsung.com
+0.0.0.0 di.runestone.samsung.com
 0.0.0.0 sca.samsung.com
 0.0.0.0 lp.smartbusiness.samsung.com
 0.0.0.0 tracking.smartbusiness.samsung.com
@@ -115,6 +117,7 @@
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungallstore.com
+0.0.0.0 ureca.samsungapps.com
 0.0.0.0 acr-au-prd.samsungcloud.tv
 0.0.0.0 acr-br-prd.samsungcloud.tv
 0.0.0.0 acr-ca-prd.samsungcloud.tv

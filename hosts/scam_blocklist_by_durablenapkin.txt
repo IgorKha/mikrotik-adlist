@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.18.65
-! Last modified: 2025-10-19T06:11:15.404Z
+! Version: 1.0.18.72
+! Last modified: 2025-10-26T06:10:59.219Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -16,6 +16,7 @@
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
 0.0.0.0 555sq.com.cn
+0.0.0.0 5gtower.in
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 777uniswap.xyz
@@ -25,8 +26,6 @@
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 account.ws-reward.com
 0.0.0.0 adidasko.com
-0.0.0.0 adminicesm.life
-0.0.0.0 adzfree-watch.net
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 air-up-turkiye.com
 0.0.0.0 air-upfrance.com
@@ -41,7 +40,6 @@
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
 0.0.0.0 akulaku.me
-0.0.0.0 aldofashion.com
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
@@ -49,6 +47,7 @@
 0.0.0.0 allocation-uniswap.co
 0.0.0.0 allstarshirt.com
 0.0.0.0 allupdatenow.com
+0.0.0.0 alohazing.com
 0.0.0.0 alphatowercompany.in
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
@@ -170,7 +169,6 @@
 0.0.0.0 claims-uniswap.app
 0.0.0.0 clearance-bike.com
 0.0.0.0 cluckergifts.ecwid.com
-0.0.0.0 cmoboy.com
 0.0.0.0 cnhadverti.co
 0.0.0.0 cnhajuda.co
 0.0.0.0 cnhcomunicado.co
@@ -199,7 +197,6 @@
 0.0.0.0 crypto029.online
 0.0.0.0 crypto030.online
 0.0.0.0 cryptot.net
-0.0.0.0 csbestplayers.com
 0.0.0.0 cshrewards.net
 0.0.0.0 customizerbox.com
 0.0.0.0 customurink.com
@@ -288,6 +285,7 @@
 0.0.0.0 evisa-indian.com
 0.0.0.0 evisa.express
 0.0.0.0 evisaindia.com
+0.0.0.0 evisaindia.org
 0.0.0.0 evisaindiaonline.org
 0.0.0.0 ex-torrenty.org
 0.0.0.0 exfresutexi.info
@@ -323,7 +321,6 @@
 0.0.0.0 filmersi.pl
 0.0.0.0 filmhit.pl
 0.0.0.0 filmhunt.pl
-0.0.0.0 filmiserial.pl
 0.0.0.0 filmo.agency
 0.0.0.0 filmobaza.pl
 0.0.0.0 filmy-online.eu
@@ -352,6 +349,7 @@
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
@@ -481,7 +479,7 @@
 0.0.0.0 innomediacreate.com
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
-0.0.0.0 iphonedefender.com
+0.0.0.0 iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
 0.0.0.0 iteeus.com
 0.0.0.0 itseasy.com
@@ -520,7 +518,6 @@
 0.0.0.0 kontribusiuang.top
 0.0.0.0 kopisusu.co.id
 0.0.0.0 kra18.com
-0.0.0.0 kredit-rupiah.com
 0.0.0.0 krediteksklusif.com
 0.0.0.0 kuyhaa.cc
 0.0.0.0 ladiesmeetnow.top
@@ -597,13 +594,11 @@
 0.0.0.0 mysuperdatingforyou.life
 0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
-0.0.0.0 namewrimo.info
 0.0.0.0 natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 natvisa.com
 0.0.0.0 navi1.com
 0.0.0.0 navi10.com
-0.0.0.0 navi10.ru
 0.0.0.0 navi100.com
 0.0.0.0 navi11.com
 0.0.0.0 navi12.com
@@ -625,7 +620,6 @@
 0.0.0.0 navi30.ru
 0.0.0.0 navi35.com
 0.0.0.0 navi36.ru
-0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 navi42.ru
@@ -689,6 +683,7 @@
 0.0.0.0 nofotballshop.com
 0.0.0.0 norfotball.com
 0.0.0.0 norgefotball.com
+0.0.0.0 norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 notasdenatran.co
 0.0.0.0 notify-user-adjustments.vercel.app
@@ -743,7 +738,6 @@
 0.0.0.0 pharaohstore.com
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
-0.0.0.0 phirussacmush.net
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 phototan.net
 0.0.0.0 pickablegift.com
@@ -884,8 +878,8 @@
 0.0.0.0 stallioncredit.com
 0.0.0.0 startuplatte.com
 0.0.0.0 steamgateways.com
+0.0.0.0 steampowered.cn.com
 0.0.0.0 steamunlock.com
-0.0.0.0 stearncommunjty.net
 0.0.0.0 stellara.de
 0.0.0.0 stellasummer.com
 0.0.0.0 stingcool-com.myshopify.com
@@ -898,7 +892,6 @@
 0.0.0.0 streamboo.com
 0.0.0.0 streamvod.pl
 0.0.0.0 strefa-filmu.pl
-0.0.0.0 strefaogladania.pl
 0.0.0.0 stylegift.co.uk
 0.0.0.0 successglossary.com
 0.0.0.0 suitablepartner.life
@@ -924,6 +917,7 @@
 0.0.0.0 tencheckit.org
 0.0.0.0 teodoroautopecas.com
 0.0.0.0 teslamaked.com
+0.0.0.0 teslatime.net
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
@@ -980,6 +974,7 @@
 0.0.0.0 ultrasonica.info
 0.0.0.0 ultrawa.com
 0.0.0.0 um-bs.com
+0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap.cool
@@ -1150,7 +1145,6 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 wyzia-orderdeposits.com
-0.0.0.0 x2-promo.net
 0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com
 0.0.0.0 xcartpro.com
@@ -1187,7 +1181,6 @@
 0.0.0.0 zalukaj.eu
 0.0.0.0 zalukaj.film
 0.0.0.0 zalukaj.io
-0.0.0.0 zalukaj.my
 0.0.0.0 zalukaj.site
 0.0.0.0 zalukaj.us
 0.0.0.0 zat.io

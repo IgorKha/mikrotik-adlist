@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.71
-! Last modified: 2025-10-19T06:11:10.590Z
+! Version: 1.0.0.72
+! Last modified: 2025-10-26T06:10:54.419Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -300,7 +300,6 @@
 0.0.0.0 adstore.response.gcp.eastus.trafficmanager.net
 0.0.0.0 telemetry.eastus.trafficmanager.net
 0.0.0.0 eventservice.trafficmanager.net
-0.0.0.0 fsad.trafficmanager.net
 0.0.0.0 ghochv3eng.trafficmanager.net
 0.0.0.0 glance-analytics.trafficmanager.net
 0.0.0.0 hk-tracker.trafficmanager.net
@@ -370,6 +369,7 @@
 0.0.0.0 rawtelemetry-east.servicebus.windows.net
 0.0.0.0 rawtelemetry-west.servicebus.windows.net
 0.0.0.0 ss-telemetry.servicebus.windows.net
+0.0.0.0 swiftanalyticsprod.servicebus.windows.net
 0.0.0.0 wayfinderanalytics.servicebus.windows.net
 0.0.0.0 c.xbox.com
 0.0.0.0 o.xbox.com
