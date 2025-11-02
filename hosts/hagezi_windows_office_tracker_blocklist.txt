@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.72
-! Last modified: 2025-10-26T06:10:54.419Z
+! Version: 1.0.0.73
+! Last modified: 2025-11-02T06:11:09.230Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -18,6 +18,7 @@
 0.0.0.0 dc.applicationinsights.azure.us
 0.0.0.0 in.applicationinsights.azure.cn
 0.0.0.0 in.applicationinsights.azure.us
+0.0.0.0 live.applicationinsights.azure.cn
 0.0.0.0 inference-app-gateway.eastus2.cloudapp.azure.com
 0.0.0.0 inference-app-gateway.koreacentral.cloudapp.azure.com
 0.0.0.0 inference-app-gateway.northeurope.cloudapp.azure.com
@@ -292,6 +293,7 @@
 0.0.0.0 beacons.trafficmanager.net
 0.0.0.0 bf-analytics-tracker-tm.trafficmanager.net
 0.0.0.0 bingads.trafficmanager.net
+0.0.0.0 ch-asimov-leafs-events-data.trafficmanager.net
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 tracker.flightview.com.trafficmanager.net
 0.0.0.0 events.data.trafficmanager.net
@@ -361,6 +363,7 @@
 0.0.0.0 citrixtelemetryeheu.servicebus.windows.net
 0.0.0.0 citrixtelemetryeheu-alias.servicebus.windows.net
 0.0.0.0 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 nexxtv-events.servicebus.windows.net
 0.0.0.0 ppm-licensingtelemetry.servicebus.windows.net
 0.0.0.0 prod-eh-v1-analytics.servicebus.windows.net

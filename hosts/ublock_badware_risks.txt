@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.20.4
-! Last modified: 2025-10-26T06:11:04.703Z
+! Version: 1.0.20.16
+! Last modified: 2025-11-02T06:11:18.907Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -366,6 +366,7 @@
 0.0.0.0 mysoft.rest
 0.0.0.0 syntaxwave.lol
 0.0.0.0 gitzdownloadkm.cyou
+0.0.0.0 lunexmods.cc
 0.0.0.0 cloud-deployments.org
 0.0.0.0 tech-cloud.org
 0.0.0.0 atnpx.com
@@ -2828,6 +2829,12 @@
 0.0.0.0 amezpay.com
 0.0.0.0 turtleclient.xyz
 0.0.0.0 irs.gov-
+0.0.0.0 secure.mygov.
+0.0.0.0 org.gov-
+0.0.0.0 israeipost.co-
+0.0.0.0 canpost.id-
+0.0.0.0 anpost.id-
+0.0.0.0 kveesh6.il-
 0.0.0.0 hansonherbo.com
 0.0.0.0 en-trezor.io
 0.0.0.0 coiincmi.com
@@ -3074,6 +3081,20 @@
 0.0.0.0 checkx.pages.dev
 0.0.0.0 xcheckx.pages.dev
 0.0.0.0 blockchecker-8ka.pages.dev
+0.0.0.0 blck.pages.dev
+0.0.0.0 blockchecker5.pages.dev
+0.0.0.0 blockchecker6.pages.dev
+0.0.0.0 gocheck.pages.dev
+0.0.0.0 checkfv.pages.dev
+0.0.0.0 xblocktest.pages.dev
 0.0.0.0 lastpassrecovery.com
 0.0.0.0 mypasskey.info
 0.0.0.0 passkeysetup.com
+0.0.0.0 kgms.top
+0.0.0.0 arrakis2.com
+0.0.0.0 gomabalerainc.top
+0.0.0.0 gamefiledo6.pages.dev
+0.0.0.0 sportifymore.
+0.0.0.0 voting-express-tl.
+0.0.0.0 sportifymore.ct.ws
+0.0.0.0 voting-express-tl.ct.ws

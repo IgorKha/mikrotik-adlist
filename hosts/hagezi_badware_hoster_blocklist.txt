@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.17.96
-! Last modified: 2025-10-26T06:11:05.103Z
+! Version: 1.0.18.1
+! Last modified: 2025-11-02T06:11:19.229Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -47,7 +47,6 @@
 0.0.0.0 1freewebspace.com
 0.0.0.0 1hwy.com
 0.0.0.0 1shop.de
-0.0.0.0 1sthost.org
 0.0.0.0 1sweethost.com
 0.0.0.0 1tt.net
 0.0.0.0 1w3.de
@@ -207,17 +206,13 @@
 0.0.0.0 beepworld.it
 0.0.0.0 beget.tech
 0.0.0.0 begins.de
-0.0.0.0 bellastheboutique.shop
 0.0.0.0 beplaced.com
 0.0.0.0 berlin.tl
-0.0.0.0 bethelcreations.shop
 0.0.0.0 betrunken.org
-0.0.0.0 bezemchsell.shop
 0.0.0.0 bg.gp
 0.0.0.0 bgydnb.vip
 0.0.0.0 bigheadhosting.net
 0.0.0.0 bigthomas.shop
-0.0.0.0 bikashfancyclothing.shop
 0.0.0.0 bilder.lc
 0.0.0.0 billblett.com
 0.0.0.0 biz.ly
@@ -228,7 +223,6 @@
 0.0.0.0 bizmovie.shop
 0.0.0.0 blackapplehost.com
 0.0.0.0 blackblogs.org
-0.0.0.0 blakelysboutique.shop
 0.0.0.0 blinkweb.com
 0.0.0.0 blo.gg
 0.0.0.0 blog.com
@@ -1179,6 +1173,7 @@
 0.0.0.0 tiiny.host
 0.0.0.0 tilda.ws
 0.0.0.0 timeforchangecounselling.com
+0.0.0.0 tinyblogging.com
 0.0.0.0 tld.cc
 0.0.0.0 tmweb.ru
 0.0.0.0 tokusi.shop
@@ -1308,6 +1303,7 @@
 0.0.0.0 webselfsite.net
 0.0.0.0 webservis.ru
 0.0.0.0 website.at
+0.0.0.0 website.com
 0.0.0.0 website.org
 0.0.0.0 website-home.ws
 0.0.0.0 website2.me
