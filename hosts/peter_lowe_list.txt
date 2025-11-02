@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.90
-! Last modified: 2025-10-26T06:10:40.843Z
+! Version: 1.0.15.98
+! Last modified: 2025-11-02T06:10:56.523Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -466,7 +466,6 @@
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.liberte.pl
-0.0.0.0 ads.lifethink.net
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.lordlucky.com
@@ -718,7 +717,6 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adsklick.de
-0.0.0.0 adskpak.com
 0.0.0.0 adsmart.net
 0.0.0.0 adsmartracker.com
 0.0.0.0 adsmetadata.startappservice.com
@@ -960,6 +958,7 @@
 0.0.0.0 audience.media
 0.0.0.0 audience2media.com
 0.0.0.0 audienceinsights.com
+0.0.0.0 audio.ad
 0.0.0.0 audit.median.hu
 0.0.0.0 audit.webinform.hu
 0.0.0.0 augur.io
@@ -1042,6 +1041,7 @@
 0.0.0.0 basebanner.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
+0.0.0.0 bastingart.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bbelements.com
 0.0.0.0 bbn.img.com.ua
@@ -1080,6 +1080,7 @@
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
 0.0.0.0 billboard.cz
+0.0.0.0 billtable.com
 0.0.0.0 birthdaybelief.com
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizible.com
@@ -1404,6 +1405,7 @@
 0.0.0.0 cs.co
 0.0.0.0 curbminers.com
 0.0.0.0 curtaincows.com
+0.0.0.0 curveshore.com
 0.0.0.0 cushiondrum.com
 0.0.0.0 customad.cnn.com
 0.0.0.0 customads.co
@@ -1658,6 +1660,7 @@
 0.0.0.0 free-counter.co.uk
 0.0.0.0 freebanner.com
 0.0.0.0 freecounterstat.com
+0.0.0.0 freedomgrail.com
 0.0.0.0 freelogs.com
 0.0.0.0 freepay.com
 0.0.0.0 freestats.com
@@ -1758,6 +1761,7 @@
 0.0.0.0 h0.t.hubspotemail.net
 0.0.0.0 haikusoap.com
 0.0.0.0 halcyoncanyon.com
+0.0.0.0 halocolor.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamsterspot.com
@@ -1923,6 +1927,7 @@
 0.0.0.0 jamexport.com
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
+0.0.0.0 jewelrysprings.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
 0.0.0.0 joyoussurprise.com
@@ -2033,6 +2038,7 @@
 0.0.0.0 links.housekeep.com
 0.0.0.0 links.prosservice.fr
 0.0.0.0 links.zoopla.co.uk
+0.0.0.0 linksoutside.com
 0.0.0.0 linkstorms.com
 0.0.0.0 linkswaper.com
 0.0.0.0 linksynergy.com
@@ -2160,6 +2166,7 @@
 0.0.0.0 memorizeneck.com
 0.0.0.0 mercuryace.com
 0.0.0.0 merequartz.com
+0.0.0.0 messagelists.com
 0.0.0.0 metadsp.co.uk
 0.0.0.0 metaffiliation.com
 0.0.0.0 metajaws.com
@@ -2376,6 +2383,7 @@
 0.0.0.0 optimallimit.com
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
+0.0.0.0 optionsnomad.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
@@ -2483,6 +2491,7 @@
 0.0.0.0 polo.feathr.co
 0.0.0.0 popads.net
 0.0.0.0 popcash.net
+0.0.0.0 popmixradio.com
 0.0.0.0 popmyads.com
 0.0.0.0 popplantation.com
 0.0.0.0 popub.com
@@ -2607,7 +2616,6 @@
 0.0.0.0 rambunctiousflock.com
 0.0.0.0 rampidads.com
 0.0.0.0 randkuj.xyz
-0.0.0.0 randkula.online
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
@@ -2664,6 +2672,7 @@
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 republika.onet.pl
 0.0.0.0 resalag.com
+0.0.0.0 rescuerhino.com
 0.0.0.0 resonantbrush.com
 0.0.0.0 resonate.com
 0.0.0.0 responsiveads.com
@@ -2850,6 +2859,7 @@
 0.0.0.0 smoggysnakes.com
 0.0.0.0 smrtb.com
 0.0.0.0 snapads.com
+0.0.0.0 snazzypoodle.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
 0.0.0.0 softclick.com.br
@@ -2874,6 +2884,7 @@
 0.0.0.0 specificpop.com
 0.0.0.0 speedomizer.com
 0.0.0.0 speedshiftmedia.com
+0.0.0.0 spellingthoughts.com
 0.0.0.0 spezialreporte.de
 0.0.0.0 spiffymachine.com
 0.0.0.0 spinbox.techtracker.com
@@ -2989,6 +3000,7 @@
 0.0.0.0 swingslip.com
 0.0.0.0 swordgoose.com
 0.0.0.0 synonymoussticks.com
+0.0.0.0 systemssummit.com
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.carta.com
 0.0.0.0 t.co
@@ -3256,6 +3268,7 @@
 0.0.0.0 url9467.comms-2.zoopla.co.uk
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
+0.0.0.0 userreplay.com
 0.0.0.0 userreplay.net
 0.0.0.0 users.maxcluster.net
 0.0.0.0 utils.mediageneral.net
@@ -3401,6 +3414,7 @@
 0.0.0.0 y.ibsys.com
 0.0.0.0 yab-adimages.s3.amazonaws.com
 0.0.0.0 yadro.ru
+0.0.0.0 yandexmetrica.com
 0.0.0.0 yepads.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com

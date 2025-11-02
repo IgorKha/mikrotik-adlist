@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.27
-! Last modified: 2025-10-26T06:10:45.629Z
+! Version: 1.0.17.29
+! Last modified: 2025-11-02T06:11:01.029Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 stinafulltiukmep.org
 0.0.0.0 parcelconsists.com
 0.0.0.0 protect-myphone.com
 0.0.0.0 sosalkebab.com
@@ -237,19 +238,16 @@
 0.0.0.0 appthe.click
 0.0.0.0 ardssandshrewon.com
 0.0.0.0 argrowlitheor.com
-0.0.0.0 asstaraptora.com
 0.0.0.0 astjigglypuffchan.com
 0.0.0.0 atp.revistamuchomas.com
 0.0.0.0 atsg.me
 0.0.0.0 auroraveil.bid
 0.0.0.0 awalesglower.com
 0.0.0.0 awecrptjmp.com
-0.0.0.0 bashfulleadsock.com
 0.0.0.0 basicflownetowork.co.in
 0.0.0.0 bayshorline.com
 0.0.0.0 bbmoe.com
 0.0.0.0 bboy1.com
-0.0.0.0 beamobserver.com
 0.0.0.0 behim.click
 0.0.0.0 bemobtrcks.com
 0.0.0.0 bemobtrk.com
@@ -258,10 +256,8 @@
 0.0.0.0 bestcleaner.online
 0.0.0.0 bestreceived.com
 0.0.0.0 bestunfollow.com
-0.0.0.0 betpupitarr.com
 0.0.0.0 bettentacruela.com
 0.0.0.0 betteradsystem.com
-0.0.0.0 betterdirectit.com
 0.0.0.0 betzapdoson.com
 0.0.0.0 bincatracs.com
 0.0.0.0 bkprglyptic.shop
@@ -291,7 +287,6 @@
 0.0.0.0 casinobonusdeals.io
 0.0.0.0 cautommityring.com
 0.0.0.0 cddtsecure.com
-0.0.0.0 chambermaidthree.xyz
 0.0.0.0 checkcdn.net
 0.0.0.0 choogeet.net
 0.0.0.0 choosingoffer.lol
@@ -349,7 +344,6 @@
 0.0.0.0 divaresnapshareagido.com
 0.0.0.0 dlrectdates.com
 0.0.0.0 domainparkingmanager.it
-0.0.0.0 donationobliged.com
 0.0.0.0 donkeyflower.xyz
 0.0.0.0 doostozoa.net
 0.0.0.0 downloading-addon.com
@@ -358,7 +352,6 @@
 0.0.0.0 drsmediaexchange.com
 0.0.0.0 dsb68d.com
 0.0.0.0 dsp5stero.com
-0.0.0.0 dutydynamo.co
 0.0.0.0 earlinessone.xyz
 0.0.0.0 earnbeginnerdocument.com
 0.0.0.0 easelegbike.com
@@ -386,7 +379,6 @@
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
 0.0.0.0 fbpqvs.com
-0.0.0.0 fedra.info
 0.0.0.0 finalice.net
 0.0.0.0 finanvideos.com
 0.0.0.0 finder2024.com
