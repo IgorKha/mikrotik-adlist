@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.34
-! Last modified: 2025-11-02T06:11:10.080Z
+! Version: 1.0.15.36
+! Last modified: 2025-11-09T06:11:03.665Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -703,8 +703,6 @@
 0.0.0.0 publish.ne.cision.com
 0.0.0.0 publish-int.se
 0.0.0.0 pushcrew.com
-0.0.0.0 pushnice.com
-0.0.0.0 pushwhy.com
 0.0.0.0 push-notifications.top
 0.0.0.0 pxl.host
 0.0.0.0 r.existenz.se
@@ -733,7 +731,6 @@
 0.0.0.0 richmediastudio.com
 0.0.0.0 richmetrics.com
 0.0.0.0 ridsport.adhost.se
-0.0.0.0 rotarb.bid
 0.0.0.0 rotator.riedta.com
 0.0.0.0 route.carambo.la
 0.0.0.0 royapp.com
@@ -913,6 +910,7 @@
 0.0.0.0 telemetric.dk
 0.0.0.0 telemetry.bambuser.io
 0.0.0.0 telemetry.seenthis.io
+0.0.0.0 ti.tradetracker.net
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 to.getnitropack.com
 0.0.0.0 tools.ascontentcloud.com
@@ -1104,7 +1102,6 @@
 0.0.0.0 webstats.100procent.com
 0.0.0.0 web-analytics.ica.se
 0.0.0.0 web-sdk.smartlook.com
-0.0.0.0 west.statisticplatform.com
 0.0.0.0 widget.cdn.citygate.se
 0.0.0.0 widget.citygate.se
 0.0.0.0 widget.lifeinside.io

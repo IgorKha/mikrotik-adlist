@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.29
-! Last modified: 2025-11-02T06:11:01.029Z
+! Version: 1.0.17.31
+! Last modified: 2025-11-09T06:10:54.689Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 stinafulltiukmep.org
 0.0.0.0 parcelconsists.com
@@ -287,6 +287,7 @@
 0.0.0.0 casinobonusdeals.io
 0.0.0.0 cautommityring.com
 0.0.0.0 cddtsecure.com
+0.0.0.0 ceramicturtleremnant.com
 0.0.0.0 checkcdn.net
 0.0.0.0 choogeet.net
 0.0.0.0 choosingoffer.lol
@@ -1052,6 +1053,7 @@
 0.0.0.0 xxxjmp.com
 0.0.0.0 xxxmatch.com
 0.0.0.0 zononi.com
+0.0.0.0 paintejuke.com
 0.0.0.0 imaginarybad.com
 0.0.0.0 1463.info
 0.0.0.0 www.mir-stalkera.ru

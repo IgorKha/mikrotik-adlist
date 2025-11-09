@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.66
-! Last modified: 2025-11-02T06:11:09.999Z
+! Version: 1.0.16.68
+! Last modified: 2025-11-09T06:11:03.596Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.66
+! Version: 1.0.16.68
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-10-23T15:08:48.497Z
+! Last modified: 2025-11-05T10:09:12.918Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -7920,8 +7920,10 @@
 0.0.0.0 api16-access-sg.pangle-b.io
 0.0.0.0 api16-log-sg.pangle-b.io
 0.0.0.0 pangle-b.io
+0.0.0.0 api16-access-ttp-b.tiktokpangle.us
 0.0.0.0 api16-access-ttp.tiktokpangle.us
 0.0.0.0 tiktokpangle.us
+0.0.0.0 api16-access-ttp-b.tiktokpangle-b.us
 0.0.0.0 api16-access-ttp.tiktokpangle-b.us
 0.0.0.0 tiktokpangle-b.us
 0.0.0.0 lf-static.tiktokpangle-cdn-us.com
@@ -9621,11 +9623,6 @@
 0.0.0.0 www.awmdelivery.com
 0.0.0.0 livetracker.rfe.pangea-cms.com
 0.0.0.0 livetracker.voa.pangea-cms.com
-0.0.0.0 aa.online-metrix.net
-0.0.0.0 h-sdk.online-metrix.net
-0.0.0.0 h.online-metrix.net
-0.0.0.0 h64.online-metrix.net
-0.0.0.0 online-metrix.net
 0.0.0.0 ads.amxrtb.com
 0.0.0.0 amxrtb.com
 0.0.0.0 assets.amxrtb.com
@@ -10779,6 +10776,7 @@
 0.0.0.0 mtgglobals.com
 0.0.0.0 adx-tk.mtgglobals.com
 0.0.0.0 cdn-adn-https.mtgglobals.com
+0.0.0.0 configure-tcp-ios.mtgglobals.com
 0.0.0.0 sg01.mtgglobals.com
 0.0.0.0 new-programmatic.com
 0.0.0.0 match.new-programmatic.com
@@ -10863,7 +10861,11 @@
 0.0.0.0 pubadx.one
 0.0.0.0 www.pubadx.one
 0.0.0.0 a-delivery.rmbl.ws
+0.0.0.0 ads.rmbl.ws
 0.0.0.0 a.ads.rmbl.ws
+0.0.0.0 d1.ads.rmbl.ws
+0.0.0.0 d2.ads.rmbl.ws
+0.0.0.0 d4.ads.rmbl.ws
 0.0.0.0 analytics.adjust.cn
 0.0.0.0 analytics.adjust.com
 0.0.0.0 analytics.adjust.io
@@ -10972,6 +10974,7 @@
 0.0.0.0 engine.adlogists.com
 0.0.0.0 insights.rtgio.co
 0.0.0.0 rtgio.co
+0.0.0.0 bsxzc.ttrk.io
 0.0.0.0 h3yci.ttrk.io
 0.0.0.0 sin.ttrk.io
 0.0.0.0 ttrk.io
@@ -13038,6 +13041,7 @@
 0.0.0.0 acuityads.com
 0.0.0.0 aczopdxfy.com
 0.0.0.0 aczridptoo.com
+0.0.0.0 ad-api.gl-inet.com
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
@@ -14333,6 +14337,7 @@
 0.0.0.0 bouncecardiganculture.com
 0.0.0.0 bouncex.com
 0.0.0.0 boundlessbrake.com
+0.0.0.0 bouptinoolaiwam.net
 0.0.0.0 boustahe.com
 0.0.0.0 bouzechoby.net
 0.0.0.0 bowerywill.com
@@ -14388,6 +14393,7 @@
 0.0.0.0 btrll.com
 0.0.0.0 bucksense.com
 0.0.0.0 budvawshes.ru
+0.0.0.0 buffooncountabletreble.com
 0.0.0.0 bulbbait.com
 0.0.0.0 buleor.com
 0.0.0.0 bullionglidingscuttle.com
@@ -14526,6 +14532,7 @@
 0.0.0.0 celeritascdn.com
 0.0.0.0 celltick.com
 0.0.0.0 celoortdwt.com
+0.0.0.0 cenerncyjl.com
 0.0.0.0 centalkochab.com
 0.0.0.0 centerpointmedia.com
 0.0.0.0 cestibegster.com
@@ -14821,6 +14828,7 @@
 0.0.0.0 crudenessfinishersacred.com
 0.0.0.0 crumbrationally.com
 0.0.0.0 crummydevioussucculent.com
+0.0.0.0 crumpetprankerstench.com
 0.0.0.0 crumplylenient.com
 0.0.0.0 crunchybears.com
 0.0.0.0 csm.cxpublic.com
@@ -15157,6 +15165,7 @@
 0.0.0.0 effectivedisplaycontent.com
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivedisplayformats.com
+0.0.0.0 effectivegatecpm.com
 0.0.0.0 effectivegatetocontent.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectiveperformanceformat.com
@@ -15169,6 +15178,7 @@
 0.0.0.0 eghnybyvn.com
 0.0.0.0 egistonemes.com
 0.0.0.0 egraglauvoathog.com
+0.0.0.0 eh.feasedpharos.com
 0.0.0.0 ehealthcaresolutions.com
 0.0.0.0 ehiibetu.com
 0.0.0.0 ehkualecb.com
@@ -15194,7 +15204,6 @@
 0.0.0.0 emediate.dk
 0.0.0.0 emerse.com
 0.0.0.0 emhnyqdeuwtnrh.com
-0.0.0.0 emjcd.com
 0.0.0.0 emsi.livetwo.store
 0.0.0.0 emxdigital.com
 0.0.0.0 encloselavanga.com
@@ -15505,6 +15514,7 @@
 0.0.0.0 gkemujoccwin.com
 0.0.0.0 gketcakpeh.com
 0.0.0.0 gkpohvff.com
+0.0.0.0 gkuocadgecsga.com
 0.0.0.0 glaciervivid.com
 0.0.0.0 glaignicmo.com
 0.0.0.0 glaingotseemt.net
@@ -15537,6 +15547,7 @@
 0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
 0.0.0.0 go-rillatrack.com
+0.0.0.0 go.cuteab.com
 0.0.0.0 go.imkirh.com
 0.0.0.0 go.mobisla.com
 0.0.0.0 go.onclasrv.com
@@ -15834,6 +15845,7 @@
 0.0.0.0 ii.decastebonise.com
 0.0.0.0 iifvcfwiqi.com
 0.0.0.0 iiqbttkbfvgyo.com
+0.0.0.0 ik.hatcheskoeri.shop
 0.0.0.0 ikahnruntx.com
 0.0.0.0 ikengoti.com
 0.0.0.0 ikilrategroahe.com
@@ -16128,6 +16140,7 @@
 0.0.0.0 kupefoarsadseer.com
 0.0.0.0 kupona.de
 0.0.0.0 kuqfudazkn.com
+0.0.0.0 kvaurjynazce.com
 0.0.0.0 kvkaa.com
 0.0.0.0 kvtaaa.top
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
@@ -16375,6 +16388,7 @@
 0.0.0.0 mcppsh.com
 0.0.0.0 mcpuwpsh.com
 0.0.0.0 mcpuwpush.com
+0.0.0.0 mcuyfiwii.com
 0.0.0.0 meaese.click
 0.0.0.0 meandiminutionhit.com
 0.0.0.0 measuremap.com
@@ -16462,6 +16476,7 @@
 0.0.0.0 mirohqodlf.com
 0.0.0.0 miserablenobody.com
 0.0.0.0 misguidedclotpensioner.com
+0.0.0.0 misqimohlpk.com
 0.0.0.0 missitzantiot.com
 0.0.0.0 misstrends.com
 0.0.0.0 mitaxsodwrfu.com
@@ -16678,6 +16693,7 @@
 0.0.0.0 nipplelair.com
 0.0.0.0 nitroclicks.com
 0.0.0.0 niwooghu.com
+0.0.0.0 nmakilpumvt.com
 0.0.0.0 no2veeamggaseber.com
 0.0.0.0 nobid.io
 0.0.0.0 noerwe5gianfor19e4st.com
@@ -16910,6 +16926,7 @@
 0.0.0.0 otqxvqzdgl.com
 0.0.0.0 oufauthy.net
 0.0.0.0 ouftukoo.net
+0.0.0.0 ourithauphexaus.com
 0.0.0.0 oustoope.com
 0.0.0.0 out-there-media.com
 0.0.0.0 outabsola.com
@@ -17135,6 +17152,7 @@
 0.0.0.0 pocrowpush.com
 0.0.0.0 podefr2.net
 0.0.0.0 podsklzegshmnd.com
+0.0.0.0 poepksqs.com
 0.0.0.0 pofohensoahee.net
 0.0.0.0 poggdgdwutcmbx.com
 0.0.0.0 pointedpleasure.com
@@ -17534,6 +17552,7 @@
 0.0.0.0 richstring.com
 0.0.0.0 richwebmaster.com
 0.0.0.0 rickerrotal.com
+0.0.0.0 ricthaaz.com
 0.0.0.0 rigelink.com
 0.0.0.0 righteouscrayon.com
 0.0.0.0 rightmedia.com
@@ -17561,6 +17580,7 @@
 0.0.0.0 rleibfzdny.com
 0.0.0.0 rlfvuficzdmsx.com
 0.0.0.0 rmedia.boston.com
+0.0.0.0 rmhfrtnd.com
 0.0.0.0 rmmjy.rrbzvmklrzwmk.top
 0.0.0.0 rmvla.rrqwarwrewrlj.top
 0.0.0.0 rmxpppehecrmz.com
@@ -17974,6 +17994,7 @@
 0.0.0.0 stoakrestultan.com
 0.0.0.0 stoampaliy.net
 0.0.0.0 stolenforensicssausage.com
+0.0.0.0 stooghopsee.net
 0.0.0.0 stoopfalse.com
 0.0.0.0 stoorgel.com
 0.0.0.0 stootsou.net
@@ -18135,6 +18156,7 @@
 0.0.0.0 theedreemteedro.com
 0.0.0.0 theekedgleamed.com
 0.0.0.0 theeptoah.com
+0.0.0.0 theestauptooks.net
 0.0.0.0 theetheks.com
 0.0.0.0 theonecdn.com
 0.0.0.0 therapistla.com
@@ -18241,6 +18263,7 @@
 0.0.0.0 track.contently.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
+0.0.0.0 track.getmydeals.net
 0.0.0.0 track.involvkgfr.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackedlink.net
@@ -18805,6 +18828,7 @@
 0.0.0.0 www.shndrktrk.com
 0.0.0.0 www.swpsvc.com
 0.0.0.0 www.theweblocker.net
+0.0.0.0 www.tkqlhce.com
 0.0.0.0 www.trafyield.com
 0.0.0.0 www.tribedone.org
 0.0.0.0 www.trustaffs.com
@@ -18823,6 +18847,7 @@
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x.thecatmachine.com
 0.0.0.0 x2sfa.javgg.eu
+0.0.0.0 x7i0.com
 0.0.0.0 x7r3mk6ldr.com
 0.0.0.0 xad.com
 0.0.0.0 xadsmart.com
@@ -19273,6 +19298,7 @@
 0.0.0.0 guihua-china.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gw-iad-bid.ymmobi.com
+0.0.0.0 h.online-metrix.net
 0.0.0.0 hairtease.com
 0.0.0.0 hdmtools.com
 0.0.0.0 histats.link
@@ -19632,6 +19658,7 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.hydro.online
 0.0.0.0 track.lacunads.com
+0.0.0.0 track.landerlab.io
 0.0.0.0 track.lexico.com
 0.0.0.0 track.mp4.center
 0.0.0.0 track.notsy.io

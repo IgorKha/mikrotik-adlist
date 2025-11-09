@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.15.98
-! Last modified: 2025-11-02T06:10:56.523Z
+! Version: 1.0.16.7
+! Last modified: 2025-11-09T06:10:50.145Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -59,6 +59,7 @@
 0.0.0.0 ablink.news.emails-puregym.com
 0.0.0.0 ablinks.mail.hinge.co
 0.0.0.0 aboardlevel.com
+0.0.0.0 absolutering.com
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 abtasty.com
@@ -167,7 +168,6 @@
 0.0.0.0 adaction.de
 0.0.0.0 adadvisor.net
 0.0.0.0 adalliance.io
-0.0.0.0 adanging.blog
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
 0.0.0.0 adbilty.me
@@ -1079,6 +1079,7 @@
 0.0.0.0 big-bang-ads.com
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
+0.0.0.0 bigworldfashion.com
 0.0.0.0 billboard.cz
 0.0.0.0 billtable.com
 0.0.0.0 birthdaybelief.com
@@ -1218,6 +1219,7 @@
 0.0.0.0 cl0udh0st1ng.com
 0.0.0.0 clck.ru
 0.0.0.0 clevernt.com
+0.0.0.0 click-1.pl
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.allkeyshop.com
@@ -1376,7 +1378,6 @@
 0.0.0.0 cpays.com
 0.0.0.0 cpmstar.com
 0.0.0.0 cpu.samsungelectronics.com
-0.0.0.0 cpx-traffic.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
@@ -1414,6 +1415,7 @@
 0.0.0.0 cutechin.com
 0.0.0.0 cxense.com
 0.0.0.0 cyberbounty.com
+0.0.0.0 cyclinghere.com
 0.0.0.0 d-collect.jennifersoft.com
 0.0.0.0 d-collector.jennifersoft.com
 0.0.0.0 d.adroll.com
@@ -1612,6 +1614,7 @@
 0.0.0.0 fairfeeling.com
 0.0.0.0 fakedisguise.com
 0.0.0.0 fallaciousfifth.com
+0.0.0.0 fallingshoals.com
 0.0.0.0 fam-ad.com
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
@@ -1755,6 +1758,7 @@
 0.0.0.0 gscontxt.net
 0.0.0.0 guardeddirection.com
 0.0.0.0 guardedschool.com
+0.0.0.0 gumyfui.com
 0.0.0.0 gunggo.com
 0.0.0.0 h-bid.com
 0.0.0.0 h-trck.com
@@ -1865,6 +1869,7 @@
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
+0.0.0.0 immensehoney.com
 0.0.0.0 imonomy.com
 0.0.0.0 imp.i312864.net
 0.0.0.0 impossibleexpansion.com
@@ -1947,6 +1952,7 @@
 0.0.0.0 justicejudo.com
 0.0.0.0 justpremium.com
 0.0.0.0 justrelevant.com
+0.0.0.0 justwowjars.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kameleoon.eu
 0.0.0.0 kanoodle.com
@@ -2039,6 +2045,7 @@
 0.0.0.0 links.prosservice.fr
 0.0.0.0 links.zoopla.co.uk
 0.0.0.0 linksoutside.com
+0.0.0.0 linkstable.com
 0.0.0.0 linkstorms.com
 0.0.0.0 linkswaper.com
 0.0.0.0 linksynergy.com
@@ -2394,6 +2401,7 @@
 0.0.0.0 orionember.com
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
+0.0.0.0 ourdreamstaticpages.pages.dev
 0.0.0.0 outbrain.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overkick.com
@@ -2426,6 +2434,7 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
+0.0.0.0 partnerhut.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 partners.priceline.com
 0.0.0.0 partplanes.com
@@ -2593,6 +2602,7 @@
 0.0.0.0 quarterserver.de
 0.0.0.0 quickkoala.io
 0.0.0.0 quietknowledge.com
+0.0.0.0 quiltruler.com
 0.0.0.0 quinst.com
 0.0.0.0 quirkysugar.com
 0.0.0.0 quisma.com
@@ -2704,6 +2714,7 @@
 0.0.0.0 rle.ru
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmedia.boston.com
+0.0.0.0 roaddynamics.com
 0.0.0.0 roar.com
 0.0.0.0 robotreplay.com
 0.0.0.0 rockabox.co
@@ -2819,6 +2830,7 @@
 0.0.0.0 sillyscrew.com
 0.0.0.0 silvermob.com
 0.0.0.0 simpleanalytics.io
+0.0.0.0 simplesafari.com
 0.0.0.0 simpli.fi
 0.0.0.0 simulateswing.com
 0.0.0.0 sincerebuffalo.com
@@ -3094,6 +3106,7 @@
 0.0.0.0 ticksel.com
 0.0.0.0 tics.techdirt.com
 0.0.0.0 tidaltv.com
+0.0.0.0 tidysprite.com
 0.0.0.0 tinybar.com
 0.0.0.0 tinybluewhale.com
 0.0.0.0 tinytendency.com
