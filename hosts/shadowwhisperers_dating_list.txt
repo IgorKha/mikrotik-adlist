@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.18
-! Last modified: 2025-11-02T06:11:08.988Z
+! Version: 1.0.15.20
+! Last modified: 2025-11-09T06:11:02.660Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -28,6 +28,7 @@
 0.0.0.0 411-singles.com
 0.0.0.0 50datingnorway.com
 0.0.0.0 5-a-7.com
+0.0.0.0 8at8.com
 0.0.0.0 97tibo.com
 0.0.0.0 abcdatingadvisor.com
 0.0.0.0 abledlove.com
@@ -37,7 +38,6 @@
 0.0.0.0 accords-franco-russes.com
 0.0.0.0 adam-and-eva.com
 0.0.0.0 adultdatelink.com
-0.0.0.0 adultfriendfinder.com
 0.0.0.0 adultgaypersonals.com
 0.0.0.0 adxpartner.com
 0.0.0.0 affection.org
@@ -100,6 +100,7 @@
 0.0.0.0 badoo.com
 0.0.0.0 baltic-women.com
 0.0.0.0 bangatrans.com
+0.0.0.0 baseballovers.com
 0.0.0.0 bbpeoplemeet.com
 0.0.0.0 bbwcupid.com
 0.0.0.0 be2.at
@@ -178,6 +179,7 @@
 0.0.0.0 chemistry.com
 0.0.0.0 chinesedating.co.nz
 0.0.0.0 chinesefriendfinder.com
+0.0.0.0 chinesekisses.com
 0.0.0.0 chinesepeoplemeet.com
 0.0.0.0 chinesepersonals.ca
 0.0.0.0 christianamericansingles.com
@@ -864,7 +866,9 @@
 0.0.0.0 pof.com
 0.0.0.0 polishdating.org
 0.0.0.0 polovinka.org
+0.0.0.0 polyamorosos.com
 0.0.0.0 polyamorsenior.com
+0.0.0.0 polyamorsenior.es
 0.0.0.0 pop6.com
 0.0.0.0 posdating.club
 0.0.0.0 positivesingles.com
@@ -1008,10 +1012,12 @@
 0.0.0.0 roastdating.com
 0.0.0.0 rollosfaciles.com
 0.0.0.0 romancedubai.com
+0.0.0.0 romancium.com
 0.0.0.0 romanticrelay.com
 0.0.0.0 ropebondagemeetups.com
 0.0.0.0 rsvp.com.au
 0.0.0.0 ru-brides.com
+0.0.0.0 ruralsingles.com
 0.0.0.0 russian-dating.com
 0.0.0.0 russiandatingplanet.com
 0.0.0.0 russian-enigma.com
@@ -1075,6 +1081,7 @@
 0.0.0.0 silvergaysingles.com
 0.0.0.0 silversurfersdating.com
 0.0.0.0 singaporelovelinks.com
+0.0.0.0 single2.com
 0.0.0.0 single50plus.com
 0.0.0.0 singlebikerscanada.ca
 0.0.0.0 singlebodybuilders.com
@@ -1133,6 +1140,7 @@
 0.0.0.0 tagged.com
 0.0.0.0 tagstat.com
 0.0.0.0 talksaferdating.com
+0.0.0.0 tallfriends.com
 0.0.0.0 tancdn.com
 0.0.0.0 tangodatingonline.com
 0.0.0.0 tantanapp.com

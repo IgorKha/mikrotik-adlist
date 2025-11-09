@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.20.16
-! Last modified: 2025-11-02T06:11:18.907Z
+! Version: 1.0.20.21
+! Last modified: 2025-11-09T06:11:12.483Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -1834,6 +1834,7 @@
 0.0.0.0 phm-2g.com
 0.0.0.0 r9-2an.com
 0.0.0.0 coupletime2525.com
+0.0.0.0 aaxr.shop
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
 0.0.0.0 tgram.ru
@@ -3098,3 +3099,16 @@
 0.0.0.0 voting-express-tl.
 0.0.0.0 sportifymore.ct.ws
 0.0.0.0 voting-express-tl.ct.ws
+0.0.0.0 cs2beneluxtour.com
+0.0.0.0 eplproseason25.com
+0.0.0.0 eslpromasters.com
+0.0.0.0 eslplayers.com
+0.0.0.0 eslplayers25.com
+0.0.0.0 esportsbenelux.com
+0.0.0.0 gameseason22.com
+0.0.0.0 juniorsvote.com
+0.0.0.0 ligabenelux.com
+0.0.0.0 proeslgaming.com
+0.0.0.0 dmca-security.com
+0.0.0.0 uniqlo-nz.com
+0.0.0.0 git44share.quest
