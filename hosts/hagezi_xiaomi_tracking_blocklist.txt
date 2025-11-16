@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt
-! Version: 1.0.14.88
-! Last modified: 2025-11-09T06:11:02.740Z
+! Version: 1.0.14.89
+! Last modified: 2025-11-16T06:11:34.172Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -234,8 +234,7 @@
 0.0.0.0 in-miuilog.sms.intl.xiaomi.com
 0.0.0.0 sec-cdn.static.intl.xiaomi.net
 0.0.0.0 sys.intl.xiaomi.com
-0.0.0.0 h5-ru.video.intl.xiaomi.com
-0.0.0.0 ru.video.intl.xiaomi.com
+0.0.0.0 video.intl.xiaomi.com
 0.0.0.0 secure.report.iss.xiaomi.com
 0.0.0.0 a.market.xiaomi.com
 0.0.0.0 drm.market.xiaomi.com

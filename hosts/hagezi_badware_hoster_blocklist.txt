@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.13
-! Last modified: 2025-11-09T06:11:12.820Z
+! Version: 1.0.18.16
+! Last modified: 2025-11-16T06:11:48.242Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -56,7 +56,6 @@
 0.0.0.0 1x7.de
 0.0.0.0 2.je
 0.0.0.0 204.at
-0.0.0.0 20fr.com
 0.0.0.0 20m.com
 0.0.0.0 20m.us
 0.0.0.0 22web.org
@@ -441,7 +440,6 @@
 0.0.0.0 sitebeat.crazydomains.com
 0.0.0.0 creatorlink.net
 0.0.0.0 crossurl.shop
-0.0.0.0 crypto-market-world.com
 0.0.0.0 cryptofinancetrack.com
 0.0.0.0 cryptonight.net
 0.0.0.0 cs-clan.org
@@ -1130,6 +1128,7 @@
 0.0.0.0 tggame.xyz
 0.0.0.0 th.gp
 0.0.0.0 thisistap.com
+0.0.0.0 ticketxking.com
 0.0.0.0 tiiny.host
 0.0.0.0 tilda.ws
 0.0.0.0 timeforchangecounselling.com

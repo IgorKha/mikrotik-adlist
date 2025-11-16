@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-! Version: 1.0.14.57
-! Last modified: 2025-11-09T06:11:01.127Z
+! Version: 1.0.14.58
+! Last modified: 2025-11-16T06:11:32.068Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 adgoogle.net
 0.0.0.0 crashlytics.com
@@ -14,7 +14,6 @@
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 googlevads-cn.com
-0.0.0.0 speechs3proto*-pa.googleapis.com
 0.0.0.0 android.com
 0.0.0.0 kormo.com
 0.0.0.0 rivet.area120.com
@@ -1635,3 +1634,9 @@
 0.0.0.0 wwn-api.nest.com
 0.0.0.0 www.nest.com
 0.0.0.0 jibemobile.com
+0.0.0.0 c.tenor.com
+0.0.0.0 g.tenor.com
+0.0.0.0 media.tenor.co
+0.0.0.0 media.tenor.com
+0.0.0.0 media1.tenor.co
+0.0.0.0 media1.tenor.com
