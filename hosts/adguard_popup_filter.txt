@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.31
-! Last modified: 2025-11-09T06:10:54.689Z
+! Version: 1.0.17.35
+! Last modified: 2025-11-16T06:11:24.813Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 dipperflightrecommend.com
 0.0.0.0 stinafulltiukmep.org
 0.0.0.0 parcelconsists.com
 0.0.0.0 protect-myphone.com
@@ -236,7 +237,6 @@
 0.0.0.0 approved.website
 0.0.0.0 appslime.com
 0.0.0.0 appthe.click
-0.0.0.0 ardssandshrewon.com
 0.0.0.0 argrowlitheor.com
 0.0.0.0 astjigglypuffchan.com
 0.0.0.0 atp.revistamuchomas.com
@@ -407,11 +407,11 @@
 0.0.0.0 getsthis.com
 0.0.0.0 gkrtmc.com
 0.0.0.0 glaultoa.com
+0.0.0.0 gmmads.com
 0.0.0.0 go-srv.com
 0.0.0.0 go.betobet.net
 0.0.0.0 go2affise.com
 0.0.0.0 go2bdmbet.com
-0.0.0.0 go2linktrack.com
 0.0.0.0 go2offer-1.com
 0.0.0.0 goads.pro
 0.0.0.0 godkc.com
@@ -477,7 +477,6 @@
 0.0.0.0 land.pixelsee.app
 0.0.0.0 landerhq.com
 0.0.0.0 leadgainz.com
-0.0.0.0 leadshurriedlysoak.com
 0.0.0.0 lehemhavita.club
 0.0.0.0 leoyard.com
 0.0.0.0 lindychat.com
@@ -489,7 +488,6 @@
 0.0.0.0 loazuptaice.net
 0.0.0.0 locooler-ageneral.com
 0.0.0.0 lovemiingle.life
-0.0.0.0 lust-burning.rest
 0.0.0.0 luxq8.com
 0.0.0.0 lwnbts.com
 0.0.0.0 lxkzcss.xyz
@@ -544,7 +542,6 @@
 0.0.0.0 navigatingnautical.xyz
 0.0.0.0 nbo-protect.pro
 0.0.0.0 nersionitsumpute.com
-0.0.0.0 netrefer.co
 0.0.0.0 nettrackway.com
 0.0.0.0 newmytrp.com
 0.0.0.0 newrtbside.com
@@ -560,7 +557,6 @@
 0.0.0.0 noolt.com
 0.0.0.0 northauthority.xyz
 0.0.0.0 northrtbads.top
-0.0.0.0 nothingfairnessdemonstrate.com
 0.0.0.0 novibet.partners
 0.0.0.0 nrs6ffl9w.com
 0.0.0.0 ntrftrksec.com
@@ -589,7 +585,6 @@
 0.0.0.0 optvz.com
 0.0.0.0 otoadom.com
 0.0.0.0 outoctillerytor.com
-0.0.0.0 ouzalruksengung.com
 0.0.0.0 ovardu.com
 0.0.0.0 oversolosisor.com
 0.0.0.0 ovret.com
@@ -617,7 +612,6 @@
 0.0.0.0 popcash.net
 0.0.0.0 poperblocker.com
 0.0.0.0 popmyads.com
-0.0.0.0 populationstring.com
 0.0.0.0 popupblockermax.app
 0.0.0.0 popupsblocker.org
 0.0.0.0 potsaglu.net
@@ -659,7 +653,6 @@
 0.0.0.0 reallyzills.top
 0.0.0.0 realsh.xyz
 0.0.0.0 realtime-bid.com
-0.0.0.0 recommended-twice.com
 0.0.0.0 redaffil.com
 0.0.0.0 redirecting.online
 0.0.0.0 redirectingat.com
@@ -694,7 +687,6 @@
 0.0.0.0 savinist.com
 0.0.0.0 sawd.cloud
 0.0.0.0 schedulerationally.com
-0.0.0.0 score-feed.com
 0.0.0.0 searchresultsadblocker.com
 0.0.0.0 secretarypleasure.xyz
 0.0.0.0 security-suggestion.com
@@ -711,7 +703,6 @@
 0.0.0.0 shotgunchancecruel.com
 0.0.0.0 shulugoo.net
 0.0.0.0 signamentswithd.com
-0.0.0.0 singaporetradingchallengetracker1.com
 0.0.0.0 singelstodate.com
 0.0.0.0 singledatetime.com
 0.0.0.0 singlegirlsfinder.com
@@ -797,7 +788,6 @@
 0.0.0.0 typical-hub.com
 0.0.0.0 tyqwjh23d.com
 0.0.0.0 u7do.sbs
-0.0.0.0 ungiblechan.com
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
 0.0.0.0 unrolltougher.shop

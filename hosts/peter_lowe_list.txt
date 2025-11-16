@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.7
-! Last modified: 2025-11-09T06:10:50.145Z
+! Version: 1.0.16.13
+! Last modified: 2025-11-16T06:11:19.617Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -250,7 +250,6 @@
 0.0.0.0 adjuggler.yourdictionary.com
 0.0.0.0 adjust.com
 0.0.0.0 adjustnetwork.com
-0.0.0.0 adk2.co
 0.0.0.0 adk2.com
 0.0.0.0 adland.ru
 0.0.0.0 adlegend.com
@@ -394,6 +393,7 @@
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
+0.0.0.0 ads.directionsmag.com
 0.0.0.0 ads.doit.com.cn
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.eagletribune.com
@@ -717,6 +717,7 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adsklick.de
+0.0.0.0 adskpak.com
 0.0.0.0 adsmart.net
 0.0.0.0 adsmartracker.com
 0.0.0.0 adsmetadata.startappservice.com
@@ -1079,6 +1080,7 @@
 0.0.0.0 big-bang-ads.com
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
+0.0.0.0 bigreal.org
 0.0.0.0 bigworldfashion.com
 0.0.0.0 billboard.cz
 0.0.0.0 billtable.com
@@ -1089,6 +1091,7 @@
 0.0.0.0 bizrate.com
 0.0.0.0 bizzclick.com
 0.0.0.0 bkrtx.com
+0.0.0.0 bleachbubble.com
 0.0.0.0 blingbucks.com
 0.0.0.0 blis.com
 0.0.0.0 blockadblock.com
@@ -1323,6 +1326,7 @@
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 colonize.com
+0.0.0.0 colorfulpet.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
@@ -1447,6 +1451,7 @@
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 deployads.com
+0.0.0.0 desertgates.com
 0.0.0.0 desiredirt.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detectdiscovery.com
@@ -1487,6 +1492,7 @@
 0.0.0.0 dpbolvw.net
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dq95d35.com
+0.0.0.0 dragonbats.com
 0.0.0.0 drumcash.com
 0.0.0.0 dsp.colpirio.com
 0.0.0.0 dsp.io
@@ -1660,6 +1666,7 @@
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpjs.io
 0.0.0.0 fqtag.com
+0.0.0.0 fraysystems.com
 0.0.0.0 free-counter.co.uk
 0.0.0.0 freebanner.com
 0.0.0.0 freecounterstat.com
@@ -1921,6 +1928,7 @@
 0.0.0.0 irchan.com
 0.0.0.0 ireklama.cz
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
+0.0.0.0 islandwebhelp.com
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
 0.0.0.0 ivwbox.de
@@ -1957,6 +1965,7 @@
 0.0.0.0 kameleoon.eu
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
+0.0.0.0 kernellife.com
 0.0.0.0 kickoffo.site
 0.0.0.0 kindads.com
 0.0.0.0 kindlereunion.com
@@ -2264,6 +2273,7 @@
 0.0.0.0 mylink-today.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypowermall.com
+0.0.0.0 mysketchpad.com
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
 0.0.0.0 mytop-in.net
@@ -2810,6 +2820,7 @@
 0.0.0.0 sexcounter.com
 0.0.0.0 sexlist.com
 0.0.0.0 sextracker.com
+0.0.0.0 shadowmade.com
 0.0.0.0 shakegoldfish.com
 0.0.0.0 shareasale.com
 0.0.0.0 sharethrough.com
@@ -2931,6 +2942,7 @@
 0.0.0.0 starffa.com
 0.0.0.0 starkscale.com
 0.0.0.0 starrynets.com
+0.0.0.0 starsmarter.com
 0.0.0.0 startapp.com
 0.0.0.0 stat-track.com
 0.0.0.0 stat.cliche.se
@@ -3117,7 +3129,6 @@
 0.0.0.0 tm.br.de
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
-0.0.0.0 to-go1.eu
 0.0.0.0 toolforthought.com
 0.0.0.0 top-casting-termine.de
 0.0.0.0 top-site-list.com
@@ -3398,6 +3409,7 @@
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
 0.0.0.0 worriednumber.com
+0.0.0.0 writerhubs.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt.bankmillennium.pl
 0.0.0.0 www-banner.chat.ru

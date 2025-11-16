@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.14.62
-! Last modified: 2025-11-09T06:11:03.430Z
+! Version: 1.0.14.64
+! Last modified: 2025-11-16T06:11:35.676Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 69oxt4q05.com
@@ -284,3 +284,5 @@
 0.0.0.0 azontree.com
 0.0.0.0 aktualnosci.pl.ua
 0.0.0.0 shownewsdaily.com
+0.0.0.0 deal-pl.shop
+0.0.0.0 mydatinguniverse.com

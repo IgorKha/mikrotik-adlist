@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
 ! Version: 1.0.14.58
-! Last modified: 2025-11-09T06:11:03.506Z
+! Last modified: 2025-11-16T06:11:35.858Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: KOR: YousList
