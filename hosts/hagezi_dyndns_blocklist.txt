@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.8
-! Last modified: 2025-11-16T06:11:48.073Z
+! Version: 1.0.16.13
+! Last modified: 2025-11-23T06:11:35.224Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -272,6 +272,7 @@
 0.0.0.0 dedyn.io
 0.0.0.0 demosoftonline.com
 0.0.0.0 demoteam.ch
+0.0.0.0 desec.io
 0.0.0.0 dh3.com
 0.0.0.0 dhcp.biz
 0.0.0.0 dhis.org
@@ -279,7 +280,6 @@
 0.0.0.0 didns.ru
 0.0.0.0 digikabel.hu
 0.0.0.0 digitalgroupe.com
-0.0.0.0 dip.jp
 0.0.0.0 ditchyourip.com
 0.0.0.0 divx.se
 0.0.0.0 diyplans.org
@@ -379,7 +379,6 @@
 0.0.0.0 dynamai.com
 0.0.0.0 dynamic.domains
 0.0.0.0 dynamic-dns.net
-0.0.0.0 dynamic-dns.us
 0.0.0.0 dynamic-m.com
 0.0.0.0 dynamic-site.net
 0.0.0.0 dynamicdns.biz
@@ -403,6 +402,7 @@
 0.0.0.0 dyndns-free.com
 0.0.0.0 dyndns-home.com
 0.0.0.0 dyndns-ip.com
+0.0.0.0 dyndns-ip.org
 0.0.0.0 dyndns-mail.com
 0.0.0.0 dyndns-office.com
 0.0.0.0 dyndns-pics.com
@@ -691,7 +691,6 @@
 0.0.0.0 iamallama.com
 0.0.0.0 ics.tw
 0.0.0.0 ideasciviles.com
-0.0.0.0 idigo.org
 0.0.0.0 idleplay.net
 0.0.0.0 4040.idv.tw
 0.0.0.0 ieserver.net
@@ -1126,7 +1125,6 @@
 0.0.0.0 port25.biz
 0.0.0.0 portfwd.com
 0.0.0.0 portmap.host
-0.0.0.0 portrelay.com
 0.0.0.0 prettyweak.com
 0.0.0.0 priamaakcia.sk
 0.0.0.0 privatedns.com
@@ -1183,7 +1181,6 @@
 0.0.0.0 ryointernational.com
 0.0.0.0 sandmeiers.ch
 0.0.0.0 sannon-stamm.com
-0.0.0.0 sarah-lai.com
 0.0.0.0 saves-the-whales.com
 0.0.0.0 scay.net
 0.0.0.0 scieron.com

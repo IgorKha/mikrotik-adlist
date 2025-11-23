@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.20.33
-! Last modified: 2025-11-16T06:11:47.666Z
+! Version: 1.0.20.38
+! Last modified: 2025-11-23T06:11:34.864Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -269,7 +269,6 @@
 0.0.0.0 midnighthookup.today
 0.0.0.0 padsthai.com
 0.0.0.0 dirtyflirt9.com
-0.0.0.0 bestvideo.cloud
 0.0.0.0 bmtracks.com
 0.0.0.0 bustymeets.com
 0.0.0.0 aht42trk.com
@@ -364,7 +363,6 @@
 0.0.0.0 syntaxwave.lol
 0.0.0.0 gitzdownloadkm.cyou
 0.0.0.0 lunexmods.cc
-0.0.0.0 cloud-deployments.org
 0.0.0.0 tech-cloud.org
 0.0.0.0 atnpx.com
 0.0.0.0 webpushcloud.top
@@ -526,7 +524,6 @@
 0.0.0.0 itsaol.com
 0.0.0.0 qhigh.com
 0.0.0.0 almostmy.com
-0.0.0.0 tokyobag.shop
 0.0.0.0 erdfkhxrnanm.top
 0.0.0.0 sapjp.com
 0.0.0.0 toythieves.com
@@ -551,8 +548,8 @@
 0.0.0.0 yyqxjp.vip
 0.0.0.0 appvip-download.cc
 0.0.0.0 riseecore.site
-0.0.0.0 t-piaticketinte.jp
 0.0.0.0 hcstore.vip
+0.0.0.0 arzaeterna.com
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 coup-ling-dm.net
@@ -563,7 +560,6 @@
 0.0.0.0 3tuhabe.info
 0.0.0.0 5dgja.com
 0.0.0.0 8senjya.jp
-0.0.0.0 a-divination.com
 0.0.0.0 ad7mylo.com
 0.0.0.0 after-pop-abc.com
 0.0.0.0 aiai-talk.com
@@ -765,7 +761,6 @@
 0.0.0.0 p-chi.info
 0.0.0.0 pairpure.jp
 0.0.0.0 pairpure.jp.net
-0.0.0.0 photo-gallery-picture2398.com
 0.0.0.0 poke10ve.com
 0.0.0.0 relifemail555.com
 0.0.0.0 s-kiseki.jp
@@ -1207,7 +1202,6 @@
 0.0.0.0 eir.tdhg7ppa.com
 0.0.0.0 recklessdroughtburglar.com
 0.0.0.0 the-match.jp
-0.0.0.0 evkakuri2308.click
 0.0.0.0 gtex3.com
 0.0.0.0 nice.par-even.com
 0.0.0.0 pr-0m.link
@@ -1361,7 +1355,6 @@
 0.0.0.0 du0.jp
 0.0.0.0 hapinet.net
 0.0.0.0 kiseki.com
-0.0.0.0 b.eeaach.com
 0.0.0.0 fukutoku-miyako.com
 0.0.0.0 ka73-urara.club
 0.0.0.0 uraaka.net
@@ -1372,7 +1365,6 @@
 0.0.0.0 gsi3t.com
 0.0.0.0 n43vr.com
 0.0.0.0 qf6tm5ug.com
-0.0.0.0 azbzcz.com
 0.0.0.0 candycandypop.com
 0.0.0.0 showa-klub.com
 0.0.0.0 xczzfvxknafgoawjtv.com
@@ -1411,8 +1403,6 @@
 0.0.0.0 desk-dictionary.com
 0.0.0.0 event-experiment.com
 0.0.0.0 final-future.com
-0.0.0.0 jap.cookingsboss.com
-0.0.0.0 jap.cookinggenuine.com
 0.0.0.0 ai-referee.com
 0.0.0.0 cryp-prel.com
 0.0.0.0 cgcsarz0opg.jp
@@ -1448,7 +1438,6 @@
 0.0.0.0 jg5y2nkdg.com
 0.0.0.0 vip-salon.net
 0.0.0.0 voicehp.com
-0.0.0.0 ic0828op.com
 0.0.0.0 j9q8dmk6.com
 0.0.0.0 kas6mjgmxhn5.com
 0.0.0.0 zjjgbuiy.com
@@ -1496,7 +1485,6 @@
 0.0.0.0 call-chieftain.com
 0.0.0.0 deep-dealings.com
 0.0.0.0 easy-elation.com
-0.0.0.0 o-ka-pilina.com
 0.0.0.0 dr-sapuri.jp
 0.0.0.0 u-to--u.com
 0.0.0.0 u-to-u.com
@@ -1819,6 +1807,35 @@
 0.0.0.0 r9-2an.com
 0.0.0.0 coupletime2525.com
 0.0.0.0 aaxr.shop
+0.0.0.0 rosarios.cloud
+0.0.0.0 sefrail.com
+0.0.0.0 tsukiyomian.com
+0.0.0.0 jukuen-club.com
+0.0.0.0 yoloo-jp.com
+0.0.0.0 yoloo-official.zendesk.com
+0.0.0.0 lottery37-fct.com
+0.0.0.0 fortuneletter.com
+0.0.0.0 fortuneqr-letter.com
+0.0.0.0 lucky-letter.com
+0.0.0.0 typicallydiscrimination.com
+0.0.0.0 amoredate.com
+0.0.0.0 friend-match.net
+0.0.0.0 ainu-syaman.frenchkiss.jp
+0.0.0.0 sanka.fun
+0.0.0.0 www.black-magic.jp
+0.0.0.0 www.onmyo.jp
+0.0.0.0 www.spiritualheal.net
+0.0.0.0 www.urami.net
+0.0.0.0 www.whitemagic.jp
+0.0.0.0 tadakyun.jp
+0.0.0.0 tadakyun.net
+0.0.0.0 tadaqyun.net
+0.0.0.0 5187.jp
+0.0.0.0 587.jp
+0.0.0.0 app-aplell.com
+0.0.0.0 u65erdf-gre.com
+0.0.0.0 gentete.com
+0.0.0.0 fine-days.net
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
 0.0.0.0 tgram.ru
@@ -1877,7 +1894,6 @@
 0.0.0.0 gamingnewsanalyst.com
 0.0.0.0 gamingdebates.com
 0.0.0.0 bonzi.link
-0.0.0.0 bestgames-2022.com
 0.0.0.0 pccdirect.site
 0.0.0.0 templatesearch.org
 0.0.0.0 f-i-n-d.onlyfuns.win
@@ -2145,7 +2161,6 @@
 0.0.0.0 biblio.sviluppo.host
 0.0.0.0 www-winbank-lfremhmida*.codeanyapp.com
 0.0.0.0 laurenmjackson.serv00.net
-0.0.0.0 sparkasse-safety.de
 0.0.0.0 sparkasse-oberhessen.info
 0.0.0.0 itaconsorciodigital.com.br
 0.0.0.0 td-online-carta.codeanyapp.com
@@ -2238,7 +2253,6 @@
 0.0.0.0 page-suspension.com
 0.0.0.0 feacboolk.com
 0.0.0.0 meta-for-business-
-0.0.0.0 lazada.bbc6666.com
 0.0.0.0 mayxanhsupport.com
 0.0.0.0 steam.zssjsq.com
 0.0.0.0 steamcommunitylog.chez.com
@@ -2309,7 +2323,6 @@
 0.0.0.0 spoti-safe-support*.codeanyapp.com
 0.0.0.0 spoti-*.codeanyapp.com
 0.0.0.0 spolify-support-premium.codeanyapp.com
-0.0.0.0 spotify.custmcssser.com
 0.0.0.0 divinedownload.com
 0.0.0.0 swiss-passapp.web.app
 0.0.0.0 the.jxc.mybluehost.me
@@ -2321,12 +2334,6 @@
 0.0.0.0 swisspost.web.app
 0.0.0.0 crypto-idx.com
 0.0.0.0 tokenp0ckht.click
-0.0.0.0 mememoguls.vip
-0.0.0.0 spendabit-payment.xyz
-0.0.0.0 web-tonkeep.website
-0.0.0.0 sparkflaretrustline.xyz
-0.0.0.0 paidnetwork-migration.com
-0.0.0.0 app-maplerpc.online
 0.0.0.0 base-dawgz.web.app
 0.0.0.0 migration-z1labs.com
 0.0.0.0 whitelist-memefi.com
@@ -2392,7 +2399,6 @@
 0.0.0.0 lameo.buzz
 0.0.0.0 bitenve.cc
 0.0.0.0 imtoken-bl.click
-0.0.0.0 pancak-e-swap.com
 0.0.0.0 pancakesswap.top
 0.0.0.0 pancakeswap-*.vercel.app
 0.0.0.0 pancake-swap*.vercel.app
@@ -2431,7 +2437,6 @@
 0.0.0.0 info-espanol-id-configes*.codeanyapp.com
 0.0.0.0 lcldetecthumainweb*.firebaseapp.com
 0.0.0.0 appinstallcheck.com
-0.0.0.0 copeescan.es
 0.0.0.0 gellyte.es
 0.0.0.0 shimura-china.com
 0.0.0.0 qufu.com.cn
@@ -2533,7 +2538,6 @@
 0.0.0.0 implarededeensino.com.br
 0.0.0.0 vertiselevadores.com.br
 0.0.0.0 aging3.co
-0.0.0.0 amernamproa.com
 0.0.0.0 marketplace-item-*.000.pe
 0.0.0.0 runningapplications-b7dae-default-rtdb.firebaseio.com
 0.0.0.0 magicslimnhatban.com
@@ -2659,8 +2663,6 @@
 0.0.0.0 new-bllog-i.com
 0.0.0.0 xv-bloging-info.com
 0.0.0.0 xxx-new-videos.com
-0.0.0.0 dareka4te.shop
-0.0.0.0 pekanbaru.one
 0.0.0.0 orca-slicer.
 0.0.0.0 ocraslicer.
 0.0.0.0 orca3dslicer.
@@ -2685,7 +2687,6 @@
 0.0.0.0 bteux.com
 0.0.0.0 childrenoftheclouds.com
 0.0.0.0 dating-express.com
-0.0.0.0 doorsstormsy.shop
 0.0.0.0 emailservicesnetau.com
 0.0.0.0 euromaillinnk.com
 0.0.0.0 glaters.com
@@ -2923,7 +2924,6 @@
 0.0.0.0 kmspico.download
 0.0.0.0 kmspico.icu
 0.0.0.0 micaesoft.com
-0.0.0.0 kmspico.space
 0.0.0.0 kmspicoativador.org
 0.0.0.0 kmspicodownloads.com
 0.0.0.0 kmspicofficial.com
@@ -2936,7 +2936,6 @@
 0.0.0.0 official-kmspico.org
 0.0.0.0 officialkmspico.download
 0.0.0.0 officialkmspico.info
-0.0.0.0 officialkmspico.net
 0.0.0.0 officials-kmspico.com
 0.0.0.0 lazada.hnjqpm.com
 0.0.0.0 sasktel.mmspos.com
@@ -3024,10 +3023,10 @@
 0.0.0.0 blockchecker5.pages.dev
 0.0.0.0 blockchecker6.pages.dev
 0.0.0.0 gocheck.pages.dev
-0.0.0.0 xblocktest.pages.dev
 0.0.0.0 blocchecker*.pages.dev
 0.0.0.0 blocklook.pages.dev
 0.0.0.0 lookblock.pages.dev
+0.0.0.0 xblocklist*.pages.dev
 0.0.0.0 lastpassrecovery.com
 0.0.0.0 mypasskey.info
 0.0.0.0 passkeysetup.com
@@ -3060,7 +3059,6 @@
 0.0.0.0 antitrojanwalls.live
 0.0.0.0 prizecloud.sa.com
 0.0.0.0 myshielstore.xyz
-0.0.0.0 6324139.icu
-0.0.0.0 order18252.cfd
 0.0.0.0 credzium.co.in
 0.0.0.0 imessagegreetins.de
+0.0.0.0 popcornpump.xyz

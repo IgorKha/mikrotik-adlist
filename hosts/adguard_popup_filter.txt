@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.35
-! Last modified: 2025-11-16T06:11:24.813Z
+! Version: 1.0.17.42
+! Last modified: 2025-11-23T06:11:12.831Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 hostk.cfd
 0.0.0.0 dipperflightrecommend.com
 0.0.0.0 stinafulltiukmep.org
 0.0.0.0 parcelconsists.com
@@ -259,8 +260,8 @@
 0.0.0.0 bettentacruela.com
 0.0.0.0 betteradsystem.com
 0.0.0.0 betzapdoson.com
+0.0.0.0 billilia.com
 0.0.0.0 bincatracs.com
-0.0.0.0 bkprglyptic.shop
 0.0.0.0 blcdog.com
 0.0.0.0 blehcourt.com
 0.0.0.0 block-ad.com
@@ -358,7 +359,6 @@
 0.0.0.0 easelegbike.com
 0.0.0.0 easyconverts.com
 0.0.0.0 ecomicrolab.com
-0.0.0.0 edpl9v.pro
 0.0.0.0 eeco.xyz
 0.0.0.0 eetognauy.net
 0.0.0.0 efficientorbit.co
@@ -420,7 +420,6 @@
 0.0.0.0 graitsie.com
 0.0.0.0 grfpr.com
 0.0.0.0 gtbdhr.com
-0.0.0.0 gxfiledownload.com
 0.0.0.0 hagech.com
 0.0.0.0 haveameet.com
 0.0.0.0 helicient.com
@@ -484,6 +483,7 @@
 0.0.0.0 litteracywing.pro
 0.0.0.0 livespacelivekeyrealclub.com
 0.0.0.0 lmdfmd.com
+0.0.0.0 loaditfile.com
 0.0.0.0 loadtime.org
 0.0.0.0 loazuptaice.net
 0.0.0.0 locooler-ageneral.com
@@ -653,10 +653,12 @@
 0.0.0.0 reallyzills.top
 0.0.0.0 realsh.xyz
 0.0.0.0 realtime-bid.com
+0.0.0.0 recesstransport.icu
 0.0.0.0 redaffil.com
 0.0.0.0 redirecting.online
 0.0.0.0 redirectingat.com
 0.0.0.0 reebr.com
+0.0.0.0 rel-s.com
 0.0.0.0 resentreaccotia.com
 0.0.0.0 revertsskimmia.shop
 0.0.0.0 rexsrv.com
@@ -703,7 +705,6 @@
 0.0.0.0 shotgunchancecruel.com
 0.0.0.0 shulugoo.net
 0.0.0.0 signamentswithd.com
-0.0.0.0 singelstodate.com
 0.0.0.0 singledatetime.com
 0.0.0.0 singlegirlsfinder.com
 0.0.0.0 skated.co
@@ -716,9 +717,9 @@
 0.0.0.0 sodefender.pro
 0.0.0.0 sp03k.sbs
 0.0.0.0 spareforads.top
+0.0.0.0 sperebnf.click
 0.0.0.0 spin83qr.com
 0.0.0.0 sprinlof.com
-0.0.0.0 spuppeh.com
 0.0.0.0 spuppeh.net
 0.0.0.0 spygenix.xyz
 0.0.0.0 srvpcn.com
@@ -743,8 +744,6 @@
 0.0.0.0 tbao684tryo.com
 0.0.0.0 tbeiu658gftk.com
 0.0.0.0 tgel2ebtx.ru
-0.0.0.0 thebtrads.top
-0.0.0.0 thefasthorse.com
 0.0.0.0 theirbellstudio.co
 0.0.0.0 theonesstoodtheirground.com
 0.0.0.0 tigerbrluck.com
@@ -771,7 +770,6 @@
 0.0.0.0 trakzon.com
 0.0.0.0 trasupr.com
 0.0.0.0 trckswrm.com
-0.0.0.0 trkless.com
 0.0.0.0 trknovi.com
 0.0.0.0 trkpostback.com
 0.0.0.0 trkred.com
@@ -786,30 +784,27 @@
 0.0.0.0 twigwisp.com
 0.0.0.0 twinrdsyte.com
 0.0.0.0 typical-hub.com
-0.0.0.0 tyqwjh23d.com
 0.0.0.0 u7do.sbs
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
-0.0.0.0 unrolltougher.shop
-0.0.0.0 unseaminoax.click
 0.0.0.0 upodaitie.net
-0.0.0.0 upuplets.com
 0.0.0.0 usedownloads.com
 0.0.0.0 utm-campaign.com
 0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
 0.0.0.0 verdepromo.info
 0.0.0.0 vfgte.com
-0.0.0.0 vicegoriest.shop
 0.0.0.0 viiadaof.com
 0.0.0.0 viibslav.com
 0.0.0.0 viiczfvm.com
 0.0.0.0 viidccdn.com
 0.0.0.0 viifwfyo.com
 0.0.0.0 viigetxc.com
+0.0.0.0 viikuhhs.com
 0.0.0.0 viiyutty.com
 0.0.0.0 viiyxefb.com
 0.0.0.0 vilytaku.com
+0.0.0.0 vinstigo.com
 0.0.0.0 violationphysics.click
 0.0.0.0 viralnewsbd.xyz
 0.0.0.0 virelon.com
@@ -838,7 +833,6 @@
 0.0.0.0 where-to.shop
 0.0.0.0 wintrck.com
 0.0.0.0 woevr.com
-0.0.0.0 wovensur.com
 0.0.0.0 wuujae.com
 0.0.0.0 x2tsa.com
 0.0.0.0 x3os.com
@@ -857,12 +851,10 @@
 0.0.0.0 zrlqm.com
 0.0.0.0 00771944.xyz
 0.0.0.0 00857731.xyz
-0.0.0.0 01045395.xyz
 0.0.0.0 04424170.xyz
 0.0.0.0 05420795.xyz
 0.0.0.0 07421283.xyz
 0.0.0.0 09745951.xyz
-0.0.0.0 10523745.xyz
 0.0.0.0 10614305.xyz
 0.0.0.0 10753990.xyz
 0.0.0.0 11152646.xyz
@@ -870,23 +862,17 @@
 0.0.0.0 14202444.xyz
 0.0.0.0 15223102.xyz
 0.0.0.0 15272973.xyz
-0.0.0.0 15752525.xyz
 0.0.0.0 16327739.xyz
 0.0.0.0 16972675.xyz
 0.0.0.0 17022993.xyz
 0.0.0.0 19009143.xyz
 0.0.0.0 19199675.xyz
-0.0.0.0 19706903.xyz
 0.0.0.0 20382207.xyz
 0.0.0.0 20729617.xyz
-0.0.0.0 21274758.xyz
 0.0.0.0 22117898.xyz
-0.0.0.0 224cc86d.xyz
 0.0.0.0 23879858.xyz
 0.0.0.0 23907453.xyz
 0.0.0.0 24837724.xyz
-0.0.0.0 2d979880.xyz
-0.0.0.0 2edef809.xyz
 0.0.0.0 30937261.xyz
 0.0.0.0 32472254.xyz
 0.0.0.0 33848102.xyz
@@ -896,22 +882,14 @@
 0.0.0.0 37066957.xyz
 0.0.0.0 38835571.xyz
 0.0.0.0 38941752.xyz
-0.0.0.0 40451343.xyz
-0.0.0.0 4126fe80.xyz
 0.0.0.0 42869755.xyz
-0.0.0.0 4602306b.xyz
-0.0.0.0 46276192.xyz
 0.0.0.0 47296536.xyz
 0.0.0.0 47415889.xyz
 0.0.0.0 48304789.xyz
-0.0.0.0 49333767.xyz
 0.0.0.0 49706204.xyz
 0.0.0.0 49766251.xyz
-0.0.0.0 4afa45f1.xyz
-0.0.0.0 54019033.xyz
 0.0.0.0 54199287.xyz
 0.0.0.0 55766925.xyz
-0.0.0.0 56514411.xyz
 0.0.0.0 59644010.xyz
 0.0.0.0 59768910.xyz
 0.0.0.0 60571086.xyz
@@ -927,7 +905,6 @@
 0.0.0.0 75690049.xyz
 0.0.0.0 77886044.xyz
 0.0.0.0 78847798.xyz
-0.0.0.0 78b78ff8.xyz
 0.0.0.0 79180284.xyz
 0.0.0.0 80133082.xyz
 0.0.0.0 83409127.xyz
@@ -939,23 +916,13 @@
 0.0.0.0 88545539.xyz
 0.0.0.0 89263907.xyz
 0.0.0.0 89407765.xyz
-0.0.0.0 89871256.xyz
 0.0.0.0 91301246.xyz
 0.0.0.0 92790388.xyz
-0.0.0.0 9354ee72.xyz
 0.0.0.0 94597672.xyz
 0.0.0.0 98140548.xyz
-0.0.0.0 98383163.xyz
 0.0.0.0 98738797.xyz
 0.0.0.0 98853171.xyz
-0.0.0.0 a908a849.xyz
-0.0.0.0 b395bfcd.xyz
-0.0.0.0 ba0bf98c.xyz
-0.0.0.0 c2a0076d.xyz
-0.0.0.0 e8e2063b.xyz
 0.0.0.0 ea6c0ac4.xyz
-0.0.0.0 f54cd504.xyz
-0.0.0.0 fe9dc503.xyz
 0.0.0.0 img-load.com
 0.0.0.0 1lzz.com
 0.0.0.0 1ts11.top
@@ -980,7 +947,6 @@
 0.0.0.0 desklks.com
 0.0.0.0 dirty-messenger.com
 0.0.0.0 dirty-tinder.com
-0.0.0.0 dumbpop.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 eroge.com
 0.0.0.0 ertya.com
@@ -994,7 +960,6 @@
 0.0.0.0 get-partner.life
 0.0.0.0 girls.xyz
 0.0.0.0 global-trk.com
-0.0.0.0 go-route.com
 0.0.0.0 grtyv.com
 0.0.0.0 hkl4h1trk.com
 0.0.0.0 hpyrdr.com
@@ -1004,7 +969,6 @@
 0.0.0.0 jizzy.org
 0.0.0.0 jsmjmp.com
 0.0.0.0 kaizentraffic.com
-0.0.0.0 libedgolart.com
 0.0.0.0 mptentry.com
 0.0.0.0 needlive.com
 0.0.0.0 notimoti.com
@@ -1026,7 +990,6 @@
 0.0.0.0 sexintheuk.com
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 slut2fuck.net
-0.0.0.0 snapcheat.app
 0.0.0.0 socialsex.biz
 0.0.0.0 socialsex.com
 0.0.0.0 targetingnow.com
@@ -1043,6 +1006,7 @@
 0.0.0.0 xxxjmp.com
 0.0.0.0 xxxmatch.com
 0.0.0.0 zononi.com
+0.0.0.0 sinehut.com
 0.0.0.0 paintejuke.com
 0.0.0.0 imaginarybad.com
 0.0.0.0 1463.info

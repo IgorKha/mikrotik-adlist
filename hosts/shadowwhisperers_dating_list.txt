@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.20
-! Last modified: 2025-11-16T06:11:34.001Z
+! Version: 1.0.15.22
+! Last modified: 2025-11-23T06:11:22.674Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -49,6 +49,7 @@
 0.0.0.0 alena-marriage-agency.com
 0.0.0.0 allianceinter.com
 0.0.0.0 alompartner.com
+0.0.0.0 alovoa.com
 0.0.0.0 amateurmatch.com
 0.0.0.0 ambiancematchmaking.com
 0.0.0.0 ameety.fr
@@ -574,6 +575,7 @@
 0.0.0.0 hasimausi.de
 0.0.0.0 heavenly-match.com
 0.0.0.0 heliumdating.com
+0.0.0.0 herkert.name
 0.0.0.0 hickeyapp.com
 0.0.0.0 hily.com
 0.0.0.0 hinge.co
@@ -672,6 +674,7 @@
 0.0.0.0 lesbianasenmexico.com
 0.0.0.0 lesbianchatonline.com
 0.0.0.0 lesbianmatchmaker.com.au
+0.0.0.0 lesbians-in-america.com
 0.0.0.0 lesbians-in-canada.com
 0.0.0.0 lesbian.singles
 0.0.0.0 lesbidating.com

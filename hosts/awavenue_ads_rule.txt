@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.58
-! Last modified: 2025-11-16T06:11:24.632Z
+! Version: 1.0.15.59
+! Last modified: 2025-11-23T06:11:12.684Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -134,12 +134,14 @@
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 adview.cn
 0.0.0.0 adx-ad.smart-tv.cn
+0.0.0.0 adx-api.jinmo.tech
 0.0.0.0 adx-bj-req.anythinktech.com
 0.0.0.0 adx-bj.anythinktech.com
 0.0.0.0 adx-cn.anythinktech.com
 0.0.0.0 adx-drcn.op.dbankcloud.cn
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 adx-os.anythinktech.com
+0.0.0.0 adx-saas.advlion.com
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adx.appsdk.com.cn
@@ -234,6 +236,7 @@
 0.0.0.0 bianxian.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 biz.weibo.com
+0.0.0.0 bj-td-menta-01-callback.advlion.com
 0.0.0.0 bj.ad.track.66mobi.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 bootpreload.uve.weibo.com
@@ -244,6 +247,7 @@
 0.0.0.0 bugly.qq.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 c.bidtoolads.com
+0.0.0.0 c.etoolads.cn
 0.0.0.0 c.evidon.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 c.kuaiduizuoye.com
@@ -511,6 +515,7 @@
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 monitor-ads-test.huan.tv
 0.0.0.0 monitor-uu.play.aiseet.atianqi.com
+0.0.0.0 monitor.adxsenmeng.com
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 monsetting.toutiao.com
@@ -576,6 +581,7 @@
 0.0.0.0 proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
 0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 qmlog.baertt.com
 0.0.0.0 qn-cdnfile1pcdn.msstatic.com
 0.0.0.0 qqdata.ab.qq.com
 0.0.0.0 qzs.gdtimg.com
@@ -594,8 +600,10 @@
 0.0.0.0 rps.hpplay.cn
 0.0.0.0 rpt.gdt.qq.com
 0.0.0.0 rt.applvn.com
+0.0.0.0 rtb.adxsenmeng.com
 0.0.0.0 rtb.voiceads.cn
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s1.cdn-sg.advlion.com
 0.0.0.0 s8t.teads.tv
 0.0.0.0 saad.ms.zhangyue.net
 0.0.0.0 saas.hpplay.cn
@@ -668,6 +676,7 @@
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 t7z.cupid.ptqy.gitv.tv
 0.0.0.0 tangram.e.qq.com
+0.0.0.0 target.ads.jihuoniao.com
 0.0.0.0 tdc.qq.com
 0.0.0.0 tdsdk.cpatrk.net
 0.0.0.0 tdsdk.xdrig.com
