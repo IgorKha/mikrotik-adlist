@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.16
-! Last modified: 2025-11-16T06:11:48.242Z
+! Version: 1.0.18.21
+! Last modified: 2025-11-23T06:11:35.383Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -44,6 +44,7 @@
 0.0.0.0 1apps.com
 0.0.0.0 1asphost.com
 0.0.0.0 1colony.com
+0.0.0.0 1fr1.net
 0.0.0.0 1freewebspace.com
 0.0.0.0 1hwy.com
 0.0.0.0 1shop.de
@@ -139,6 +140,7 @@
 0.0.0.0 abstellen.de
 0.0.0.0 abwechslungsreiches.de
 0.0.0.0 ac6.de
+0.0.0.0 actifforum.com
 0.0.0.0 admarketlocation.com
 0.0.0.0 africafull.top
 0.0.0.0 ag.gp
@@ -147,6 +149,7 @@
 0.0.0.0 airground.club
 0.0.0.0 airself.shop
 0.0.0.0 al6.de
+0.0.0.0 alboompro.com
 0.0.0.0 all.lc
 0.0.0.0 allemal.de
 0.0.0.0 allpubmusic.my
@@ -257,7 +260,6 @@
 0.0.0.0 blogspot.cz
 0.0.0.0 blogspot.de
 0.0.0.0 blogspot.dk
-0.0.0.0 blogspot.es
 0.0.0.0 blogspot.fi
 0.0.0.0 blogspot.fr
 0.0.0.0 blogspot.gr
@@ -305,7 +307,6 @@
 0.0.0.0 bravenet.com
 0.0.0.0 bravepages.com
 0.0.0.0 bravesites.com
-0.0.0.0 brazilbill.shop
 0.0.0.0 brizy.site
 0.0.0.0 bugs3.com
 0.0.0.0 builderall.net
@@ -532,7 +533,6 @@
 0.0.0.0 es-bbvacliente-movil.com
 0.0.0.0 es-caixamovil-clientes.com
 0.0.0.0 esel.in
-0.0.0.0 eshop-ya.life
 0.0.0.0 eu.cm
 0.0.0.0 eu.cr
 0.0.0.0 eu.gg
@@ -582,10 +582,14 @@
 0.0.0.0 for-ladys.de
 0.0.0.0 formbuddy.com
 0.0.0.0 forum.lc
+0.0.0.0 forum2jeux.com
 0.0.0.0 forum2x2.ru
 0.0.0.0 forum7.de
 0.0.0.0 forumactif.com
 0.0.0.0 forumactif.org
+0.0.0.0 forumattivo.com
+0.0.0.0 forumieren.com
+0.0.0.0 forumieren.de
 0.0.0.0 forumotion.com
 0.0.0.0 fotos.lc
 0.0.0.0 fr.gp
@@ -624,6 +628,7 @@
 0.0.0.0 freewha.com
 0.0.0.0 freezoka.net
 0.0.0.0 freightinternationalservices.com
+0.0.0.0 frenchboard.com
 0.0.0.0 friendcircles.com
 0.0.0.0 fuer-alle.de
 0.0.0.0 fuer-profis.de
@@ -688,6 +693,7 @@
 0.0.0.0 homemarker.com
 0.0.0.0 homepage.cx
 0.0.0.0 homepage.lc
+0.0.0.0 homestead.com
 0.0.0.0 hop.ru
 0.0.0.0 host.sk
 0.0.0.0 hostedforfree.com
@@ -726,7 +732,6 @@
 0.0.0.0 ij2.de
 0.0.0.0 il.gp
 0.0.0.0 im-internet.eu
-0.0.0.0 imtokne.vip
 0.0.0.0 imweb.me
 0.0.0.0 in.gp
 0.0.0.0 in24.de
@@ -779,7 +784,6 @@
 0.0.0.0 joomla.com
 0.0.0.0 jouwweb.nl
 0.0.0.0 jp.gp
-0.0.0.0 jtposts.cc
 0.0.0.0 jugem.cc
 0.0.0.0 jugem.jp
 0.0.0.0 justns.ru
@@ -788,7 +792,6 @@
 0.0.0.0 kanka.space
 0.0.0.0 kann-helfen.de
 0.0.0.0 keepfree.de
-0.0.0.0 kidnumber.shop
 0.0.0.0 kilu.at
 0.0.0.0 kilu.biz
 0.0.0.0 kilu.de
@@ -844,7 +847,6 @@
 0.0.0.0 malltree.shop
 0.0.0.0 manfeature.club
 0.0.0.0 mapsweight.shop
-0.0.0.0 marshost.info
 0.0.0.0 mashstaffing.com
 0.0.0.0 mdtwo.top
 0.0.0.0 me.gp
@@ -923,7 +925,6 @@
 0.0.0.0 o.gp
 0.0.0.0 o-f.com
 0.0.0.0 of-love.de
-0.0.0.0 offi-ciall.com
 0.0.0.0 officialcity.shop
 0.0.0.0 officialsitebuilder.com
 0.0.0.0 okdfhb.art
@@ -1035,7 +1036,6 @@
 0.0.0.0 sa.com
 0.0.0.0 sa.gp
 0.0.0.0 safe-girogate.com
-0.0.0.0 safwhatsapp.top
 0.0.0.0 schmust.de
 0.0.0.0 schoolrack.com
 0.0.0.0 scienceontheweb.net
@@ -1088,7 +1088,6 @@
 0.0.0.0 soup.io
 0.0.0.0 space.lc
 0.0.0.0 spaceplay.top
-0.0.0.0 spaintrade.shop
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
 0.0.0.0 spruz.com
@@ -1229,6 +1228,7 @@
 0.0.0.0 webadorsite.com
 0.0.0.0 webatu.com
 0.0.0.0 webblog24.de
+0.0.0.0 webblogg.se
 0.0.0.0 webcindario.com
 0.0.0.0 webflow.io
 0.0.0.0 webgarden.com
@@ -1272,7 +1272,6 @@
 0.0.0.0 weebly.com
 0.0.0.0 weeblysite.com
 0.0.0.0 welt.tl
-0.0.0.0 wentiso.top
 0.0.0.0 wiki.lc
 0.0.0.0 will-dich.eu
 0.0.0.0 wixsite.com
