@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.72
-! Last modified: 2025-11-23T06:11:24.215Z
+! Version: 1.0.16.75
+! Last modified: 2025-11-30T06:11:54.340Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.72
+! Version: 1.0.16.75
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-11-21T09:09:01.134Z
+! Last modified: 2025-11-27T08:11:48.618Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -19183,7 +19183,6 @@
 0.0.0.0 cdn.lr-ingest.io
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.promotionengine.com
-0.0.0.0 cdn.pubnub.com
 0.0.0.0 cdn.retailads.net
 0.0.0.0 cdn.shoplytics.com
 0.0.0.0 cdn.traffic60s.xyz

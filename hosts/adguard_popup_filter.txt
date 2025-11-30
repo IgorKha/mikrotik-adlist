@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.42
-! Last modified: 2025-11-23T06:11:12.831Z
+! Version: 1.0.17.47
+! Last modified: 2025-11-30T06:11:43.087Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 hostk.cfd
 0.0.0.0 dipperflightrecommend.com
@@ -243,6 +243,7 @@
 0.0.0.0 atp.revistamuchomas.com
 0.0.0.0 atsg.me
 0.0.0.0 auroraveil.bid
+0.0.0.0 avlmy.com
 0.0.0.0 awalesglower.com
 0.0.0.0 awecrptjmp.com
 0.0.0.0 basicflownetowork.co.in
@@ -271,6 +272,7 @@
 0.0.0.0 bmmads.com
 0.0.0.0 boardpress-b.online
 0.0.0.0 bobgames-prolister.com
+0.0.0.0 bonusgew.com
 0.0.0.0 boredhippie.com
 0.0.0.0 boskodating.com
 0.0.0.0 boxthis.xyz
@@ -297,6 +299,7 @@
 0.0.0.0 click-for-preview.com
 0.0.0.0 clickblitzo.com
 0.0.0.0 clickmintads.site
+0.0.0.0 clickpunch.icu
 0.0.0.0 clicksyncflow.com
 0.0.0.0 clixwells.com
 0.0.0.0 clladss.com
@@ -365,6 +368,7 @@
 0.0.0.0 emancytal.com
 0.0.0.0 endlessloveonline.online
 0.0.0.0 enframement.pics
+0.0.0.0 enield.com
 0.0.0.0 enrtx.com
 0.0.0.0 equides.pro
 0.0.0.0 escortlist.pro
@@ -377,12 +381,15 @@
 0.0.0.0 extsoft.info
 0.0.0.0 exxtended-access.com
 0.0.0.0 eyewondermedia.com
+0.0.0.0 fantabro.com
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
 0.0.0.0 fbpqvs.com
 0.0.0.0 finalice.net
 0.0.0.0 finanvideos.com
 0.0.0.0 finder2024.com
+0.0.0.0 flowldsb.online
+0.0.0.0 flowldsf.online
 0.0.0.0 flowworksfivesphere.com
 0.0.0.0 flyingadvert.com
 0.0.0.0 foerpo.com
@@ -421,6 +428,7 @@
 0.0.0.0 grfpr.com
 0.0.0.0 gtbdhr.com
 0.0.0.0 hagech.com
+0.0.0.0 harmo-woe.com
 0.0.0.0 haveameet.com
 0.0.0.0 helicient.com
 0.0.0.0 heptix.net
@@ -510,6 +518,7 @@
 0.0.0.0 mbjrkm2.com
 0.0.0.0 mbreviewer.com
 0.0.0.0 mbreviews.info
+0.0.0.0 mbsrv2.com
 0.0.0.0 mbsspads.com
 0.0.0.0 mbvlmz.com
 0.0.0.0 mcfstats.com
@@ -524,6 +533,7 @@
 0.0.0.0 metatrckpixel.com
 0.0.0.0 mgid.com
 0.0.0.0 mirfakpersei.top
+0.0.0.0 mistysteel.co
 0.0.0.0 mnaspm.com
 0.0.0.0 mndlvr.com
 0.0.0.0 mobagent.com
@@ -532,6 +542,8 @@
 0.0.0.0 mobile-ads.wycc.porn
 0.0.0.0 mobiletracking.ru
 0.0.0.0 momotrk.com
+0.0.0.0 moontrkr.com
+0.0.0.0 mosved.com
 0.0.0.0 movie-tv-free.com
 0.0.0.0 mylot.com
 0.0.0.0 mynutraresearch.com
@@ -544,6 +556,7 @@
 0.0.0.0 nersionitsumpute.com
 0.0.0.0 nettrackway.com
 0.0.0.0 newmytrp.com
+0.0.0.0 newoffertops.info
 0.0.0.0 newrtbside.com
 0.0.0.0 next-lust.cfd
 0.0.0.0 nextpointkaynersave.com
@@ -579,6 +592,7 @@
 0.0.0.0 omzal.com
 0.0.0.0 onclckpop.com
 0.0.0.0 onclickperformance.com
+0.0.0.0 onlidex.com
 0.0.0.0 opengalaxyapps.monster
 0.0.0.0 openrtb-banner.com
 0.0.0.0 optnx.com
@@ -588,6 +602,7 @@
 0.0.0.0 ovardu.com
 0.0.0.0 oversolosisor.com
 0.0.0.0 ovret.com
+0.0.0.0 pacha-wui.com
 0.0.0.0 paehceman.com
 0.0.0.0 pagelivekeylearnbestz.com
 0.0.0.0 paid.outbrain.com
@@ -672,6 +687,8 @@
 0.0.0.0 rockwound.site
 0.0.0.0 rockytrails.top
 0.0.0.0 rocoads.com
+0.0.0.0 rolltrk9.com
+0.0.0.0 romil-jdd.com
 0.0.0.0 roobetaffiliates.com
 0.0.0.0 roots.baby
 0.0.0.0 roundflow.net
@@ -752,12 +769,14 @@
 0.0.0.0 toiletpaper.life
 0.0.0.0 tomlldahehun.org
 0.0.0.0 toopsoug.net
+0.0.0.0 top-best.com
 0.0.0.0 topnewsgo.com
 0.0.0.0 toptoys.store
 0.0.0.0 toroexoclk.com
 0.0.0.0 tourukaustoglee.net
 0.0.0.0 tr-bouncer.com
 0.0.0.0 track.afrsportsbetting.com
+0.0.0.0 track.bwclk.com
 0.0.0.0 tracker-2.com
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracking-aws-5.com
@@ -769,6 +788,7 @@
 0.0.0.0 trakit20.com
 0.0.0.0 trakzon.com
 0.0.0.0 trasupr.com
+0.0.0.0 trckqq.com
 0.0.0.0 trckswrm.com
 0.0.0.0 trknovi.com
 0.0.0.0 trkpostback.com
@@ -793,6 +813,7 @@
 0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
 0.0.0.0 verdepromo.info
+0.0.0.0 veret-fqv.com
 0.0.0.0 vfgte.com
 0.0.0.0 viiadaof.com
 0.0.0.0 viibslav.com
@@ -817,6 +838,7 @@
 0.0.0.0 volleyballachiever.site
 0.0.0.0 voluumtrk.com
 0.0.0.0 vpn-offers.org
+0.0.0.0 vstwerxerbc.top
 0.0.0.0 vulnerableimmigrateaboveaverage.com
 0.0.0.0 w0we.com
 0.0.0.0 waisheph.com

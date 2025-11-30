@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.2.22
-! Last modified: 2025-11-23T06:11:35.669Z
+! Version: 1.0.2.24
+! Last modified: 2025-11-30T06:12:05.922Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -3457,6 +3457,7 @@
 0.0.0.0 imaxl.ink
 0.0.0.0 urls.imcompanion.co
 0.0.0.0 imdb.to
+0.0.0.0 imgus.cc
 0.0.0.0 imlcc.link
 0.0.0.0 imo.cx
 0.0.0.0 imo-call.shop
@@ -4959,6 +4960,7 @@
 0.0.0.0 go-admin.momen.app
 0.0.0.0 momo.dm
 0.0.0.0 static.monactive.net
+0.0.0.0 trackingservice.monday.com
 0.0.0.0 mondoagram.com
 0.0.0.0 monghaiba.life
 0.0.0.0 monghaibon.live

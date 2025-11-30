@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.15
-! Last modified: 2025-11-23T06:11:07.721Z
+! Version: 1.0.16.21
+! Last modified: 2025-11-30T06:11:37.865Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -21,7 +21,6 @@
 0.0.0.0 360yield.com
 0.0.0.0 3lift.com
 0.0.0.0 3o9s.short.gy
-0.0.0.0 4clicker.pro
 0.0.0.0 4d5.net
 0.0.0.0 4info.com
 0.0.0.0 4jnzhl0d0.com
@@ -205,7 +204,6 @@
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
 0.0.0.0 adetracking.com
-0.0.0.0 adexc.net
 0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexpose.com
@@ -222,7 +220,6 @@
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
 0.0.0.0 adhigh.net
-0.0.0.0 adhoc4.net
 0.0.0.0 adhub.media
 0.0.0.0 adhunter.media
 0.0.0.0 adimage.guardian.co.uk
@@ -393,7 +390,6 @@
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
-0.0.0.0 ads.directionsmag.com
 0.0.0.0 ads.doit.com.cn
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.eagletribune.com
@@ -814,6 +810,7 @@
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzestocp.com
+0.0.0.0 aerialapps.com
 0.0.0.0 aerserv.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 affec.tv
@@ -1634,6 +1631,7 @@
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
 0.0.0.0 feedmob.com
+0.0.0.0 figsprotein.com
 0.0.0.0 fillthemap.com
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
@@ -1658,6 +1656,7 @@
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
 0.0.0.0 fly-analytics.com
+0.0.0.0 fontserif.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
@@ -1862,7 +1861,6 @@
 0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
 0.0.0.0 ifa.tube8live.com
-0.0.0.0 ignals.com
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illustriousoatmeal.com
@@ -2375,6 +2373,7 @@
 0.0.0.0 onlinecash.com
 0.0.0.0 onlinecashmethod.com
 0.0.0.0 onlinerewardcenter.com
+0.0.0.0 onlinestarten.net
 0.0.0.0 onscroll.com
 0.0.0.0 onthe.io
 0.0.0.0 opads.us
@@ -2474,7 +2473,6 @@
 0.0.0.0 pheedo.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
 0.0.0.0 piano.io
-0.0.0.0 piet2eix3l.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 pipedream.wistia.com
@@ -2615,6 +2613,7 @@
 0.0.0.0 quirkysugar.com
 0.0.0.0 quisma.com
 0.0.0.0 quizzicalzephyr.com
+0.0.0.0 r.drinksdirect.net
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.marketing.dubaisothebys.com
 0.0.0.0 r.msn.com
@@ -2831,6 +2830,7 @@
 0.0.0.0 shockinggrass.com
 0.0.0.0 shoppingads.com
 0.0.0.0 showads.pubmatic.com
+0.0.0.0 shredform.com
 0.0.0.0 shrillspoon.com
 0.0.0.0 shxtrk.com
 0.0.0.0 sicksmash.com
@@ -2856,6 +2856,7 @@
 0.0.0.0 skisofa.com
 0.0.0.0 skroutza.skroutz.gr
 0.0.0.0 skylink.vn
+0.0.0.0 slimesupplies.net
 0.0.0.0 slopeaota.com
 0.0.0.0 smaato.com
 0.0.0.0 smart-data-systems.com
@@ -3405,6 +3406,7 @@
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
 0.0.0.0 worriednumber.com
+0.0.0.0 wowfunnow.com
 0.0.0.0 writerhubs.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt.bankmillennium.pl

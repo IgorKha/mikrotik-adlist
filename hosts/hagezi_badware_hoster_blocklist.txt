@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.21
-! Last modified: 2025-11-23T06:11:35.383Z
+! Version: 1.0.18.29
+! Last modified: 2025-11-30T06:12:05.640Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -181,7 +181,6 @@
 0.0.0.0 atsnx.com
 0.0.0.0 atspace.biz
 0.0.0.0 atspace.com
-0.0.0.0 atspace.org
 0.0.0.0 atwebpages.com
 0.0.0.0 au.gp
 0.0.0.0 aufbauend.de
@@ -959,7 +958,6 @@
 0.0.0.0 pancake.run
 0.0.0.0 parknhost.com
 0.0.0.0 party.lc
-0.0.0.0 payhip.com
 0.0.0.0 pc.lc
 0.0.0.0 pcbusiness.club
 0.0.0.0 pcriot.com
@@ -1118,6 +1116,7 @@
 0.0.0.0 teenradio.shop
 0.0.0.0 tehno-politen.ru
 0.0.0.0 teleporthq.app
+0.0.0.0 telrock.org
 0.0.0.0 tempisite.com
 0.0.0.0 temporary.site
 0.0.0.0 temporary-demo.site
