@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.18.99
-! Last modified: 2025-11-23T06:11:28.753Z
+! Version: 1.0.19.6
+! Last modified: 2025-11-30T06:11:58.686Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -91,6 +91,7 @@
 0.0.0.0 beeaar.com
 0.0.0.0 beecrave.com
 0.0.0.0 benecharm.com
+0.0.0.0 benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 best-torrents.com
 0.0.0.0 bestiamos.com
@@ -159,6 +160,7 @@
 0.0.0.0 cdn-defac18.studyzone-investmentguru.com
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
+0.0.0.0 check-update-today.me
 0.0.0.0 chesssorrydescend.com
 0.0.0.0 chikepod.com
 0.0.0.0 chipcy.com
@@ -170,6 +172,7 @@
 0.0.0.0 claim-uniswap.app
 0.0.0.0 claims-uniswap.app
 0.0.0.0 cluckergifts.ecwid.com
+0.0.0.0 cmoboy.com
 0.0.0.0 cnhadverti.co
 0.0.0.0 cnhajuda.co
 0.0.0.0 cnhcomunicado.co
@@ -213,6 +216,7 @@
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
 0.0.0.0 ddzk513bd.com
+0.0.0.0 debridlink.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 dein-rundfunkbeitrag.de
@@ -223,7 +227,6 @@
 0.0.0.0 designbyus.online
 0.0.0.0 desiupload.in
 0.0.0.0 detranboletim.co
-0.0.0.0 detraninforme.co
 0.0.0.0 detranlibera.co
 0.0.0.0 devifoodgrains.com
 0.0.0.0 dezpez.com
@@ -340,12 +343,15 @@
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 food-network.fwh.is
 0.0.0.0 foreveusps.com
+0.0.0.0 forex-shop-z.icu
 0.0.0.0 forumdetran.co
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 freedom.invoice5g-bill.com
 0.0.0.0 freedom.invoiceid-bill.com
+0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
 0.0.0.0 fullview.pl
@@ -384,10 +390,10 @@
 0.0.0.0 glitchy.go2cloud.org
 0.0.0.0 gload.info
 0.0.0.0 globalvisacorp.com
+0.0.0.0 goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 gossvibe.com
 0.0.0.0 gotoperfection.com
-0.0.0.0 gr.update-tracks.com
 0.0.0.0 group-signal.com
 0.0.0.0 gsport.com
 0.0.0.0 gtlinfrastructurelimited.com
@@ -412,6 +418,7 @@
 0.0.0.0 hippie-pets.com
 0.0.0.0 hisgr.buzz
 0.0.0.0 homelarr.com.br
+0.0.0.0 hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 hotbignews.com
 0.0.0.0 hotdebrid.com
@@ -436,7 +443,6 @@
 0.0.0.0 india-e-visa.com
 0.0.0.0 india-visa-online.com
 0.0.0.0 india-visa-online.org
-0.0.0.0 india-visaonline.org
 0.0.0.0 india-visas.org
 0.0.0.0 india.evisa-agency.com
 0.0.0.0 indiaeta.com
@@ -512,7 +518,6 @@
 0.0.0.0 kontribusiuang.top
 0.0.0.0 kopisusu.co.id
 0.0.0.0 kra18.com
-0.0.0.0 kredit-rupiah.com
 0.0.0.0 krediteksklusif.com
 0.0.0.0 kuyhaa.cc
 0.0.0.0 lakersfanshoponline.com
@@ -593,7 +598,6 @@
 0.0.0.0 navi1.com
 0.0.0.0 navi10.com
 0.0.0.0 navi100.com
-0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi14.com
 0.0.0.0 navi18.com
@@ -619,18 +623,15 @@
 0.0.0.0 navi4.com
 0.0.0.0 navi42.ru
 0.0.0.0 navi43.com
-0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 navi5.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
-0.0.0.0 navi55.com
 0.0.0.0 navi56.com
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
 0.0.0.0 navi63.ru
-0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
 0.0.0.0 navi69.com
 0.0.0.0 navi7.com
@@ -673,16 +674,17 @@
 0.0.0.0 nip44.com
 0.0.0.0 nip5.com
 0.0.0.0 nip57.com
-0.0.0.0 nirvezal.com
 0.0.0.0 nobrerefino.com
 0.0.0.0 nofotballshop.com
 0.0.0.0 norfotball.com
 0.0.0.0 norgefotball.com
+0.0.0.0 norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 notasdenatran.co
 0.0.0.0 notify-user-adjustments.vercel.app
 0.0.0.0 novabeds.ca
 0.0.0.0 nowefilmyonline.pl
+0.0.0.0 nxtgenerator.top
 0.0.0.0 nzxsxn.98kk89.com
 0.0.0.0 oablages.org.br
 0.0.0.0 obejrzyj-to.pl
@@ -723,6 +725,7 @@
 0.0.0.0 paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
+0.0.0.0 peaveymartca.com
 0.0.0.0 peppatees.com
 0.0.0.0 perlatoshoe.com
 0.0.0.0 personal84.com
@@ -868,7 +871,6 @@
 0.0.0.0 stallioncredit.com
 0.0.0.0 startuplatte.com
 0.0.0.0 steamgateways.com
-0.0.0.0 steampowered.cn.com
 0.0.0.0 steamunlock.com
 0.0.0.0 stellara.de
 0.0.0.0 stellasummer.com
@@ -1099,6 +1101,7 @@
 0.0.0.0 visatoindia.org
 0.0.0.0 visumbuitenland.nl
 0.0.0.0 vizjer-pl.pl
+0.0.0.0 vizjer.com.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film
@@ -1167,9 +1170,7 @@
 0.0.0.0 zalukaj.film
 0.0.0.0 zalukaj.io
 0.0.0.0 zalukaj.site
-0.0.0.0 zalukaj.us
 0.0.0.0 zat.io
-0.0.0.0 zaz4o.securesolidlink.com
 0.0.0.0 zedbubble.com
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com

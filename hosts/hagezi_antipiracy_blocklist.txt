@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-! Version: 1.0.21.6
-! Last modified: 2025-11-23T06:11:21.011Z
+! Version: 1.0.21.17
+! Last modified: 2025-11-30T06:11:50.944Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 003396815.xyz
 0.0.0.0 0123456789nonexistent.com
@@ -783,6 +783,7 @@
 0.0.0.0 animex.com
 0.0.0.0 animexin.dev
 0.0.0.0 animexx.de
+0.0.0.0 animeyt.es
 0.0.0.0 animeyt.moe
 0.0.0.0 animeyume.org
 0.0.0.0 animez.org
@@ -1993,7 +1994,6 @@
 0.0.0.0 cmovieshd.net
 0.0.0.0 cmovieshd.vip
 0.0.0.0 cnetworkbd.net
-0.0.0.0 cny.fan
 0.0.0.0 321movies.co.uk
 0.0.0.0 althub.co.za
 0.0.0.0 an1.co.in
@@ -3660,6 +3660,7 @@
 0.0.0.0 flashfilms-hd.top
 0.0.0.0 flashnetbd.com
 0.0.0.0 flashtorrents.org
+0.0.0.0 tracker.flatuslifir.is
 0.0.0.0 flemmix.cam
 0.0.0.0 flemmix.cc
 0.0.0.0 flemmix.mom
@@ -4715,6 +4716,7 @@
 0.0.0.0 hdreactor.info
 0.0.0.0 hdreactor.org
 0.0.0.0 hdrezka.ag
+0.0.0.0 hdrezka-home.tv
 0.0.0.0 hdrezka-ua.com
 0.0.0.0 hdroad.org
 0.0.0.0 tracker.hdroute.org
@@ -5047,6 +5049,7 @@
 0.0.0.0 intrepidbd.com
 0.0.0.0 invalid.pw
 0.0.0.0 watch.inzi.dev
+0.0.0.0 tracker.iochimari.moe
 0.0.0.0 ionbooter.com
 0.0.0.0 app.iosgods.com
 0.0.0.0 ioshaven.com
@@ -6612,6 +6615,7 @@
 0.0.0.0 mytracker.ru
 0.0.0.0 myunblock.com
 0.0.0.0 myvi.tv
+0.0.0.0 myvidplay.com
 0.0.0.0 rfc5746.mywaifu.best
 0.0.0.0 tracker.mywaifu.best
 0.0.0.0 mywarez.com
@@ -7189,7 +7193,6 @@
 0.0.0.0 papystreaming.stream
 0.0.0.0 parag.rs
 0.0.0.0 paranetinfo.com
-0.0.0.0 parkingcrew.net
 0.0.0.0 parliamentlive.tv
 0.0.0.0 tracker.parrotlinux.org
 0.0.0.0 tracker.parrotsec.org
@@ -7718,6 +7721,7 @@
 0.0.0.0 qqdl.site
 0.0.0.0 qtstm32fan.ru
 0.0.0.0 tracker.qu.ax
+0.0.0.0 quantumbooter.net
 0.0.0.0 quantumstress.net
 0.0.0.0 quantus.tv
 0.0.0.0 quebec-partage.com
@@ -8051,7 +8055,6 @@
 0.0.0.0 ryjer.com
 0.0.0.0 ryuanime.com
 0.0.0.0 s.to
-0.0.0.0 s-telecharger.com
 0.0.0.0 s0ft4pc.com
 0.0.0.0 s2dfree.cc
 0.0.0.0 s2dfree.de
@@ -9219,6 +9222,7 @@
 0.0.0.0 thedise.me
 0.0.0.0 thedvdclub.org
 0.0.0.0 theebooksbay.com
+0.0.0.0 thefap.net
 0.0.0.0 theflixer.tv
 0.0.0.0 theflixertv.to
 0.0.0.0 thegeeks.bz
