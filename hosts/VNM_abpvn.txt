@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.75
-! Last modified: 2025-11-30T06:11:54.340Z
+! Version: 1.0.16.77
+! Last modified: 2025-12-07T06:11:13.525Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.75
+! Version: 1.0.16.77
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-11-27T08:11:48.618Z
+! Last modified: 2025-12-05T08:11:22.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -13838,6 +13838,7 @@
 0.0.0.0 aimaniape.club
 0.0.0.0 ainouzaudre.net
 0.0.0.0 aiqidwcfrm.com
+0.0.0.0 airdropcassino.cfd
 0.0.0.0 aistat.net
 0.0.0.0 aividruzeemi.com
 0.0.0.0 ajfnee.com
@@ -15241,6 +15242,7 @@
 0.0.0.0 eodufofs.com
 0.0.0.0 eogaeapolaric.com
 0.0.0.0 epiccash.com
+0.0.0.0 epidermispushupvariable.com
 0.0.0.0 epomads2.4shared.com
 0.0.0.0 epomapps.com
 0.0.0.0 epyqerhah.com
@@ -15497,6 +15499,7 @@
 0.0.0.0 gboxrthnyezkx.com
 0.0.0.0 gbqofs.com
 0.0.0.0 gd.orlcloop.com
+0.0.0.0 gdtgkshmc.com
 0.0.0.0 geephugagee.com
 0.0.0.0 gelclinchfranz.com
 0.0.0.0 gemius.pl
@@ -15692,6 +15695,7 @@
 0.0.0.0 hb.minutemedia-prebid.com
 0.0.0.0 hb.openwebmp.com
 0.0.0.0 hbwncbwgyvgt.com
+0.0.0.0 hccaxtxfq.com
 0.0.0.0 hcetcuwit.com
 0.0.0.0 hcilralhi.com
 0.0.0.0 hcjfmbra.com
@@ -15880,6 +15884,7 @@
 0.0.0.0 images.footballaddicts.se
 0.0.0.0 imageshh.com
 0.0.0.0 imarketservices.com
+0.0.0.0 imfvggmqrltbp.com
 0.0.0.0 img-ad-nex.com
 0.0.0.0 img.en25.com
 0.0.0.0 imgpromo.easyrencontre.com
@@ -16006,6 +16011,7 @@
 0.0.0.0 jagnoans.com
 0.0.0.0 jagzrmdyw.com
 0.0.0.0 jailbulb.com
+0.0.0.0 jailorscoman.cfd
 0.0.0.0 jaiporukodaisa.com
 0.0.0.0 jaletemetia.com
 0.0.0.0 jarvispopsu.com
@@ -16467,6 +16473,7 @@
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrilo.com
 0.0.0.0 mfajfikmyqan.com
+0.0.0.0 mfymrypcirm.com
 0.0.0.0 mg2connext.com
 0.0.0.0 mgbid.net
 0.0.0.0 mgepuynxttyi.com
@@ -16765,6 +16772,7 @@
 0.0.0.0 ny.damasseakamai.com
 0.0.0.0 nycvqozkkmzti.com
 0.0.0.0 nygwcwsvnu.com
+0.0.0.0 nyvpezvddyb.com
 0.0.0.0 nzaza.com
 0.0.0.0 nzurlmq.com
 0.0.0.0 o3sxhw5ad.com
@@ -16886,6 +16894,7 @@
 0.0.0.0 ontosocietyweary.com
 0.0.0.0 onvictinitor.com
 0.0.0.0 onwardperishvaluables.com
+0.0.0.0 oodseengairgy.net
 0.0.0.0 ootchoft.com
 0.0.0.0 opcharizardon.com
 0.0.0.0 opdhoxor.com
@@ -16912,6 +16921,7 @@
 0.0.0.0 opvanillishan.com
 0.0.0.0 opxaxqxaqo.com
 0.0.0.0 opzazcvitci.com
+0.0.0.0 opzoxvxut.com
 0.0.0.0 oqdavkguftan.com
 0.0.0.0 oqdtuqat.com
 0.0.0.0 oqfoczdfyag.com
@@ -17403,6 +17413,7 @@
 0.0.0.0 qlpenuxctkhwv.com
 0.0.0.0 qmccocotadcab.com
 0.0.0.0 qmixnhyxc.com
+0.0.0.0 qn.unspedtaction.com
 0.0.0.0 qnp16tstw.com
 0.0.0.0 qnsr.com
 0.0.0.0 qo.errorrespan.com
@@ -17920,6 +17931,7 @@
 0.0.0.0 spanuletubings.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 spathalbarmie.com
+0.0.0.0 spbeknkulo.com
 0.0.0.0 speakspurink.com
 0.0.0.0 special.beatifulllhistory.com
 0.0.0.0 specially4u.net
@@ -18090,6 +18102,7 @@
 0.0.0.0 system-notify.app
 0.0.0.0 systemleadb.com
 0.0.0.0 syyycc.com
+0.0.0.0 szgoetmggljs.com
 0.0.0.0 t.easyads28.mobi
 0.0.0.0 t.insigit.com
 0.0.0.0 t.lumupu.xyz
@@ -18225,6 +18238,7 @@
 0.0.0.0 tm5kpprikka.com
 0.0.0.0 tmebhjkjrtbb.com
 0.0.0.0 tnkexchange.com
+0.0.0.0 tnkuetnoabuk.com
 0.0.0.0 toathoule.com
 0.0.0.0 toawaups.net
 0.0.0.0 tobaltoyon.com
@@ -18274,6 +18288,7 @@
 0.0.0.0 totemcash.com
 0.0.0.0 touchads.com
 0.0.0.0 touchclarity.com
+0.0.0.0 toufajitoatuji.com
 0.0.0.0 touphudipodou.net
 0.0.0.0 tour.brazzers.com
 0.0.0.0 tpmagqvjzgvos.com

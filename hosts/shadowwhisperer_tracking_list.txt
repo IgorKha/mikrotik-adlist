@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.0
-! Last modified: 2025-11-30T06:11:44.126Z
+! Version: 1.0.2.7
+! Last modified: 2025-12-07T06:11:05.015Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -7899,6 +7899,7 @@
 0.0.0.0 analytics.flix-site.de
 0.0.0.0 analytics.float-in.pt
 0.0.0.0 analytics.flocker.nl
+0.0.0.0 analytics.flodesk.com
 0.0.0.0 analytics.flod.org
 0.0.0.0 analytics.flohmarktheld.de
 0.0.0.0 analytics.flokod.tech
@@ -13140,6 +13141,7 @@
 0.0.0.0 analytics.service-medical-grandest.com
 0.0.0.0 analytics.service.oyoclass.com
 0.0.0.0 analytics.service.silvenga.com
+0.0.0.0 analytics.services.jetbrains.com
 0.0.0.0 analytics.services.solutiontech.it
 0.0.0.0 analytics.service.vehiso.net
 0.0.0.0 analytics.servit.biz
@@ -40802,7 +40804,6 @@
 0.0.0.0 lighterthinnerstronger.fiber-line.com
 0.0.0.0 lightga.online
 0.0.0.0 lighthouseapp.com
-0.0.0.0 lighthouselabs.eu
 0.0.0.0 lightning.adultswim.com
 0.0.0.0 lightning.adultswim.co.uk
 0.0.0.0 lightning.adultswim.fr
@@ -40970,6 +40971,7 @@
 0.0.0.0 literatelight.com
 0.0.0.0 litics.godberd.com
 0.0.0.0 litix.io
+0.0.0.0 litlyx.com
 0.0.0.0 littlebuddy.apple.com
 0.0.0.0 littledata.io
 0.0.0.0 little-flower-d8af.torrentfreak.workers.dev
@@ -44317,7 +44319,6 @@
 0.0.0.0 load.tusk-au.happymammoth.com
 0.0.0.0 load.ultrack.closers.io
 0.0.0.0 load.unicornio.blinlab.us
-0.0.0.0 loadurl24.com
 0.0.0.0 load.us-california-sgtm.1800gotjunk.com
 0.0.0.0 load.uytrlzaui.bonendroi.com
 0.0.0.0 load.vegan.vefa-fernschule.de
@@ -44872,6 +44873,7 @@
 0.0.0.0 look.megatv-ctv.com
 0.0.0.0 look.redhotglue.com
 0.0.0.0 look.startv-ctv.com
+0.0.0.0 lookup-country-ip.dailyfeed.workers.dev
 0.0.0.0 lookup.dnsprivacy.co.uk
 0.0.0.0 look-viacom.tvtelemetrie.com
 0.0.0.0 loon.analogjoe.com
@@ -107695,6 +107697,7 @@
 0.0.0.0 t.rejuvacare.com
 0.0.0.0 trek.powtoon.com
 0.0.0.0 tr.elfahem.org
+0.0.0.0 trelunao.com
 0.0.0.0 tremendousearthquake.com
 0.0.0.0 tremendousplastic.com
 0.0.0.0 tremendoustime.com
@@ -107719,6 +107722,7 @@
 0.0.0.0 t.revivalclothing.de
 0.0.0.0 t.revoltrain.com
 0.0.0.0 tr.fliese-shop.de
+0.0.0.0 tr.flodesk.com
 0.0.0.0 tr.franchiseplus.nl
 0.0.0.0 tr.freedomscaling.com
 0.0.0.0 tr.fromabcstoacts.com
@@ -108737,6 +108741,7 @@
 0.0.0.0 umami.buctbase.com
 0.0.0.0 umami.cap.vaspal.dev
 0.0.0.0 umami.carroarmato0.be
+0.0.0.0 umami.cascadiainteractive.net
 0.0.0.0 umami.cech.work
 0.0.0.0 umami.cestlavie.moe
 0.0.0.0 umami.chilli.be
@@ -109636,6 +109641,7 @@
 0.0.0.0 viewers-voice.com
 0.0.0.0 view.findasync.com
 0.0.0.0 view-flix.com
+0.0.0.0 viewmyip.eu
 0.0.0.0 view.oportun.com
 0.0.0.0 view.peek-cloppenburg.at
 0.0.0.0 view.peek-cloppenburg.de

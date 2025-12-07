@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.13
-! Last modified: 2025-11-30T06:12:05.499Z
+! Version: 1.0.16.14
+! Last modified: 2025-12-07T06:11:21.997Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -272,7 +272,6 @@
 0.0.0.0 dedyn.io
 0.0.0.0 demosoftonline.com
 0.0.0.0 demoteam.ch
-0.0.0.0 desec.io
 0.0.0.0 dh3.com
 0.0.0.0 dhcp.biz
 0.0.0.0 dhis.org

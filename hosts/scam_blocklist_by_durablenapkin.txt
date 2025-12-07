@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.6
-! Last modified: 2025-11-30T06:11:58.686Z
+! Version: 1.0.19.13
+! Last modified: 2025-12-07T06:11:16.874Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -16,7 +16,6 @@
 0.0.0.0 4556.de
 0.0.0.0 47n78xprrvp1.top
 0.0.0.0 555sq.com.cn
-0.0.0.0 5gtower.in
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 777uniswap.xyz
@@ -25,6 +24,7 @@
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 account.ws-reward.com
+0.0.0.0 adflowtube.com
 0.0.0.0 adidasko.com
 0.0.0.0 adminicesm.life
 0.0.0.0 affordableforyouusa5.godaddysites.com
@@ -53,7 +53,6 @@
 0.0.0.0 altwi-zgs.com
 0.0.0.0 am-freights.com
 0.0.0.0 amorpulse.com
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 app-uniswapping.org
 0.0.0.0 appdrive.info
@@ -131,7 +130,6 @@
 0.0.0.0 botsuanah.com
 0.0.0.0 boutiqueondemand.com
 0.0.0.0 bradcroninnapo82.myshopify.com
-0.0.0.0 breakshirts.com
 0.0.0.0 brttre.com
 0.0.0.0 bsnltower.com
 0.0.0.0 bsnltowerinstallations.com
@@ -151,7 +149,6 @@
 0.0.0.0 candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 caraci.it
-0.0.0.0 carngr.sbs
 0.0.0.0 carsaratek.com
 0.0.0.0 casha.xyz
 0.0.0.0 casualdating1.com
@@ -227,6 +224,7 @@
 0.0.0.0 designbyus.online
 0.0.0.0 desiupload.in
 0.0.0.0 detranboletim.co
+0.0.0.0 detraninforme.co
 0.0.0.0 detranlibera.co
 0.0.0.0 devifoodgrains.com
 0.0.0.0 dezpez.com
@@ -247,6 +245,7 @@
 0.0.0.0 drama-queen.cc
 0.0.0.0 draxu.com
 0.0.0.0 dreamgreenshoe.com
+0.0.0.0 dreamstee.com
 0.0.0.0 dreamstees.com
 0.0.0.0 dresseloves.com
 0.0.0.0 dressesloves.com
@@ -262,6 +261,7 @@
 0.0.0.0 e-visums.nl
 0.0.0.0 easynatures.com
 0.0.0.0 ebuy8.shop
+0.0.0.0 ecomicrolab.com
 0.0.0.0 ecs-online.ffm.to
 0.0.0.0 edecher.com
 0.0.0.0 edgeupgrade.com
@@ -283,7 +283,6 @@
 0.0.0.0 eudshop.shop
 0.0.0.0 eventmusk-x.com
 0.0.0.0 eviralstore.com
-0.0.0.0 evisa-india-online.com
 0.0.0.0 evisa-indian.com
 0.0.0.0 evisa.express
 0.0.0.0 evisaindia.com
@@ -300,6 +299,7 @@
 0.0.0.0 familygiftlove.myshopify.com
 0.0.0.0 familygiftville.com
 0.0.0.0 familystore.com
+0.0.0.0 fapst.com
 0.0.0.0 faze1.com
 0.0.0.0 faze10.com
 0.0.0.0 faze2.com
@@ -351,7 +351,6 @@
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
-0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
 0.0.0.0 fullview.pl
@@ -416,24 +415,22 @@
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
-0.0.0.0 hisgr.buzz
-0.0.0.0 homelarr.com.br
 0.0.0.0 hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 hotbignews.com
 0.0.0.0 hotdebrid.com
 0.0.0.0 hotmod.eu
 0.0.0.0 houselar.com.br
-0.0.0.0 howgr.buzz
+0.0.0.0 hqnew.info
 0.0.0.0 hubfiles.ws
 0.0.0.0 hudson-bay.com
-0.0.0.0 hunden.info
 0.0.0.0 hushlove.com
 0.0.0.0 hyndtren25.pages.dev
 0.0.0.0 i-grade.online
 0.0.0.0 i-visaindia.com
 0.0.0.0 iagadvanced.com
 0.0.0.0 iaqorwr.com
+0.0.0.0 iceao.shop
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 ikiha.com
 0.0.0.0 iklrge.com
@@ -471,7 +468,6 @@
 0.0.0.0 indiavisa.org
 0.0.0.0 indiavisaonline.org
 0.0.0.0 infinityto.com
-0.0.0.0 info-animals.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
 0.0.0.0 informationpolicy.cloud
@@ -520,7 +516,6 @@
 0.0.0.0 kra18.com
 0.0.0.0 krediteksklusif.com
 0.0.0.0 kuyhaa.cc
-0.0.0.0 lakersfanshoponline.com
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 lds.xyz
 0.0.0.0 ledgerlivewallets.com
@@ -566,7 +561,6 @@
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 miucart.com
-0.0.0.0 mizunsports.com
 0.0.0.0 moddetail.com
 0.0.0.0 modmobile24.com
 0.0.0.0 monkstars.com
@@ -588,7 +582,6 @@
 0.0.0.0 myfunfarm.com
 0.0.0.0 myhandshops.myshopify.com
 0.0.0.0 mypuregaming.com
-0.0.0.0 mystitich4u.com
 0.0.0.0 mysuperdatingforyou.life
 0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
@@ -604,7 +597,6 @@
 0.0.0.0 navi2.com
 0.0.0.0 navi20.ru
 0.0.0.0 navi21.com
-0.0.0.0 navi22.com
 0.0.0.0 navi22.ru
 0.0.0.0 navi23.com
 0.0.0.0 navi23.ru
@@ -736,7 +728,6 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 phototan.net
 0.0.0.0 pinjamanelit.top
-0.0.0.0 pinjamanplus.com
 0.0.0.0 pinjamteman.top
 0.0.0.0 pinjamuang.top
 0.0.0.0 piratedrive.com
@@ -767,11 +758,10 @@
 0.0.0.0 punyauang.xyz
 0.0.0.0 qq51f.short.gy
 0.0.0.0 qriedf.info
+0.0.0.0 qttlpn.shop
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
 0.0.0.0 rastreiobrasil.co
-0.0.0.0 rastreiocorreio.co
-0.0.0.0 reforest-iita.org
 0.0.0.0 regularizedenatran.co
 0.0.0.0 remessacorreio.site
 0.0.0.0 resources4gaming.com
@@ -805,7 +795,6 @@
 0.0.0.0 salimusic.com
 0.0.0.0 sanla-tan.net
 0.0.0.0 saveeeee.myshopify.com
-0.0.0.0 scoigr.buzz
 0.0.0.0 seagulltee.com
 0.0.0.0 seans24.com.pl
 0.0.0.0 seasonsofficial.com
@@ -945,7 +934,6 @@
 0.0.0.0 trkucibqy.com
 0.0.0.0 trnzu.info
 0.0.0.0 tromselementbygg.no
-0.0.0.0 trump-drop.org
 0.0.0.0 trumpsupport.help
 0.0.0.0 trusltwcllet.com
 0.0.0.0 tsla-stock.com
@@ -964,6 +952,7 @@
 0.0.0.0 um-bs.com
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
+0.0.0.0 uniswap-eth.com
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap.cool
 0.0.0.0 uniswap.host
@@ -1101,14 +1090,11 @@
 0.0.0.0 visatoindia.org
 0.0.0.0 visumbuitenland.nl
 0.0.0.0 vizjer-pl.pl
-0.0.0.0 vizjer.com.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film
-0.0.0.0 vodbest.pl
 0.0.0.0 vodfix.pl
 0.0.0.0 vodlist.com
-0.0.0.0 vodlist.pl
 0.0.0.0 volcomofficial.com
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 wadahlapak.top
@@ -1152,6 +1138,7 @@
 0.0.0.0 youdebrid.com
 0.0.0.0 yourdatefind.com
 0.0.0.0 yoursecrethookup.com
+0.0.0.0 youthfy.shop
 0.0.0.0 youtubee.com
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
@@ -1165,7 +1152,6 @@
 0.0.0.0 zalukaj.app
 0.0.0.0 zalukaj.cc
 0.0.0.0 zalukaj.co.pl
-0.0.0.0 zalukaj.cz
 0.0.0.0 zalukaj.eu
 0.0.0.0 zalukaj.film
 0.0.0.0 zalukaj.io

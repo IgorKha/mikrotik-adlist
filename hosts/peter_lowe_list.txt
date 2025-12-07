@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.21
-! Last modified: 2025-11-30T06:11:37.865Z
+! Version: 1.0.16.26
+! Last modified: 2025-12-07T06:11:00.372Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -183,7 +183,6 @@
 0.0.0.0 adcannyads.com
 0.0.0.0 adcash.com
 0.0.0.0 adcast.deviantart.com
-0.0.0.0 adcel.co
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.net
 0.0.0.0 adclick.com
@@ -817,7 +816,6 @@
 0.0.0.0 affili.net
 0.0.0.0 affiliate.1800flowers.com
 0.0.0.0 affiliate.dtiserv.com
-0.0.0.0 affiliate.rusvpn.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.treated.com
 0.0.0.0 affiliatefuture.com
@@ -900,7 +898,6 @@
 0.0.0.0 annoyingacoustics.com
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anstrex.com
-0.0.0.0 anuncios.edicaoms.com.br
 0.0.0.0 anxiousapples.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.appmetrica.yandex.ru
@@ -1160,6 +1157,7 @@
 0.0.0.0 caniamedia.com
 0.0.0.0 capriciouscorn.com
 0.0.0.0 captainbicycle.com
+0.0.0.0 captainstick.com
 0.0.0.0 carambo.la
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
@@ -1559,6 +1557,7 @@
 0.0.0.0 eqy.link
 0.0.0.0 erne.co
 0.0.0.0 ero-advertising.com
+0.0.0.0 essaygiants.com
 0.0.0.0 estat.com
 0.0.0.0 esty.com
 0.0.0.0 et.educationdynamics.com
@@ -1646,6 +1645,7 @@
 0.0.0.0 flairadscpc.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flashtalking.com
+0.0.0.0 flashtexting.com
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
 0.0.0.0 flimsycircle.com
@@ -2234,6 +2234,7 @@
 0.0.0.0 monarchads.com
 0.0.0.0 monetate.net
 0.0.0.0 monetizer101.com
+0.0.0.0 monkeyapes.com
 0.0.0.0 monsterpops.com
 0.0.0.0 mookie1.com
 0.0.0.0 mopub.com
@@ -2536,7 +2537,6 @@
 0.0.0.0 prf.hn
 0.0.0.0 priceypies.com
 0.0.0.0 pricklydebt.com
-0.0.0.0 priefy.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
@@ -3165,6 +3165,7 @@
 0.0.0.0 track.przejdzdostrony.pl
 0.0.0.0 track.pubmatic.com
 0.0.0.0 track.segmetrics.io
+0.0.0.0 track.smtpmessage.com
 0.0.0.0 track.software-codes.com
 0.0.0.0 track.spe.schoolmessenger.com
 0.0.0.0 track.ultravpn.com
