@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.47
-! Last modified: 2025-11-30T06:11:43.087Z
+! Version: 1.0.17.55
+! Last modified: 2025-12-07T06:11:04.527Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 hostk.cfd
 0.0.0.0 dipperflightrecommend.com
@@ -175,6 +175,7 @@
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 7flies12.de
+0.0.0.0 8jfbt5va3r.com
 0.0.0.0 905trk.com
 0.0.0.0 a-ads.com
 0.0.0.0 abadit5rckd.com
@@ -226,7 +227,6 @@
 0.0.0.0 albonsa.com
 0.0.0.0 alexatracker.com
 0.0.0.0 alibabatraffic.com
-0.0.0.0 alpenridge.top
 0.0.0.0 alpine-vpn.com
 0.0.0.0 amichi.info
 0.0.0.0 amusing-injury.com
@@ -243,6 +243,7 @@
 0.0.0.0 atp.revistamuchomas.com
 0.0.0.0 atsg.me
 0.0.0.0 auroraveil.bid
+0.0.0.0 auto-ads6.site
 0.0.0.0 avlmy.com
 0.0.0.0 awalesglower.com
 0.0.0.0 awecrptjmp.com
@@ -250,14 +251,15 @@
 0.0.0.0 bayshorline.com
 0.0.0.0 bbmoe.com
 0.0.0.0 bboy1.com
+0.0.0.0 bclogin-check.com
 0.0.0.0 behim.click
 0.0.0.0 bemobtrcks.com
 0.0.0.0 bemobtrk.com
 0.0.0.0 bemoonunbroid.shop
 0.0.0.0 bestchainconnection.com
 0.0.0.0 bestcleaner.online
-0.0.0.0 bestreceived.com
 0.0.0.0 bestunfollow.com
+0.0.0.0 betmenaff.com
 0.0.0.0 bettentacruela.com
 0.0.0.0 betteradsystem.com
 0.0.0.0 betzapdoson.com
@@ -288,6 +290,7 @@
 0.0.0.0 candyai.love
 0.0.0.0 cashgzb.com
 0.0.0.0 casinobonusdeals.io
+0.0.0.0 cauditcommernal.com
 0.0.0.0 cautommityring.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 ceramicturtleremnant.com
@@ -394,7 +397,6 @@
 0.0.0.0 flyingadvert.com
 0.0.0.0 foerpo.com
 0.0.0.0 foflf.com
-0.0.0.0 fomalhautgacrux.com
 0.0.0.0 forooqso.tv
 0.0.0.0 freetrckr.com
 0.0.0.0 frequentjam.com
@@ -422,6 +424,7 @@
 0.0.0.0 go2offer-1.com
 0.0.0.0 goads.pro
 0.0.0.0 godkc.com
+0.0.0.0 gomsop.com
 0.0.0.0 gorclck.com
 0.0.0.0 gotrackier.com
 0.0.0.0 graitsie.com
@@ -450,7 +453,6 @@
 0.0.0.0 hurlmedia.design
 0.0.0.0 icetechus.com
 0.0.0.0 icubeswire.co
-0.0.0.0 ignals.com
 0.0.0.0 imkirh.com
 0.0.0.0 improvebin.xyz
 0.0.0.0 inbrowserplay.com
@@ -515,6 +517,7 @@
 0.0.0.0 maxidefender.xyz
 0.0.0.0 maxidownload.com
 0.0.0.0 mazefoam.com
+0.0.0.0 mbcm2.com
 0.0.0.0 mbjrkm2.com
 0.0.0.0 mbreviewer.com
 0.0.0.0 mbreviews.info
@@ -523,7 +526,6 @@
 0.0.0.0 mbvlmz.com
 0.0.0.0 mcfstats.com
 0.0.0.0 mddsp.info
-0.0.0.0 me4track.com
 0.0.0.0 medfoodsafety.com
 0.0.0.0 mediahell.world
 0.0.0.0 meetflirtmatch.com
@@ -554,10 +556,7 @@
 0.0.0.0 navigatingnautical.xyz
 0.0.0.0 nbo-protect.pro
 0.0.0.0 nersionitsumpute.com
-0.0.0.0 nettrackway.com
 0.0.0.0 newmytrp.com
-0.0.0.0 newoffertops.info
-0.0.0.0 newrtbside.com
 0.0.0.0 next-lust.cfd
 0.0.0.0 nextpointkaynersave.com
 0.0.0.0 nexusbloom.xyz
@@ -584,7 +583,6 @@
 0.0.0.0 offergate-software11.com
 0.0.0.0 offergate-software20.com
 0.0.0.0 offergate-software6.com
-0.0.0.0 offertops.info
 0.0.0.0 oglalavoodoo.world
 0.0.0.0 olopruy.com
 0.0.0.0 omegaadblock.net
@@ -612,7 +610,6 @@
 0.0.0.0 permanentillnessclever.com
 0.0.0.0 pexorise.com
 0.0.0.0 phazashabu.pro
-0.0.0.0 pheniter.com
 0.0.0.0 phgotof2.com
 0.0.0.0 pilotstracking.com
 0.0.0.0 pisism.com
@@ -650,7 +647,6 @@
 0.0.0.0 pubtrky.com
 0.0.0.0 pulsivecerebra.top
 0.0.0.0 pupspu.com
-0.0.0.0 push-news.click
 0.0.0.0 push-sense.com
 0.0.0.0 push1000.top
 0.0.0.0 push1005.com
@@ -665,7 +661,6 @@
 0.0.0.0 racunn.com
 0.0.0.0 rbtfit.com
 0.0.0.0 rcdn-web.com
-0.0.0.0 reallyzills.top
 0.0.0.0 realsh.xyz
 0.0.0.0 realtime-bid.com
 0.0.0.0 recesstransport.icu
@@ -685,14 +680,12 @@
 0.0.0.0 rndskittytor.com
 0.0.0.0 rockingfolders.com
 0.0.0.0 rockwound.site
-0.0.0.0 rockytrails.top
 0.0.0.0 rocoads.com
 0.0.0.0 rolltrk9.com
 0.0.0.0 romil-jdd.com
 0.0.0.0 roobetaffiliates.com
 0.0.0.0 roots.baby
 0.0.0.0 roundflow.net
-0.0.0.0 roundpush.com
 0.0.0.0 routes.name
 0.0.0.0 rovno.xyz
 0.0.0.0 rtbbhub.com
@@ -772,7 +765,6 @@
 0.0.0.0 top-best.com
 0.0.0.0 topnewsgo.com
 0.0.0.0 toptoys.store
-0.0.0.0 toroexoclk.com
 0.0.0.0 tourukaustoglee.net
 0.0.0.0 tr-bouncer.com
 0.0.0.0 track.afrsportsbetting.com
@@ -783,13 +775,12 @@
 0.0.0.0 tracking-zy.com
 0.0.0.0 tracking.gusclicks.com
 0.0.0.0 trackingtraffo.com
-0.0.0.0 tracktds.live
-0.0.0.0 trackvisible.com
 0.0.0.0 trakit20.com
 0.0.0.0 trakzon.com
 0.0.0.0 trasupr.com
 0.0.0.0 trckqq.com
 0.0.0.0 trckswrm.com
+0.0.0.0 trkfomedia.eu
 0.0.0.0 trknovi.com
 0.0.0.0 trkpostback.com
 0.0.0.0 trkred.com
@@ -854,7 +845,6 @@
 0.0.0.0 wheceelt.net
 0.0.0.0 where-to.shop
 0.0.0.0 wintrck.com
-0.0.0.0 woevr.com
 0.0.0.0 wuujae.com
 0.0.0.0 x2tsa.com
 0.0.0.0 x3os.com
@@ -950,14 +940,11 @@
 0.0.0.0 1ts11.top
 0.0.0.0 access-the-website.com
 0.0.0.0 adextrem.com
-0.0.0.0 adultadworld.com
 0.0.0.0 banners.cams.com
 0.0.0.0 c4tracking01.com
-0.0.0.0 cam4tracking.com
 0.0.0.0 chokertraffic.com
 0.0.0.0 cityofsin3d.com
 0.0.0.0 ckrf1.com
-0.0.0.0 connexionsafe.com
 0.0.0.0 crdefault2.com
 0.0.0.0 crentexgate.com
 0.0.0.0 crlcw.link
@@ -971,14 +958,12 @@
 0.0.0.0 dirty-tinder.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 eroge.com
-0.0.0.0 ertya.com
 0.0.0.0 flagads.net
 0.0.0.0 fpctraffic2.com
 0.0.0.0 freecamsexposed.com
 0.0.0.0 friendfinder.com
 0.0.0.0 frtyi.com
 0.0.0.0 funkydaters.com
-0.0.0.0 gambol.link
 0.0.0.0 get-partner.life
 0.0.0.0 girls.xyz
 0.0.0.0 global-trk.com
@@ -987,10 +972,8 @@
 0.0.0.0 hpyrdr.com
 0.0.0.0 hrtya.com
 0.0.0.0 indianfriendfinder.com
-0.0.0.0 irtye.com
 0.0.0.0 jizzy.org
 0.0.0.0 jsmjmp.com
-0.0.0.0 kaizentraffic.com
 0.0.0.0 mptentry.com
 0.0.0.0 needlive.com
 0.0.0.0 notimoti.com
@@ -1010,8 +993,6 @@
 0.0.0.0 sexemulator.com
 0.0.0.0 sexflirtbook.com
 0.0.0.0 sexintheuk.com
-0.0.0.0 sexpennyauctions.com
-0.0.0.0 slut2fuck.net
 0.0.0.0 socialsex.biz
 0.0.0.0 socialsex.com
 0.0.0.0 targetingnow.com
@@ -1022,7 +1003,6 @@
 0.0.0.0 trkbc.com
 0.0.0.0 viensvoircesite.com
 0.0.0.0 vlexokrako.com
-0.0.0.0 watchmygf.com
 0.0.0.0 xdtraffic.com
 0.0.0.0 xmatch.com
 0.0.0.0 xxxjmp.com
@@ -1275,5 +1255,4 @@
 0.0.0.0 pheersie.com
 0.0.0.0 shqbsdjatunl.com
 0.0.0.0 ueuodgnrhb.com
-0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 track.aptitudemedia.co

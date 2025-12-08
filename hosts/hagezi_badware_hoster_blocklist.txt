@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.29
-! Last modified: 2025-11-30T06:12:05.640Z
+! Version: 1.0.18.39
+! Last modified: 2025-12-07T06:11:22.072Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -20,6 +20,7 @@
 0.0.0.0 0hna.com
 0.0.0.0 one4u.0lx.net
 0.0.0.0 0pe.kr
+0.0.0.0 0pi.com
 0.0.0.0 1.vg
 0.0.0.0 10001mb.com
 0.0.0.0 100freemb.com
@@ -213,7 +214,6 @@
 0.0.0.0 bg.gp
 0.0.0.0 bgydnb.vip
 0.0.0.0 bigheadhosting.net
-0.0.0.0 bigthomas.shop
 0.0.0.0 bilder.lc
 0.0.0.0 billblett.com
 0.0.0.0 biz.ly
@@ -405,6 +405,7 @@
 0.0.0.0 blogspot.com.au
 0.0.0.0 blogspot.com.br
 0.0.0.0 blogspot.com.by
+0.0.0.0 blogspot.com.cn
 0.0.0.0 blogspot.com.co
 0.0.0.0 blogspot.com.cy
 0.0.0.0 blogspot.com.ee
@@ -491,7 +492,6 @@
 0.0.0.0 dr.ag
 0.0.0.0 dreamstation.com
 0.0.0.0 dreht-auf.de
-0.0.0.0 drugpoint.shop
 0.0.0.0 dtiblog.com
 0.0.0.0 duanwenzi.cn
 0.0.0.0 dvd.lc
@@ -519,7 +519,6 @@
 0.0.0.0 eklablog.fr
 0.0.0.0 elementfx.com
 0.0.0.0 emyspot.com
-0.0.0.0 energycd.shop
 0.0.0.0 english.lc
 0.0.0.0 englishset.club
 0.0.0.0 entekpartners.com
@@ -653,7 +652,6 @@
 0.0.0.0 godaddysites.com
 0.0.0.0 godfrance.club
 0.0.0.0 godscience.shop
-0.0.0.0 godxdess.top
 0.0.0.0 gofreeserve.com
 0.0.0.0 googletagmanagers.com
 0.0.0.0 govauinboxmsg-support.com
@@ -681,7 +679,6 @@
 0.0.0.0 healthyemployee.me
 0.0.0.0 helioho.st
 0.0.0.0 heliohost.us
-0.0.0.0 helpfri.shop
 0.0.0.0 hexe.in
 0.0.0.0 highclassacademia.com
 0.0.0.0 hilfe24h.de
@@ -844,6 +841,7 @@
 0.0.0.0 mail.ht
 0.0.0.0 majesticbank.de
 0.0.0.0 malltree.shop
+0.0.0.0 maminforum.com
 0.0.0.0 manfeature.club
 0.0.0.0 mapsweight.shop
 0.0.0.0 mashstaffing.com
@@ -1001,7 +999,6 @@
 0.0.0.0 pt.gp
 0.0.0.0 pt.kg
 0.0.0.0 q.gp
-0.0.0.0 q77.eu
 0.0.0.0 qipim.ru
 0.0.0.0 ql4h.net
 0.0.0.0 qu.am
@@ -1089,7 +1086,6 @@
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
 0.0.0.0 spruz.com
-0.0.0.0 square.site
 0.0.0.0 square7.ch
 0.0.0.0 srv1.org
 0.0.0.0 start.lc
@@ -1116,7 +1112,6 @@
 0.0.0.0 teenradio.shop
 0.0.0.0 tehno-politen.ru
 0.0.0.0 teleporthq.app
-0.0.0.0 telrock.org
 0.0.0.0 tempisite.com
 0.0.0.0 temporary.site
 0.0.0.0 temporary-demo.site

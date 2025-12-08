@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.14.64
-! Last modified: 2025-11-30T06:11:54.075Z
+! Version: 1.0.14.66
+! Last modified: 2025-12-07T06:11:13.381Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 69oxt4q05.com
@@ -245,7 +245,6 @@
 0.0.0.0 salesbeehive.com
 0.0.0.0 smartclick.pl
 0.0.0.0 smpl.hit.ppdb.pl
-0.0.0.0 snrbox.com
 0.0.0.0 snrcdn.net
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.dziennik.pl
@@ -286,3 +285,5 @@
 0.0.0.0 shownewsdaily.com
 0.0.0.0 deal-pl.shop
 0.0.0.0 mydatinguniverse.com
+0.0.0.0 gotowanie.pl.edrrak.com
+0.0.0.0 mniamblog.polnda.asckat.com
