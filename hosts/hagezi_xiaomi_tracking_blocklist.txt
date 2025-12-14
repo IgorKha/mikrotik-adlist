@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt
-! Version: 1.0.14.91
-! Last modified: 2025-12-07T06:11:12.723Z
+! Version: 1.0.14.92
+! Last modified: 2025-12-14T06:11:32.958Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -273,6 +273,7 @@
 0.0.0.0 11-c3.bigdata.ctc.neo.xiaomi.com
 0.0.0.0 5-c3.bigdata.ctc.neo.xiaomi.com
 0.0.0.0 tj1.staging.nfcpay.xiaomi.com
+0.0.0.0 3rdupgrade.pandora.xiaomi.com
 0.0.0.0 appstore.pandora.xiaomi.com
 0.0.0.0 bossadmin.pandora.xiaomi.com
 0.0.0.0 box.pandora.xiaomi.com

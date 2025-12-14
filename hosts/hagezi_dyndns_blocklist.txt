@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.14
-! Last modified: 2025-12-07T06:11:21.997Z
+! Version: 1.0.16.18
+! Last modified: 2025-12-14T06:11:42.850Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -61,6 +61,7 @@
 0.0.0.0 adagio.tw
 0.0.0.0 dyn.addr.tools
 0.0.0.0 afraid.org
+0.0.0.0 agropeople.ru
 0.0.0.0 aintno.info
 0.0.0.0 airlinemeals.net
 0.0.0.0 albertn.ru
@@ -88,6 +89,7 @@
 0.0.0.0 asenov.ru
 0.0.0.0 asiamariage.com
 0.0.0.0 asianfreshproduce.com
+0.0.0.0 ask2ask.com
 0.0.0.0 astrabus.ru
 0.0.0.0 at-band-camp.net
 0.0.0.0 ath.cx
@@ -378,6 +380,7 @@
 0.0.0.0 dynamai.com
 0.0.0.0 dynamic.domains
 0.0.0.0 dynamic-dns.net
+0.0.0.0 dynamic-dns.us
 0.0.0.0 dynamic-m.com
 0.0.0.0 dynamic-site.net
 0.0.0.0 dynamicdns.biz
@@ -826,6 +829,7 @@
 0.0.0.0 jetos.com
 0.0.0.0 jkub.com
 0.0.0.0 joe.dj
+0.0.0.0 jomblo.asia
 0.0.0.0 jonward.com
 0.0.0.0 jumpingcrab.com
 0.0.0.0 jundy.org
@@ -1454,6 +1458,7 @@
 0.0.0.0 yngling.com
 0.0.0.0 youdontcare.com
 0.0.0.0 youpc.ro
+0.0.0.0 yourspecialtee.com
 0.0.0.0 yourtrap.com
 0.0.0.0 z0d.eu
 0.0.0.0 z86.ru

@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.77
-! Last modified: 2025-12-07T06:11:13.525Z
+! Version: 1.0.16.80
+! Last modified: 2025-12-14T06:11:33.826Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.77
+! Version: 1.0.16.80
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-12-05T08:11:22.645Z
+! Last modified: 2025-12-11T10:09:26.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -7867,6 +7867,10 @@
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
+0.0.0.0 analytics-ipv6.tiktokw.us
+0.0.0.0 mcs.tiktokw.us
+0.0.0.0 mssdk.tiktokw.us
+0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 mcs.snssdk.com
@@ -7889,6 +7893,12 @@
 0.0.0.0 mon-va.capcutapi.com
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 log16-normal-us-ttp.capcutapi.us
+0.0.0.0 mcs16-normal-us-ttp.capcutapi.us
+0.0.0.0 mon.capcutapi.us
+0.0.0.0 mon16-normal-us-ttp.capcutapi.us
+0.0.0.0 mssdk.capcutapi.us
+0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 a.mouseflow.com
 0.0.0.0 app.mouseflow.com
 0.0.0.0 cdn.mouseflow.com
@@ -11119,6 +11129,12 @@
 0.0.0.0 collector-pxebumdlwe.pxchk.net
 0.0.0.0 collector-pxrf8vapwa.pxchk.net
 0.0.0.0 collector-pxrf8vapwa.px-client.net
+0.0.0.0 ads.sportradar.com
+0.0.0.0 tm.ads.sportradar.com
+0.0.0.0 tracker.ads.sportradar.com
+0.0.0.0 deviatetracking.com
+0.0.0.0 v7.deviatetracking.com
+0.0.0.0 www.deviatetracking.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -12626,6 +12642,7 @@
 0.0.0.0 analytics.moneycat.vn
 0.0.0.0 analytics.nhattao.com
 0.0.0.0 analytics.ntlc.com.vn
+0.0.0.0 analytics.onflix.vip
 0.0.0.0 analytics.pancake.vn
 0.0.0.0 analytics.rever.vn
 0.0.0.0 analytics.sohatv.vn
@@ -13510,7 +13527,6 @@
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.space.com
-0.0.0.0 ads.sportradar.com
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.starzd.com
 0.0.0.0 ads.sun.com
@@ -14103,6 +14119,7 @@
 0.0.0.0 backbeatmedia.com
 0.0.0.0 backlogdoorstepsinister.com
 0.0.0.0 backspacecomprisedgoliath.com
+0.0.0.0 backspinreentryupright.com
 0.0.0.0 badlandlispyippee.com
 0.0.0.0 bagpipemonogamypercent.com
 0.0.0.0 baguettefactornervous.com
@@ -14352,6 +14369,7 @@
 0.0.0.0 bouzechoby.net
 0.0.0.0 bowerywill.com
 0.0.0.0 box.anchorfree.net
+0.0.0.0 boxlikesedativespinach.com
 0.0.0.0 boxofwhisper.com
 0.0.0.0 boyaidare.club
 0.0.0.0 bpaqzithab.com
@@ -15673,6 +15691,7 @@
 0.0.0.0 hacspynha.com
 0.0.0.0 hadabqhbewcrt.com
 0.0.0.0 hailstonefatherinlawsuggestions.com
+0.0.0.0 hairsromance.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamulustueiron.com
 0.0.0.0 hananokai.tv
@@ -16821,6 +16840,7 @@
 0.0.0.0 offergate-apps-publicity.com
 0.0.0.0 offergate-other32.com
 0.0.0.0 offerimage.com
+0.0.0.0 offeringchewjean.com
 0.0.0.0 offermatica.com
 0.0.0.0 offgalvantulaom.com
 0.0.0.0 offoonguser.com
@@ -17244,6 +17264,7 @@
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
 0.0.0.0 predictiondexchange.com
+0.0.0.0 preferencenail.com
 0.0.0.0 prefleks.com
 0.0.0.0 premium-offers.com
 0.0.0.0 premiumvertising.com
@@ -17299,6 +17320,7 @@
 0.0.0.0 protexting.com
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
+0.0.0.0 protrafficinspector.com
 0.0.0.0 provexia.com
 0.0.0.0 providingcrechepartnership.com
 0.0.0.0 proximic.com
@@ -17606,6 +17628,7 @@
 0.0.0.0 riverhit.com
 0.0.0.0 riverstressful.com
 0.0.0.0 rjkrefyqrixk.com
+0.0.0.0 rjprpydgnco.com
 0.0.0.0 rjw4obbw.com
 0.0.0.0 rkgwzfwjgk.com
 0.0.0.0 rkksbrkwdqbop.com
@@ -17683,6 +17706,7 @@
 0.0.0.0 rwulzuaqsafn.com
 0.0.0.0 rxeosevsso.com
 0.0.0.0 ryeqnyvbncdvg.com
+0.0.0.0 rzuohgfwyoxx.com
 0.0.0.0 s.eunow4u.com
 0.0.0.0 s.nitropay.com
 0.0.0.0 s.optvz.com
@@ -18704,6 +18728,7 @@
 0.0.0.0 wedxuaksargvlf.com
 0.0.0.0 weeecool.com
 0.0.0.0 weesatoothoamu.net
+0.0.0.0 weirdopt.com
 0.0.0.0 welcomeneat.pro
 0.0.0.0 welcomingaccompanyeffort.com
 0.0.0.0 wellmadefrog.com
@@ -18958,6 +18983,7 @@
 0.0.0.0 yesgwyn.com
 0.0.0.0 yespetor.com
 0.0.0.0 yfetyg.com
+0.0.0.0 yfshutispht.com
 0.0.0.0 yhmfmugyq.com
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 yieldads.com
