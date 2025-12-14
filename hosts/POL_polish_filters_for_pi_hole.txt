@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.14.66
-! Last modified: 2025-12-07T06:11:13.381Z
+! Version: 1.0.14.72
+! Last modified: 2025-12-14T06:11:33.656Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 69oxt4q05.com
@@ -287,3 +287,12 @@
 0.0.0.0 mydatinguniverse.com
 0.0.0.0 gotowanie.pl.edrrak.com
 0.0.0.0 mniamblog.polnda.asckat.com
+0.0.0.0 tvmoviespoilers.com
+0.0.0.0 nowiny24h.com
+0.0.0.0 travel2days.com
+0.0.0.0 hoanhxinh.com
+0.0.0.0 znicely.com
+0.0.0.0 auradelunadao.com
+0.0.0.0 embemy.com
+0.0.0.0 gymhay.com
+0.0.0.0 slovakpress.com

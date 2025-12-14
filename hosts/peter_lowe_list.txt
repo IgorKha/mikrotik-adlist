@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.26
-! Last modified: 2025-12-07T06:11:00.372Z
+! Version: 1.0.16.30
+! Last modified: 2025-12-14T06:11:20.284Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -183,6 +183,7 @@
 0.0.0.0 adcannyads.com
 0.0.0.0 adcash.com
 0.0.0.0 adcast.deviantart.com
+0.0.0.0 adcel.co
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.net
 0.0.0.0 adclick.com
@@ -361,7 +362,6 @@
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.boerding.com
 0.0.0.0 ads.boylesports.com
-0.0.0.0 ads.brabys.com
 0.0.0.0 ads.canalblog.com
 0.0.0.0 ads.casinocity.com
 0.0.0.0 ads.casumoaffiliates.com
@@ -704,7 +704,6 @@
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
-0.0.0.0 adsfeed.brabys.com
 0.0.0.0 adsflowprime.top
 0.0.0.0 adshrink.it
 0.0.0.0 adside.com
@@ -1073,6 +1072,7 @@
 0.0.0.0 big-bang-ads.com
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
+0.0.0.0 bigfishapparel.com
 0.0.0.0 bigreal.org
 0.0.0.0 bigworldfashion.com
 0.0.0.0 billboard.cz
@@ -1097,6 +1097,7 @@
 0.0.0.0 blueconic.net
 0.0.0.0 bluekai.com
 0.0.0.0 bluelithium.com
+0.0.0.0 bluenest.net
 0.0.0.0 bluewhaleweb.com
 0.0.0.0 blushingbeast.com
 0.0.0.0 blushingbread.com
@@ -1327,6 +1328,7 @@
 0.0.0.0 communications.melitaltd.com
 0.0.0.0 compactbanner.com
 0.0.0.0 comparereaction.com
+0.0.0.0 compilework.com
 0.0.0.0 comprabanner.it
 0.0.0.0 conditionchange.com
 0.0.0.0 conductrics.com
@@ -1441,7 +1443,6 @@
 0.0.0.0 deepintent.com
 0.0.0.0 delicatecascade.com
 0.0.0.0 deloo.de
-0.0.0.0 deloplen.com
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 deployads.com
@@ -1452,6 +1453,7 @@
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dewdroplagoon.com
 0.0.0.0 dianomi.com
+0.0.0.0 dicecandies.com
 0.0.0.0 didtheyreadit.com
 0.0.0.0 digestiondrawer.com
 0.0.0.0 digital-ads.s3.amazonaws.com
@@ -2188,7 +2190,6 @@
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.articulate.com
 0.0.0.0 metrics.cnn.com
-0.0.0.0 metrics.consumerreports.org
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
@@ -2207,7 +2208,6 @@
 0.0.0.0 minibilling.com
 0.0.0.0 mintegral.com
 0.0.0.0 mittencattle.com
-0.0.0.0 mix2ads.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mkto-ab410147.com
@@ -2458,7 +2458,6 @@
 0.0.0.0 peer39.com
 0.0.0.0 pennyweb.com
 0.0.0.0 pepperjamnetwork.com
-0.0.0.0 perceivequarter.com
 0.0.0.0 percentmobile.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfiliate.com

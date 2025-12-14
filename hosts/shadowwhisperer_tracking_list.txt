@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.7
-! Last modified: 2025-12-07T06:11:05.015Z
+! Version: 1.0.2.14
+! Last modified: 2025-12-14T06:11:25.216Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -4969,6 +4969,7 @@
 0.0.0.0 analytics-api.dvdfab.cn
 0.0.0.0 analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
 0.0.0.0 analytics-api.fishmax.sk
+0.0.0.0 analytics-api.gemcommerce.com
 0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 analytics-api.home-assistant.io
 0.0.0.0 analytics-api.inspirecleanenergy.com
@@ -8032,6 +8033,7 @@
 0.0.0.0 analytics.franziskadusch.de
 0.0.0.0 analytics.franziskakleeberg.de
 0.0.0.0 analytics.frappe.io
+0.0.0.0 analytics.frasermclean.com
 0.0.0.0 analytics.frauenbund-augsburg.de
 0.0.0.0 analytics.freaks-on-fire.de
 0.0.0.0 analytics.frechkatze.de
@@ -17302,7 +17304,6 @@
 0.0.0.0 at.astrojudge.com
 0.0.0.0 at.atozzenmart.com
 0.0.0.0 at.attualityofficial.com
-0.0.0.0 atatus.com
 0.0.0.0 at.bahn.com
 0.0.0.0 atbjh.getcasely.com
 0.0.0.0 at.cbsi.com
@@ -31862,6 +31863,7 @@
 0.0.0.0 forgetfulflowers.com
 0.0.0.0 forgetfulsnail.com
 0.0.0.0 forkmedia.in
+0.0.0.0 formalytics.dev
 0.0.0.0 formalyzer.com
 0.0.0.0 formanalytica.com
 0.0.0.0 form.creatable.com
@@ -37200,6 +37202,7 @@
 0.0.0.0 hockeystack.com
 0.0.0.0 hod.asphalte.com
 0.0.0.0 hodes.com
+0.0.0.0 hog.crowdin.com
 0.0.0.0 hoglundadvertisingandanalytics.com
 0.0.0.0 hoglundanalytics.com
 0.0.0.0 hokuspokus.tarnkappe.info
@@ -40576,7 +40579,6 @@
 0.0.0.0 lead-analytics.biz
 0.0.0.0 leadberry.com
 0.0.0.0 leadboxer.com
-0.0.0.0 leadconnectorhq.com
 0.0.0.0 leaddocket.com
 0.0.0.0 leaddyno.com
 0.0.0.0 leader.executiveforum.com
@@ -45007,7 +45009,6 @@
 0.0.0.0 lrwmjfmq.prioritystdtesting.com
 0.0.0.0 ls3mg2ez.com
 0.0.0.0 ls5b8h4tr.com
-0.0.0.0 ls.apple.com
 0.0.0.0 lsbsg.entertainmentearth.com
 0.0.0.0 lsc-digital-public-health.de
 0.0.0.0 lsc-diph.de
@@ -58908,7 +58909,6 @@
 0.0.0.0 mtrs.fluorconstructors.ca
 0.0.0.0 mtrs.fluorconstructors.com
 0.0.0.0 mtrs.virtainc.com
-0.0.0.0 mt-rv.map.fastly.net
 0.0.0.0 mt.schachermayer.at
 0.0.0.0 mt.schirmer-maschinen.com
 0.0.0.0 mts.muenchenticket.de
@@ -67012,6 +67012,7 @@
 0.0.0.0 pixel.viverdesemijoia.com
 0.0.0.0 pixel.vlnegociosonline.com
 0.0.0.0 pixel.watch
+0.0.0.0 pixel.web.roku.com
 0.0.0.0 pixel.wintododia.com.br
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.wp.pl
@@ -71859,6 +71860,7 @@
 0.0.0.0 s001.machinedesign.com
 0.0.0.0 s01counter.com
 0.0.0.0 s02.bestsecret.com
+0.0.0.0 s1325.t.eloqua.com
 0.0.0.0 s.17track.net
 0.0.0.0 s1.abcstatics.com
 0.0.0.0 s1.ecofino.nl
@@ -76660,6 +76662,7 @@
 0.0.0.0 serv.matchaao.com
 0.0.0.0 servmetric.com
 0.0.0.0 serv.oakwell.com
+0.0.0.0 servo-report.keepstreams.com
 0.0.0.0 servo-report.streamfab.com
 0.0.0.0 serv.paulacunha.com.br
 0.0.0.0 servpaulapro.paulacunha.com.br
@@ -102138,8 +102141,6 @@
 0.0.0.0 stripedburst.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 strivesquirrel.com
-0.0.0.0 strm.yandex.net
-0.0.0.0 strm.yandex.ru
 0.0.0.0 strokesystem.com
 0.0.0.0 str.ombre.pl
 0.0.0.0 strongautomotivetracking.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.39
-! Last modified: 2025-12-07T06:11:22.072Z
+! Version: 1.0.18.45
+! Last modified: 2025-12-14T06:11:42.933Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -58,6 +58,7 @@
 0.0.0.0 1x7.de
 0.0.0.0 2.je
 0.0.0.0 204.at
+0.0.0.0 20fr.com
 0.0.0.0 20m.com
 0.0.0.0 20m.us
 0.0.0.0 22web.org
@@ -976,6 +977,7 @@
 0.0.0.0 pktriot.net
 0.0.0.0 pl.de
 0.0.0.0 pl.gp
+0.0.0.0 pl-oferta-id2387942371.top
 0.0.0.0 planet.tl
 0.0.0.0 plesk.page
 0.0.0.0 pnsiayfas.net
@@ -999,6 +1001,7 @@
 0.0.0.0 pt.gp
 0.0.0.0 pt.kg
 0.0.0.0 q.gp
+0.0.0.0 q77.eu
 0.0.0.0 qipim.ru
 0.0.0.0 ql4h.net
 0.0.0.0 qu.am
@@ -1112,6 +1115,7 @@
 0.0.0.0 teenradio.shop
 0.0.0.0 tehno-politen.ru
 0.0.0.0 teleporthq.app
+0.0.0.0 telrock.org
 0.0.0.0 tempisite.com
 0.0.0.0 temporary.site
 0.0.0.0 temporary-demo.site
@@ -1208,6 +1212,7 @@
 0.0.0.0 wallst.ru
 0.0.0.0 wapka.club
 0.0.0.0 wapka.site
+0.0.0.0 wapka.store
 0.0.0.0 wapka.top
 0.0.0.0 wapka.website
 0.0.0.0 web.gg
@@ -1304,6 +1309,7 @@
 0.0.0.0 y.gp
 0.0.0.0 y0.pl
 0.0.0.0 y55.eu
+0.0.0.0 ygrrvlvvgf.top
 0.0.0.0 yi.org
 0.0.0.0 yj.ae
 0.0.0.0 yola.com
@@ -1321,6 +1327,7 @@
 0.0.0.0 zohosites.com
 0.0.0.0 zoomshare.com
 0.0.0.0 zustimmen.de
+0.0.0.0 zwphosting.com
 0.0.0.0 zx9.de
 0.0.0.0 zya.me
 0.0.0.0 zymic.com

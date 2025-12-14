@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.55
-! Last modified: 2025-12-07T06:11:04.527Z
+! Version: 1.0.17.57
+! Last modified: 2025-12-14T06:11:24.661Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 hostk.cfd
 0.0.0.0 dipperflightrecommend.com
@@ -579,6 +579,7 @@
 0.0.0.0 nylonnickel.xyz
 0.0.0.0 oamsedsaiph.net
 0.0.0.0 obtaintrout.com
+0.0.0.0 occasional-flow.com
 0.0.0.0 offergate-ecommerce-cdn5.com
 0.0.0.0 offergate-software11.com
 0.0.0.0 offergate-software20.com
@@ -666,7 +667,6 @@
 0.0.0.0 recesstransport.icu
 0.0.0.0 redaffil.com
 0.0.0.0 redirecting.online
-0.0.0.0 redirectingat.com
 0.0.0.0 reebr.com
 0.0.0.0 rel-s.com
 0.0.0.0 resentreaccotia.com
