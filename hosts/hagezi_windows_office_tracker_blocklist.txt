@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.78
-! Last modified: 2025-12-14T06:11:33.118Z
+! Version: 1.0.0.79
+! Last modified: 2025-12-21T06:12:09.553Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -217,7 +217,6 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.msn.com
-0.0.0.0 adsyndication.msn.com
 0.0.0.0 analytics.msn.com
 0.0.0.0 metric.appex-rf.msn.com
 0.0.0.0 c.ar.msn.com
@@ -340,6 +339,7 @@
 0.0.0.0 ppc-word-telemetry.wac.trafficmanager.net
 0.0.0.0 word-telemetry.wac.trafficmanager.net
 0.0.0.0 win-global-asimov-leafs-events-data.trafficmanager.net
+0.0.0.0 wttwebsiteprodapi-liveevents.trafficmanager.net
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 h4g3z1-native.winoffice.web.app
 0.0.0.0 activity.windows.com

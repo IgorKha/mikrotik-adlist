@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.20
-! Last modified: 2025-12-14T06:11:37.379Z
+! Version: 1.0.19.27
+! Last modified: 2025-12-21T06:12:14.944Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -26,6 +26,7 @@
 0.0.0.0 account.ws-reward.com
 0.0.0.0 adflowtube.com
 0.0.0.0 adidasko.com
+0.0.0.0 adminicesm.life
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 afiletoget.click
 0.0.0.0 air-up-turkiye.com
@@ -117,7 +118,6 @@
 0.0.0.0 bisertravel.com.mk
 0.0.0.0 bite-life.com
 0.0.0.0 bitsoft360.com
-0.0.0.0 bitsoft360.io
 0.0.0.0 bitsoft360.net
 0.0.0.0 black-sales.cloud
 0.0.0.0 blackabdo.company.site
@@ -185,7 +185,6 @@
 0.0.0.0 confira.io
 0.0.0.0 coolest3d.com
 0.0.0.0 coolestpod.com
-0.0.0.0 cooperation-odoo.com
 0.0.0.0 corg.co
 0.0.0.0 couponxoo.com
 0.0.0.0 courier-tracking.com
@@ -210,6 +209,7 @@
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
 0.0.0.0 ddzk513bd.com
+0.0.0.0 debridlink.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 dein-rundfunkbeitrag.de
@@ -263,7 +263,6 @@
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 ekommmedia.com
 0.0.0.0 ellezz.com
-0.0.0.0 elrifeno.com
 0.0.0.0 emberio.com
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 envisiongear.com
@@ -278,6 +277,7 @@
 0.0.0.0 eudshop.shop
 0.0.0.0 eventmusk-x.com
 0.0.0.0 eviralstore.com
+0.0.0.0 evisa-india-online.com
 0.0.0.0 evisa-indian.com
 0.0.0.0 evisa.express
 0.0.0.0 evisaindia.com
@@ -291,6 +291,7 @@
 0.0.0.0 facebook-google-vptyyny63pwfipshmm.vercel.app
 0.0.0.0 facebook-google-ygggvmvciad74v9lhi.vercel.app
 0.0.0.0 facebook-support-team-980.pages.med.br
+0.0.0.0 familybestgifts.com
 0.0.0.0 familygiftlove.myshopify.com
 0.0.0.0 familygiftville.com
 0.0.0.0 familystore.com
@@ -306,6 +307,7 @@
 0.0.0.0 faze8.com
 0.0.0.0 fazpowerdenet.tumblr.com
 0.0.0.0 fdrc-gov.org
+0.0.0.0 feevefouhe.net
 0.0.0.0 felara.com.do
 0.0.0.0 field-garnet-duckling.glitch.me
 0.0.0.0 filedenzu.com
@@ -343,7 +345,6 @@
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
-0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fullview.pl
 0.0.0.0 fundanemt.org
@@ -381,6 +382,7 @@
 0.0.0.0 glitchy.go2cloud.org
 0.0.0.0 gload.info
 0.0.0.0 globalvisacorp.com
+0.0.0.0 glousism.co.in
 0.0.0.0 goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -405,7 +407,6 @@
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
-0.0.0.0 hollisternorge.com
 0.0.0.0 hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 hotbignews.com
@@ -478,9 +479,7 @@
 0.0.0.0 karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
 0.0.0.0 keenfootwearsale.com
-0.0.0.0 kera99zx.com
 0.0.0.0 kesug.com
-0.0.0.0 kewal.shop
 0.0.0.0 kidsmama.online
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 kingcampoutdoors.co.jp
@@ -516,7 +515,6 @@
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 ligerking.com
 0.0.0.0 likenu.se
-0.0.0.0 lillly.shop
 0.0.0.0 linkshe.com
 0.0.0.0 linostee.com
 0.0.0.0 lisabuddy.com
@@ -526,7 +524,6 @@
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
-0.0.0.0 lskg.shop
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luxsgear.com
@@ -547,11 +544,11 @@
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
-0.0.0.0 missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 0.0.0.0 miucart.com
 0.0.0.0 moddetail.com
 0.0.0.0 modmobile24.com
 0.0.0.0 monkstars.com
+0.0.0.0 monpaquet9trackpobox.com
 0.0.0.0 mot73yi07.info
 0.0.0.0 movica.us
 0.0.0.0 ms-analytics.mywire.org
@@ -569,6 +566,7 @@
 0.0.0.0 myfunfarm.com
 0.0.0.0 myhandshops.myshopify.com
 0.0.0.0 mypuregaming.com
+0.0.0.0 mysuperdatingforyou.life
 0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
 0.0.0.0 natilove.com
@@ -631,7 +629,6 @@
 0.0.0.0 new.gdtot.me
 0.0.0.0 new2.gdtot.sbs
 0.0.0.0 newfootwearshop.com
-0.0.0.0 newgstore.com
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 newpipe.app
 0.0.0.0 nextmrolympia.com
@@ -700,6 +697,7 @@
 0.0.0.0 pambi.tech
 0.0.0.0 pandzee.com
 0.0.0.0 paquet1nfopabox.com
+0.0.0.0 paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
 0.0.0.0 peaveymartca.com
@@ -767,11 +765,11 @@
 0.0.0.0 rustdesk.io
 0.0.0.0 rustdesk.pl
 0.0.0.0 rustdesk.secure-box.de
+0.0.0.0 ruthiekresal.za.com
 0.0.0.0 sailiabot.com
 0.0.0.0 sakuradate.com
 0.0.0.0 sale-friday.cloud
 0.0.0.0 sale-friday.info
-0.0.0.0 sale-friday.live
 0.0.0.0 sale-friday.pro
 0.0.0.0 sale-friday.store
 0.0.0.0 salimusic.com
@@ -801,6 +799,7 @@
 0.0.0.0 shy-boat-90ce.jiko728928922.workers.dev
 0.0.0.0 sieuto.com
 0.0.0.0 sigmaoffers.com
+0.0.0.0 signals-group.com
 0.0.0.0 signpify.com
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
@@ -834,10 +833,6 @@
 0.0.0.0 stage3-last.live
 0.0.0.0 stage3-last.pro
 0.0.0.0 stage3-last.store
-0.0.0.0 stage3sale.online
-0.0.0.0 stage3sale2024.online
-0.0.0.0 stage3x.site
-0.0.0.0 stage3x.store
 0.0.0.0 staging.zendrop.com
 0.0.0.0 stallioncredit.com
 0.0.0.0 startuplatte.com
@@ -849,6 +844,7 @@
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 storagestory.com
 0.0.0.0 store-aleteia.org
+0.0.0.0 store-uni-app.com
 0.0.0.0 store25848025.company.site
 0.0.0.0 storeax.com
 0.0.0.0 storecollegeonline.com
@@ -926,6 +922,7 @@
 0.0.0.0 twitterr.com
 0.0.0.0 ucapsidop.info
 0.0.0.0 ucureo.com
+0.0.0.0 udemy-creators.com
 0.0.0.0 udrop.com
 0.0.0.0 uk-tweed-jackets.com
 0.0.0.0 ultimate-tech-products.myshopify.com
@@ -935,6 +932,8 @@
 0.0.0.0 um-bs.com
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
+0.0.0.0 uniswap-e.com
+0.0.0.0 uniswap-eth.com
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap.cool
 0.0.0.0 uniswap.host
@@ -1101,6 +1100,7 @@
 0.0.0.0 wpclick.cc
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
+0.0.0.0 base-vod.pl
 0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com
 0.0.0.0 xcartpro.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.18
-! Last modified: 2025-12-14T06:11:42.850Z
+! Version: 1.0.16.22
+! Last modified: 2025-12-21T06:12:20.377Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -41,7 +41,6 @@
 0.0.0.0 4twenty.us
 0.0.0.0 64-b.it
 0.0.0.0 6600.org
-0.0.0.0 688.org
 0.0.0.0 7766.org
 0.0.0.0 77qac.com
 0.0.0.0 77uam.com
@@ -706,6 +705,7 @@
 0.0.0.0 imprendum.com
 0.0.0.0 in-the-band.net
 0.0.0.0 independentonline.ro
+0.0.0.0 indevs.in
 0.0.0.0 inflict.us
 0.0.0.0 info.gf
 0.0.0.0 info.tm
@@ -1246,7 +1246,6 @@
 0.0.0.0 shacknet.nu
 0.0.0.0 shacknet.us
 0.0.0.0 shadir.com
-0.0.0.0 shaqnet.nu
 0.0.0.0 sharkltd.com
 0.0.0.0 sheatfish.org
 0.0.0.0 sheepindonesia.org
@@ -1306,7 +1305,6 @@
 0.0.0.0 stuff-4-sale.us
 0.0.0.0 stufftoread.com
 0.0.0.0 stughead.com
-0.0.0.0 stuns.org
 0.0.0.0 sumibi.org
 0.0.0.0 sundby.com
 0.0.0.0 surak.kz

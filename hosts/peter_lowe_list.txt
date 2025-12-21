@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.30
-! Last modified: 2025-12-14T06:11:20.284Z
+! Version: 1.0.16.33
+! Last modified: 2025-12-21T06:11:56.615Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -1354,6 +1354,7 @@
 0.0.0.0 convrse.media
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cootlogix.com
+0.0.0.0 copperstills.net
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coremetrics.com
@@ -1372,6 +1373,7 @@
 0.0.0.0 counter.snackly.co
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 coupling-media.de
+0.0.0.0 cowbelltime.com
 0.0.0.0 coxmt.com
 0.0.0.0 cozyhillside.com
 0.0.0.0 cpalead.com
@@ -1515,6 +1517,7 @@
 0.0.0.0 ecoupons.com
 0.0.0.0 edaa.eu
 0.0.0.0 edgexads.com
+0.0.0.0 eighthlayer.net
 0.0.0.0 eiv.baidu.com
 0.0.0.0 elasticchange.com
 0.0.0.0 elderlytown.com
@@ -1781,6 +1784,7 @@
 0.0.0.0 haplesshydrant.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
+0.0.0.0 hayweb.net
 0.0.0.0 hb.afl.rakuten.co.jp
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hbb.afl.rakuten.co.jp
@@ -1797,6 +1801,7 @@
 0.0.0.0 hf5rbejvpwds.com
 0.0.0.0 hfc195b.com
 0.0.0.0 hgads.com
+0.0.0.0 highnoongear.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 histats.com
@@ -1856,6 +1861,7 @@
 0.0.0.0 iadnet.com
 0.0.0.0 ibillboard.com
 0.0.0.0 icptrack.com
+0.0.0.0 icywinter.com
 0.0.0.0 id5-sync.com
 0.0.0.0 idealadvertising.net
 0.0.0.0 idevaffiliate.com
@@ -3387,6 +3393,7 @@
 0.0.0.0 whisperingcrib.com
 0.0.0.0 whisperingsummit.com
 0.0.0.0 whoisonline.net
+0.0.0.0 wholepagecache.com
 0.0.0.0 wickedreports.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widget.privy.com
