@@ -1,7 +1,15 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.57
-! Last modified: 2025-12-14T06:11:24.661Z
+! Version: 1.0.17.63
+! Last modified: 2025-12-21T06:12:00.860Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 grwdrkaqpxcna.website
+0.0.0.0 host2y.cfd
+0.0.0.0 host0y.cfd
+0.0.0.0 pushfilefind.click
+0.0.0.0 dropfastpath.click
+0.0.0.0 rapidlinkhub.click
+0.0.0.0 cdertf.cfd
+0.0.0.0 galiysana.vip
 0.0.0.0 hostk.cfd
 0.0.0.0 dipperflightrecommend.com
 0.0.0.0 stinafulltiukmep.org
@@ -298,6 +306,7 @@
 0.0.0.0 choogeet.net
 0.0.0.0 choosingoffer.lol
 0.0.0.0 chpadblock.com
+0.0.0.0 ciencia.ao
 0.0.0.0 clearwatch.tv
 0.0.0.0 click-for-preview.com
 0.0.0.0 clickblitzo.com
@@ -486,6 +495,7 @@
 0.0.0.0 land.pixelsee.app
 0.0.0.0 landerhq.com
 0.0.0.0 leadgainz.com
+0.0.0.0 leakvideos.live
 0.0.0.0 lehemhavita.club
 0.0.0.0 leoyard.com
 0.0.0.0 lindychat.com
@@ -686,6 +696,7 @@
 0.0.0.0 roobetaffiliates.com
 0.0.0.0 roots.baby
 0.0.0.0 roundflow.net
+0.0.0.0 roupitpompier.cfd
 0.0.0.0 routes.name
 0.0.0.0 rovno.xyz
 0.0.0.0 rtbbhub.com
@@ -744,6 +755,7 @@
 0.0.0.0 stikroltiltoowi.net
 0.0.0.0 streamereasy.click
 0.0.0.0 strtgic.com
+0.0.0.0 stsbih.com.ba
 0.0.0.0 superfasti.co
 0.0.0.0 suptraf.com
 0.0.0.0 sxlflt.com
@@ -819,6 +831,7 @@
 0.0.0.0 vinstigo.com
 0.0.0.0 violationphysics.click
 0.0.0.0 viralnewsbd.xyz
+0.0.0.0 viralvideoclip.info
 0.0.0.0 virelon.com
 0.0.0.0 visitarkqr.click
 0.0.0.0 visualmirage.co
@@ -967,6 +980,7 @@
 0.0.0.0 get-partner.life
 0.0.0.0 girls.xyz
 0.0.0.0 global-trk.com
+0.0.0.0 go.nsfwlivechat.com
 0.0.0.0 grtyv.com
 0.0.0.0 hkl4h1trk.com
 0.0.0.0 hpyrdr.com
@@ -1039,7 +1053,6 @@
 0.0.0.0 tubecontext.com
 0.0.0.0 sharemefiles.ru
 0.0.0.0 partners.parimatch.net
-0.0.0.0 1clic1don.fr
 0.0.0.0 2date.club
 0.0.0.0 5movies.live
 0.0.0.0 741.net
@@ -1055,12 +1068,15 @@
 0.0.0.0 ahlefind.com
 0.0.0.0 aimportfoliosquid.com
 0.0.0.0 airartapt.site
+0.0.0.0 ajrkm3.com
 0.0.0.0 allsports4free.club
 0.0.0.0 allsports4free.live
 0.0.0.0 allure-ng.net
 0.0.0.0 amazing-dates.com
 0.0.0.0 angrilyanimatorcuddle.com
+0.0.0.0 antfa.link
 0.0.0.0 antivirusfit.co
+0.0.0.0 antj.link
 0.0.0.0 aozoiekopoaka.shop
 0.0.0.0 appendixwarmingauthors.com
 0.0.0.0 areantaid.site
@@ -1176,6 +1192,7 @@
 0.0.0.0 searchdimension.com
 0.0.0.0 shebaasot.com
 0.0.0.0 slabshookwasted.com
+0.0.0.0 slext2.com
 0.0.0.0 smapp.work
 0.0.0.0 sokrostream.tv
 0.0.0.0 sportstreams.xyz

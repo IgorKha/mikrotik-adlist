@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.62
-! Last modified: 2025-12-14T06:11:24.580Z
+! Version: 1.0.15.63
+! Last modified: 2025-12-21T06:12:00.775Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -319,7 +319,6 @@
 0.0.0.0 de.tynt.com
 0.0.0.0 diagnosis.ad.xiaomi.com
 0.0.0.0 dig.bdurl.net
-0.0.0.0 dl.zuimeitianqi.com
 0.0.0.0 dlogs.bwton.com
 0.0.0.0 dm.toutiao.com
 0.0.0.0 domain.aishengji.com
@@ -339,8 +338,6 @@
 0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 engine.dcad01.com
 0.0.0.0 entry.baidu.com
-0.0.0.0 errlog.umeng.com
-0.0.0.0 errnewlog.umeng.com
 0.0.0.0 et-eus.w.inmobi.com
 0.0.0.0 event.tradplusad.com
 0.0.0.0 events-drcn.op.dbankcloud.cn
@@ -626,7 +623,6 @@
 0.0.0.0 s8t.teads.tv
 0.0.0.0 saad.ms.zhangyue.net
 0.0.0.0 saas.hpplay.cn
-0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 safebrowsing.urlsec.gg.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsungads.com
@@ -688,6 +684,7 @@
 0.0.0.0 supply.inmobicdn.net
 0.0.0.0 sv-video.play.aiseet.atianqi.com
 0.0.0.0 syh-imp.cdnjtzy.com
+0.0.0.0 syh.zybang.com
 0.0.0.0 szbdyd.com
 0.0.0.0 t-dsp.pinduoduo.com
 0.0.0.0 t.l.qq.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.45
-! Last modified: 2025-12-14T06:11:42.933Z
+! Version: 1.0.18.53
+! Last modified: 2025-12-21T06:12:20.463Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -386,7 +386,6 @@
 0.0.0.0 co.nu
 0.0.0.0 24.co.at
 0.0.0.0 all.co.uk
-0.0.0.0 atspace.co.uk
 0.0.0.0 blog.co.uk
 0.0.0.0 blogspot.co.at
 0.0.0.0 blogspot.co.id
@@ -664,7 +663,6 @@
 0.0.0.0 gratis.lc
 0.0.0.0 great-site.net
 0.0.0.0 greatnow.com
-0.0.0.0 greecemar.shop
 0.0.0.0 grwebsite.com
 0.0.0.0 gtempurl.com
 0.0.0.0 guest.de
@@ -681,7 +679,6 @@
 0.0.0.0 helioho.st
 0.0.0.0 heliohost.us
 0.0.0.0 hexe.in
-0.0.0.0 highclassacademia.com
 0.0.0.0 hilfe24h.de
 0.0.0.0 hinerava.com
 0.0.0.0 hkearth.xyz
@@ -841,7 +838,6 @@
 0.0.0.0 maddsites.com
 0.0.0.0 mail.ht
 0.0.0.0 majesticbank.de
-0.0.0.0 malltree.shop
 0.0.0.0 maminforum.com
 0.0.0.0 manfeature.club
 0.0.0.0 mapsweight.shop
@@ -866,6 +862,7 @@
 0.0.0.0 moneyash.top
 0.0.0.0 moneylower.top
 0.0.0.0 mp3.cr
+0.0.0.0 mpeblog.com
 0.0.0.0 muf.mobi
 0.0.0.0 musik.cx
 0.0.0.0 musik.lc
@@ -919,13 +916,11 @@
 0.0.0.0 now.lc
 0.0.0.0 npx.de
 0.0.0.0 nut.cc
-0.0.0.0 nyccenter.shop
 0.0.0.0 o.gp
 0.0.0.0 o-f.com
 0.0.0.0 of-love.de
 0.0.0.0 officialcity.shop
 0.0.0.0 officialsitebuilder.com
-0.0.0.0 okdfhb.art
 0.0.0.0 okis.ru
 0.0.0.0 okistore.shop
 0.0.0.0 omas.in
@@ -1014,7 +1009,6 @@
 0.0.0.0 reco.ws
 0.0.0.0 regruhosting.ru
 0.0.0.0 rentvalues.biz
-0.0.0.0 rentweek.shop
 0.0.0.0 rf.gd
 0.0.0.0 ro.gp
 0.0.0.0 romesuper.shop
@@ -1115,7 +1109,6 @@
 0.0.0.0 teenradio.shop
 0.0.0.0 tehno-politen.ru
 0.0.0.0 teleporthq.app
-0.0.0.0 telrock.org
 0.0.0.0 tempisite.com
 0.0.0.0 temporary.site
 0.0.0.0 temporary-demo.site

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.14
-! Last modified: 2025-12-14T06:11:25.216Z
+! Version: 1.0.2.18
+! Last modified: 2025-12-21T06:12:01.406Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -8555,6 +8555,7 @@
 0.0.0.0 analytics.handsoffhosting.net
 0.0.0.0 analytics.handsoffsalestax.com
 0.0.0.0 analytics.hanlee.co
+0.0.0.0 analytics.hannaandersson.com
 0.0.0.0 analytics.hannes-volk.de
 0.0.0.0 analytics.hanoky.com
 0.0.0.0 analytics.hanseaticsoft.com
@@ -14644,6 +14645,7 @@
 0.0.0.0 analytics.unlock.sh
 0.0.0.0 analytics.unmad.in
 0.0.0.0 analytics.unsolvedhunts.com
+0.0.0.0 analytics.unstable.life
 0.0.0.0 analytics.untap.in
 0.0.0.0 analytics.unterhaltungsbox.com
 0.0.0.0 analytics.unterholzer.dev
@@ -16042,6 +16044,7 @@
 0.0.0.0 api.blog.zonaforte.com
 0.0.0.0 api.blog.zuremod.com
 0.0.0.0 api.boobluk.com
+0.0.0.0 api.boomtrain.com
 0.0.0.0 api.botafogofrsocialolimpico.com.br
 0.0.0.0 api.boutiquedanath.com.br
 0.0.0.0 api.br.ae.com
@@ -18654,7 +18657,6 @@
 0.0.0.0 blue.conchovalleyhomepage.com
 0.0.0.0 blueconic.com
 0.0.0.0 blueconic.net
-0.0.0.0 bluecore.com
 0.0.0.0 blue.counton2.com
 0.0.0.0 blue.cw33.com
 0.0.0.0 blue.cw39.com
@@ -18874,7 +18876,6 @@
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 boomerang.dell.com
 0.0.0.0 boom.laravel.io
-0.0.0.0 boomtrain.com
 0.0.0.0 boost-analytics.com
 0.0.0.0 boost.beyondalpha.co
 0.0.0.0 boostbox.com.br
@@ -20119,6 +20120,7 @@
 0.0.0.0 cdcfg.jasmineandmarigold.com
 0.0.0.0 cdcgtm.webuildgood.com
 0.0.0.0 cddjj.kachava.com
+0.0.0.0 c.deadlinefunnel.com
 0.0.0.0 c.de.msn.com
 0.0.0.0 cdi.liqid.com
 0.0.0.0 c.disneystore.com
@@ -23951,7 +23953,6 @@
 0.0.0.0 customerinsight.co.kr
 0.0.0.0 customerinsights.ai
 0.0.0.0 customer.io
-0.0.0.0 customeriomail.com
 0.0.0.0 customerlabs.co
 0.0.0.0 customerlabs.com
 0.0.0.0 customer.newsflare.com
@@ -28090,7 +28091,6 @@
 0.0.0.0 detectdiscovery.com
 0.0.0.0 detection-api.next-90.com
 0.0.0.0 detect.ipipgo.com
-0.0.0.0 detik.net.id
 0.0.0.0 det-ta-g7g.amazon.com
 0.0.0.0 dev1.gearjunkie.com
 0.0.0.0 dev.amerikanu.nl
@@ -59242,7 +59242,6 @@
 0.0.0.0 narratiive.com
 0.0.0.0 narrative.io
 0.0.0.0 narrativeresearch.ca
-0.0.0.0 narvar.com
 0.0.0.0 narwhal.bounty.studio
 0.0.0.0 narwhal.quickbudget.xyz
 0.0.0.0 na.shgcdn3.com
@@ -69288,7 +69287,6 @@
 0.0.0.0 px.0o0o.io
 0.0.0.0 px75-2-redsender.top
 0.0.0.0 p.xandar.org
-0.0.0.0 px-cdn.net
 0.0.0.0 pxchk.net
 0.0.0.0 px-cloud.net
 0.0.0.0 px.com
@@ -70060,6 +70058,7 @@
 0.0.0.0 realizevacation.com
 0.0.0.0 really.fi
 0.0.0.0 reallyfreegeoip.org
+0.0.0.0 realmagnet.land
 0.0.0.0 realproof.io
 0.0.0.0 realstats.dhgate.com
 0.0.0.0 real-time-analytics.com
@@ -70808,7 +70807,6 @@
 0.0.0.0 richinfo.co
 0.0.0.0 richmetrics.com
 0.0.0.0 richreceipt.com
-0.0.0.0 richrelevance.com
 0.0.0.0 richstring.com
 0.0.0.0 ric.riedel-immobilien.de
 0.0.0.0 ric.seeleben-starnbergersee.de
@@ -79322,6 +79320,7 @@
 0.0.0.0 sigma.cases.gg
 0.0.0.0 sigma.silverday.de
 0.0.0.0 signal-ai.com
+0.0.0.0 signalfx.com
 0.0.0.0 signalmedia.co
 0.0.0.0 signal-r-hub-bg.advisorengine.com
 0.0.0.0 signal-r-hub-blue.advisorengine.com
@@ -84753,11 +84752,6 @@
 0.0.0.0 split.io
 0.0.0.0 splk.it
 0.0.0.0 splkmobile.com
-0.0.0.0 splunkcloud.com
-0.0.0.0 splunk.com
-0.0.0.0 splunk.com.ag
-0.0.0.0 splunk.net.bz
-0.0.0.0 splunk.nom.es
 0.0.0.0 sp.maennerseite.net
 0.0.0.0 sp.malwarebytes.com
 0.0.0.0 sp.maxi.ca
@@ -104272,6 +104266,7 @@
 0.0.0.0 telemetry.svc.halowaypoint.com
 0.0.0.0 telemetry.svc.transifex.net
 0.0.0.0 telemetry.swe.quicinc.com
+0.0.0.0 telemetry.timescale.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telemetry.us-ashburn-1.oci.oraclecloud.com
 0.0.0.0 telemetryverification.net
@@ -109543,6 +109538,7 @@
 0.0.0.0 verify.philippineairlines.com
 0.0.0.0 verifyvegetable.com
 0.0.0.0 verikai.com
+0.0.0.0 verint-cdn.com
 0.0.0.0 verint.com
 0.0.0.0 verisk.com
 0.0.0.0 verisk.co.uk
