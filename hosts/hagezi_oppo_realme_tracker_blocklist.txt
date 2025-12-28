@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
 ! Version: 1.0.0.8
-! Last modified: 2025-12-21T06:12:09.712Z
+! Last modified: 2025-12-28T06:12:20.431Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com

@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.81
-! Last modified: 2025-12-21T06:12:11.305Z
+! Version: 1.0.16.83
+! Last modified: 2025-12-28T06:12:21.090Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.81
+! Version: 1.0.16.83
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-12-16T10:09:39.183Z
+! Last modified: 2025-12-25T17:07:32.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9606,6 +9606,7 @@
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
+0.0.0.0 aepxlg.adobe.com
 0.0.0.0 campaign.adobe.com
 0.0.0.0 geo.adobe.com
 0.0.0.0 sstats.adobe.com
@@ -11139,6 +11140,8 @@
 0.0.0.0 gx-target-experiments-frontend-api.gx.nvidia.com
 0.0.0.0 prod.otel.kaizen.nvidia.com
 0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 promo.psvgamestudio.com
+0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -14893,6 +14896,7 @@
 0.0.0.0 cutescale.online
 0.0.0.0 cuxdiqagcl.com
 0.0.0.0 cvvczlcg.com
+0.0.0.0 cwoamjkma.com
 0.0.0.0 cwqljsecvr.com
 0.0.0.0 cyberbounty.com
 0.0.0.0 cycledaction.com
@@ -15307,6 +15311,7 @@
 0.0.0.0 evergage.com
 0.0.0.0 evzhzppj5kel.com
 0.0.0.0 eweconciliate.com
+0.0.0.0 ewerlgufrpkg.com
 0.0.0.0 ewhareey.com
 0.0.0.0 ewpucbact.com
 0.0.0.0 exactag.com
@@ -15725,6 +15730,7 @@
 0.0.0.0 hazeabrasiverule.com
 0.0.0.0 hb.minutemedia-prebid.com
 0.0.0.0 hb.openwebmp.com
+0.0.0.0 hbntxrwmvf.com
 0.0.0.0 hbwncbwgyvgt.com
 0.0.0.0 hccaxtxfq.com
 0.0.0.0 hcetcuwit.com
@@ -16166,6 +16172,7 @@
 0.0.0.0 knorex.com
 0.0.0.0 knurleddeblock.guru
 0.0.0.0 knxabzznddtc.com
+0.0.0.0 koacocoosy.com
 0.0.0.0 kogutcho.net
 0.0.0.0 koindut.com
 0.0.0.0 kolkwi4tzicraamabilis.com
@@ -16509,6 +16516,7 @@
 0.0.0.0 mg2connext.com
 0.0.0.0 mgbid.net
 0.0.0.0 mgepuynxttyi.com
+0.0.0.0 mgpsxcge.com
 0.0.0.0 mgyccfrshz.com
 0.0.0.0 mhavfytafo.com
 0.0.0.0 mhelfiricbwa.com
@@ -16668,6 +16676,7 @@
 0.0.0.0 nan46ysangt28eec.com
 0.0.0.0 nangalupeose.com
 0.0.0.0 nappyattack.com
+0.0.0.0 nasadfgzaq.com
 0.0.0.0 nastedsuglu.com
 0.0.0.0 nastinessreplicaupload.com
 0.0.0.0 nastydollars.com
@@ -17015,6 +17024,7 @@
 0.0.0.0 ovrcuncunxp.com
 0.0.0.0 ovxhhurafpi.com
 0.0.0.0 owebmoney.ru
+0.0.0.0 owjaqdywlviyfe.com
 0.0.0.0 owjwhuaklf.com
 0.0.0.0 owlqahovgog.com
 0.0.0.0 owlsr.us
@@ -17344,7 +17354,6 @@
 0.0.0.0 psootchu.net
 0.0.0.0 psoroumukr.com
 0.0.0.0 psstt.com
-0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 ptaixout.net
 0.0.0.0 ptakeemsaifegro.net
 0.0.0.0 ptauxofi.net
@@ -17959,6 +17968,7 @@
 0.0.0.0 son-in-lawmorbid.com
 0.0.0.0 songbagoozes.com
 0.0.0.0 songdew.pushengage.com
+0.0.0.0 sonyzetuxx.com
 0.0.0.0 soodejeego.net
 0.0.0.0 sordimtaulee.com
 0.0.0.0 sorrowfultrouble.com
@@ -19037,6 +19047,7 @@
 0.0.0.0 yseyxucrhjfi.com
 0.0.0.0 ytimm.com
 0.0.0.0 ytjnpxiiqsblwb.com
+0.0.0.0 ytxwdnnlubenlm.com
 0.0.0.0 yu225.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com

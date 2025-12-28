@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
 ! Version: 1.0.14.62
-! Last modified: 2025-12-21T06:12:07.809Z
+! Last modified: 2025-12-28T06:12:18.286Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 potisni.me
 0.0.0.0 allownotification.com

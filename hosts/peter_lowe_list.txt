@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.33
-! Last modified: 2025-12-21T06:11:56.615Z
+! Version: 1.0.16.36
+! Last modified: 2025-12-28T06:12:06.775Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -463,7 +463,6 @@
 0.0.0.0 ads.liberte.pl
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.livenation.com
-0.0.0.0 ads.lordlucky.com
 0.0.0.0 ads.ma7.tv
 0.0.0.0 ads.mail.bg
 0.0.0.0 ads.massinfra.nl
@@ -711,7 +710,6 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adsklick.de
-0.0.0.0 adskpak.com
 0.0.0.0 adsmart.net
 0.0.0.0 adsmartracker.com
 0.0.0.0 adsmetadata.startappservice.com
@@ -848,7 +846,6 @@
 0.0.0.0 aliasanvil.com
 0.0.0.0 alikeaddition.com
 0.0.0.0 alipromo.com
-0.0.0.0 all4spy.com
 0.0.0.0 alluringbucket.com
 0.0.0.0 aloofmetal.com
 0.0.0.0 aloofvest.com
@@ -898,6 +895,7 @@
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anstrex.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 api.affiliations.site
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.appmetrica.yandex.ru
 0.0.0.0 api.eu.amplitude.com
@@ -1248,6 +1246,7 @@
 0.0.0.0 click.infoblox.com
 0.0.0.0 click.justwatch.com
 0.0.0.0 click.kmindex.ru
+0.0.0.0 click.liftoff.io
 0.0.0.0 click.mail.hotels.com
 0.0.0.0 click.mail.salesforce.com
 0.0.0.0 click.mailing.ticketmaster.com
@@ -1323,7 +1322,6 @@
 0.0.0.0 colonize.com
 0.0.0.0 colorfulpet.com
 0.0.0.0 comfortablecheese.com
-0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 communications.melitaltd.com
 0.0.0.0 compactbanner.com
@@ -3103,6 +3101,7 @@
 0.0.0.0 the-ozone-project.com
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
+0.0.0.0 theadsparks.com
 0.0.0.0 thebugs.ws
 0.0.0.0 thecrazychili.com
 0.0.0.0 themangotea.com

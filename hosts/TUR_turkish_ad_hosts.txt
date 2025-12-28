@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.69
-! Last modified: 2025-12-21T06:12:13.689Z
+! Version: 1.0.14.70
+! Last modified: 2025-12-28T06:12:23.681Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -11,6 +11,7 @@
 0.0.0.0 1dfb4z-launches.appsflyersdk.com
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
+0.0.0.0 3swu.adj.st
 0.0.0.0 4c4cc75a16ed.cdn4.forter.com
 0.0.0.0 510002161.collect.igodigital.com
 0.0.0.0 536001645.collect.igodigital.com
@@ -20,6 +21,7 @@
 0.0.0.0 74b967be3a.68069795d1.com
 0.0.0.0 77b0619134.fc29334d79.com
 0.0.0.0 7fb6f12dd2.17dc91dc49.com
+0.0.0.0 7t4g.adj.st
 0.0.0.0 85otw.voluumtrk3.com
 0.0.0.0 8881img.com
 0.0.0.0 9to5mac-com.videoplayerhub.com
@@ -73,6 +75,7 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acdn.adnxs-simple.com
 0.0.0.0 acint.net
+0.0.0.0 acjs.aliyun.com
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad.360yield-basic.com
 0.0.0.0 ad.a-ads.com
@@ -92,8 +95,8 @@
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 addata.exxen.com
 0.0.0.0 addresseepaper.com
-0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ade.clmbtech.com
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adform.net
 0.0.0.0 adfox.yandex.ru
@@ -131,6 +134,7 @@
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.servenobid.com
+0.0.0.0 ads.snapchat.com
 0.0.0.0 ads.sportslocalmedia.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.tiktok.com
@@ -142,6 +146,7 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-api.x.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-resources.waze.com
@@ -277,6 +282,7 @@
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.nopbreak.ru
+0.0.0.0 api.permutive.com
 0.0.0.0 api.personaclick.com
 0.0.0.0 api.perzonalization.com
 0.0.0.0 api.protonaosp.kdrag0n.dev
@@ -365,6 +371,7 @@
 0.0.0.0 banner.tmgrup.com.tr
 0.0.0.0 bat.bing.com
 0.0.0.0 bats.video.yahoo.com
+0.0.0.0 bbc.gscontxt.net
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 beacon.krxd.net
@@ -489,6 +496,7 @@
 0.0.0.0 cdn.intergi.com
 0.0.0.0 cdn.intergient.com
 0.0.0.0 cdn.izooto.com
+0.0.0.0 cdn.kmalgo.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.lr-in.com
 0.0.0.0 cdn.lr-in-prod.com
@@ -542,6 +550,7 @@
 0.0.0.0 cdn.tagdeliver.com
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.thequin.ai
+0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.trafficdok.com
 0.0.0.0 cdn.twinrdsyn.com
@@ -556,6 +565,7 @@
 0.0.0.0 cdn.yourwebbars.com
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn-au.onetrust.com
+0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 cdn-header-bidding.snack-media.com
 0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 cdn-native.pigeoon.com
@@ -639,6 +649,7 @@
 0.0.0.0 connect-dre.dbankcloud.cn
 0.0.0.0 connect-dre.hispace.hicloud.com
 0.0.0.0 consent.cookiebot.com
+0.0.0.0 consent.trustarc.com
 0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 consentlog.cookieyes.com
 0.0.0.0 content.mql5.com
@@ -813,6 +824,7 @@
 0.0.0.0 etl-xlmc-ssl.sandai.net
 0.0.0.0 eturkcell.netmera.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 euc1-turn.fpjs.io
 0.0.0.0 eum.instana.io
 0.0.0.0 eum.ing.com.tr
 0.0.0.0 eum.kuveytturk.com.tr
@@ -881,6 +893,7 @@
 0.0.0.0 game.starswalker.site
 0.0.0.0 game2.betgames.tv
 0.0.0.0 gamescdnfor.com
+0.0.0.0 gator.volces.com
 0.0.0.0 gc.zgo.at
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gemini.yahoo.com
@@ -1257,6 +1270,7 @@
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 notix.io
+0.0.0.0 nquw.adj.st
 0.0.0.0 ntm.netmera-web.com
 0.0.0.0 ntvpforever.com
 0.0.0.0 nvidiacorp.us-5.evergage.com
@@ -1297,6 +1311,7 @@
 0.0.0.0 p.imgur.com
 0.0.0.0 p.typekit.net
 0.0.0.0 p-analytics.life
+0.0.0.0 p8zh.adj.st
 0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 pad-v3.presage.io
 0.0.0.0 pagead2.googlesyndication.com
@@ -1364,6 +1379,7 @@
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 prebid.adnxs.com
+0.0.0.0 prebit.the-ozone-project.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 predataclient.b-cdn.net
 0.0.0.0 prg.smartadserver.com
@@ -1382,6 +1398,7 @@
 0.0.0.0 pt.ctsdwm.com
 0.0.0.0 pub.doubleverify.com
 0.0.0.0 pub-sdk-cfg.criteo.com
+0.0.0.0 public.profitwell.com
 0.0.0.0 public.servenobid.com
 0.0.0.0 publisher.caroda.io
 0.0.0.0 publisher-assets.spot.im
@@ -1410,6 +1427,7 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 rauvoaty.net
 0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 rdrctgoweb.com
 0.0.0.0 rebrand.ly
 0.0.0.0 recommender.scarabresearch.com
@@ -1608,6 +1626,7 @@
 0.0.0.0 snap.licdn.com
 0.0.0.0 snigelweb-com.videoplayerhub.com
 0.0.0.0 snippet.affilimate.io
+0.0.0.0 snssdk1340.onelink.me
 0.0.0.0 socket.streamable.com
 0.0.0.0 sommelier.futurehybrid.tech
 0.0.0.0 sonar.semantiqo.com
@@ -1636,6 +1655,7 @@
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 st.hbrd.io
 0.0.0.0 st.top100.ru
+0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 st-n.ads2-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
@@ -1786,6 +1806,7 @@
 0.0.0.0 tibacta.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tme.112.2o7.net
+0.0.0.0 tms.oracle.com
 0.0.0.0 tnc16-alisg.byteoversea.com
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-useast1a.byteoversea.com
@@ -1956,6 +1977,7 @@
 0.0.0.0 ws.sahibinden.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 ws-na.amazon-adsystem.com
+0.0.0.0 wsknow.net
 0.0.0.0 wurfl.io
 0.0.0.0 wuzbhjpvsf.com
 0.0.0.0 ww1.image.us
