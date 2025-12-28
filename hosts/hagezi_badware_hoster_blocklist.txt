@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.53
-! Last modified: 2025-12-21T06:12:20.463Z
+! Version: 1.0.18.57
+! Last modified: 2025-12-28T06:12:30.770Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -308,7 +308,6 @@
 0.0.0.0 bravepages.com
 0.0.0.0 bravesites.com
 0.0.0.0 brizy.site
-0.0.0.0 bugs3.com
 0.0.0.0 builderall.net
 0.0.0.0 builtfree.org
 0.0.0.0 business.site
@@ -347,7 +346,6 @@
 0.0.0.0 canalblog.com
 0.0.0.0 canva.site
 0.0.0.0 carrd.co
-0.0.0.0 case-id-100029850.com
 0.0.0.0 cba.pl
 0.0.0.0 cbkgardens.com
 0.0.0.0 cellnovis.com
@@ -398,7 +396,6 @@
 0.0.0.0 thamboli.co.za
 0.0.0.0 ucoz.co.uk
 0.0.0.0 webnode.co.uk
-0.0.0.0 codm-free.com
 0.0.0.0 com.nu
 0.0.0.0 adr.com.ua
 0.0.0.0 blogspot.com.ar
@@ -670,7 +667,6 @@
 0.0.0.0 guzhibo.cn
 0.0.0.0 gymsharkitaliaofficial.it
 0.0.0.0 h.gp
-0.0.0.0 halloweencp.com
 0.0.0.0 hanefra7bikiemta.com
 0.0.0.0 harise.shop
 0.0.0.0 hase.in
@@ -1118,7 +1114,6 @@
 0.0.0.0 tggame.xyz
 0.0.0.0 th.gp
 0.0.0.0 thisistap.com
-0.0.0.0 ticketxking.com
 0.0.0.0 tiiny.host
 0.0.0.0 tilda.ws
 0.0.0.0 timeforchangecounselling.com
@@ -1208,6 +1203,7 @@
 0.0.0.0 wapka.store
 0.0.0.0 wapka.top
 0.0.0.0 wapka.website
+0.0.0.0 wapka.xyz
 0.0.0.0 web.gg
 0.0.0.0 web.pe
 0.0.0.0 h4g3z1-hoster.web.app

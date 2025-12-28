@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.63
-! Last modified: 2025-12-21T06:12:00.860Z
+! Version: 1.0.17.65
+! Last modified: 2025-12-28T06:12:11.149Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 motorshook.com
+0.0.0.0 viidedss.com
 0.0.0.0 grwdrkaqpxcna.website
 0.0.0.0 host2y.cfd
 0.0.0.0 host0y.cfd
@@ -177,11 +179,13 @@
 0.0.0.0 0i0i0i0.com
 0.0.0.0 123-stream.org
 0.0.0.0 1asb.com
+0.0.0.0 30dcf.com
 0.0.0.0 367p.com
 0.0.0.0 3ckz.com
 0.0.0.0 3vetz.com
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
+0.0.0.0 6by30.com
 0.0.0.0 7flies12.de
 0.0.0.0 8jfbt5va3r.com
 0.0.0.0 905trk.com
@@ -439,6 +443,7 @@
 0.0.0.0 graitsie.com
 0.0.0.0 grfpr.com
 0.0.0.0 gtbdhr.com
+0.0.0.0 gys5.com
 0.0.0.0 hagech.com
 0.0.0.0 harmo-woe.com
 0.0.0.0 haveameet.com
@@ -455,6 +460,7 @@
 0.0.0.0 hoktrips.com
 0.0.0.0 holdhostel.space
 0.0.0.0 hooligs.app
+0.0.0.0 hooliredir.com
 0.0.0.0 horonstogly.com
 0.0.0.0 hoveltran.xyz
 0.0.0.0 hubrisone.com
@@ -543,6 +549,7 @@
 0.0.0.0 menews.org
 0.0.0.0 metabatted.com
 0.0.0.0 metatrckpixel.com
+0.0.0.0 mettend-hamous.xyz
 0.0.0.0 mgid.com
 0.0.0.0 mirfakpersei.top
 0.0.0.0 mistysteel.co
@@ -669,6 +676,7 @@
 0.0.0.0 qualiclicks.com
 0.0.0.0 quixoticzest.com
 0.0.0.0 qwikln.com
+0.0.0.0 r8bz.com
 0.0.0.0 racunn.com
 0.0.0.0 rbtfit.com
 0.0.0.0 rcdn-web.com
@@ -873,6 +881,7 @@
 0.0.0.0 yoursecurity-suggestion.com
 0.0.0.0 zarosnap.com
 0.0.0.0 zavirand.com
+0.0.0.0 zk1w.com
 0.0.0.0 zrlqm.com
 0.0.0.0 00771944.xyz
 0.0.0.0 00857731.xyz

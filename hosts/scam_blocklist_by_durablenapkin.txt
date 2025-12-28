@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.27
-! Last modified: 2025-12-21T06:12:14.944Z
+! Version: 1.0.19.33
+! Last modified: 2025-12-28T06:12:24.949Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -32,7 +32,6 @@
 0.0.0.0 air-up-turkiye.com
 0.0.0.0 airteltower.com
 0.0.0.0 airtoff.com
-0.0.0.0 airup-it.shop
 0.0.0.0 airup-nederland.com
 0.0.0.0 airup-romania.com
 0.0.0.0 airupbulgaria.com
@@ -52,9 +51,7 @@
 0.0.0.0 alphatowercompany.in
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
-0.0.0.0 am-freights.com
 0.0.0.0 amorpulse.com
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 app-uniswapping.org
 0.0.0.0 appdrive.info
@@ -118,6 +115,7 @@
 0.0.0.0 bisertravel.com.mk
 0.0.0.0 bite-life.com
 0.0.0.0 bitsoft360.com
+0.0.0.0 bitsoft360.io
 0.0.0.0 bitsoft360.net
 0.0.0.0 black-sales.cloud
 0.0.0.0 blackabdo.company.site
@@ -137,6 +135,7 @@
 0.0.0.0 btc9339.com
 0.0.0.0 buddhakind.com
 0.0.0.0 budm.shop
+0.0.0.0 buydubuy.com
 0.0.0.0 buylikes.se
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
@@ -202,10 +201,10 @@
 0.0.0.0 czwcvfbc.page.link
 0.0.0.0 dailygiftstore.com
 0.0.0.0 danainstan.xyz
+0.0.0.0 danarakyatol.com
 0.0.0.0 danylevych.com
 0.0.0.0 daradis.com
 0.0.0.0 dash.pocketuniverse.app
-0.0.0.0 dashracegear.net
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
 0.0.0.0 ddzk513bd.com
@@ -246,7 +245,6 @@
 0.0.0.0 dressesloves.com
 0.0.0.0 dresseslovesootd.com
 0.0.0.0 duitpanas.top
-0.0.0.0 dwlae.top
 0.0.0.0 e-indianvisa.com
 0.0.0.0 e-touristvisa.com
 0.0.0.0 e-touristvisaindia.com
@@ -493,7 +491,6 @@
 0.0.0.0 kms-pc.com
 0.0.0.0 kms-tool.com
 0.0.0.0 kmsauto.info
-0.0.0.0 kmsofficial.org
 0.0.0.0 kmspi.co
 0.0.0.0 kmspico-official.org
 0.0.0.0 kmspico.io
@@ -502,6 +499,7 @@
 0.0.0.0 kontribusiuang.top
 0.0.0.0 kopisusu.co.id
 0.0.0.0 kra18.com
+0.0.0.0 krediteasypro.com
 0.0.0.0 krediteksklusif.com
 0.0.0.0 kuyhaa.cc
 0.0.0.0 lasercutjewelry.net
@@ -526,7 +524,6 @@
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
-0.0.0.0 luxsgear.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -539,18 +536,16 @@
 0.0.0.0 mega-heritage.com
 0.0.0.0 mega-kino.pl
 0.0.0.0 megoindonesia.com
-0.0.0.0 meudetran.co
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 miucart.com
+0.0.0.0 modalsaya.xyz
 0.0.0.0 moddetail.com
 0.0.0.0 modmobile24.com
 0.0.0.0 monkstars.com
-0.0.0.0 monpaquet9trackpobox.com
 0.0.0.0 mot73yi07.info
-0.0.0.0 movica.us
 0.0.0.0 ms-analytics.mywire.org
 0.0.0.0 msgclick.top
 0.0.0.0 msgclick.uno
@@ -597,7 +592,6 @@
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
-0.0.0.0 navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
@@ -697,7 +691,6 @@
 0.0.0.0 pambi.tech
 0.0.0.0 pandzee.com
 0.0.0.0 paquet1nfopabox.com
-0.0.0.0 paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
 0.0.0.0 peaveymartca.com
@@ -711,6 +704,9 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 phototan.net
 0.0.0.0 pinjamanelit.top
+0.0.0.0 pinjamanrupiah.xyz
+0.0.0.0 pinjamantunai.xyz
+0.0.0.0 pinjamdana.live
 0.0.0.0 pinjamteman.top
 0.0.0.0 pinjamuang.top
 0.0.0.0 piratedrive.com
@@ -754,7 +750,6 @@
 0.0.0.0 rjgriffith.com
 0.0.0.0 robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
-0.0.0.0 rockchief.com
 0.0.0.0 rosateeshop.com
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
@@ -770,6 +765,7 @@
 0.0.0.0 sakuradate.com
 0.0.0.0 sale-friday.cloud
 0.0.0.0 sale-friday.info
+0.0.0.0 sale-friday.live
 0.0.0.0 sale-friday.pro
 0.0.0.0 sale-friday.store
 0.0.0.0 salimusic.com
@@ -781,6 +777,7 @@
 0.0.0.0 secrity2redline.com
 0.0.0.0 security-meta.pages.app.br
 0.0.0.0 sedark.com
+0.0.0.0 selamatpinjam.space
 0.0.0.0 sellfox.com
 0.0.0.0 sentees.com
 0.0.0.0 serengetidiscount.com
@@ -827,14 +824,7 @@
 0.0.0.0 sportswearfanatics.com
 0.0.0.0 spotgee.com
 0.0.0.0 stableuniswap.xyz
-0.0.0.0 stage2024.club
-0.0.0.0 stage3-last.club
-0.0.0.0 stage3-last.info
-0.0.0.0 stage3-last.live
-0.0.0.0 stage3-last.pro
-0.0.0.0 stage3-last.store
 0.0.0.0 staging.zendrop.com
-0.0.0.0 stallioncredit.com
 0.0.0.0 startuplatte.com
 0.0.0.0 steamgateways.com
 0.0.0.0 steampowered.cn.com
@@ -853,7 +843,6 @@
 0.0.0.0 streamboo.com
 0.0.0.0 streamvod.pl
 0.0.0.0 strefa-filmu.pl
-0.0.0.0 stylegift.co.uk
 0.0.0.0 successglossary.com
 0.0.0.0 suitablepartner.life
 0.0.0.0 sunsetstore.net
@@ -895,7 +884,6 @@
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 too-gle.com
 0.0.0.0 touristvisaonline.com
-0.0.0.0 tower5ginstallation.com
 0.0.0.0 toweragency.in
 0.0.0.0 towerdepartment.com
 0.0.0.0 townaptdesk.info
@@ -916,6 +904,7 @@
 0.0.0.0 trumpsupport.help
 0.0.0.0 trusltwcllet.com
 0.0.0.0 tsla-stock.com
+0.0.0.0 tunairupiah.xyz
 0.0.0.0 turtleclient.xyz
 0.0.0.0 twiiiter.com
 0.0.0.0 twinsbio.com
@@ -932,6 +921,9 @@
 0.0.0.0 um-bs.com
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
+0.0.0.0 uniswap-airdrops.org
+0.0.0.0 uniswap-claim2024.run
+0.0.0.0 uniswap-claim24.run
 0.0.0.0 uniswap-e.com
 0.0.0.0 uniswap-eth.com
 0.0.0.0 uniswap-v3.com
@@ -1034,6 +1026,7 @@
 0.0.0.0 uschse04.my03.com
 0.0.0.0 uusilemmikki.com
 0.0.0.0 uydrnhsb.info
+0.0.0.0 v5-uniswap.info
 0.0.0.0 valeofoodsgroup.com
 0.0.0.0 validacaodetran.co
 0.0.0.0 validsteamkeys.com
@@ -1093,6 +1086,7 @@
 0.0.0.0 withyotta.com
 0.0.0.0 woadoodles.com
 0.0.0.0 worthas.shop
+0.0.0.0 wp3.xyz
 0.0.0.0 wpad.casa
 0.0.0.0 wpad.ru
 0.0.0.0 wpad.top
@@ -1130,6 +1124,7 @@
 0.0.0.0 zalukaj-vip.pl
 0.0.0.0 zalukaj.app
 0.0.0.0 zalukaj.cc
+0.0.0.0 zalukaj.co
 0.0.0.0 zalukaj.co.pl
 0.0.0.0 zalukaj.eu
 0.0.0.0 zalukaj.film

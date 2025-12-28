@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.20.70
-! Last modified: 2025-12-21T06:12:20.143Z
+! Version: 1.0.20.72
+! Last modified: 2025-12-28T06:12:30.419Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -3323,3 +3323,5 @@
 0.0.0.0 shop-bitboxswiss.de
 0.0.0.0 bifboxswiss.de
 0.0.0.0 srvclouds.com
+0.0.0.0 gitcompiler.com
+0.0.0.0 asliceza.org
