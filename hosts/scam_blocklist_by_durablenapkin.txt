@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.33
-! Last modified: 2025-12-28T06:12:24.949Z
+! Version: 1.0.19.40
+! Last modified: 2026-01-04T06:12:59.909Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -52,6 +52,7 @@
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 app-uniswapping.org
 0.0.0.0 appdrive.info
@@ -143,12 +144,10 @@
 0.0.0.0 c.dreamdating1.fun
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 caly-film.cc
-0.0.0.0 camerotica.cfd
 0.0.0.0 campingsurfshop.com
 0.0.0.0 candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 caraci.it
-0.0.0.0 carsaratek.com
 0.0.0.0 casualdating1.com
 0.0.0.0 cda-pl.pl
 0.0.0.0 cda-zalukaj.prv.pl
@@ -205,6 +204,7 @@
 0.0.0.0 danylevych.com
 0.0.0.0 daradis.com
 0.0.0.0 dash.pocketuniverse.app
+0.0.0.0 dashracegear.net
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
 0.0.0.0 ddzk513bd.com
@@ -335,14 +335,13 @@
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 food-network.fwh.is
 0.0.0.0 foreveusps.com
-0.0.0.0 forex-shop-z.icu
 0.0.0.0 forumdetran.co
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 freedom.invoice5g-bill.com
 0.0.0.0 freedom.invoiceid-bill.com
-0.0.0.0 freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fullview.pl
 0.0.0.0 fundanemt.org
@@ -471,7 +470,6 @@
 0.0.0.0 jagkart.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
-0.0.0.0 jourl.live
 0.0.0.0 jsdimmigration.com
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 karan-pc.com
@@ -524,6 +522,7 @@
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
+0.0.0.0 lucysstyle.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -570,6 +569,7 @@
 0.0.0.0 navi1.com
 0.0.0.0 navi10.com
 0.0.0.0 navi100.com
+0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi14.com
 0.0.0.0 navi18.com
@@ -592,6 +592,7 @@
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
+0.0.0.0 navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
@@ -641,6 +642,7 @@
 0.0.0.0 nip3.com
 0.0.0.0 nip4.com
 0.0.0.0 nip44.com
+0.0.0.0 nip46.com
 0.0.0.0 nip5.com
 0.0.0.0 nip57.com
 0.0.0.0 nirvezal.com
@@ -709,6 +711,7 @@
 0.0.0.0 pinjamdana.live
 0.0.0.0 pinjamteman.top
 0.0.0.0 pinjamuang.top
+0.0.0.0 pipopi.com
 0.0.0.0 piratedrive.com
 0.0.0.0 pjs.outlet.com
 0.0.0.0 pl-vider.pl
@@ -734,7 +737,6 @@
 0.0.0.0 promotion40-form.com
 0.0.0.0 providedexcitingcritical.pro
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
-0.0.0.0 punyauang.xyz
 0.0.0.0 qq51f.short.gy
 0.0.0.0 qriedf.info
 0.0.0.0 quoka.dk9zc9.pro
@@ -785,6 +787,7 @@
 0.0.0.0 serialefilmy.pl
 0.0.0.0 seryna.co
 0.0.0.0 shapeden.com
+0.0.0.0 shaughixefooz.net
 0.0.0.0 shirttest.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 shopperexpress.shop
@@ -918,10 +921,10 @@
 0.0.0.0 ultra-cda.pl
 0.0.0.0 ultrasonica.info
 0.0.0.0 ultrawa.com
-0.0.0.0 um-bs.com
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
 0.0.0.0 uniswap-airdrops.org
+0.0.0.0 uniswap-claim-gold.run
 0.0.0.0 uniswap-claim2024.run
 0.0.0.0 uniswap-claim24.run
 0.0.0.0 uniswap-e.com
@@ -1021,7 +1024,6 @@
 0.0.0.0 upnews.me
 0.0.0.0 uprising.kip.pro
 0.0.0.0 ureashi.com
-0.0.0.0 us99.pro
 0.0.0.0 uscampinghiking.com
 0.0.0.0 uschse04.my03.com
 0.0.0.0 uusilemmikki.com

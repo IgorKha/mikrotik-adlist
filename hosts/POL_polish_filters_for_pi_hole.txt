@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.14.74
-! Last modified: 2025-12-28T06:12:20.900Z
+! Version: 1.0.14.76
+! Last modified: 2026-01-04T06:12:55.813Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 69oxt4q05.com
@@ -306,3 +306,8 @@
 0.0.0.0 termsfeed.com
 0.0.0.0 outsourcing-sprzedazy.pl
 0.0.0.0 xinloc.com
+0.0.0.0 klrtspet.net
+0.0.0.0 grzmotnij.pl
+0.0.0.0 kamerki69.pl
+0.0.0.0 wiki20.pl
+0.0.0.0 kamerka24.pl

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.36
-! Last modified: 2025-12-28T06:12:06.775Z
+! Version: 1.0.16.41
+! Last modified: 2026-01-04T06:12:41.816Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -935,6 +935,7 @@
 0.0.0.0 assoc-amazon.com
 0.0.0.0 aswpapius.com
 0.0.0.0 aswpsdkus.com
+0.0.0.0 async.gsyndication.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 at-o.net
 0.0.0.0 atdmt.com
@@ -1274,6 +1275,7 @@
 0.0.0.0 clickfuse.com
 0.0.0.0 clickhereforcellphones.com
 0.0.0.0 clickngo.pro
+0.0.0.0 clickngo.top
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clicks.checkatrade.com
 0.0.0.0 clicks.deliveroo.co.uk
@@ -1321,6 +1323,7 @@
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 colonize.com
 0.0.0.0 colorfulpet.com
+0.0.0.0 coloroptimizer.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commissionmonster.com
 0.0.0.0 communications.melitaltd.com
@@ -1338,6 +1341,7 @@
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
 0.0.0.0 contadores.miarroba.com
+0.0.0.0 content-loader.com
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
 0.0.0.0 content22.online.citi.com
@@ -1351,6 +1355,7 @@
 0.0.0.0 convertingtraffic.com
 0.0.0.0 convrse.media
 0.0.0.0 cookies.cmpnet.com
+0.0.0.0 coolkidsdistrict.com
 0.0.0.0 cootlogix.com
 0.0.0.0 copperstills.net
 0.0.0.0 copycarpenter.com
@@ -1391,6 +1396,7 @@
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
 0.0.0.0 creatives.livejasmin.com
+0.0.0.0 creatopy.net
 0.0.0.0 crimsonmeadow.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
@@ -1458,6 +1464,7 @@
 0.0.0.0 digestiondrawer.com
 0.0.0.0 digital-ads.s3.amazonaws.com
 0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 direct-promo.pro
 0.0.0.0 directaclick.com
 0.0.0.0 directorym.com
 0.0.0.0 discountclick.com
@@ -1685,6 +1692,8 @@
 0.0.0.0 fronttoad.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
+0.0.0.0 fudgegenie.com
+0.0.0.0 fullrestore.net
 0.0.0.0 fullstory.com
 0.0.0.0 functionalcrown.com
 0.0.0.0 functionalfeather.com
@@ -2092,6 +2101,7 @@
 0.0.0.0 look.ufinkln.com
 0.0.0.0 loopme.com
 0.0.0.0 loudlunch.com
+0.0.0.0 lowest-prices.eu
 0.0.0.0 lucidmedia.com
 0.0.0.0 luckyorange.com
 0.0.0.0 ludicrousarch.com
@@ -2427,6 +2437,7 @@
 0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 p-n.io
 0.0.0.0 paa-reporting-advertising.amazon
+0.0.0.0 page-checker.eu
 0.0.0.0 page-redirect.eu
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
@@ -2761,6 +2772,7 @@
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
 0.0.0.0 sadloaf.com
+0.0.0.0 safeoffers.pro
 0.0.0.0 sail-horizon.com
 0.0.0.0 samplesamba.com
 0.0.0.0 samsungacr.com
@@ -3371,7 +3383,6 @@
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
 0.0.0.0 webpower.com
-0.0.0.0 webreseau.com
 0.0.0.0 webseoanalytics.com
 0.0.0.0 websponsors.com
 0.0.0.0 webstat.channel4.com
