@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.57
-! Last modified: 2025-12-28T06:12:30.770Z
+! Version: 1.0.18.63
+! Last modified: 2026-01-04T06:13:05.874Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -201,7 +201,6 @@
 0.0.0.0 banksurvey.biz
 0.0.0.0 bappy.com
 0.0.0.0 batcave.net
-0.0.0.0 bateicpoint.vip
 0.0.0.0 bazefrost.ru
 0.0.0.0 bcz.com
 0.0.0.0 be.gp
@@ -402,7 +401,6 @@
 0.0.0.0 blogspot.com.au
 0.0.0.0 blogspot.com.br
 0.0.0.0 blogspot.com.by
-0.0.0.0 blogspot.com.cn
 0.0.0.0 blogspot.com.co
 0.0.0.0 blogspot.com.cy
 0.0.0.0 blogspot.com.ee
@@ -438,7 +436,6 @@
 0.0.0.0 sitebeat.crazydomains.com
 0.0.0.0 creatorlink.net
 0.0.0.0 crossurl.shop
-0.0.0.0 cryptofinancetrack.com
 0.0.0.0 cryptonight.net
 0.0.0.0 cs-clan.org
 0.0.0.0 csb.app
@@ -803,7 +800,6 @@
 0.0.0.0 laden.biz
 0.0.0.0 laexchange.top
 0.0.0.0 land.to
-0.0.0.0 landmen.shop
 0.0.0.0 launchaco.com
 0.0.0.0 leaguelineup.com
 0.0.0.0 leastupdate.top
@@ -836,7 +832,6 @@
 0.0.0.0 majesticbank.de
 0.0.0.0 maminforum.com
 0.0.0.0 manfeature.club
-0.0.0.0 mapsweight.shop
 0.0.0.0 mashstaffing.com
 0.0.0.0 mdtwo.top
 0.0.0.0 me.gp
@@ -1007,7 +1002,6 @@
 0.0.0.0 rentvalues.biz
 0.0.0.0 rf.gd
 0.0.0.0 ro.gp
-0.0.0.0 romesuper.shop
 0.0.0.0 royal-host.com
 0.0.0.0 rozblog.com
 0.0.0.0 rssing.com

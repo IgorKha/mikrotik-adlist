@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.65
-! Last modified: 2025-12-28T06:12:11.149Z
+! Version: 1.0.17.67
+! Last modified: 2026-01-04T06:12:46.206Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 motorshook.com
 0.0.0.0 viidedss.com
@@ -257,6 +257,7 @@
 0.0.0.0 auroraveil.bid
 0.0.0.0 auto-ads6.site
 0.0.0.0 avlmy.com
+0.0.0.0 avogex.com
 0.0.0.0 awalesglower.com
 0.0.0.0 awecrptjmp.com
 0.0.0.0 basicflownetowork.co.in
@@ -267,7 +268,6 @@
 0.0.0.0 behim.click
 0.0.0.0 bemobtrcks.com
 0.0.0.0 bemobtrk.com
-0.0.0.0 bemoonunbroid.shop
 0.0.0.0 bestchainconnection.com
 0.0.0.0 bestcleaner.online
 0.0.0.0 bestunfollow.com
@@ -296,7 +296,6 @@
 0.0.0.0 bunth.net
 0.0.0.0 byethost41.net
 0.0.0.0 c3j7rk-rtbix.top
-0.0.0.0 cam-maus.info
 0.0.0.0 camliveshow.xyz
 0.0.0.0 camptrck.com
 0.0.0.0 candyai.love
@@ -350,11 +349,9 @@
 0.0.0.0 datingforyour4.site
 0.0.0.0 debaucky.com
 0.0.0.0 deepsathegoh.com
-0.0.0.0 defandoar.xyz
 0.0.0.0 degg.site
 0.0.0.0 deluxe-download.com
 0.0.0.0 demowebcode.online
-0.0.0.0 detailsallaround.org
 0.0.0.0 di7stero.com
 0.0.0.0 diagramjawlineunhappy.com
 0.0.0.0 dianomi.com
@@ -401,7 +398,6 @@
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
 0.0.0.0 fbpqvs.com
-0.0.0.0 finalice.net
 0.0.0.0 finanvideos.com
 0.0.0.0 finder2024.com
 0.0.0.0 flowldsb.online
@@ -581,7 +577,6 @@
 0.0.0.0 ninancukankin.org
 0.0.0.0 nithyshipsi.com
 0.0.0.0 noavoahevugrib.com
-0.0.0.0 nontraditionally.rest
 0.0.0.0 noohapou.com
 0.0.0.0 noolt.com
 0.0.0.0 northauthority.xyz
@@ -746,7 +741,6 @@
 0.0.0.0 sodefender.pro
 0.0.0.0 sp03k.sbs
 0.0.0.0 spareforads.top
-0.0.0.0 sperebnf.click
 0.0.0.0 spin83qr.com
 0.0.0.0 sprinlof.com
 0.0.0.0 spuppeh.net
@@ -806,7 +800,6 @@
 0.0.0.0 trkred.com
 0.0.0.0 trksmorestreacking.com
 0.0.0.0 trpool.org
-0.0.0.0 truevibe.live
 0.0.0.0 trumppig.work
 0.0.0.0 trumpsupport.help
 0.0.0.0 try.opera.com
@@ -893,17 +886,13 @@
 0.0.0.0 10753990.xyz
 0.0.0.0 11152646.xyz
 0.0.0.0 11778562.xyz
-0.0.0.0 14202444.xyz
-0.0.0.0 15223102.xyz
 0.0.0.0 15272973.xyz
 0.0.0.0 16327739.xyz
 0.0.0.0 16972675.xyz
 0.0.0.0 17022993.xyz
-0.0.0.0 19009143.xyz
 0.0.0.0 19199675.xyz
 0.0.0.0 20382207.xyz
 0.0.0.0 20729617.xyz
-0.0.0.0 22117898.xyz
 0.0.0.0 23879858.xyz
 0.0.0.0 23907453.xyz
 0.0.0.0 24837724.xyz
@@ -916,15 +905,12 @@
 0.0.0.0 37066957.xyz
 0.0.0.0 38835571.xyz
 0.0.0.0 38941752.xyz
-0.0.0.0 42869755.xyz
 0.0.0.0 47296536.xyz
 0.0.0.0 47415889.xyz
 0.0.0.0 48304789.xyz
 0.0.0.0 49706204.xyz
 0.0.0.0 49766251.xyz
 0.0.0.0 54199287.xyz
-0.0.0.0 55766925.xyz
-0.0.0.0 59644010.xyz
 0.0.0.0 59768910.xyz
 0.0.0.0 60571086.xyz
 0.0.0.0 65035033.xyz
@@ -934,13 +920,10 @@
 0.0.0.0 72560514.xyz
 0.0.0.0 72716408.xyz
 0.0.0.0 72888710.xyz
-0.0.0.0 73503921.xyz
 0.0.0.0 74142961.xyz
 0.0.0.0 75690049.xyz
 0.0.0.0 77886044.xyz
 0.0.0.0 78847798.xyz
-0.0.0.0 79180284.xyz
-0.0.0.0 80133082.xyz
 0.0.0.0 83409127.xyz
 0.0.0.0 83761158.xyz
 0.0.0.0 83887336.xyz

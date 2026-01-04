@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-! Version: 1.0.14.60
-! Last modified: 2025-12-28T06:12:18.192Z
+! Version: 1.0.14.61
+! Last modified: 2026-01-04T06:12:53.248Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 adgoogle.net
 0.0.0.0 crashlytics.com
@@ -301,7 +301,6 @@
 0.0.0.0 loon.com
 0.0.0.0 near.by
 0.0.0.0 ns-tld1.charlestonroadregistry.com
-0.0.0.0 papy.co.jp
 0.0.0.0 partnerplustoolkit.com
 0.0.0.0 partners-aunz.com
 0.0.0.0 partnersaunz.com
