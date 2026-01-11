@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.23
-! Last modified: 2026-01-04T06:13:05.763Z
+! Version: 1.0.16.28
+! Last modified: 2026-01-11T06:12:47.389Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -41,6 +41,7 @@
 0.0.0.0 4twenty.us
 0.0.0.0 64-b.it
 0.0.0.0 6600.org
+0.0.0.0 688.org
 0.0.0.0 7766.org
 0.0.0.0 77qac.com
 0.0.0.0 77uam.com
@@ -247,6 +248,7 @@
 0.0.0.0 darksair.org
 0.0.0.0 darktech.org
 0.0.0.0 davidsagar.com
+0.0.0.0 ddns.cam
 0.0.0.0 ddns.info
 0.0.0.0 ddns.me
 0.0.0.0 ddns.mobi
@@ -502,6 +504,7 @@
 0.0.0.0 fin-tech.com
 0.0.0.0 fintech-llc.com
 0.0.0.0 fivepals.com
+0.0.0.0 flat4free.com
 0.0.0.0 flazzard.com
 0.0.0.0 flnet.org
 0.0.0.0 flowergardendaycare.com
@@ -1297,6 +1300,7 @@
 0.0.0.0 stocktester.ru
 0.0.0.0 stoupin.ru
 0.0.0.0 strangled.net
+0.0.0.0 stroyexpert.org
 0.0.0.0 stuff-4-sale.org
 0.0.0.0 stuff-4-sale.us
 0.0.0.0 stufftoread.com
@@ -1312,7 +1316,6 @@
 0.0.0.0 system-ns.com
 0.0.0.0 systes.net
 0.0.0.0 sytes.net
-0.0.0.0 t-online.hu
 0.0.0.0 tallison.com
 0.0.0.0 tamaragibson.com
 0.0.0.0 tantrum.org
@@ -1389,6 +1392,7 @@
 0.0.0.0 venez.fr
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
+0.0.0.0 viamisoftware.com
 0.0.0.0 viewdns.net
 0.0.0.0 viiic.net
 0.0.0.0 vincomlimited.com
@@ -1401,6 +1405,7 @@
 0.0.0.0 vpntraki.com
 0.0.0.0 vpnx.nl
 0.0.0.0 vr.lt
+0.0.0.0 vxe6.net
 0.0.0.0 wakingmoon.com
 0.0.0.0 wan64.de
 0.0.0.0 wanip.ch

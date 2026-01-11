@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.67
-! Last modified: 2026-01-04T06:12:46.206Z
+! Version: 1.0.17.69
+! Last modified: 2026-01-11T06:12:29.677Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 figureraisinupper.com
 0.0.0.0 motorshook.com
 0.0.0.0 viidedss.com
 0.0.0.0 grwdrkaqpxcna.website
@@ -254,6 +255,7 @@
 0.0.0.0 astjigglypuffchan.com
 0.0.0.0 atp.revistamuchomas.com
 0.0.0.0 atsg.me
+0.0.0.0 atthhnv.com
 0.0.0.0 auroraveil.bid
 0.0.0.0 auto-ads6.site
 0.0.0.0 avlmy.com
