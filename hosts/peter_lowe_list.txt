@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.41
-! Last modified: 2026-01-04T06:12:41.816Z
+! Version: 1.0.16.46
+! Last modified: 2026-01-11T06:12:25.463Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -178,7 +178,6 @@
 0.0.0.0 adbrite.com
 0.0.0.0 adbroker.de
 0.0.0.0 adbutler.com
-0.0.0.0 adbuyer3.lycos.com
 0.0.0.0 adcampo.com
 0.0.0.0 adcannyads.com
 0.0.0.0 adcash.com
@@ -256,7 +255,6 @@
 0.0.0.0 adlooxtracking.com
 0.0.0.0 adlure.net
 0.0.0.0 adm.fwmrm.net
-0.0.0.0 admagnet.net
 0.0.0.0 admailtiser.com
 0.0.0.0 adman.gr
 0.0.0.0 adman.otenet.gr
@@ -295,6 +293,7 @@
 0.0.0.0 adnxs.com
 0.0.0.0 adocean.pl
 0.0.0.0 adonspot.com
+0.0.0.0 adopsboost.com
 0.0.0.0 adoptum.net
 0.0.0.0 adoric-om.com
 0.0.0.0 adorigin.com
@@ -478,7 +477,6 @@
 0.0.0.0 ads.mobilebet.com
 0.0.0.0 ads.mozilla.org
 0.0.0.0 ads.msn.com
-0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.muslimehelfen.org
 0.0.0.0 ads.mvscoelho.com
 0.0.0.0 ads.myadv.org
@@ -556,12 +554,6 @@
 0.0.0.0 ads.townhall.com
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.trinitymirror.co.uk
-0.0.0.0 ads.tripod.com
-0.0.0.0 ads.tripod.lycos.co.uk
-0.0.0.0 ads.tripod.lycos.de
-0.0.0.0 ads.tripod.lycos.es
-0.0.0.0 ads.tripod.lycos.it
-0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.twojatv.info
@@ -1139,6 +1131,7 @@
 0.0.0.0 btrll.com
 0.0.0.0 bttrack.com
 0.0.0.0 bubblyaction.com
+0.0.0.0 buddycanvas.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
@@ -1333,6 +1326,7 @@
 0.0.0.0 comprabanner.it
 0.0.0.0 conditionchange.com
 0.0.0.0 conductrics.com
+0.0.0.0 confiant-integrations.net
 0.0.0.0 confidencetalks.com
 0.0.0.0 connatix.com
 0.0.0.0 connectad.io
@@ -1341,7 +1335,6 @@
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
 0.0.0.0 contadores.miarroba.com
-0.0.0.0 content-loader.com
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
 0.0.0.0 content22.online.citi.com
@@ -1665,7 +1658,6 @@
 0.0.0.0 floweryflavor.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
-0.0.0.0 fly-analytics.com
 0.0.0.0 fontserif.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
@@ -1768,6 +1760,7 @@
 0.0.0.0 granlite.com
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 greystripe.com
+0.0.0.0 groovespacing.com
 0.0.0.0 grouchybrothers.com
 0.0.0.0 groundtruth.com
 0.0.0.0 growthrx.in
@@ -1815,7 +1808,6 @@
 0.0.0.0 historytrade.com
 0.0.0.0 hit-parade.com
 0.0.0.0 hit.ua
-0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
 0.0.0.0 hitcounters.miarroba.com
 0.0.0.0 hitlist.ru
@@ -1861,7 +1853,6 @@
 0.0.0.0 hyprmx.com
 0.0.0.0 hystericalcloth.com
 0.0.0.0 i-i.lt
-0.0.0.0 i1media.no
 0.0.0.0 i305175.net
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 iad.anm.co.uk
@@ -1995,6 +1986,7 @@
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 krxd.net
 0.0.0.0 ktu.sv2.biz
+0.0.0.0 kueezrtb.com
 0.0.0.0 kvsadman.com
 0.0.0.0 l1.britannica.com
 0.0.0.0 lameletters.com
@@ -2252,6 +2244,7 @@
 0.0.0.0 monsterpops.com
 0.0.0.0 mookie1.com
 0.0.0.0 mopub.com
+0.0.0.0 morefolks.com
 0.0.0.0 motionlessmeeting.com
 0.0.0.0 motionspots.com
 0.0.0.0 mousestats.com
@@ -2436,6 +2429,7 @@
 0.0.0.0 oxcash.com
 0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 p-n.io
+0.0.0.0 p7cloud.net
 0.0.0.0 paa-reporting-advertising.amazon
 0.0.0.0 page-checker.eu
 0.0.0.0 page-redirect.eu
@@ -2657,7 +2651,6 @@
 0.0.0.0 rapidcounter.com
 0.0.0.0 raresummer.com
 0.0.0.0 rate.ru
-0.0.0.0 ratings.lycos.com
 0.0.0.0 rayjump.com
 0.0.0.0 rcadserver.com
 0.0.0.0 re-direct.pl
@@ -2828,7 +2821,6 @@
 0.0.0.0 servedbyopenx.com
 0.0.0.0 servethis.com
 0.0.0.0 services.hearstmags.com
-0.0.0.0 sessioncam.com
 0.0.0.0 sexcounter.com
 0.0.0.0 sexlist.com
 0.0.0.0 sextracker.com
@@ -2849,7 +2841,6 @@
 0.0.0.0 shrillspoon.com
 0.0.0.0 shxtrk.com
 0.0.0.0 sicksmash.com
-0.0.0.0 sidebar.angelfire.com
 0.0.0.0 signalayer.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 silvermob.com
@@ -2892,6 +2883,7 @@
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smetrics.washingtonpost.com
+0.0.0.0 smilewanted.com
 0.0.0.0 smilingcattle.com
 0.0.0.0 smoggysnakes.com
 0.0.0.0 smrtb.com
@@ -3383,6 +3375,7 @@
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
 0.0.0.0 webpower.com
+0.0.0.0 webreseau.com
 0.0.0.0 webseoanalytics.com
 0.0.0.0 websponsors.com
 0.0.0.0 webstat.channel4.com

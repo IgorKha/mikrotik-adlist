@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.80
-! Last modified: 2026-01-04T06:12:55.169Z
+! Version: 1.0.0.81
+! Last modified: 2026-01-11T06:12:38.030Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -214,9 +214,6 @@
 0.0.0.0 ad.msn.com
 0.0.0.0 adevents.msn.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads1.msn.com
-0.0.0.0 ads2.msn.com
-0.0.0.0 analytics.msn.com
 0.0.0.0 metric.appex-rf.msn.com
 0.0.0.0 c.ar.msn.com
 0.0.0.0 arc.msn.com
@@ -267,7 +264,7 @@
 0.0.0.0 preview.msn.com
 0.0.0.0 c.prodigy.msn.com
 0.0.0.0 c.pt.msn.com
-0.0.0.0 r.msn.com
+0.0.0.0 bat.r.msn.com
 0.0.0.0 rads.msn.com
 0.0.0.0 rel.msn.com
 0.0.0.0 rmads.msn.com
@@ -371,6 +368,7 @@
 0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 nexxtv-events.servicebus.windows.net
 0.0.0.0 ppm-licensingtelemetry.servicebus.windows.net
+0.0.0.0 prd-qlik-telemetry.servicebus.windows.net
 0.0.0.0 prod-eh-v1-analytics.servicebus.windows.net
 0.0.0.0 prod-eventhub-analytics.servicebus.windows.net
 0.0.0.0 production-jobactivity-analytics.servicebus.windows.net

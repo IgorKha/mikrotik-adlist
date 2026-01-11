@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.20.77
-! Last modified: 2026-01-04T06:13:05.505Z
+! Version: 1.0.20.85
+! Last modified: 2026-01-11T06:12:47.174Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -349,6 +349,8 @@
 0.0.0.0 fusionhacks.cc
 0.0.0.0 mysoft.rest
 0.0.0.0 lunexmods.cc
+0.0.0.0 lunexmods.io
+0.0.0.0 soft-hub.site
 0.0.0.0 atnpx.com
 0.0.0.0 webpushcloud.top
 0.0.0.0 workerz1.com
@@ -2314,6 +2316,8 @@
 0.0.0.0 interface-git-parallel-cypress-uniswap.vercel.app
 0.0.0.0 web3-projects-beta.vercel.app
 0.0.0.0 metamask*.webflow.io
+0.0.0.0 metamask-support.io
+0.0.0.0 mertamask.com
 0.0.0.0 bitvavo*.cc
 0.0.0.0 bitvavo*.top
 0.0.0.0 bitvavo*.vip
@@ -2626,9 +2630,16 @@
 0.0.0.0 wallpaper-engine.pro
 0.0.0.0 tobias-neller.link
 0.0.0.0 getfix.win
+0.0.0.0 getalia.org
+0.0.0.0 goveanrs.org
+0.0.0.0 govearali.org
+0.0.0.0 alianzeg.shop
+0.0.0.0 ligovera.shop
+0.0.0.0 ztdaliweb.shop
 0.0.0.0 cptchdm.icu
 0.0.0.0 ncloud.icu
 0.0.0.0 saocloud.icu
+0.0.0.0 cptoptious.com
 0.0.0.0 dtioykqj1u8de.cloudfront.net
 0.0.0.0 partners-tds.com
 0.0.0.0 likeyoumakehappy.xyz
@@ -2853,20 +2864,6 @@
 0.0.0.0 my-exodus.co.uk
 0.0.0.0 ledgerr.us
 0.0.0.0 suite.tem3.io
-0.0.0.0 roundyearfun.org
-0.0.0.0 roundyearfun.com
-0.0.0.0 twitter-circle.com
-0.0.0.0 funxgames.me
-0.0.0.0 infinitytweet.me
-0.0.0.0 infinitytweet.com
-0.0.0.0 infinityweet.me
-0.0.0.0 infinityweet.com
-0.0.0.0 kawaiilabs.org
-0.0.0.0 degenlabs.org
-0.0.0.0 anyplacehere.online
-0.0.0.0 infintytweet.me
-0.0.0.0 infintytweet.com
-0.0.0.0 anyplacehere.art
 0.0.0.0 annonumapp.com
 0.0.0.0 problems-center.com
 0.0.0.0 smnewd.com
@@ -3225,3 +3222,25 @@
 0.0.0.0 gitcompiler.com
 0.0.0.0 asliceza.org
 0.0.0.0 lkiec.shop
+0.0.0.0 roundyearfun.org
+0.0.0.0 roundyearfun.com
+0.0.0.0 twitter-circle.com
+0.0.0.0 funxgames.me
+0.0.0.0 infinitytweet.me
+0.0.0.0 infinitytweet.com
+0.0.0.0 infinityweet.me
+0.0.0.0 infinityweet.com
+0.0.0.0 kawaiilabs.org
+0.0.0.0 degenlabs.org
+0.0.0.0 anyplacehere.online
+0.0.0.0 infintytweet.me
+0.0.0.0 infintytweet.com
+0.0.0.0 anyplacehere.art
+0.0.0.0 infinitetweet.me
+0.0.0.0 infinitetweet.com
+0.0.0.0 redirecttoplace.online
+0.0.0.0 crimsonmods.cc
+0.0.0.0 playtorrio.com
+0.0.0.0 qishuimusic-app.com.cn
+0.0.0.0 low-house.com
+0.0.0.0 cloudfenceai.com
