@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.20.85
-! Last modified: 2026-01-11T06:12:47.174Z
+! Version: 1.0.20.88
+! Last modified: 2026-01-18T06:12:30.071Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -2914,18 +2914,11 @@
 0.0.0.0 elkendinsc.com
 0.0.0.0 stylexlab.ru
 0.0.0.0 marktplaats.ch
-0.0.0.0 blockcheck.pages.dev
-0.0.0.0 checkx.pages.dev
 0.0.0.0 xcheckx.pages.dev
-0.0.0.0 blockchecker-8ka.pages.dev
-0.0.0.0 blck.pages.dev
-0.0.0.0 blockchecker5.pages.dev
-0.0.0.0 blockchecker6.pages.dev
 0.0.0.0 gocheck.pages.dev
 0.0.0.0 blocchecker*.pages.dev
 0.0.0.0 lookblock.pages.dev
 0.0.0.0 xblocklist*.pages.dev
-0.0.0.0 xchekersite.pages.dev
 0.0.0.0 xsuki*.pages.dev
 0.0.0.0 bxchx.pages.dev
 0.0.0.0 xre10.pages.dev
@@ -3244,3 +3237,5 @@
 0.0.0.0 qishuimusic-app.com.cn
 0.0.0.0 low-house.com
 0.0.0.0 cloudfenceai.com
+0.0.0.0 iploits.com
+0.0.0.0 artstation.paid-receipt.com

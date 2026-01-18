@@ -1,200 +1,16 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.14.90
-! Last modified: 2026-01-11T06:12:28.215Z
+! Version: 1.0.15.3
+! Last modified: 2026-01-18T06:12:10.888Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.14.90
+! Version: 1.0.15.3
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2025-06-30T22:07:36.546Z
+! Last modified: 2026-01-17T22:07:50.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
-0.0.0.0 goatse.cx       # More information on sites such as 
-0.0.0.0 www.goatse.cx   # these can be found in this article
-0.0.0.0 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
-0.0.0.0 www.oralse.cx
-0.0.0.0 goatse.ca
-0.0.0.0 www.goatse.ca
-0.0.0.0 oralse.ca
-0.0.0.0 www.oralse.ca
-0.0.0.0 goat.cx
-0.0.0.0 www.goat.cx
-0.0.0.0 shafou.com
-0.0.0.0 www.shafou.com
-0.0.0.0 1girl1pitcher.com
-0.0.0.0 1girl1pitcher.org
-0.0.0.0 1guy1cock.com
-0.0.0.0 1man1jar.org
-0.0.0.0 1man2needles.com
-0.0.0.0 1priest1nun.com
-0.0.0.0 1priest1nun.net
-0.0.0.0 2girls1cup-free.com
-0.0.0.0 2girls1cup.cc
-0.0.0.0 2girls1cup.com
-0.0.0.0 2girls1cup.nl
-0.0.0.0 2girls1cup.ws
-0.0.0.0 2girls1finger.com
-0.0.0.0 2girls1finger.org
-0.0.0.0 2guys1stump.org
-0.0.0.0 3guys1hammer.ws
-0.0.0.0 4girlsfingerpaint.com
-0.0.0.0 4girlsfingerpaint.org
-0.0.0.0 bagslap.com
-0.0.0.0 ballsack.org
-0.0.0.0 bestgore.fun
-0.0.0.0 bestshockers.com
-0.0.0.0 bluewaffle.biz
-0.0.0.0 bottleguy.com
-0.0.0.0 bowlgirl.com
-0.0.0.0 cadaver.org
-0.0.0.0 clownsong.com
-0.0.0.0 cyberscat.com
-0.0.0.0 dadparty.com
-0.0.0.0 detroithardcore.com
-0.0.0.0 donotwatch.org
-0.0.0.0 dontwatch.us
-0.0.0.0 eelsoup.net
-0.0.0.0 fruitlauncher.com
-0.0.0.0 funnelchair.com
-0.0.0.0 goatse.bz
-0.0.0.0 goatse.ru
-0.0.0.0 goatsegirl.org
-0.0.0.0 hai2u.com
-0.0.0.0 homewares.org
-0.0.0.0 howtotroll.org
-0.0.0.0 japscat.org
-0.0.0.0 jarsquatter.com
-0.0.0.0 jiztini.com
-0.0.0.0 kids-in-sandbox.com
-0.0.0.0 kidsinsandbox.info
-0.0.0.0 lemonparty.biz
-0.0.0.0 lemonparty.org
-0.0.0.0 lolhello.com
-0.0.0.0 lolshock.com
-0.0.0.0 loltrain.com
-0.0.0.0 meatspin.biz
-0.0.0.0 meatspin.com
-0.0.0.0 merryholidays.org
-0.0.0.0 milkfountain.com
-0.0.0.0 mudfall.com
-0.0.0.0 mudmonster.org
-0.0.0.0 nimp.org
-0.0.0.0 nobrain.dk
-0.0.0.0 nutabuse.com
-0.0.0.0 octopusgirl.com
-0.0.0.0 on.nimp.org
-0.0.0.0 painolympics.info
-0.0.0.0 painolympics.org
-0.0.0.0 phonejapan.com
-0.0.0.0 pnrtscr.com
-0.0.0.0 pressurespot.com
-0.0.0.0 prolapseman.com
-0.0.0.0 scrollbelow.com
-0.0.0.0 selfpwn.org
-0.0.0.0 shockgore.com
-0.0.0.0 sourmath.com
-0.0.0.0 strawpoii.me
-0.0.0.0 suckdude.com
-0.0.0.0 thatsjustgay.com
-0.0.0.0 thatsphucked.com
-0.0.0.0 thehomo.org
-0.0.0.0 themacuser.org
-0.0.0.0 thepounder.com
-0.0.0.0 tubgirl.me
-0.0.0.0 tubgirl.org
-0.0.0.0 turdgasm.com
-0.0.0.0 vomitgirl.org
-0.0.0.0 walkthedinosaur.com
-0.0.0.0 whipcrack.org
-0.0.0.0 wormgush.com
-0.0.0.0 www.1girl1pitcher.org
-0.0.0.0 www.1guy1cock.com
-0.0.0.0 www.1man1jar.org
-0.0.0.0 www.1man2needles.com
-0.0.0.0 www.1priest1nun.com
-0.0.0.0 www.1priest1nun.net
-0.0.0.0 www.2girls1cup-free.com
-0.0.0.0 www.2girls1cup.cc
-0.0.0.0 www.2girls1cup.nl
-0.0.0.0 www.2girls1cup.ws
-0.0.0.0 www.2girls1finger.org
-0.0.0.0 www.2guys1stump.org
-0.0.0.0 www.3guys1hammer.ws
-0.0.0.0 www.4girlsfingerpaint.org
-0.0.0.0 www.bagslap.com
-0.0.0.0 www.ballsack.org
-0.0.0.0 www.bestshockers.com
-0.0.0.0 www.bluewaffle.biz
-0.0.0.0 www.bottleguy.com
-0.0.0.0 www.bowlgirl.com
-0.0.0.0 www.cadaver.org
-0.0.0.0 www.clownsong.com
-0.0.0.0 www.cyberscat.com
-0.0.0.0 www.dadparty.com
-0.0.0.0 www.detroithardcore.com
-0.0.0.0 www.donotwatch.org
-0.0.0.0 www.dontwatch.us
-0.0.0.0 www.eelsoup.net
-0.0.0.0 www.fruitlauncher.com
-0.0.0.0 www.funnelchair.com
-0.0.0.0 www.goatse.bz
-0.0.0.0 www.goatse.ru
-0.0.0.0 www.goatsegirl.org
-0.0.0.0 www.hai2u.com
-0.0.0.0 www.homewares.org
-0.0.0.0 www.howtotroll.org
-0.0.0.0 www.japscat.org
-0.0.0.0 www.jiztini.com
-0.0.0.0 www.kids-in-sandbox.com
-0.0.0.0 www.kidsinsandbox.info
-0.0.0.0 www.lemonparty.biz
-0.0.0.0 www.lemonparty.org
-0.0.0.0 www.lolhello.com
-0.0.0.0 www.lolshock.com
-0.0.0.0 www.loltrain.com
-0.0.0.0 www.meatspin.biz
-0.0.0.0 www.meatspin.com
-0.0.0.0 www.merryholidays.org
-0.0.0.0 www.milkfountain.com
-0.0.0.0 www.mudfall.com
-0.0.0.0 www.mudmonster.org
-0.0.0.0 www.nimp.org
-0.0.0.0 www.nobrain.dk
-0.0.0.0 www.nutabuse.com
-0.0.0.0 www.octopusgirl.com
-0.0.0.0 www.on.nimp.org
-0.0.0.0 www.painolympics.info
-0.0.0.0 www.painolympics.org
-0.0.0.0 www.phonejapan.com
-0.0.0.0 www.pressurespot.com
-0.0.0.0 www.prolapseman.com
-0.0.0.0 www.punishtube.com
-0.0.0.0 www.scrollbelow.com
-0.0.0.0 www.selfpwn.org
-0.0.0.0 www.sourmath.com
-0.0.0.0 www.strawpoii.me
-0.0.0.0 www.suckdude.com
-0.0.0.0 www.thatsjustgay.com
-0.0.0.0 www.thatsphucked.com
-0.0.0.0 www.theexgirlfriends.com
-0.0.0.0 www.thehomo.org
-0.0.0.0 www.themacuser.org
-0.0.0.0 www.thepounder.com
-0.0.0.0 www.tubgirl.me
-0.0.0.0 www.tubgirl.org
-0.0.0.0 www.turdgasm.com
-0.0.0.0 www.vomitgirl.org
-0.0.0.0 www.walkthedinosaur.com
-0.0.0.0 www.whipcrack.org
-0.0.0.0 www.wormgush.com
-0.0.0.0 www.xvideoslive.com
-0.0.0.0 www.youaresogay.com
-0.0.0.0 www.ypmate.com
-0.0.0.0 www.zentastic.com
-0.0.0.0 youaresogay.com
-0.0.0.0 zentastic.com
 0.0.0.0 ads234.com
 0.0.0.0 ads345.com
 0.0.0.0 www.ads234.com
@@ -870,6 +686,7 @@
 0.0.0.0 p.addthis.com
 0.0.0.0 p.bm23.com
 0.0.0.0 p.reuters.com
+0.0.0.0 pa-cd.com
 0.0.0.0 passpport.com
 0.0.0.0 paycounter.com
 0.0.0.0 pei-ads.thesmokingjacket.com
@@ -1619,6 +1436,7 @@
 0.0.0.0 bagagescabine.fr
 0.0.0.0 bannerbuzz.fr
 0.0.0.0 bannersnack.fr
+0.0.0.0 baselabo.heteml.net
 0.0.0.0 baxtel.fr
 0.0.0.0 bayyinah.fr
 0.0.0.0 bbcode.fr
@@ -1651,6 +1469,7 @@
 0.0.0.0 bitcoinplus.com
 0.0.0.0 bitsoin.fr
 0.0.0.0 biucosmetics.fr
+0.0.0.0 bizlawpoint.com
 0.0.0.0 blablacam.fr
 0.0.0.0 blackhat.be
 0.0.0.0 blender3d.fr
@@ -1659,7 +1478,6 @@
 0.0.0.0 blw4-1.com
 0.0.0.0 bnvxcfhdgf.blogspot.com.es
 0.0.0.0 boardgamearena.fr
-0.0.0.0 bobcard.co.in
 0.0.0.0 bobgear.fr
 0.0.0.0 bodyfitness-epernon.fr
 0.0.0.0 bodyhousse.fr
@@ -1730,6 +1548,7 @@
 0.0.0.0 canadapost.helpdag.top
 0.0.0.0 canadapost.postescanadad.xyz
 0.0.0.0 canadapostarticle.com
+0.0.0.0 capital-invest-can.cropvita.sbs
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
 0.0.0.0 carac-terres.fr
@@ -1836,6 +1655,7 @@
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-etransfer.online
+0.0.0.0 crarefundsreview.com
 0.0.0.0 crdp-strsbourg.fr
 0.0.0.0 creativlonk.fr
 0.0.0.0 creditmuteuel.fr
@@ -1848,6 +1668,7 @@
 0.0.0.0 cuder.fr
 0.0.0.0 cullligan.fr
 0.0.0.0 culturalfoundation.fr
+0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
 0.0.0.0 cyberpanel.fr
 0.0.0.0 cyfe.fr
@@ -1926,6 +1747,7 @@
 0.0.0.0 emplpoi-store.fr
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.likefever.org			# Facebook trojan
+0.0.0.0 enablement.joethecpa.info
 0.0.0.0 enalytics.fr
 0.0.0.0 endicia.fr
 0.0.0.0 englishcentral.fr
@@ -2047,6 +1869,7 @@
 0.0.0.0 gautmont.fr
 0.0.0.0 gazia.fr
 0.0.0.0 gcn-1nterc.com
+0.0.0.0 gekowex.com
 0.0.0.0 geolantis.fr
 0.0.0.0 geopostcodes.fr
 0.0.0.0 get-answers-fast.com
@@ -2061,6 +1884,7 @@
 0.0.0.0 giulli.fr
 0.0.0.0 glassjaw.fr
 0.0.0.0 globaldrugsurvey.fr
+0.0.0.0 gmailapcq6.eblink5.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 goggle.com
 0.0.0.0 goobbe.com
@@ -2078,10 +1902,12 @@
 0.0.0.0 grossiste3d.fr
 0.0.0.0 groupeauto.fr
 0.0.0.0 groupom.fr
+0.0.0.0 gstscra.com
 0.0.0.0 gtamoding.fr
 0.0.0.0 guidelon.fr
 0.0.0.0 guiltygear.fr
 0.0.0.0 gv-1nt3rc.com
+0.0.0.0 gwene.com.slackware.alien.blog
 0.0.0.0 gwklaser.fr
 0.0.0.0 gyros.es
 0.0.0.0 h9tkd.rdtk.io
@@ -2168,6 +1994,7 @@
 0.0.0.0 install.myvideotab.com
 0.0.0.0 installmac.com
 0.0.0.0 instantstreetview.fr
+0.0.0.0 intelcom-on.progressionlive.com
 0.0.0.0 intelcomasfcmscta.com
 0.0.0.0 interac-etransfer.net
 0.0.0.0 interac1-ssl2.info
@@ -2319,6 +2146,7 @@
 0.0.0.0 lifefoot.fr
 0.0.0.0 lifeofpie.fr
 0.0.0.0 lifigaro.fr
+0.0.0.0 lifsfer.shop
 0.0.0.0 like.likewut.net
 0.0.0.0 likeportal.com			# Facebook trojan
 0.0.0.0 likespike.com				# Facebook trojan
@@ -2340,6 +2168,7 @@
 0.0.0.0 loirs.fr
 0.0.0.0 lonaci.fr
 0.0.0.0 longrich.fr
+0.0.0.0 love-quest.blog
 0.0.0.0 loytec.fr
 0.0.0.0 lp.cleanmymac.online
 0.0.0.0 lpoint.fr
@@ -2363,6 +2192,7 @@
 0.0.0.0 magasine-omnicuiseur.fr
 0.0.0.0 magento-analytics.com
 0.0.0.0 magic-flight.fr
+0.0.0.0 magicpayrecharge.com
 0.0.0.0 maia-asso.fr
 0.0.0.0 mail-en-marche.fr
 0.0.0.0 mail.bangla.net
@@ -2389,6 +2219,7 @@
 0.0.0.0 mappyt.fr
 0.0.0.0 marathondulacduder.fr
 0.0.0.0 marie-gerardmer.fr
+0.0.0.0 marigo.redbacksburger.info
 0.0.0.0 marinescence.fr
 0.0.0.0 marketgameland.com
 0.0.0.0 massage-v-almaty.kz
@@ -2503,6 +2334,7 @@
 0.0.0.0 n1up.fr
 0.0.0.0 nactx.com
 0.0.0.0 naissaance.fr
+0.0.0.0 nakshatra.northeastrail.info
 0.0.0.0 nameketathar.pro
 0.0.0.0 nantesmetrople.fr
 0.0.0.0 nantilus.fr
@@ -2554,6 +2386,7 @@
 0.0.0.0 ofdb.fr
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 ofracosmetics.fr
+0.0.0.0 ois.is
 0.0.0.0 oix.com
 0.0.0.0 oix.net
 0.0.0.0 oj.likewut.net
@@ -2589,6 +2422,7 @@
 0.0.0.0 ostalgie.fr
 0.0.0.0 otsserver.com
 0.0.0.0 outerinfo.com
+0.0.0.0 ownpathway.digital
 0.0.0.0 oyrfo.comfortykive.xyz
 0.0.0.0 p.algovid.com
 0.0.0.0 p.ttwitter.com
@@ -2604,7 +2438,9 @@
 0.0.0.0 pamini.fr
 0.0.0.0 panimi.fr
 0.0.0.0 pantaya.fr
+0.0.0.0 paradise.homemortgageblog.info
 0.0.0.0 paris-banlieue-meetinggame.fr
+0.0.0.0 passport.acla.org.cn
 0.0.0.0 passportindex.fr
 0.0.0.0 payments-details.com
 0.0.0.0 payplintelverify3.site
@@ -2613,6 +2449,7 @@
 0.0.0.0 pbworks.fr
 0.0.0.0 pcblibraries.fr
 0.0.0.0 pckgatups.bond
+0.0.0.0 pclt.net
 0.0.0.0 pdns.nudt.edu.cn
 0.0.0.0 pearlfeet.fr
 0.0.0.0 peircing-street.fr
@@ -2699,6 +2536,7 @@
 0.0.0.0 provenfeedback.com
 0.0.0.0 psycho-test.fr
 0.0.0.0 ptagercity.fr
+0.0.0.0 pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev
 0.0.0.0 pullipstyle.fr
 0.0.0.0 puppygames.fr
 0.0.0.0 puppylover.fr
@@ -2711,6 +2549,7 @@
 0.0.0.0 qouv.fr
 0.0.0.0 quaidesbulles.fr
 0.0.0.0 question2answer.com
+0.0.0.0 questrade-pypip.com
 0.0.0.0 quickchess.fr
 0.0.0.0 quicksaledeal.su
 0.0.0.0 quirinale.fr
@@ -2747,12 +2586,14 @@
 0.0.0.0 resultatspmu.fr
 0.0.0.0 retaildetail.fr
 0.0.0.0 retrofuture.fr
+0.0.0.0 return2025costco.com
 0.0.0.0 rev-cvnada-dep.com
 0.0.0.0 rezeptwelt.fr
 0.0.0.0 rgp-ign.fr
 0.0.0.0 rickrolling.com
 0.0.0.0 rifec.co
 0.0.0.0 rimnow.fr
+0.0.0.0 riosaladohp.com
 0.0.0.0 robertgraham.fr
 0.0.0.0 rockrose.fr
 0.0.0.0 rocks.io
@@ -2842,6 +2683,7 @@
 0.0.0.0 smile-angel.com
 0.0.0.0 smosh.fr
 0.0.0.0 snscf.fr
+0.0.0.0 sociagil.fr
 0.0.0.0 societegernerale.fr
 0.0.0.0 societergenerale.fr
 0.0.0.0 sofaglobal.best
@@ -2881,6 +2723,7 @@
 0.0.0.0 stswen.fr
 0.0.0.0 subcreation.fr
 0.0.0.0 suddenplot.com
+0.0.0.0 suenosurcolchones.com.ar.abakotest.com.ar
 0.0.0.0 suicidaltendencies.fr
 0.0.0.0 sumofus.fr
 0.0.0.0 sunhe.jinr.ru
@@ -2904,6 +2747,7 @@
 0.0.0.0 tahoesup.com
 0.0.0.0 tanieaukcje.com
 0.0.0.0 taniezakupy.pl
+0.0.0.0 tarbosau.bbqpitcleaners.info
 0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 tax-canada2023.co
 0.0.0.0 tbebestknives.fr
@@ -2944,6 +2788,7 @@
 0.0.0.0 tiku.io
 0.0.0.0 timberlande.fr
 0.0.0.0 tiplanet.fr
+0.0.0.0 tnews.day
 0.0.0.0 toknowall.com
 0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 toppillstore.com
@@ -2952,18 +2797,21 @@
 0.0.0.0 torjackan.info
 0.0.0.0 totaldebrid.fr
 0.0.0.0 tourismelenslievin.fr
+0.0.0.0 tr-red.lamanoqueayuda.org
 0.0.0.0 tradedealvip.su
 0.0.0.0 tradeinn.fr
 0.0.0.0 traffic-bam.link
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 tranisere.fr
 0.0.0.0 trauiqce.click
+0.0.0.0 trevia.za.com
 0.0.0.0 trioadvisor.fr
 0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trouveunfilm.fr
 0.0.0.0 trovi.com
 0.0.0.0 truecrypt.fr
 0.0.0.0 trusturl.top
+0.0.0.0 tubero.ellystegge.info
 0.0.0.0 tubr8.fr
 0.0.0.0 tuniaf.com
 0.0.0.0 turfomani.fr
@@ -2986,6 +2834,7 @@
 0.0.0.0 uni-littoral.fr
 0.0.0.0 uniguide.fr
 0.0.0.0 unitdotto.club
+0.0.0.0 united-domaine.tech
 0.0.0.0 univ-murs.fr
 0.0.0.0 univ-paris-didero.fr
 0.0.0.0 univ-pars1.fr
@@ -2996,6 +2845,7 @@
 0.0.0.0 updateauto.preparevideosafesystem4unow.space
 0.0.0.0 uqz.com
 0.0.0.0 urbact.fr
+0.0.0.0 url3781.host.inreception.com
 0.0.0.0 url9810.tokocrypto.com
 0.0.0.0 urssff.fr
 0.0.0.0 urzl.fr
@@ -3030,6 +2880,7 @@
 0.0.0.0 viowyf.khaiafi.com
 0.0.0.0 vip.fortunatetime.xyz
 0.0.0.0 vipon.fr
+0.0.0.0 virewin.com
 0.0.0.0 viriginradio.fr
 0.0.0.0 visana.fr
 0.0.0.0 visualsonics.fr
@@ -3055,6 +2906,7 @@
 0.0.0.0 watchpro.fr
 0.0.0.0 waterstudio.fr
 0.0.0.0 waudeesestew.com
+0.0.0.0 wealthsimple-dwvip.com
 0.0.0.0 weapfuh.originalriver-tone.top
 0.0.0.0 webassembly.stream
 0.0.0.0 webatic.fr
@@ -3113,6 +2965,7 @@
 0.0.0.0 www.blender3d.fr
 0.0.0.0 www.bumerang.cc
 0.0.0.0 www.cablyshaw.com
+0.0.0.0 www.calnanflack.com
 0.0.0.0 www.cambonanza.com
 0.0.0.0 www.canadianshawid.com
 0.0.0.0 www.caramail.com
@@ -3125,9 +2978,13 @@
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
+0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.e-transfer-cra.com
+0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.faggotry.com
+0.0.0.0 www.fenquavo.com
+0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
 0.0.0.0 www.fischereszter.hu
@@ -3147,6 +3004,7 @@
 0.0.0.0 www.hakerzy.net
 0.0.0.0 www.handbrake.es
 0.0.0.0 www.hashing.win
+0.0.0.0 www.hiewa.com.my
 0.0.0.0 www.icecars.com
 0.0.0.0 www.infopaypal.com
 0.0.0.0 www.informereng.com
@@ -3188,6 +3046,7 @@
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.presidency.site
 0.0.0.0 www.proflashdata.com			# Facebook trojan
+0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.qbittorrent.com
 0.0.0.0 www.randki-sex.com
@@ -3205,6 +3064,7 @@
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thunderbird.es
+0.0.0.0 www.tiompanalley.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.tvshowslist.com
@@ -3226,6 +3086,7 @@
 0.0.0.0 www.wewillrocknow.com
 0.0.0.0 www.willysy.com
 0.0.0.0 www.winlottofrequently.com
+0.0.0.0 www.yendermsoul.com
 0.0.0.0 www.youfiletor.com
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
@@ -3246,6 +3107,7 @@
 0.0.0.0 youcanoptout.com
 0.0.0.0 youmakeashion.fr
 0.0.0.0 yourdailytrailer.yournewtab.com
+0.0.0.0 yourofficialsurveysplace.store
 0.0.0.0 youvisit.fr
 0.0.0.0 yrwap.cn
 0.0.0.0 yummie.fr
@@ -5386,6 +5248,7 @@
 0.0.0.0 ads.morningstar.com
 0.0.0.0 ads.mouseplanet.com
 0.0.0.0 ads.movieweb.com
+0.0.0.0 ads.mozilla.org
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mp3searchy.com
 0.0.0.0 ads.mtv.uol.com.br
@@ -8133,7 +7996,6 @@
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mochibot.com
 0.0.0.0 modescrips.info
-0.0.0.0 modlily.com
 0.0.0.0 modlily.net
 0.0.0.0 mokavilag.com
 0.0.0.0 monarchy.nl
@@ -8659,6 +8521,7 @@
 0.0.0.0 pro.letv.com
 0.0.0.0 probusinesshub.com
 0.0.0.0 prod-a.applovin.com
+0.0.0.0 prodentim101.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
 0.0.0.0 profile.uproxx.com
@@ -11820,5 +11683,189 @@
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 goatse.cx       # More information on sites such as 
+0.0.0.0 www.goatse.cx   # these can be found in this article
+0.0.0.0 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
+0.0.0.0 www.oralse.cx
+0.0.0.0 goatse.ca
+0.0.0.0 www.goatse.ca
+0.0.0.0 oralse.ca
+0.0.0.0 www.oralse.ca
+0.0.0.0 goat.cx
+0.0.0.0 www.goat.cx
+0.0.0.0 shafou.com
+0.0.0.0 www.shafou.com
+0.0.0.0 1girl1pitcher.com
+0.0.0.0 1girl1pitcher.org
+0.0.0.0 1guy1cock.com
+0.0.0.0 1man1jar.org
+0.0.0.0 1man2needles.com
+0.0.0.0 1priest1nun.com
+0.0.0.0 1priest1nun.net
+0.0.0.0 2girls1cup-free.com
+0.0.0.0 2girls1cup.cc
+0.0.0.0 2girls1cup.com
+0.0.0.0 2girls1cup.nl
+0.0.0.0 2girls1cup.ws
+0.0.0.0 2girls1finger.com
+0.0.0.0 2girls1finger.org
+0.0.0.0 2guys1stump.org
+0.0.0.0 3guys1hammer.ws
+0.0.0.0 4girlsfingerpaint.com
+0.0.0.0 4girlsfingerpaint.org
+0.0.0.0 bagslap.com
+0.0.0.0 ballsack.org
+0.0.0.0 bestgore.fun
+0.0.0.0 bestshockers.com
+0.0.0.0 bluewaffle.biz
+0.0.0.0 bottleguy.com
+0.0.0.0 bowlgirl.com
+0.0.0.0 cadaver.org
+0.0.0.0 clownsong.com
+0.0.0.0 cyberscat.com
+0.0.0.0 dadparty.com
+0.0.0.0 detroithardcore.com
+0.0.0.0 donotwatch.org
+0.0.0.0 dontwatch.us
+0.0.0.0 eelsoup.net
+0.0.0.0 fruitlauncher.com
+0.0.0.0 funnelchair.com
+0.0.0.0 goatse.bz
+0.0.0.0 goatse.ru
+0.0.0.0 goatsegirl.org
+0.0.0.0 hai2u.com
+0.0.0.0 homewares.org
+0.0.0.0 howtotroll.org
+0.0.0.0 japscat.org
+0.0.0.0 jarsquatter.com
+0.0.0.0 jiztini.com
+0.0.0.0 kids-in-sandbox.com
+0.0.0.0 kidsinsandbox.info
+0.0.0.0 lemonparty.biz
+0.0.0.0 lemonparty.org
+0.0.0.0 lolhello.com
+0.0.0.0 lolshock.com
+0.0.0.0 loltrain.com
+0.0.0.0 meatspin.biz
+0.0.0.0 meatspin.com
+0.0.0.0 merryholidays.org
+0.0.0.0 milkfountain.com
+0.0.0.0 mudfall.com
+0.0.0.0 mudmonster.org
+0.0.0.0 nimp.org
+0.0.0.0 nobrain.dk
+0.0.0.0 nutabuse.com
+0.0.0.0 octopusgirl.com
+0.0.0.0 on.nimp.org
+0.0.0.0 painolympics.info
+0.0.0.0 painolympics.org
+0.0.0.0 phonejapan.com
+0.0.0.0 pnrtscr.com
+0.0.0.0 pressurespot.com
+0.0.0.0 prolapseman.com
+0.0.0.0 scrollbelow.com
+0.0.0.0 selfpwn.org
+0.0.0.0 shockgore.com
+0.0.0.0 sourmath.com
+0.0.0.0 strawpoii.me
+0.0.0.0 suckdude.com
+0.0.0.0 thatsjustgay.com
+0.0.0.0 thatsphucked.com
+0.0.0.0 thehomo.org
+0.0.0.0 themacuser.org
+0.0.0.0 thepounder.com
+0.0.0.0 tubgirl.me
+0.0.0.0 tubgirl.org
+0.0.0.0 turdgasm.com
+0.0.0.0 vomitgirl.org
+0.0.0.0 walkthedinosaur.com
+0.0.0.0 whipcrack.org
+0.0.0.0 wormgush.com
+0.0.0.0 www.1girl1pitcher.org
+0.0.0.0 www.1guy1cock.com
+0.0.0.0 www.1man1jar.org
+0.0.0.0 www.1man2needles.com
+0.0.0.0 www.1priest1nun.com
+0.0.0.0 www.1priest1nun.net
+0.0.0.0 www.2girls1cup-free.com
+0.0.0.0 www.2girls1cup.cc
+0.0.0.0 www.2girls1cup.nl
+0.0.0.0 www.2girls1cup.ws
+0.0.0.0 www.2girls1finger.org
+0.0.0.0 www.2guys1stump.org
+0.0.0.0 www.3guys1hammer.ws
+0.0.0.0 www.4girlsfingerpaint.org
+0.0.0.0 www.bagslap.com
+0.0.0.0 www.ballsack.org
+0.0.0.0 www.bestshockers.com
+0.0.0.0 www.bluewaffle.biz
+0.0.0.0 www.bottleguy.com
+0.0.0.0 www.bowlgirl.com
+0.0.0.0 www.cadaver.org
+0.0.0.0 www.clownsong.com
+0.0.0.0 www.cyberscat.com
+0.0.0.0 www.dadparty.com
+0.0.0.0 www.detroithardcore.com
+0.0.0.0 www.donotwatch.org
+0.0.0.0 www.dontwatch.us
+0.0.0.0 www.eelsoup.net
+0.0.0.0 www.fruitlauncher.com
+0.0.0.0 www.funnelchair.com
+0.0.0.0 www.goatse.bz
+0.0.0.0 www.goatse.ru
+0.0.0.0 www.goatsegirl.org
+0.0.0.0 www.hai2u.com
+0.0.0.0 www.homewares.org
+0.0.0.0 www.howtotroll.org
+0.0.0.0 www.japscat.org
+0.0.0.0 www.jiztini.com
+0.0.0.0 www.kids-in-sandbox.com
+0.0.0.0 www.kidsinsandbox.info
+0.0.0.0 www.lemonparty.biz
+0.0.0.0 www.lemonparty.org
+0.0.0.0 www.lolhello.com
+0.0.0.0 www.lolshock.com
+0.0.0.0 www.loltrain.com
+0.0.0.0 www.meatspin.biz
+0.0.0.0 www.meatspin.com
+0.0.0.0 www.merryholidays.org
+0.0.0.0 www.milkfountain.com
+0.0.0.0 www.mudfall.com
+0.0.0.0 www.mudmonster.org
+0.0.0.0 www.nimp.org
+0.0.0.0 www.nobrain.dk
+0.0.0.0 www.nutabuse.com
+0.0.0.0 www.octopusgirl.com
+0.0.0.0 www.on.nimp.org
+0.0.0.0 www.painolympics.info
+0.0.0.0 www.painolympics.org
+0.0.0.0 www.phonejapan.com
+0.0.0.0 www.pressurespot.com
+0.0.0.0 www.prolapseman.com
+0.0.0.0 www.punishtube.com
+0.0.0.0 www.scrollbelow.com
+0.0.0.0 www.selfpwn.org
+0.0.0.0 www.sourmath.com
+0.0.0.0 www.strawpoii.me
+0.0.0.0 www.suckdude.com
+0.0.0.0 www.thatsjustgay.com
+0.0.0.0 www.thatsphucked.com
+0.0.0.0 www.theexgirlfriends.com
+0.0.0.0 www.thehomo.org
+0.0.0.0 www.themacuser.org
+0.0.0.0 www.thepounder.com
+0.0.0.0 www.tubgirl.me
+0.0.0.0 www.tubgirl.org
+0.0.0.0 www.turdgasm.com
+0.0.0.0 www.vomitgirl.org
+0.0.0.0 www.walkthedinosaur.com
+0.0.0.0 www.whipcrack.org
+0.0.0.0 www.wormgush.com
+0.0.0.0 www.xvideoslive.com
+0.0.0.0 www.youaresogay.com
+0.0.0.0 www.ypmate.com
+0.0.0.0 www.zentastic.com
+0.0.0.0 youaresogay.com
+0.0.0.0 zentastic.com
 
 

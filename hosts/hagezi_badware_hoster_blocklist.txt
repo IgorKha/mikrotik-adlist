@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.70
-! Last modified: 2026-01-11T06:12:47.469Z
+! Version: 1.0.18.74
+! Last modified: 2026-01-18T06:12:30.400Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -20,6 +20,7 @@
 0.0.0.0 0hna.com
 0.0.0.0 one4u.0lx.net
 0.0.0.0 0pe.kr
+0.0.0.0 0pi.com
 0.0.0.0 1.vg
 0.0.0.0 10001mb.com
 0.0.0.0 100freemb.com
@@ -211,7 +212,6 @@
 0.0.0.0 berlin.tl
 0.0.0.0 betrunken.org
 0.0.0.0 bg.gp
-0.0.0.0 bgydnb.vip
 0.0.0.0 bigheadhosting.net
 0.0.0.0 bilder.lc
 0.0.0.0 billblett.com
@@ -588,6 +588,7 @@
 0.0.0.0 fr.gp
 0.0.0.0 fr.nf
 0.0.0.0 framer.website
+0.0.0.0 free.bg
 0.0.0.0 free.cr
 0.0.0.0 free.lc
 0.0.0.0 free.nf
@@ -738,7 +739,6 @@
 0.0.0.0 infos.cx
 0.0.0.0 infos.lc
 0.0.0.0 infos.st
-0.0.0.0 inicioseguridad-cliente.com
 0.0.0.0 instantfreesite.com
 0.0.0.0 int.ps
 0.0.0.0 internetsite.eu
@@ -777,7 +777,6 @@
 0.0.0.0 justns.ru
 0.0.0.0 k.gp
 0.0.0.0 k1.cx
-0.0.0.0 kanka.space
 0.0.0.0 kann-helfen.de
 0.0.0.0 keepfree.de
 0.0.0.0 kilu.at

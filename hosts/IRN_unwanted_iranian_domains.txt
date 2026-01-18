@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt
 ! Version: 1.0.14.78
-! Last modified: 2026-01-11T06:12:38.822Z
+! Last modified: 2026-01-18T06:12:21.590Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 scripts-ads.s3.ir-thr-at1.arvanstorage.com
 0.0.0.0 error-tracking.arvancloud.com

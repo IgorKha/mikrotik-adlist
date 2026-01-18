@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.25
-! Last modified: 2026-01-11T06:12:37.784Z
+! Version: 1.0.15.26
+! Last modified: 2026-01-18T06:12:20.496Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -97,11 +97,13 @@
 0.0.0.0 australiadatingplanet.com
 0.0.0.0 b2d8.com
 0.0.0.0 babes2date.com
+0.0.0.0 babyboomerpeoplemeet.biz
 0.0.0.0 badoocdn.com
 0.0.0.0 badoo.com
 0.0.0.0 baltic-women.com
 0.0.0.0 bangatrans.com
 0.0.0.0 baseballovers.com
+0.0.0.0 bbpeoplemeet.biz
 0.0.0.0 bbpeoplemeet.com
 0.0.0.0 bbwcupid.com
 0.0.0.0 be2.at
@@ -642,6 +644,7 @@
 0.0.0.0 jewishdating247.com
 0.0.0.0 jewishfriendfinder.com
 0.0.0.0 jewishfriends.com
+0.0.0.0 jpeoplemeet.biz
 0.0.0.0 jsingles.com
 0.0.0.0 jsoulmate.com
 0.0.0.0 jswsn.org
@@ -705,7 +708,9 @@
 0.0.0.0 love2knowu.co.za
 0.0.0.0 loveandfriends.com
 0.0.0.0 loveandfriends.co.uk
+0.0.0.0 loveandseek.biz
 0.0.0.0 loveandseek.com
+0.0.0.0 loveandseek.tv
 0.0.0.0 lovearts.com
 0.0.0.0 loveawake.com
 0.0.0.0 love.cz
@@ -1089,6 +1094,7 @@
 0.0.0.0 seniorfriendfinder.com
 0.0.0.0 seniorlesbians.com
 0.0.0.0 senior-love-match.co.uk
+0.0.0.0 seniorpeoplemeet.biz
 0.0.0.0 seniorpolyamory.com
 0.0.0.0 seniorsbi.com
 0.0.0.0 seniorsingles.biz
@@ -1117,6 +1123,7 @@
 0.0.0.0 singlematuredates.com
 0.0.0.0 singlemomsanddads.com
 0.0.0.0 singleparentmatch.net
+0.0.0.0 singleparentmeet.biz
 0.0.0.0 singleparentmeet.com
 0.0.0.0 singleparentscanada.ca
 0.0.0.0 singler.dk

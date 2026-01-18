@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.47
-! Last modified: 2026-01-11T06:12:42.078Z
+! Version: 1.0.19.54
+! Last modified: 2026-01-18T06:12:24.920Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -53,6 +53,7 @@
 0.0.0.0 amorpulse.com
 0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
+0.0.0.0 aoptee.com
 0.0.0.0 app-uniswapping.org
 0.0.0.0 appdrive.info
 0.0.0.0 arduino.uk.eu.org
@@ -70,7 +71,6 @@
 0.0.0.0 aussiesportfashion.com
 0.0.0.0 autorizadigital.co
 0.0.0.0 autorizaonline.co
-0.0.0.0 autorizeonline.com
 0.0.0.0 avarik.web.app
 0.0.0.0 avisocnh.co
 0.0.0.0 azfancy.com
@@ -112,6 +112,7 @@
 0.0.0.0 binomoweblogin.com
 0.0.0.0 binorobot.com
 0.0.0.0 bisertravel.com.mk
+0.0.0.0 bitdefender.top
 0.0.0.0 bite-life.com
 0.0.0.0 bitsoft360.com
 0.0.0.0 bitsoft360.io
@@ -217,10 +218,10 @@
 0.0.0.0 designbyus.online
 0.0.0.0 desiupload.in
 0.0.0.0 detranboletim.co
-0.0.0.0 detranlibera.co
 0.0.0.0 devifoodgrains.com
 0.0.0.0 dezpez.com
 0.0.0.0 dieserbenni.ru
+0.0.0.0 dischargebackhanded.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 distryct.shop
@@ -255,7 +256,6 @@
 0.0.0.0 edgeupgrade.com
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 ekommmedia.com
-0.0.0.0 ellezz.com
 0.0.0.0 emberio.com
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 envisiongear.com
@@ -265,7 +265,6 @@
 0.0.0.0 estiloserena.com.br
 0.0.0.0 etaindia.org
 0.0.0.0 etaindiaonline.com
-0.0.0.0 etv-in.com
 0.0.0.0 eudoraz.com
 0.0.0.0 eudshop.shop
 0.0.0.0 eventmusk-x.com
@@ -299,9 +298,9 @@
 0.0.0.0 faze5.com
 0.0.0.0 faze77.com
 0.0.0.0 faze8.com
+0.0.0.0 faze9.com
 0.0.0.0 fazpowerdenet.tumblr.com
 0.0.0.0 fdrc-gov.org
-0.0.0.0 feevefouhe.net
 0.0.0.0 felara.com.do
 0.0.0.0 field-garnet-duckling.glitch.me
 0.0.0.0 filedenzu.com
@@ -393,7 +392,6 @@
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 helpuspsnow.ru
 0.0.0.0 hernoclothing.com
-0.0.0.0 heukmsactivator.com
 0.0.0.0 heyfusio.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
@@ -531,6 +529,7 @@
 0.0.0.0 megoindonesia.com
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
+0.0.0.0 microsoft.teams-live.com
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 miucart.com
@@ -642,13 +641,11 @@
 0.0.0.0 nobrerefino.com
 0.0.0.0 nofotballshop.com
 0.0.0.0 norfotball.com
-0.0.0.0 norgefotball.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 notasdenatran.co
 0.0.0.0 notify-user-adjustments.vercel.app
 0.0.0.0 novabeds.ca
-0.0.0.0 nowefilmyonline.pl
 0.0.0.0 nxtgenerator.top
 0.0.0.0 nzxsxn.98kk89.com
 0.0.0.0 oablages.org.br
@@ -709,7 +706,6 @@
 0.0.0.0 player-qr.com
 0.0.0.0 polish-money-matters.blogspot.com
 0.0.0.0 popeurope.com
-0.0.0.0 poppop.online
 0.0.0.0 porkbunrr.web.app
 0.0.0.0 post-nachsenden.de
 0.0.0.0 powerboostup.com
@@ -779,6 +775,7 @@
 0.0.0.0 shy-boat-90ce.jiko728928922.workers.dev
 0.0.0.0 sieuto.com
 0.0.0.0 sigmaoffers.com
+0.0.0.0 signals-group.com
 0.0.0.0 signpify.com
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
@@ -906,8 +903,8 @@
 0.0.0.0 uniswap-claim2024.run
 0.0.0.0 uniswap-claim24.run
 0.0.0.0 uniswap-e.com
-0.0.0.0 uniswap-eth.com
 0.0.0.0 uniswap-v3.com
+0.0.0.0 uniswap-wallet.pro
 0.0.0.0 uniswap.cool
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.markets
@@ -968,7 +965,6 @@
 0.0.0.0 uniswap777.xyz
 0.0.0.0 uniswapagent.com
 0.0.0.0 uniswapai.xyz
-0.0.0.0 uniswapapp-foundation.org
 0.0.0.0 uniswapapp.xyz
 0.0.0.0 uniswapbot.xyz
 0.0.0.0 uniswapcapital.xyz
@@ -989,13 +985,13 @@
 0.0.0.0 uniswaplending.xyz
 0.0.0.0 uniswapnft.xyz
 0.0.0.0 uniswapr.org
+0.0.0.0 uniswaps-v3.net
 0.0.0.0 uniswapstake.xyz
 0.0.0.0 uniswapstaking.xyz
 0.0.0.0 uniswaptoken.xyz
 0.0.0.0 uniswaptrading.xyz
 0.0.0.0 uniswapv3.xyz
-0.0.0.0 uniswapv4.com
-0.0.0.0 uniswapv4sapp.com
+0.0.0.0 uniswapwallletconnect.su
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 updatesnow.click
 0.0.0.0 uplevelreward.com
@@ -1008,7 +1004,6 @@
 0.0.0.0 uydrnhsb.info
 0.0.0.0 v5-uniswap.info
 0.0.0.0 valeofoodsgroup.com
-0.0.0.0 validacaodetran.co
 0.0.0.0 validsteamkeys.com
 0.0.0.0 vanced-official.com
 0.0.0.0 vanced.to
@@ -1053,6 +1048,7 @@
 0.0.0.0 wadahlapak.top
 0.0.0.0 wallpaperflare.com
 0.0.0.0 warriordecor.com
+0.0.0.0 watchmark.shop
 0.0.0.0 watchseniorfit.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 wazofurniture.com
@@ -1093,7 +1089,6 @@
 0.0.0.0 youdebrid.com
 0.0.0.0 yourdatefind.com
 0.0.0.0 yoursecrethookup.com
-0.0.0.0 youtubee.com
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com
