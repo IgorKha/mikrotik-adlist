@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt
-! Version: 1.0.18.63
-! Last modified: 2026-01-11T06:12:47.548Z
+! Version: 1.0.18.72
+! Last modified: 2026-01-18T06:12:30.483Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 *.actor
 0.0.0.0 *.africa
@@ -223,7 +223,6 @@
 0.0.0.0 *.sa.com
 0.0.0.0 *.sale
 0.0.0.0 *.sbs
-0.0.0.0 *.schule
 0.0.0.0 *.science
 0.0.0.0 *.sew
 0.0.0.0 *.sexy

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
-! Version: 1.0.15.66
-! Last modified: 2026-01-11T06:12:39.724Z
+! Version: 1.0.15.67
+! Last modified: 2026-01-18T06:12:22.534Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 ad.adwiser.kr
 0.0.0.0 digitalcamp.co.kr
@@ -373,3 +373,4 @@
 0.0.0.0 tenping.kr
 0.0.0.0 infolinks.com
 0.0.0.0 adcastmarket.com
+0.0.0.0 ads.aceplanet.co.kr
