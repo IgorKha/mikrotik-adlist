@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.74
-! Last modified: 2026-01-18T06:12:30.400Z
+! Version: 1.0.18.75
+! Last modified: 2026-01-25T06:12:57.151Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -168,11 +168,9 @@
 0.0.0.0 anschauen.in
 0.0.0.0 anschiessen.de
 0.0.0.0 ar.gp
-0.0.0.0 arabcause.shop
 0.0.0.0 arabinn.club
 0.0.0.0 arcadepages.com
 0.0.0.0 argentpropertiesvb.com
-0.0.0.0 arizonafun.shop
 0.0.0.0 arrangiert.de
 0.0.0.0 artsold.top
 0.0.0.0 asia.cm
@@ -560,7 +558,6 @@
 0.0.0.0 filme.lc
 0.0.0.0 financecryptoworld.com
 0.0.0.0 findarea.shop
-0.0.0.0 finlandway.shop
 0.0.0.0 firearms.com
 0.0.0.0 firm.nu
 0.0.0.0 fishmeet.shop
@@ -706,7 +703,6 @@
 0.0.0.0 hu.kg
 0.0.0.0 humorme.info
 0.0.0.0 hund.in
-0.0.0.0 hundredtrue.shop
 0.0.0.0 hupont.hu
 0.0.0.0 hyderabadadda.com
 0.0.0.0 hyip.com
@@ -821,7 +817,6 @@
 0.0.0.0 lovable.app
 0.0.0.0 loveslife.biz
 0.0.0.0 lovestoblog.com
-0.0.0.0 loxblog.com
 0.0.0.0 lspmr.org
 0.0.0.0 lu.kg
 0.0.0.0 luzzati.com
@@ -1180,7 +1175,6 @@
 0.0.0.0 vastserve.com
 0.0.0.0 ve.gp
 0.0.0.0 verifypass.pw
-0.0.0.0 veritafinancebank.com
 0.0.0.0 verkniffen.de
 0.0.0.0 videopaul.shop
 0.0.0.0 virtue.nu

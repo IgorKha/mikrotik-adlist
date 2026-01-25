@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.70
-! Last modified: 2026-01-18T06:12:12.415Z
+! Version: 1.0.17.71
+! Last modified: 2026-01-25T06:12:35.015Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 host40x.cfd
+0.0.0.0 host72x.cfd
 0.0.0.0 goodsstor.vip
 0.0.0.0 heartlessanthemantiquity.com
 0.0.0.0 figureraisinupper.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.30
-! Last modified: 2026-01-18T06:12:30.308Z
+! Version: 1.0.16.32
+! Last modified: 2026-01-25T06:12:57.032Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -13,7 +13,6 @@
 0.0.0.0 16-b.it
 0.0.0.0 1cooldns.com
 0.0.0.0 1dumb.com
-0.0.0.0 2288.org
 0.0.0.0 24-7.ro
 0.0.0.0 25u.com
 0.0.0.0 2fine.de
@@ -23,35 +22,25 @@
 0.0.0.0 3-a.net
 0.0.0.0 32-b.it
 0.0.0.0 3322.net
-0.0.0.0 3322.org
 0.0.0.0 360digit.com
-0.0.0.0 3d-game.com
 0.0.0.0 3dxtras.com
 0.0.0.0 3n.cc
 0.0.0.0 3trust.com
 0.0.0.0 3utilities.com
 0.0.0.0 404.mn
-0.0.0.0 4cloud.click
 0.0.0.0 4dq.com
-0.0.0.0 4irc.com
 0.0.0.0 4khdcamera.com
 0.0.0.0 4mydomain.com
-0.0.0.0 4nmn.com
 0.0.0.0 4pu.com
 0.0.0.0 4twenty.us
 0.0.0.0 64-b.it
-0.0.0.0 6600.org
 0.0.0.0 688.org
-0.0.0.0 7766.org
 0.0.0.0 77qac.com
 0.0.0.0 77uam.com
 0.0.0.0 77ynd.com
 0.0.0.0 79ama.com
-0.0.0.0 8800.org
-0.0.0.0 8866.org
 0.0.0.0 88uan.com
 0.0.0.0 88zkt.com
-0.0.0.0 9966.org
 0.0.0.0 99tac.com
 0.0.0.0 abatek.com
 0.0.0.0 abmetalmecanica.com
@@ -101,7 +90,6 @@
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
 0.0.0.0 ax.lt
-0.0.0.0 b0ne.com
 0.0.0.0 b0tnet.com
 0.0.0.0 b33r.us
 0.0.0.0 bad.mn
@@ -114,7 +102,6 @@
 0.0.0.0 barrell-of-knowledge.info
 0.0.0.0 baselinux.net
 0.0.0.0 bayipazar.com
-0.0.0.0 bbsindex.com
 0.0.0.0 beerprojects.com
 0.0.0.0 benjamin.it
 0.0.0.0 better-than.tv
@@ -150,7 +137,6 @@
 0.0.0.0 broke-it.net
 0.0.0.0 brweb.org
 0.0.0.0 bsn2bsn.com
-0.0.0.0 bumbleshrimp.com
 0.0.0.0 burlingtondrywall.com
 0.0.0.0 buyshouses.net
 0.0.0.0 byte4byte.com
@@ -175,7 +161,6 @@
 0.0.0.0 changeip.us
 0.0.0.0 charihoproducts.com
 0.0.0.0 charter.com
-0.0.0.0 chatnook.com
 0.0.0.0 chavo.biz
 0.0.0.0 checkor.com
 0.0.0.0 chickenkiller.com
@@ -204,7 +189,6 @@
 0.0.0.0 cnstefancelmare.ro
 0.0.0.0 changeip.co.uk
 0.0.0.0 dynamicdns.co.uk
-0.0.0.0 nav.co.id
 0.0.0.0 no-ip.co.uk
 0.0.0.0 coalnet.ru
 0.0.0.0 codns.com
@@ -214,9 +198,6 @@
 0.0.0.0 ddns.com.br
 0.0.0.0 ddns.com.co
 0.0.0.0 dynamicdns.com.co
-0.0.0.0 fedea.com.ar
-0.0.0.0 img.com.ar
-0.0.0.0 kalbas.com.vn
 0.0.0.0 winco.com.br
 0.0.0.0 compress.to
 0.0.0.0 compuinter.com
@@ -245,9 +226,7 @@
 0.0.0.0 damnserver.com
 0.0.0.0 dark-byte.net
 0.0.0.0 darksair.org
-0.0.0.0 darktech.org
 0.0.0.0 davidsagar.com
-0.0.0.0 ddns.cam
 0.0.0.0 ddns.info
 0.0.0.0 ddns.me
 0.0.0.0 ddns.mobi
@@ -269,7 +248,6 @@
 0.0.0.0 ddnss.org
 0.0.0.0 ddnssec.de
 0.0.0.0 de-a.org
-0.0.0.0 deaftone.com
 0.0.0.0 dearabba.org
 0.0.0.0 dedyn.io
 0.0.0.0 demosoftonline.com
@@ -278,7 +256,6 @@
 0.0.0.0 dhcp.biz
 0.0.0.0 dhis.org
 0.0.0.0 dhs.org
-0.0.0.0 didns.ru
 0.0.0.0 digikabel.hu
 0.0.0.0 digitalgroupe.com
 0.0.0.0 ditchyourip.com
@@ -288,7 +265,6 @@
 0.0.0.0 dnet.hu
 0.0.0.0 dnmcoffman.com
 0.0.0.0 dns.army
-0.0.0.0 dns.navy
 0.0.0.0 dns-auth.com
 0.0.0.0 dns-auth.net
 0.0.0.0 dns-cloud.net
@@ -320,7 +296,6 @@
 0.0.0.0 dnshome.icu
 0.0.0.0 dnsiskinky.com
 0.0.0.0 dnsking.ch
-0.0.0.0 dnslive.net
 0.0.0.0 dnsmax.com
 0.0.0.0 dnsname.org
 0.0.0.0 dnsnew.org
@@ -348,7 +323,6 @@
 0.0.0.0 drunkensailor.org
 0.0.0.0 dsmtp.com
 0.0.0.0 dtdns.com
-0.0.0.0 dtdns.org
 0.0.0.0 dubya.info
 0.0.0.0 dubya.net
 0.0.0.0 dubya.us
@@ -361,7 +335,6 @@
 0.0.0.0 dvr-ddns.com
 0.0.0.0 dvrcam.info
 0.0.0.0 dvrdns.org
-0.0.0.0 dvrlists.com
 0.0.0.0 dyn.ch
 0.0.0.0 dyn.com
 0.0.0.0 dyn.mk
@@ -437,7 +410,6 @@
 0.0.0.0 dynup.net
 0.0.0.0 dynv4.net
 0.0.0.0 dynv6.com
-0.0.0.0 dynv6.net
 0.0.0.0 dyyndns.net
 0.0.0.0 e-m-a-i-l.org
 0.0.0.0 e-romagnoli.com
@@ -446,7 +418,6 @@
 0.0.0.0 easydns.net
 0.0.0.0 easydns.org
 0.0.0.0 eating-organic.net
-0.0.0.0 eatuo.com
 0.0.0.0 echoparklake.com
 0.0.0.0 edns.biz
 0.0.0.0 effers.com
@@ -478,8 +449,6 @@
 0.0.0.0 est-mon-blogueur.com
 0.0.0.0 eth64.de
 0.0.0.0 etitrans.com
-0.0.0.0 etowns.net
-0.0.0.0 etowns.org
 0.0.0.0 eurotank.ro
 0.0.0.0 eva.hk
 0.0.0.0 everton.com
@@ -488,8 +457,6 @@
 0.0.0.0 ezua.com
 0.0.0.0 ezxdev.org
 0.0.0.0 f-parts.net
-0.0.0.0 f3322.net
-0.0.0.0 f3322.org
 0.0.0.0 fairuse.org
 0.0.0.0 falcongreen.com
 0.0.0.0 fantasyleague.cc
@@ -497,7 +464,6 @@
 0.0.0.0 farted.net
 0.0.0.0 fartit.com
 0.0.0.0 fatdiary.org
-0.0.0.0 fdns.uk
 0.0.0.0 fearpenguins.com
 0.0.0.0 feste-ip.net
 0.0.0.0 fin-tech.com
@@ -609,7 +575,6 @@
 0.0.0.0 gotdns.ch
 0.0.0.0 gotdns.com
 0.0.0.0 gotdns.org
-0.0.0.0 gotgeeks.com
 0.0.0.0 govt.hu
 0.0.0.0 gr8name.biz
 0.0.0.0 grandmasgossip.com
@@ -845,7 +810,6 @@
 0.0.0.0 kellserve.com
 0.0.0.0 kicks-ass.net
 0.0.0.0 kicks-ass.org
-0.0.0.0 kir22.ru
 0.0.0.0 klapa.eu
 0.0.0.0 knabrub.com
 0.0.0.0 knowsitall.info
@@ -853,7 +817,6 @@
 0.0.0.0 kozow.com
 0.0.0.0 ksk-saratov.ru
 0.0.0.0 kyrgyzstan.kg
-0.0.0.0 l5.ca
 0.0.0.0 labradapr.com
 0.0.0.0 laketahoesue.com
 0.0.0.0 lan64.de
@@ -875,7 +838,6 @@
 0.0.0.0 lflinkup.org
 0.0.0.0 likes-pie.com
 0.0.0.0 likescandy.com
-0.0.0.0 line.pm
 0.0.0.0 linkin.tw
 0.0.0.0 linkpc.net
 0.0.0.0 linux-site.net
@@ -909,7 +871,6 @@
 0.0.0.0 mefound.com
 0.0.0.0 melakaboy.com
 0.0.0.0 merseine.com
-0.0.0.0 merseine.nu
 0.0.0.0 merseine.org
 0.0.0.0 mett.ru
 0.0.0.0 mexsipel.net
@@ -957,7 +918,6 @@
 0.0.0.0 myaddr.io
 0.0.0.0 myaddr.tools
 0.0.0.0 mydad.info
-0.0.0.0 myddns.biz
 0.0.0.0 myddns.com
 0.0.0.0 myddns.me
 0.0.0.0 myddns.rocks
@@ -998,7 +958,6 @@
 0.0.0.0 mysecuritycamera.net
 0.0.0.0 mysecuritycamera.org
 0.0.0.0 myserver.org
-0.0.0.0 mysynology.net
 0.0.0.0 myvnc.com
 0.0.0.0 mywebworld.info
 0.0.0.0 mywire.org
@@ -1027,7 +986,6 @@
 0.0.0.0 nflfan.org
 0.0.0.0 nhlfan.net
 0.0.0.0 no-domain.name
-0.0.0.0 no-ip.be
 0.0.0.0 no-ip.biz
 0.0.0.0 no-ip.ca
 0.0.0.0 no-ip.com
@@ -1083,7 +1041,6 @@
 0.0.0.0 onthewifi.com
 0.0.0.0 ooguy.com
 0.0.0.0 opior.com
-0.0.0.0 malam.or.id
 0.0.0.0 oray.com
 0.0.0.0 d-n-s.org.uk
 0.0.0.0 dynamicdns.org.uk
@@ -1098,7 +1055,6 @@
 0.0.0.0 partycenteronline.com
 0.0.0.0 patelmortgage.com
 0.0.0.0 paulkelly.org
-0.0.0.0 pcanywhere.net
 0.0.0.0 peachyweb.com
 0.0.0.0 pedie.info
 0.0.0.0 pendulumaudio.com
@@ -1182,7 +1138,6 @@
 0.0.0.0 sannon-stamm.com
 0.0.0.0 saves-the-whales.com
 0.0.0.0 scay.net
-0.0.0.0 scieron.com
 0.0.0.0 scottlewisonline.com
 0.0.0.0 scottstreit.com
 0.0.0.0 scrapitsoftware.com
@@ -1198,7 +1153,6 @@
 0.0.0.0 selfip.info
 0.0.0.0 selfip.net
 0.0.0.0 selfip.org
-0.0.0.0 sellclassics.com
 0.0.0.0 sells-for-less.com
 0.0.0.0 sells-for-u.com
 0.0.0.0 sells-it.net
@@ -1239,7 +1193,6 @@
 0.0.0.0 sexmistrz.pl
 0.0.0.0 sexxxy.biz
 0.0.0.0 shacknet.biz
-0.0.0.0 shacknet.nu
 0.0.0.0 shacknet.us
 0.0.0.0 shadir.com
 0.0.0.0 sharkltd.com
@@ -1261,7 +1214,6 @@
 0.0.0.0 slasdot.com
 0.0.0.0 sline.net
 0.0.0.0 sly.io
-0.0.0.0 slyip.com
 0.0.0.0 slyip.net
 0.0.0.0 smelly.cc
 0.0.0.0 sne.jp
@@ -1275,7 +1227,6 @@
 0.0.0.0 space-to-rent.com
 0.0.0.0 spacetechnology.net
 0.0.0.0 spdns.de
-0.0.0.0 spdns.org
 0.0.0.0 spdyn.de
 0.0.0.0 spectrumnet.bg
 0.0.0.0 spelar.se
@@ -1306,7 +1257,6 @@
 0.0.0.0 sundby.com
 0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
-0.0.0.0 suroot.com
 0.0.0.0 swtest.ru
 0.0.0.0 synoserver.com
 0.0.0.0 sysadminetworks.com
@@ -1367,7 +1317,6 @@
 0.0.0.0 ufcfan.org
 0.0.0.0 ufodns.com
 0.0.0.0 ugo.si
-0.0.0.0 uk.ms
 0.0.0.0 uk.to
 0.0.0.0 undo.it
 0.0.0.0 unibutton.com
@@ -1378,9 +1327,6 @@
 0.0.0.0 usa.cc
 0.0.0.0 uzhi.ru
 0.0.0.0 v13clan.com
-0.0.0.0 v6.army
-0.0.0.0 v6.navy
-0.0.0.0 v6.rocks
 0.0.0.0 vankin.de
 0.0.0.0 vantechddns.com
 0.0.0.0 vantechdns.com
@@ -1412,7 +1358,6 @@
 0.0.0.0 webhop.me
 0.0.0.0 webhop.net
 0.0.0.0 webhop.org
-0.0.0.0 webok.net
 0.0.0.0 webredirect.org
 0.0.0.0 webs.vc
 0.0.0.0 westblade.com
@@ -1460,7 +1405,6 @@
 0.0.0.0 zaibar.ro
 0.0.0.0 zanity.net
 0.0.0.0 zapto.org
-0.0.0.0 ze.am
 0.0.0.0 zelslonik.info
 0.0.0.0 zneth.com
 0.0.0.0 zoneedit.com

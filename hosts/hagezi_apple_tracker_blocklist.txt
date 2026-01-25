@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
 ! Version: 1.0.0.5
-! Last modified: 2026-01-18T06:12:20.972Z
+! Last modified: 2026-01-25T06:12:44.948Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com

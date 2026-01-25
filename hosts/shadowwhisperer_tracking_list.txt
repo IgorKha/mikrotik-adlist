@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.41
-! Last modified: 2026-01-18T06:12:12.941Z
+! Version: 1.0.2.44
+! Last modified: 2026-01-25T06:12:36.062Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -7291,6 +7291,7 @@
 0.0.0.0 analytics.e2estudios.com
 0.0.0.0 analytics.e2time.io
 0.0.0.0 analytics.eaglecomelko.com
+0.0.0.0 analytics.eamonlooney.com
 0.0.0.0 analytics.ean.org
 0.0.0.0 analytics.earthweb.nl
 0.0.0.0 analytics.easyapotheke.ag
@@ -15613,6 +15614,7 @@
 0.0.0.0 analytics.zeus-soft.com
 0.0.0.0 analytics.zeyenbaumann.lu
 0.0.0.0 analytics.zfl-berlin.org
+0.0.0.0 analytics-zg-api.test.zillow.net
 0.0.0.0 analytics.zhb.de
 0.0.0.0 analytics.zhdk.ch
 0.0.0.0 analytics.zhost.ovh
@@ -16627,6 +16629,7 @@
 0.0.0.0 api.peers.tv
 0.0.0.0 api.persoonaschool.com.br
 0.0.0.0 api.petloo.com.br
+0.0.0.0 api.pf.hibid.com
 0.0.0.0 api.pg.maggicaminhoes.com.br
 0.0.0.0 api.pharmgkb.org
 0.0.0.0 api.pilarglass.com.br
@@ -38991,6 +38994,7 @@
 0.0.0.0 intellimenta.com
 0.0.0.0 intellimize.co
 0.0.0.0 intellimize.com
+0.0.0.0 intellimizeio.com
 0.0.0.0 intelli-static-bucket-prod.s3.amazonaws.com
 0.0.0.0 intel.morningstar.co.uk
 0.0.0.0 intel.web.noleggiare.it
@@ -51854,6 +51858,7 @@
 0.0.0.0 metrics.curbed.com
 0.0.0.0 metrics.curiowellness.com
 0.0.0.0 metrics.currys.co.uk
+0.0.0.0 metrics.cursor.sh
 0.0.0.0 metrics.cycleworld.com
 0.0.0.0 metrics.cyrillus.de
 0.0.0.0 metrics.cytivalifesciences.com
@@ -61244,6 +61249,7 @@
 0.0.0.0 ota.mistergreen.nl
 0.0.0.0 ota.re-covers.nl
 0.0.0.0 otel-hfo.fareharbor.engineering
+0.0.0.0 otelrules.svc.static.microsoft
 0.0.0.0 oteplia.com
 0.0.0.0 otfim.gurunanda.com
 0.0.0.0 otfur.craneandcanopy.com
@@ -84383,7 +84389,6 @@
 0.0.0.0 snowplow.testfinanceit.com
 0.0.0.0 snowplow.tophat.com
 0.0.0.0 snowplow.truepay.dev
-0.0.0.0 snowplow.trx.gitlab.net
 0.0.0.0 snowplow.uniid.it
 0.0.0.0 snowplow.visionplanner.nl
 0.0.0.0 snowplow.visma.com
@@ -97447,6 +97452,7 @@
 0.0.0.0 stats.ieb.be
 0.0.0.0 stat.siementilasalo.fi
 0.0.0.0 stats.ifactory.net
+0.0.0.0 statsig.anthropic.com
 0.0.0.0 statsigapi.net
 0.0.0.0 statsig.com
 0.0.0.0 stats.iggdrasil.net
@@ -108372,6 +108378,7 @@
 0.0.0.0 tr.whoopsee.it
 0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 trx-cdn.zip.co
+0.0.0.0 trx.gitlab.net
 0.0.0.0 trx-hub.com
 0.0.0.0 trx.offersqube.com
 0.0.0.0 trx.theskyfallen.com
@@ -109156,6 +109163,7 @@
 0.0.0.0 umami.izrm.net
 0.0.0.0 umami.jamie96.com
 0.0.0.0 umami.jawira.com
+0.0.0.0 umami.jeffvli.org
 0.0.0.0 umami.jest.one
 0.0.0.0 umami.joickle.com
 0.0.0.0 umami.jro.li
