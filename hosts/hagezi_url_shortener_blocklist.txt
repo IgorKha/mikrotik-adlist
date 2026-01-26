@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.3.23
-! Last modified: 2026-01-18T06:12:30.582Z
+! Version: 1.0.3.26
+! Last modified: 2026-01-25T06:12:57.446Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -182,14 +182,12 @@
 0.0.0.0 2tf.net
 0.0.0.0 2tiny.in
 0.0.0.0 2tu.us
-0.0.0.0 2ty.in
 0.0.0.0 2u.gg
 0.0.0.0 2u.lc
 0.0.0.0 2u.pw
 0.0.0.0 2ur.jp
 0.0.0.0 2vu.me
 0.0.0.0 2w3.ir
-0.0.0.0 2wo.ir
 0.0.0.0 2wsb.tv
 0.0.0.0 2ww.me
 0.0.0.0 2x0.net
@@ -220,7 +218,6 @@
 0.0.0.0 3b-tech.net
 0.0.0.0 3c.pw
 0.0.0.0 3c5.com
-0.0.0.0 3d-ul.ir
 0.0.0.0 3d1200.xyz
 0.0.0.0 3dsecure.org
 0.0.0.0 k.3es.io
@@ -351,7 +348,6 @@
 0.0.0.0 7vd.cn
 0.0.0.0 8.ly
 0.0.0.0 8591.tw
-0.0.0.0 888b.pw
 0.0.0.0 888df.com
 0.0.0.0 88nb.cc
 0.0.0.0 88win.link
@@ -553,7 +549,6 @@
 0.0.0.0 afly.in
 0.0.0.0 aftv.news
 0.0.0.0 aftvnews.com
-0.0.0.0 agbr.ir
 0.0.0.0 agentassistcrm.org
 0.0.0.0 agileurbia.com
 0.0.0.0 agirz.com
@@ -823,7 +818,6 @@
 0.0.0.0 artmo.app
 0.0.0.0 arurl.us
 0.0.0.0 arus.cc
-0.0.0.0 as1ansl0t88.site
 0.0.0.0 asap.to
 0.0.0.0 asc.cool
 0.0.0.0 ase.ink
@@ -1052,7 +1046,6 @@
 0.0.0.0 us.bestbrains.com
 0.0.0.0 bestshortlink.com
 0.0.0.0 go.betnacional.bet.br
-0.0.0.0 bet200.win
 0.0.0.0 betaloop.io
 0.0.0.0 betaxfree.net
 0.0.0.0 betbtn.link
@@ -1154,7 +1147,6 @@
 0.0.0.0 bitli.pro
 0.0.0.0 bitlink.one
 0.0.0.0 bitlnx.com
-0.0.0.0 bitly.best
 0.0.0.0 bitly.bz
 0.0.0.0 bitly.com
 0.0.0.0 bitly.cx
@@ -1304,7 +1296,6 @@
 0.0.0.0 boshoki.biz
 0.0.0.0 bosi.me
 0.0.0.0 boskale.me
-0.0.0.0 bosslinks.ai
 0.0.0.0 boston25.com
 0.0.0.0 bot.fi
 0.0.0.0 botemoda.com
@@ -1363,7 +1354,6 @@
 0.0.0.0 brst.link
 0.0.0.0 brtv.vip
 0.0.0.0 brx.im
-0.0.0.0 brzu.net
 0.0.0.0 bs303.com
 0.0.0.0 bschlack.link
 0.0.0.0 bsg.news
@@ -1821,7 +1811,6 @@
 0.0.0.0 xx.co.nz
 0.0.0.0 yop.co.za
 0.0.0.0 coachingtree.com
-0.0.0.0 coachstudio.org
 0.0.0.0 coba.la
 0.0.0.0 s.coccoc.com
 0.0.0.0 cockroa.ch
@@ -2194,7 +2183,6 @@
 0.0.0.0 ddot.to
 0.0.0.0 ddw.nu
 0.0.0.0 de2wa.com
-0.0.0.0 dealc.me
 0.0.0.0 dealsfindersgroup.com
 0.0.0.0 dearin.gs
 0.0.0.0 deb.li
@@ -2250,7 +2238,6 @@
 0.0.0.0 dft.ba
 0.0.0.0 dfthethao.com
 0.0.0.0 dfy.is
-0.0.0.0 dgkad.com
 0.0.0.0 dglnk.me
 0.0.0.0 dgms.es
 0.0.0.0 dgo.to
@@ -2330,7 +2317,6 @@
 0.0.0.0 docmti.id
 0.0.0.0 docremedio.xyz
 0.0.0.0 docthem.link
-0.0.0.0 docusignredirectsharepoint.life
 0.0.0.0 dogelexus.win
 0.0.0.0 dogelexusin.store
 0.0.0.0 doiop.com
@@ -2407,7 +2393,6 @@
 0.0.0.0 dsyixm.com
 0.0.0.0 dtdg.co
 0.0.0.0 dti.io
-0.0.0.0 dtl.la
 0.0.0.0 dtsx.io
 0.0.0.0 duakale.me
 0.0.0.0 dub.co
@@ -2684,7 +2669,6 @@
 0.0.0.0 ezlinkad.com
 0.0.0.0 ezlinkcloaker.com
 0.0.0.0 ezstat.ru
-0.0.0.0 ezurl.cc
 0.0.0.0 ezurl.co
 0.0.0.0 ezwashing.com
 0.0.0.0 ezylnk.com
@@ -2764,7 +2748,6 @@
 0.0.0.0 ffxiv.link
 0.0.0.0 fgurl.net
 0.0.0.0 fhurl.com
-0.0.0.0 fi9.ir
 0.0.0.0 fiatconnect.app
 0.0.0.0 fibr.ai
 0.0.0.0 ficken.ws
@@ -2841,7 +2824,6 @@
 0.0.0.0 flx.to
 0.0.0.0 fly.yt
 0.0.0.0 fly2.ws
-0.0.0.0 fly4win.com
 0.0.0.0 flys.pw
 0.0.0.0 flyurls.com
 0.0.0.0 fmurl.cc
@@ -3419,7 +3401,6 @@
 0.0.0.0 hodroffs.com
 0.0.0.0 hoeg.it
 0.0.0.0 hoholah.xyz
-0.0.0.0 hoki108.shop
 0.0.0.0 hoki1dana.site
 0.0.0.0 hoki22crot.com
 0.0.0.0 hokidana.vip
@@ -3686,7 +3667,6 @@
 0.0.0.0 insighturl.com
 0.0.0.0 insprl.com
 0.0.0.0 instagr.am
-0.0.0.0 instagramaf.life
 0.0.0.0 instalinks.cc
 0.0.0.0 instarouting.com
 0.0.0.0 instaurl.me
@@ -3809,7 +3789,6 @@
 0.0.0.0 iuu.ro
 0.0.0.0 ivg.bz
 0.0.0.0 ivtshort.com
-0.0.0.0 iwo.ir
 0.0.0.0 iwr.link
 0.0.0.0 iwwlink.org
 0.0.0.0 ix.sk
@@ -4139,7 +4118,6 @@
 0.0.0.0 kuc.cz
 0.0.0.0 kuhlinks.de
 0.0.0.0 kuic.io
-0.0.0.0 kuik.li
 0.0.0.0 kuiklink.com
 0.0.0.0 kuku.lu
 0.0.0.0 kulink.me
@@ -4188,7 +4166,6 @@
 0.0.0.0 l2g.hu
 0.0.0.0 l2l.it
 0.0.0.0 l2l.li
-0.0.0.0 l2o.ir
 0.0.0.0 l338.co
 0.0.0.0 l4y.io
 0.0.0.0 l6dh.xyz
@@ -4196,6 +4173,7 @@
 0.0.0.0 l8r.it
 0.0.0.0 l9.fr
 0.0.0.0 l9k.net
+0.0.0.0 l9po.shop
 0.0.0.0 la.bio
 0.0.0.0 labb.in
 0.0.0.0 labs.to
@@ -5378,6 +5356,7 @@
 0.0.0.0 myikoniq.info
 0.0.0.0 myip.kr
 0.0.0.0 myjq.info
+0.0.0.0 mykiemtienutet.life
 0.0.0.0 mylink.ar
 0.0.0.0 mylinkbio.com
 0.0.0.0 mylinkbr.com
@@ -6600,7 +6579,6 @@
 0.0.0.0 reinachan.com
 0.0.0.0 s.reinhart1010.id
 0.0.0.0 reini.link
-0.0.0.0 reive.site
 0.0.0.0 rejoicing.com
 0.0.0.0 rejoindre.app
 0.0.0.0 rekale.me
@@ -6742,7 +6720,6 @@
 0.0.0.0 rtvote.com
 0.0.0.0 rtxt.co
 0.0.0.0 goo-gl.ru.com
-0.0.0.0 bio.rub3n.io
 0.0.0.0 short.ruksk.com
 0.0.0.0 rumahlink.com
 0.0.0.0 runty.link
@@ -6782,7 +6759,6 @@
 0.0.0.0 s-hub.xyz
 0.0.0.0 s-turl.com
 0.0.0.0 s-url.fr
-0.0.0.0 s0.world
 0.0.0.0 s04.de
 0.0.0.0 s0t.eu
 0.0.0.0 s11.link
@@ -9045,12 +9021,10 @@
 0.0.0.0 usetypeai.com
 0.0.0.0 usf.services
 0.0.0.0 usheethe.com
-0.0.0.0 ushort.me
 0.0.0.0 ushort.my
 0.0.0.0 ushort.xyz
 0.0.0.0 usite.jp
 0.0.0.0 usps-v2.com
-0.0.0.0 uspsexpress.org
 0.0.0.0 usreviewers.com
 0.0.0.0 go.ustwo.games
 0.0.0.0 ut9.cc
@@ -9897,7 +9871,6 @@
 0.0.0.0 zdsk.co
 0.0.0.0 zebra.li
 0.0.0.0 zecz.ec
-0.0.0.0 zeek.ir
 0.0.0.0 zeep.ly
 0.0.0.0 short.zeeraa.net
 0.0.0.0 zeleaks.site

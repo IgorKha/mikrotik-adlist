@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.54
-! Last modified: 2026-01-18T06:12:24.920Z
+! Version: 1.0.19.61
+! Last modified: 2026-01-25T06:12:50.392Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -179,7 +179,6 @@
 0.0.0.0 coinreq.com
 0.0.0.0 colorandcotton.com
 0.0.0.0 compoundexotics.com
-0.0.0.0 comprehension.unstal.cfd
 0.0.0.0 confira.io
 0.0.0.0 coolest3d.com
 0.0.0.0 coolestpod.com
@@ -191,7 +190,6 @@
 0.0.0.0 crocssalenz.com
 0.0.0.0 crypto030.online
 0.0.0.0 cryptot.net
-0.0.0.0 cshrewards.net
 0.0.0.0 customizerbox.com
 0.0.0.0 customurink.com
 0.0.0.0 cutty.app
@@ -217,11 +215,9 @@
 0.0.0.0 denatranotificacao.co
 0.0.0.0 designbyus.online
 0.0.0.0 desiupload.in
-0.0.0.0 detranboletim.co
 0.0.0.0 devifoodgrains.com
 0.0.0.0 dezpez.com
 0.0.0.0 dieserbenni.ru
-0.0.0.0 dischargebackhanded.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 distryct.shop
@@ -315,7 +311,6 @@
 0.0.0.0 filmy-online.eu
 0.0.0.0 filmy24.cc
 0.0.0.0 filser.pl
-0.0.0.0 find-vod.com
 0.0.0.0 find-vod.com.pl
 0.0.0.0 findglocal.com
 0.0.0.0 finnews7.wordpress.com
@@ -378,8 +373,8 @@
 0.0.0.0 gossvibe.com
 0.0.0.0 gotoperfection.com
 0.0.0.0 govmedcareers.com
-0.0.0.0 group-signal.com
 0.0.0.0 gsport.com
+0.0.0.0 gtlinfrastructurelimited.com
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 gunstee.com
 0.0.0.0 habilitacao.org
@@ -411,6 +406,7 @@
 0.0.0.0 iagadvanced.com
 0.0.0.0 iaqorwr.com
 0.0.0.0 icelandclothing.myshopify.com
+0.0.0.0 igloaptopto.net
 0.0.0.0 ikiha.com
 0.0.0.0 iklrge.com
 0.0.0.0 ikoee.com
@@ -449,7 +445,6 @@
 0.0.0.0 infinityto.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
-0.0.0.0 informationpolicy.cloud
 0.0.0.0 injustice.site
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
@@ -594,7 +589,6 @@
 0.0.0.0 navi56.com
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
-0.0.0.0 navi63.ru
 0.0.0.0 navi66.ru
 0.0.0.0 navi69.com
 0.0.0.0 navi7.com
@@ -608,6 +602,7 @@
 0.0.0.0 navi88.com
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
+0.0.0.0 navi90.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 nayatowerinstallation.in.net
@@ -685,6 +680,7 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
 0.0.0.0 peaveymartca.com
+0.0.0.0 penguinnow.com
 0.0.0.0 peppatees.com
 0.0.0.0 perlatoshoe.com
 0.0.0.0 personal84.com
@@ -692,7 +688,6 @@
 0.0.0.0 pharaohstore.com
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
-0.0.0.0 phototan-cdirect.info
 0.0.0.0 phototan.net
 0.0.0.0 pinjamanelit.top
 0.0.0.0 pinjamteman.top
@@ -775,6 +770,8 @@
 0.0.0.0 shy-boat-90ce.jiko728928922.workers.dev
 0.0.0.0 sieuto.com
 0.0.0.0 sigmaoffers.com
+0.0.0.0 signal-group-add.com
+0.0.0.0 signal-groups-add.com
 0.0.0.0 signals-group.com
 0.0.0.0 signpify.com
 0.0.0.0 singingfiles.com
@@ -792,7 +789,6 @@
 0.0.0.0 softgetpc.com
 0.0.0.0 software19797.blogspot.com
 0.0.0.0 softzspot.com
-0.0.0.0 solution7energieqc.com
 0.0.0.0 somethingapparel.com
 0.0.0.0 souhoney.com
 0.0.0.0 southernlife.net
@@ -894,7 +890,6 @@
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 ultra-cda.pl
 0.0.0.0 ultrasonica.info
-0.0.0.0 ultrawa.com
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
 0.0.0.0 uniswap-airdrops.org
@@ -902,7 +897,6 @@
 0.0.0.0 uniswap-claim-today.run
 0.0.0.0 uniswap-claim2024.run
 0.0.0.0 uniswap-claim24.run
-0.0.0.0 uniswap-e.com
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap-wallet.pro
 0.0.0.0 uniswap.cool
@@ -972,10 +966,8 @@
 0.0.0.0 uniswapcoin.xyz
 0.0.0.0 uniswapcriteria.com
 0.0.0.0 uniswapcriteria.net
-0.0.0.0 uniswapcriteria.org
 0.0.0.0 uniswapcriterion.com
 0.0.0.0 uniswapcriterion.net
-0.0.0.0 uniswapcriterion.org
 0.0.0.0 uniswapdefi.xyz
 0.0.0.0 uniswapetf.xyz
 0.0.0.0 uniswapfund.xyz
@@ -998,7 +990,6 @@
 0.0.0.0 upnews.me
 0.0.0.0 uprising.kip.pro
 0.0.0.0 ureashi.com
-0.0.0.0 uscampinghiking.com
 0.0.0.0 uschse04.my03.com
 0.0.0.0 uusilemmikki.com
 0.0.0.0 uydrnhsb.info
@@ -1038,6 +1029,7 @@
 0.0.0.0 visatoindia.org
 0.0.0.0 visumbuitenland.nl
 0.0.0.0 vizjer-pl.pl
+0.0.0.0 vizjer.com.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film

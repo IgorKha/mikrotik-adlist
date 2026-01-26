@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.15.3
-! Last modified: 2026-01-18T06:12:10.888Z
+! Version: 1.0.15.14
+! Last modified: 2026-01-25T06:12:33.133Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.15.3
+! Version: 1.0.15.14
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-01-17T22:07:50.968Z
+! Last modified: 2026-01-24T13:16:12.744Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1325,6 +1325,7 @@
 0.0.0.0 adef-residences.fr
 0.0.0.0 adexchangetracker.com
 0.0.0.0 adn.plxnt.com
+0.0.0.0 adolfoqsalondmacha.standard.us-east-1.oortstorages.com
 0.0.0.0 adquantum.fr
 0.0.0.0 adshufffle.com
 0.0.0.0 adwitty.com
@@ -1387,6 +1388,7 @@
 0.0.0.0 arrayshift.com
 0.0.0.0 arteradio.fr
 0.0.0.0 artissanat.fr
+0.0.0.0 asd.is
 0.0.0.0 asemblee-nationale.fr
 0.0.0.0 asentia.fr
 0.0.0.0 ashleyfires.fr
@@ -1782,6 +1784,7 @@
 0.0.0.0 exchangemarket.fr
 0.0.0.0 exelformation.fr
 0.0.0.0 exepdia.fr
+0.0.0.0 exotic-wax.surge.sh
 0.0.0.0 exparint.fr
 0.0.0.0 expertland.net
 0.0.0.0 expired-antiviruses.com
@@ -1869,6 +1872,7 @@
 0.0.0.0 gautmont.fr
 0.0.0.0 gazia.fr
 0.0.0.0 gcn-1nterc.com
+0.0.0.0 gdudh473-chersfeye483.landmarksfeed.su
 0.0.0.0 gekowex.com
 0.0.0.0 geolantis.fr
 0.0.0.0 geopostcodes.fr
@@ -1902,6 +1906,7 @@
 0.0.0.0 grossiste3d.fr
 0.0.0.0 groupeauto.fr
 0.0.0.0 groupom.fr
+0.0.0.0 growhairs.shop
 0.0.0.0 gstscra.com
 0.0.0.0 gtamoding.fr
 0.0.0.0 guidelon.fr
@@ -2011,6 +2016,7 @@
 0.0.0.0 istartsurf.com
 0.0.0.0 iswwwup.com
 0.0.0.0 itbeginner.fr
+0.0.0.0 itssure.shop
 0.0.0.0 ivgault.fr
 0.0.0.0 ivoirmixdj.fr
 0.0.0.0 izli.fr
@@ -2139,6 +2145,7 @@
 0.0.0.0 liberatiuon.fr
 0.0.0.0 liberaztion.fr
 0.0.0.0 liberland.fr
+0.0.0.0 library.roadring.info
 0.0.0.0 licasd.com
 0.0.0.0 lieberation.fr
 0.0.0.0 liemonde.fr
@@ -2508,6 +2515,7 @@
 0.0.0.0 postecan-canpost.updt491.link
 0.0.0.0 postis.fr
 0.0.0.0 poundporter.best
+0.0.0.0 poweroff.pt
 0.0.0.0 powertrfic.fr
 0.0.0.0 ppoi.org
 0.0.0.0 predictiondisplay.com
@@ -2957,21 +2965,26 @@
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.allhqpics.com			# Facebook trojan
 0.0.0.0 www.anatol.com
+0.0.0.0 www.aramcom.space
 0.0.0.0 www.asianread.com
 0.0.0.0 www.audacity.es
 0.0.0.0 www.audacity.fr
+0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.blender3d.fr
+0.0.0.0 www.brightstardv.pro
 0.0.0.0 www.bumerang.cc
 0.0.0.0 www.cablyshaw.com
 0.0.0.0 www.calnanflack.com
 0.0.0.0 www.cambonanza.com
 0.0.0.0 www.canadianshawid.com
 0.0.0.0 www.caramail.com
+0.0.0.0 www.cassink.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
 0.0.0.0 www.chelick.net			# Facebook trojan
+0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.clearalgorithm.com
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
@@ -2979,19 +2992,25 @@
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.dejamesertuvoz.com
+0.0.0.0 www.dewwillowwj.site
 0.0.0.0 www.didata.bw
+0.0.0.0 www.dymor.cfd
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
+0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.faggotry.com
+0.0.0.0 www.farnazinternational.com
 0.0.0.0 www.fenquavo.com
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
+0.0.0.0 www.firsttrchfed.com
 0.0.0.0 www.fischereszter.hu
 0.0.0.0 www.flexibleadmin.com
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.froling.bee.pl
+0.0.0.0 www.gavelandcap.com
 0.0.0.0 www.getnexuscard.com
 0.0.0.0 www.gezinti.com
 0.0.0.0 www.gimp.es
@@ -3006,6 +3025,7 @@
 0.0.0.0 www.hashing.win
 0.0.0.0 www.hiewa.com.my
 0.0.0.0 www.icecars.com
+0.0.0.0 www.igameup.com
 0.0.0.0 www.infopaypal.com
 0.0.0.0 www.informereng.com
 0.0.0.0 www.inkscape.es
@@ -3015,6 +3035,7 @@
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.keybinary.com
+0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.launchbuffer.com
@@ -3026,7 +3047,9 @@
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.mikras.nl
+0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
+0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
@@ -3049,11 +3072,15 @@
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.qbittorrent.com
+0.0.0.0 www.rackusread.com
 0.0.0.0 www.randki-sex.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.russian-sex.com
+0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
+0.0.0.0 www.sidneyman.com
+0.0.0.0 www.silentgateck.site
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.ssl2.in
@@ -3063,6 +3090,7 @@
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
+0.0.0.0 www.thesecuredtrader.com
 0.0.0.0 www.thunderbird.es
 0.0.0.0 www.tiompanalley.com
 0.0.0.0 www.trucktirehotline.com
@@ -11695,6 +11723,8 @@
 0.0.0.0 www.goat.cx
 0.0.0.0 shafou.com
 0.0.0.0 www.shafou.com
+0.0.0.0 joyjak.st
+0.0.0.0 www.joyjak.st
 0.0.0.0 1girl1pitcher.com
 0.0.0.0 1girl1pitcher.org
 0.0.0.0 1guy1cock.com
