@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.49
-! Last modified: 2026-01-25T06:12:29.685Z
+! Version: 1.0.16.53
+! Last modified: 2026-02-01T06:24:32.271Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -198,6 +198,7 @@
 0.0.0.0 add.newmedia.cz
 0.0.0.0 addfreestats.com
 0.0.0.0 addme.com
+0.0.0.0 addressfriend.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 adecn.com
 0.0.0.0 adeimptrck.com
@@ -829,6 +830,7 @@
 0.0.0.0 afflnx.com
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 afraidlanguage.com
+0.0.0.0 agencysignals.com
 0.0.0.0 agkn.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
@@ -940,7 +942,6 @@
 0.0.0.0 at-o.net
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
-0.0.0.0 ato.mx
 0.0.0.0 attractionbanana.com
 0.0.0.0 attribution.report
 0.0.0.0 atwola.com
@@ -1002,7 +1003,6 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.czi.cz
@@ -1325,6 +1325,7 @@
 0.0.0.0 colorfulpet.com
 0.0.0.0 coloroptimizer.com
 0.0.0.0 comfortablecheese.com
+0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 communications.melitaltd.com
 0.0.0.0 compactbanner.com
@@ -1641,6 +1642,7 @@
 0.0.0.0 feedjit.com
 0.0.0.0 feedmob.com
 0.0.0.0 figsprotein.com
+0.0.0.0 figurehunter.net
 0.0.0.0 fillthemap.com
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
@@ -1814,7 +1816,6 @@
 0.0.0.0 hilariouszinc.com
 0.0.0.0 histats.com
 0.0.0.0 historytrade.com
-0.0.0.0 hit-parade.com
 0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
@@ -1981,6 +1982,7 @@
 0.0.0.0 kindads.com
 0.0.0.0 kindlereunion.com
 0.0.0.0 kissmetrics.com
+0.0.0.0 kittentacos.com
 0.0.0.0 kittycatking.com
 0.0.0.0 klclick.com
 0.0.0.0 klclick1.com
@@ -2046,6 +2048,7 @@
 0.0.0.0 lightspeedcash.com
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 lijit.com
+0.0.0.0 limecodesign.com
 0.0.0.0 link-booster.de
 0.0.0.0 link.axios.com
 0.0.0.0 link.email.davidlloydclubs.co.uk
@@ -2118,7 +2121,6 @@
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madcpms.com
 0.0.0.0 madinad.com
-0.0.0.0 madisonavenue.com
 0.0.0.0 madvertise.de
 0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
@@ -2324,7 +2326,6 @@
 0.0.0.0 newads.bangbros.com
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
-0.0.0.0 newopenx.detik.com
 0.0.0.0 news-cdn.site
 0.0.0.0 newsadsppush.com
 0.0.0.0 newt1.adultadworld.com
@@ -2650,7 +2651,6 @@
 0.0.0.0 rambunctiousflock.com
 0.0.0.0 rampidads.com
 0.0.0.0 randkuj.xyz
-0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-links.de

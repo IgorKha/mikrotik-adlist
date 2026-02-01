@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.44
-! Last modified: 2026-01-25T06:12:36.062Z
+! Version: 1.0.2.49
+! Last modified: 2026-02-01T06:24:37.734Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -11906,6 +11906,7 @@
 0.0.0.0 analytics.pentoncem.com
 0.0.0.0 analytics.pentondes.com
 0.0.0.0 analytics.peppelpatta.nl
+0.0.0.0 analytics.peraichi.com
 0.0.0.0 analytics.perceptionbuilder.com
 0.0.0.0 analytics.perchlake.on.ca
 0.0.0.0 analytics.perfectweb.at
@@ -12413,6 +12414,7 @@
 0.0.0.0 analytics.r5c3.fr
 0.0.0.0 analytics.rabbit-systems.de
 0.0.0.0 analytics.rabble.coop
+0.0.0.0 analytics.rackarr.com
 0.0.0.0 analytics.raddy.one
 0.0.0.0 analytics.radialbog9.uk
 0.0.0.0 analytics.radiant.digital
@@ -19099,6 +19101,7 @@
 0.0.0.0 browser-intake-ap1-datadoghq.com
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 browser-intake-datadoghq.eu
+0.0.0.0 browser-intake-ddog-gov.com
 0.0.0.0 browser-intake-us3-datadoghq.com
 0.0.0.0 browser-intake-us5-datadoghq.com
 0.0.0.0 browser-updater.yandex.net
@@ -20658,8 +20661,8 @@
 0.0.0.0 check-my-ip.net
 0.0.0.0 check-offers.com
 0.0.0.0 checkoutanalytics-live.adyen.com
+0.0.0.0 checkoutanalytics-live-us.adyen.com
 0.0.0.0 checkpagerank.net
-0.0.0.0 check.peer2profit.site
 0.0.0.0 check.privadovpn.com
 0.0.0.0 checkshield.net
 0.0.0.0 checkstat.nl
@@ -21885,6 +21888,7 @@
 0.0.0.0 collect.cityfit.pl
 0.0.0.0 collect.climease.com
 0.0.0.0 collect.clogauoutlet.co.uk
+0.0.0.0 collect.commerce.godaddy.com
 0.0.0.0 collect.cottona.com
 0.0.0.0 collect.ddiu.io
 0.0.0.0 collect.declan.nl
@@ -22166,6 +22170,7 @@
 0.0.0.0 collect.sunwill.eu
 0.0.0.0 collect.thebilingualbookcompany.com
 0.0.0.0 collect.trekz.de
+0.0.0.0 collect.tudongchat.com
 0.0.0.0 collect.ureca-lab.com
 0.0.0.0 collect.us.moomoo.com
 0.0.0.0 collect.vans.com.cn
@@ -38164,6 +38169,7 @@
 0.0.0.0 included.ai
 0.0.0.0 inclusion.kit.org
 0.0.0.0 inco.clinicaincorpus.com.br
+0.0.0.0 incognia.com
 0.0.0.0 incogssr.boatrentalbali.com
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
 0.0.0.0 incoming-telemetry.thunderbird.net
@@ -44736,7 +44742,6 @@
 0.0.0.0 logger.yp.ca
 0.0.0.0 log.giacngo.vn
 0.0.0.0 log.giaoduc.net.vn
-0.0.0.0 logging.admicro.vn
 0.0.0.0 logging.apache.org
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logging-e2e.api.intuit.com
@@ -50542,6 +50547,7 @@
 0.0.0.0 mcgst.homedone.co.uk
 0.0.0.0 mchfp.pillarscientific.com
 0.0.0.0 mc.lesphinx-developpement.fr
+0.0.0.0 mcl.io
 0.0.0.0 mc.medicanow.com
 0.0.0.0 mcmetrika.ru
 0.0.0.0 mcomext01.com
@@ -53922,6 +53928,7 @@
 0.0.0.0 metrik.freitag.de
 0.0.0.0 metrik.kinematografie.org
 0.0.0.0 metrilo.com
+0.0.0.0 metrix.ancestry.com
 0.0.0.0 metrix.avon.uk.com
 0.0.0.0 metrix.brigalabs.com
 0.0.0.0 metrix-collector1.gamesalad.com
@@ -59930,6 +59937,7 @@
 0.0.0.0 nid.barrons.com
 0.0.0.0 nid.news.co.uk
 0.0.0.0 nid.the-sun.com
+0.0.0.0 nid.thesun.co.uk
 0.0.0.0 nid.thesun.ie
 0.0.0.0 nielsen-admosphere.cz
 0.0.0.0 nielsen.com
@@ -70667,6 +70675,7 @@
 0.0.0.0 r.envios.operadorapuntadeleste.com
 0.0.0.0 r.envios-sib.interseguro.com.pe
 0.0.0.0 r.envios.tnewsperu.com
+0.0.0.0 reo.dev
 0.0.0.0 repdata.12newsnow.com
 0.0.0.0 repdata.airforcetimes.com
 0.0.0.0 repdata.app.com
@@ -72410,6 +72419,7 @@
 0.0.0.0 s.acquire.io
 0.0.0.0 sa.crunchyroll.com
 0.0.0.0 sac.the-sun.com
+0.0.0.0 sac.thesun.co.uk
 0.0.0.0 sac.thesun.ie
 0.0.0.0 s.acuklinika.lv
 0.0.0.0 sa.dac.ac
@@ -72594,6 +72604,7 @@
 0.0.0.0 safe-browsing-quorum.ghostery.com
 0.0.0.0 safecount.net
 0.0.0.0 safegraph.com
+0.0.0.0 safehub.ru
 0.0.0.0 safe.joinmosaic.com
 0.0.0.0 safemetric.com
 0.0.0.0 safe-tracking.com
@@ -84383,6 +84394,7 @@
 0.0.0.0 snowplow.orwell.configura.com
 0.0.0.0 snowplow.peddle.com
 0.0.0.0 snowplow-pixel.tradingview.com
+0.0.0.0 snowplowprdnlb-1490493263.us-east-2.elb.amazonaws.com
 0.0.0.0 snowplow.prod.oneplatform.build
 0.0.0.0 snowplow.suamusica.com.br
 0.0.0.0 snowplow.swm.digital
@@ -85211,6 +85223,7 @@
 0.0.0.0 spurioussquirrel.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 spuriousstranger.com
+0.0.0.0 spur.us
 0.0.0.0 sp.usatoday.com
 0.0.0.0 sputnik.ru
 0.0.0.0 sp.valumart.ca
@@ -90139,7 +90152,6 @@
 0.0.0.0 staging-counter.snackly.co
 0.0.0.0 staging.dallasnews.com
 0.0.0.0 staging.pandemic-panda.com
-0.0.0.0 staging-tracker.fyber.com
 0.0.0.0 s.tagove.com
 0.0.0.0 stag.sen.hr
 0.0.0.0 stag.sen-shop.cz
@@ -93262,7 +93274,6 @@
 0.0.0.0 statistics.47g.ch
 0.0.0.0 statistics.777partner.com
 0.0.0.0 statistics.8tech.de
-0.0.0.0 statistics.aatkit.com
 0.0.0.0 statistics.ab-an-die-sonne.ch
 0.0.0.0 statistics.abcsg.org
 0.0.0.0 statistics.academedia.se
@@ -103060,6 +103071,7 @@
 0.0.0.0 swellstocking.com
 0.0.0.0 swelteringsleep.com
 0.0.0.0 swelteringsmile.com
+0.0.0.0 swetrix.com
 0.0.0.0 s.wgalopie.pl
 0.0.0.0 s.wheels.ca
 0.0.0.0 swift.avenue.so
@@ -104606,6 +104618,7 @@
 0.0.0.0 telemetry.svc.halowaypoint.com
 0.0.0.0 telemetry.svc.transifex.net
 0.0.0.0 telemetry.swe.quicinc.com
+0.0.0.0 telemetry.threatdown.com
 0.0.0.0 telemetry.timescale.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telemetry.us-ashburn-1.oci.oraclecloud.com
@@ -105461,6 +105474,7 @@
 0.0.0.0 tm.gumtree.co.za
 0.0.0.0 tm.guystravel.fr
 0.0.0.0 tm.hertzreunion.com
+0.0.0.0 tm.humaneworld.org
 0.0.0.0 tmigd4xfs.com
 0.0.0.0 tmi.my529.org
 0.0.0.0 t.mindbodycheck.com
@@ -106249,7 +106263,6 @@
 0.0.0.0 tracker-aa.paf.es
 0.0.0.0 tracker.adapexads.io
 0.0.0.0 tracker.adex-rtb.com
-0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.adreadyclick.com
 0.0.0.0 tracker.ads-bidfuse.com
 0.0.0.0 trackerads.com
@@ -106277,7 +106290,6 @@
 0.0.0.0 trackerapi.service.echobox.com
 0.0.0.0 tracker-app.com
 0.0.0.0 tracker.appgyver.com
-0.0.0.0 tracker.bannerflow.com
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.bidder-playdigo.com
 0.0.0.0 tracker.bigl.ua
@@ -107497,6 +107509,7 @@
 0.0.0.0 trackonomics.net
 0.0.0.0 track.onsitedealersolutions.com
 0.0.0.0 track.ooulet.com
+0.0.0.0 track.opentable.com
 0.0.0.0 track.opentable.com.mx
 0.0.0.0 track.opentable.de
 0.0.0.0 trackoptimise.com
@@ -112313,6 +112326,7 @@
 0.0.0.0 xxxcounter.de
 0.0.0.0 xxx-entertainment.top
 0.0.0.0 xxxstats.pro
+0.0.0.0 xxxtracking.com
 0.0.0.0 xy5evk7gf.com
 0.0.0.0 xy9plqmnb.com
 0.0.0.0 xyahug.luxuryonly.com

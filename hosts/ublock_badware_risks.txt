@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.20.91
-! Last modified: 2026-01-25T06:12:56.559Z
+! Version: 1.0.20.97
+! Last modified: 2026-02-01T06:24:55.096Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -526,6 +526,8 @@
 0.0.0.0 hcstore.vip
 0.0.0.0 arzaeterna.com
 0.0.0.0 lixbngx.top
+0.0.0.0 ublcz.cn
+0.0.0.0 ads.twitter.center
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -1733,6 +1735,49 @@
 0.0.0.0 u65erdf-gre.com
 0.0.0.0 gentete.com
 0.0.0.0 fine-days.net
+0.0.0.0 abjp6579.tokyo
+0.0.0.0 sukebeisu.com
+0.0.0.0 can2025.click
+0.0.0.0 do2512.com
+0.0.0.0 ot2512.com
+0.0.0.0 pc2512.com
+0.0.0.0 w-chat25.com
+0.0.0.0 wewe.web-chatgptt.com
+0.0.0.0 cpa.8na4zpze.com
+0.0.0.0 linelife.home-chat.jp
+0.0.0.0 remote-jp.jp
+0.0.0.0 pairs-jp.karakuri.ai
+0.0.0.0 abxchzpgqdvoahrbzk.com
+0.0.0.0 bkxdlsivyfsjapsokq.com
+0.0.0.0 cszavakjlvtlhojrui.com
+0.0.0.0 kyrmtjxzbdzszrrkgt.com
+0.0.0.0 your.happy-strike.com
+0.0.0.0 any864jagged53.com
+0.0.0.0 attack-stance321.com
+0.0.0.0 castle384before12.com
+0.0.0.0 disk-redial.com
+0.0.0.0 halt789-enraged1.com
+0.0.0.0 nicely888wooden222.com
+0.0.0.0 lancerjp.com
+0.0.0.0 indeedlikewise-342.com
+0.0.0.0 shredgadzooks-428.com
+0.0.0.0 spacha2026.com
+0.0.0.0 whetherprovided-485.com
+0.0.0.0 whilegadzooks-242.com
+0.0.0.0 7clover.net
+0.0.0.0 7leaf-clover.net
+0.0.0.0 clover-seven.com
+0.0.0.0 dragomquesi.com
+0.0.0.0 nfourteenpre.top
+0.0.0.0 pairry.jp
+0.0.0.0 qole-oracle.jp
+0.0.0.0 aurorra-fortune.com
+0.0.0.0 aurorra.net
+0.0.0.0 beckoning-whitecat.com
+0.0.0.0 juku-ai-club.com
+0.0.0.0 juku-ai-club.fun
+0.0.0.0 juku-ai-club.pics
+0.0.0.0 jp24tv.live
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
 0.0.0.0 tgram.ru
@@ -2511,6 +2556,7 @@
 0.0.0.0 orcaslicerr.
 0.0.0.0 orcaslicers.
 0.0.0.0 theorcaslicer.
+0.0.0.0 orcasslicer.
 0.0.0.0 nvcleanstall.
 0.0.0.0 nvcleanstal.
 0.0.0.0 airupgreece.net
@@ -3122,3 +3168,5 @@
 0.0.0.0 7zip.com
 0.0.0.0 7zip.cloud
 0.0.0.0 wploits.com
+0.0.0.0 fantia.paid-task.com
+0.0.0.0 mpchc.net

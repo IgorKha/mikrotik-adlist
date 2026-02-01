@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.14.86
-! Last modified: 2026-01-25T06:12:45.413Z
+! Version: 1.0.14.90
+! Last modified: 2026-02-01T06:24:45.942Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0daib.pl
 0.0.0.0 0x01n2ptpuz3.com
@@ -43,7 +43,10 @@
 0.0.0.0 api.systempartnerski.pl
 0.0.0.0 api.useinsider.com
 0.0.0.0 app.shopeneo.network
+0.0.0.0 apteline-pl.com
+0.0.0.0 apteline-pl.sbs
 0.0.0.0 apteline-pl.shop
+0.0.0.0 apteline.shop
 0.0.0.0 aranzujemy.co.pl
 0.0.0.0 asmsalesforce.pl
 0.0.0.0 audienceinsights.net
@@ -136,6 +139,7 @@
 0.0.0.0 hoanhxinh.com
 0.0.0.0 honorata-skarbek.com
 0.0.0.0 hotnewscentral.com
+0.0.0.0 hukfi.com
 0.0.0.0 hyphenion.com
 0.0.0.0 img.lzrikate.com
 0.0.0.0 indexww.com
@@ -184,6 +188,7 @@
 0.0.0.0 n.serialeonline.pl
 0.0.0.0 naanalle.pl
 0.0.0.0 netmng.com
+0.0.0.0 newsin24h.com
 0.0.0.0 newssomesun.com
 0.0.0.0 nextclick.pl
 0.0.0.0 nowiny24h.com
@@ -266,6 +271,7 @@
 0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 termsfeed.com
 0.0.0.0 thiksikr.com
+0.0.0.0 topnewsource.com
 0.0.0.0 tourpariz.net
 0.0.0.0 track.aftermarket.pl
 0.0.0.0 track.buybox.click
@@ -317,6 +323,3 @@
 0.0.0.0 znicely.com
 0.0.0.0 zostofou.link
 0.0.0.0 zukxd6fkxqn.com
-0.0.0.0 topnewsource.com
-0.0.0.0 hukfi.com
-0.0.0.0 apteline-pl.com

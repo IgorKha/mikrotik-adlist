@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
-! Version: 1.0.14.72
-! Last modified: 2026-01-25T06:12:50.101Z
+! Version: 1.0.14.73
+! Last modified: 2026-02-01T06:24:49.765Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com
@@ -161,6 +161,7 @@
 0.0.0.0 try-smiley.com
 0.0.0.0 tvfeel.cc
 0.0.0.0 twobluedeer.com
+0.0.0.0 ultra.clicka1.co.il
 0.0.0.0 unbouncepages.com
 0.0.0.0 upapi.net
 0.0.0.0 usbuzz.net
