@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.75
-! Last modified: 2026-01-25T06:12:57.151Z
+! Version: 1.0.18.78
+! Last modified: 2026-02-01T06:24:55.544Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -476,6 +476,7 @@
 0.0.0.0 members.domaindlx.com
 0.0.0.0 doodlekit.com
 0.0.0.0 dot.tk
+0.0.0.0 downfall.shop
 0.0.0.0 download.ac
 0.0.0.0 download.sh
 0.0.0.0 downloaden24.de
@@ -1121,7 +1122,6 @@
 0.0.0.0 ftp.totallyanonymous.com
 0.0.0.0 tr.gg
 0.0.0.0 tr.gp
-0.0.0.0 track-app1e.live
 0.0.0.0 trackfinanceworld.com
 0.0.0.0 trend.in
 0.0.0.0 tribalpages.com
@@ -1175,6 +1175,7 @@
 0.0.0.0 vastserve.com
 0.0.0.0 ve.gp
 0.0.0.0 verifypass.pw
+0.0.0.0 veritafinancebank.com
 0.0.0.0 verkniffen.de
 0.0.0.0 videopaul.shop
 0.0.0.0 virtue.nu

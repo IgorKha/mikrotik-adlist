@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.61
-! Last modified: 2026-01-25T06:12:50.392Z
+! Version: 1.0.19.68
+! Last modified: 2026-02-01T06:24:49.942Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -24,6 +24,8 @@
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 account.ws-reward.com
+0.0.0.0 add-signal-group.com
+0.0.0.0 add-signal-groups.com
 0.0.0.0 adidasko.com
 0.0.0.0 adminicesm.life
 0.0.0.0 affordableforyouusa5.godaddysites.com
@@ -51,7 +53,6 @@
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 app-uniswapping.org
@@ -77,7 +78,6 @@
 0.0.0.0 azsolver.com
 0.0.0.0 azvclothing.com
 0.0.0.0 babybeddingdesign.com
-0.0.0.0 bagsdeuter.com
 0.0.0.0 bajeczki.org.pl
 0.0.0.0 baltic-pipe-finansowy.blogspot.com
 0.0.0.0 baltic79.wordpress.com
@@ -112,7 +112,6 @@
 0.0.0.0 binomoweblogin.com
 0.0.0.0 binorobot.com
 0.0.0.0 bisertravel.com.mk
-0.0.0.0 bitdefender.top
 0.0.0.0 bite-life.com
 0.0.0.0 bitsoft360.com
 0.0.0.0 bitsoft360.io
@@ -121,6 +120,7 @@
 0.0.0.0 blackoutarchertender.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
+0.0.0.0 bncentertainment.com
 0.0.0.0 bnidigital.com
 0.0.0.0 bolejug.us
 0.0.0.0 bombardina.pl
@@ -137,7 +137,6 @@
 0.0.0.0 buddhakind.com
 0.0.0.0 budm.shop
 0.0.0.0 burgershirt.com
-0.0.0.0 buydubuy.com
 0.0.0.0 buylikes.se
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
@@ -192,6 +191,7 @@
 0.0.0.0 cryptot.net
 0.0.0.0 customizerbox.com
 0.0.0.0 customurink.com
+0.0.0.0 cuteclub.org
 0.0.0.0 cutty.app
 0.0.0.0 cycle100percent.com
 0.0.0.0 czasnakino.pl
@@ -199,7 +199,6 @@
 0.0.0.0 dailygiftstore.com
 0.0.0.0 danainstan.xyz
 0.0.0.0 danylevych.com
-0.0.0.0 daradis.com
 0.0.0.0 dash.pocketuniverse.app
 0.0.0.0 dashracegear.net
 0.0.0.0 datempire.com
@@ -284,7 +283,6 @@
 0.0.0.0 familygiftville.com
 0.0.0.0 familystore.com
 0.0.0.0 fapst.com
-0.0.0.0 faunugraipt.com
 0.0.0.0 faze1.com
 0.0.0.0 faze10.com
 0.0.0.0 faze2.com
@@ -316,7 +314,6 @@
 0.0.0.0 finnews7.wordpress.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
-0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fitgirlrepacksite.com
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
@@ -367,7 +364,6 @@
 0.0.0.0 glitchy.go2cloud.org
 0.0.0.0 gload.info
 0.0.0.0 globalvisacorp.com
-0.0.0.0 glousism.co.in
 0.0.0.0 goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -377,7 +373,6 @@
 0.0.0.0 gtlinfrastructurelimited.com
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 gunstee.com
-0.0.0.0 habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 hairyfy.com
 0.0.0.0 haowei.me
@@ -509,7 +504,6 @@
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
-0.0.0.0 lucysstyle.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -662,6 +656,7 @@
 0.0.0.0 onlinefilmy.pl
 0.0.0.0 onlinevisa.com
 0.0.0.0 onlinewideo.pl
+0.0.0.0 onlyfanstake.pro
 0.0.0.0 onrunningshop.com
 0.0.0.0 ontario-energy.com
 0.0.0.0 orderquilt.com
@@ -676,7 +671,6 @@
 0.0.0.0 pages.tempisite.com
 0.0.0.0 pambi.tech
 0.0.0.0 pandzee.com
-0.0.0.0 paquet1nfopabox.com
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
 0.0.0.0 peaveymartca.com
@@ -758,7 +752,6 @@
 0.0.0.0 serialefilmy.pl
 0.0.0.0 seryna.co
 0.0.0.0 shapeden.com
-0.0.0.0 shaughixefooz.net
 0.0.0.0 shirttest.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 shopperexpress.shop
@@ -772,7 +765,6 @@
 0.0.0.0 sigmaoffers.com
 0.0.0.0 signal-group-add.com
 0.0.0.0 signal-groups-add.com
-0.0.0.0 signals-group.com
 0.0.0.0 signpify.com
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
@@ -809,7 +801,6 @@
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 storagestory.com
 0.0.0.0 store-aleteia.org
-0.0.0.0 store-uni-app.com
 0.0.0.0 store25848025.company.site
 0.0.0.0 storeax.com
 0.0.0.0 storecollegeonline.com
@@ -820,6 +811,7 @@
 0.0.0.0 strefa-filmu.pl
 0.0.0.0 successglossary.com
 0.0.0.0 suitablepartner.life
+0.0.0.0 summersale.online
 0.0.0.0 sunsetstore.net
 0.0.0.0 supercutestuff.com
 0.0.0.0 superuniswap.xyz
@@ -872,7 +864,6 @@
 0.0.0.0 trendsharks.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 tripinpremiumsnacks.com
-0.0.0.0 trivo.uk
 0.0.0.0 trkucibqy.com
 0.0.0.0 trnzu.info
 0.0.0.0 tromselementbygg.no
@@ -895,8 +886,6 @@
 0.0.0.0 uniswap-airdrops.org
 0.0.0.0 uniswap-claim-gold.run
 0.0.0.0 uniswap-claim-today.run
-0.0.0.0 uniswap-claim2024.run
-0.0.0.0 uniswap-claim24.run
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap-wallet.pro
 0.0.0.0 uniswap.cool
@@ -966,8 +955,10 @@
 0.0.0.0 uniswapcoin.xyz
 0.0.0.0 uniswapcriteria.com
 0.0.0.0 uniswapcriteria.net
+0.0.0.0 uniswapcriteria.org
 0.0.0.0 uniswapcriterion.com
 0.0.0.0 uniswapcriterion.net
+0.0.0.0 uniswapcriterion.org
 0.0.0.0 uniswapdefi.xyz
 0.0.0.0 uniswapetf.xyz
 0.0.0.0 uniswapfund.xyz
@@ -980,6 +971,7 @@
 0.0.0.0 uniswaps-v3.net
 0.0.0.0 uniswapstake.xyz
 0.0.0.0 uniswapstaking.xyz
+0.0.0.0 uniswapsupport.online
 0.0.0.0 uniswaptoken.xyz
 0.0.0.0 uniswaptrading.xyz
 0.0.0.0 uniswapv3.xyz
@@ -1033,7 +1025,6 @@
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film
-0.0.0.0 vodfix.pl
 0.0.0.0 vodlist.com
 0.0.0.0 volcomofficial.com
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
@@ -1081,6 +1072,7 @@
 0.0.0.0 youdebrid.com
 0.0.0.0 yourdatefind.com
 0.0.0.0 yoursecrethookup.com
+0.0.0.0 youtubee.com
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com

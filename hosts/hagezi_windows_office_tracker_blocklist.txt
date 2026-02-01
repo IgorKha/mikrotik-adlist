@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.82
-! Last modified: 2026-01-25T06:12:44.606Z
+! Version: 1.0.0.83
+! Last modified: 2026-02-01T06:24:45.349Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -22,6 +22,7 @@
 0.0.0.0 inference-app-gateway.eastus2.cloudapp.azure.com
 0.0.0.0 inference-app-gateway.koreacentral.cloudapp.azure.com
 0.0.0.0 inference-app-gateway.northeurope.cloudapp.azure.com
+0.0.0.0 azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 0.0.0.0 collector.azure.cn
 0.0.0.0 js.monitor.azure.com
 0.0.0.0 adsdkpreprod.azureedge.net
