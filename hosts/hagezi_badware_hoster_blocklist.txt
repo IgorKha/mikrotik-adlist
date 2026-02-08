@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.78
-! Last modified: 2026-02-01T06:24:55.544Z
+! Version: 1.0.18.91
+! Last modified: 2026-02-08T06:26:01.641Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -20,7 +20,6 @@
 0.0.0.0 0hna.com
 0.0.0.0 one4u.0lx.net
 0.0.0.0 0pe.kr
-0.0.0.0 0pi.com
 0.0.0.0 1.vg
 0.0.0.0 10001mb.com
 0.0.0.0 100freemb.com
@@ -31,6 +30,7 @@
 0.0.0.0 114.at
 0.0.0.0 115.at
 0.0.0.0 125mb.com
+0.0.0.0 126.com
 0.0.0.0 12n.de
 0.0.0.0 131.at
 0.0.0.0 135.it
@@ -109,7 +109,6 @@
 0.0.0.0 8.je
 0.0.0.0 81x.com
 0.0.0.0 85d.de
-0.0.0.0 89.pl
 0.0.0.0 8b.io
 0.0.0.0 8c8.de
 0.0.0.0 8m.net
@@ -144,6 +143,7 @@
 0.0.0.0 ac6.de
 0.0.0.0 actifforum.com
 0.0.0.0 admarketlocation.com
+0.0.0.0 aeza.network
 0.0.0.0 africafull.top
 0.0.0.0 ag.gp
 0.0.0.0 ag0rcgwjv5.com
@@ -202,7 +202,6 @@
 0.0.0.0 bazefrost.ru
 0.0.0.0 bcz.com
 0.0.0.0 be.gp
-0.0.0.0 bebinmall.today
 0.0.0.0 beepworld.it
 0.0.0.0 beget.tech
 0.0.0.0 begins.de
@@ -293,7 +292,6 @@
 0.0.0.0 blogzet.com
 0.0.0.0 bo.gp
 0.0.0.0 bookmark.com
-0.0.0.0 boundpeter.shop
 0.0.0.0 boxmail.biz
 0.0.0.0 boxmode.io
 0.0.0.0 bplaced.de
@@ -433,7 +431,6 @@
 0.0.0.0 cprapid.com
 0.0.0.0 sitebeat.crazydomains.com
 0.0.0.0 creatorlink.net
-0.0.0.0 crossurl.shop
 0.0.0.0 cryptonight.net
 0.0.0.0 cs-clan.org
 0.0.0.0 csb.app
@@ -505,7 +502,6 @@
 0.0.0.0 edublogs.org
 0.0.0.0 educatorpage.com
 0.0.0.0 educatorpages.com
-0.0.0.0 efacturas.net
 0.0.0.0 eg.gp
 0.0.0.0 ehaitao.com
 0.0.0.0 eklablog.com
@@ -665,7 +661,6 @@
 0.0.0.0 gymsharkitaliaofficial.it
 0.0.0.0 h.gp
 0.0.0.0 hanefra7bikiemta.com
-0.0.0.0 harise.shop
 0.0.0.0 hase.in
 0.0.0.0 hashnode.dev
 0.0.0.0 healthyemployee.me
@@ -842,7 +837,6 @@
 0.0.0.0 mindnmagick.com
 0.0.0.0 mit-wenig-geld.de
 0.0.0.0 mixh.jp
-0.0.0.0 mizum.site
 0.0.0.0 mmm.page
 0.0.0.0 mobi.ps
 0.0.0.0 mobinteg.com
@@ -894,23 +888,19 @@
 0.0.0.0 newmail.ru
 0.0.0.0 nexgenelectricct.com
 0.0.0.0 nichesite.org
-0.0.0.0 nikoha.shop
 0.0.0.0 nl.gp
 0.0.0.0 nl.kg
 0.0.0.0 noads.biz
 0.0.0.0 nobody.jp
 0.0.0.0 nofeeshost.com
-0.0.0.0 nokojp.shop
 0.0.0.0 now.lc
 0.0.0.0 npx.de
 0.0.0.0 nut.cc
 0.0.0.0 o.gp
 0.0.0.0 o-f.com
 0.0.0.0 of-love.de
-0.0.0.0 officialcity.shop
 0.0.0.0 officialsitebuilder.com
 0.0.0.0 okis.ru
-0.0.0.0 okistore.shop
 0.0.0.0 omas.in
 0.0.0.0 on.gp
 0.0.0.0 on.lc
@@ -1008,13 +998,11 @@
 0.0.0.0 bookp.ru.com
 0.0.0.0 euspray.ru.com
 0.0.0.0 sexpay.ru.com
-0.0.0.0 rubberphone.shop
 0.0.0.0 rumahweb.org
 0.0.0.0 runhosting.com
 0.0.0.0 s.gp
 0.0.0.0 sa.com
 0.0.0.0 sa.gp
-0.0.0.0 safe-girogate.com
 0.0.0.0 schmust.de
 0.0.0.0 schoolrack.com
 0.0.0.0 scienceontheweb.net
@@ -1039,6 +1027,7 @@
 0.0.0.0 service.lc
 0.0.0.0 share.lc
 0.0.0.0 sharkserve.com
+0.0.0.0 shivtr.com
 0.0.0.0 shohu.shop
 0.0.0.0 shop.co
 0.0.0.0 shop.fm
@@ -1094,7 +1083,6 @@
 0.0.0.0 team.cx
 0.0.0.0 team.tl
 0.0.0.0 teamzonesports.com
-0.0.0.0 teenradio.shop
 0.0.0.0 tehno-politen.ru
 0.0.0.0 teleporthq.app
 0.0.0.0 tempisite.com
@@ -1112,7 +1100,6 @@
 0.0.0.0 tinyblogging.com
 0.0.0.0 tld.cc
 0.0.0.0 tmweb.ru
-0.0.0.0 tokusi.shop
 0.0.0.0 tokyoca.top
 0.0.0.0 top.lc
 0.0.0.0 top.tc
@@ -1126,8 +1113,6 @@
 0.0.0.0 trend.in
 0.0.0.0 tribalpages.com
 0.0.0.0 tripod.com
-0.0.0.0 truistcooperative.com
-0.0.0.0 tsure.shop
 0.0.0.0 turbo.site
 0.0.0.0 turkish.lc
 0.0.0.0 tuxfamily.org
@@ -1155,7 +1140,6 @@
 0.0.0.0 umbler.net
 0.0.0.0 unaux.com
 0.0.0.0 unblog.fr
-0.0.0.0 underxdown.com
 0.0.0.0 untergrund.net
 0.0.0.0 uphero.com
 0.0.0.0 uploader.eu
@@ -1177,7 +1161,6 @@
 0.0.0.0 verifypass.pw
 0.0.0.0 veritafinancebank.com
 0.0.0.0 verkniffen.de
-0.0.0.0 videopaul.shop
 0.0.0.0 virtue.nu
 0.0.0.0 virus.in
 0.0.0.0 vmn.net
@@ -1272,7 +1255,6 @@
 0.0.0.0 x9.eu
 0.0.0.0 x90x.net
 0.0.0.0 xaper.com
-0.0.0.0 xinei.shop
 0.0.0.0 xl.lc
 0.0.0.0 xml.in
 0.0.0.0 xn.pl
@@ -1283,7 +1265,6 @@
 0.0.0.0 xsph.ru
 0.0.0.0 xtgem.com
 0.0.0.0 xtreemhost.com
-0.0.0.0 xx.kg
 0.0.0.0 xx.lc
 0.0.0.0 xxl.lc
 0.0.0.0 xxxxxxxx.jp

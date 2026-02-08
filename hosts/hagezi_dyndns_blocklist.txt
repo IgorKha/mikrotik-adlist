@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.38
-! Last modified: 2026-02-01T06:24:55.453Z
+! Version: 1.0.16.42
+! Last modified: 2026-02-08T06:26:01.502Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -28,6 +28,7 @@
 0.0.0.0 3trust.com
 0.0.0.0 3utilities.com
 0.0.0.0 404.mn
+0.0.0.0 4cloud.click
 0.0.0.0 4dq.com
 0.0.0.0 4khdcamera.com
 0.0.0.0 4mydomain.com
@@ -73,6 +74,7 @@
 0.0.0.0 apptechservices.com
 0.0.0.0 arenaceballos.com
 0.0.0.0 arquivirtual.com
+0.0.0.0 as14627.net
 0.0.0.0 as19557.net
 0.0.0.0 as29997.net
 0.0.0.0 asenov.ru
@@ -80,6 +82,7 @@
 0.0.0.0 asianfreshproduce.com
 0.0.0.0 ask2ask.com
 0.0.0.0 astrabus.ru
+0.0.0.0 asuscomm.com
 0.0.0.0 at-band-camp.net
 0.0.0.0 ath.cx
 0.0.0.0 atlantatruckdrivingschool.us
@@ -89,6 +92,7 @@
 0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
+0.0.0.0 awiki.org
 0.0.0.0 ax.lt
 0.0.0.0 b0tnet.com
 0.0.0.0 b33r.us
@@ -137,6 +141,7 @@
 0.0.0.0 broke-it.net
 0.0.0.0 brweb.org
 0.0.0.0 bsn2bsn.com
+0.0.0.0 bumbleshrimp.com
 0.0.0.0 burlingtondrywall.com
 0.0.0.0 buyshouses.net
 0.0.0.0 byte4byte.com
@@ -171,6 +176,7 @@
 0.0.0.0 cleansite.biz
 0.0.0.0 cleansite.info
 0.0.0.0 cleansite.us
+0.0.0.0 clickip.de
 0.0.0.0 clienturl.net
 0.0.0.0 cloudns.asia
 0.0.0.0 cloudns.be
@@ -181,7 +187,9 @@
 0.0.0.0 cloudns.cx
 0.0.0.0 cloudns.in
 0.0.0.0 cloudns.info
+0.0.0.0 cloudns.nz
 0.0.0.0 cloudns.org
+0.0.0.0 cloudns.ph
 0.0.0.0 cloudns.pro
 0.0.0.0 cloudwatch.net
 0.0.0.0 cloudxns.net
@@ -219,7 +227,6 @@
 0.0.0.0 cupddns.net
 0.0.0.0 custom-gaming.net
 0.0.0.0 cw03.ru
-0.0.0.0 cybertv.tv
 0.0.0.0 d-n-s.name
 0.0.0.0 d2g.biz
 0.0.0.0 dagz.ru
@@ -227,6 +234,7 @@
 0.0.0.0 dark-byte.net
 0.0.0.0 darksair.org
 0.0.0.0 davidsagar.com
+0.0.0.0 ddns.cam
 0.0.0.0 ddns.info
 0.0.0.0 ddns.me
 0.0.0.0 ddns.mobi
@@ -235,6 +243,7 @@
 0.0.0.0 ddns.net
 0.0.0.0 ddns.us
 0.0.0.0 ddns-dvr.com
+0.0.0.0 ddns-ip.net
 0.0.0.0 ddns5.com
 0.0.0.0 ddnsapp.com
 0.0.0.0 ddnsfree.com
@@ -258,6 +267,7 @@
 0.0.0.0 dhs.org
 0.0.0.0 digikabel.hu
 0.0.0.0 digitalgroupe.com
+0.0.0.0 diskstation.me
 0.0.0.0 ditchyourip.com
 0.0.0.0 divx.se
 0.0.0.0 dlinkddns.com
@@ -265,6 +275,7 @@
 0.0.0.0 dnet.hu
 0.0.0.0 dnmcoffman.com
 0.0.0.0 dns.army
+0.0.0.0 dns.navy
 0.0.0.0 dns-auth.com
 0.0.0.0 dns-auth.net
 0.0.0.0 dns-cloud.net
@@ -296,6 +307,7 @@
 0.0.0.0 dnshome.icu
 0.0.0.0 dnsiskinky.com
 0.0.0.0 dnsking.ch
+0.0.0.0 dnslive.net
 0.0.0.0 dnsmax.com
 0.0.0.0 dnsname.org
 0.0.0.0 dnsnew.org
@@ -321,8 +333,14 @@
 0.0.0.0 drayddns.com
 0.0.0.0 dropfiles.net
 0.0.0.0 drunkensailor.org
+0.0.0.0 dscloud.me
+0.0.0.0 dscloud.mobi
 0.0.0.0 dsmtp.com
+0.0.0.0 dsmynas.com
+0.0.0.0 dsmynas.net
+0.0.0.0 dsmynas.org
 0.0.0.0 dtdns.com
+0.0.0.0 dtdns.org
 0.0.0.0 dubya.info
 0.0.0.0 dubya.net
 0.0.0.0 dubya.us
@@ -358,6 +376,7 @@
 0.0.0.0 dynamicdns.biz
 0.0.0.0 dynamicdns.co
 0.0.0.0 dynamisches-dns.de
+0.0.0.0 dynamix.run
 0.0.0.0 dynathome.net
 0.0.0.0 dyndns.berlin
 0.0.0.0 dyndns.biz
@@ -419,6 +438,7 @@
 0.0.0.0 easydns.net
 0.0.0.0 easydns.org
 0.0.0.0 eating-organic.net
+0.0.0.0 eatuo.com
 0.0.0.0 echoparklake.com
 0.0.0.0 edns.biz
 0.0.0.0 effers.com
@@ -455,17 +475,23 @@
 0.0.0.0 everton.com
 0.0.0.0 evils.in
 0.0.0.0 expired-dns.com
+0.0.0.0 ez-dns.com
 0.0.0.0 ez-ip.net
 0.0.0.0 ezua.com
 0.0.0.0 ezxdev.org
 0.0.0.0 f-parts.net
+0.0.0.0 f3322.net
 0.0.0.0 fairuse.org
 0.0.0.0 falcongreen.com
+0.0.0.0 familyds.com
+0.0.0.0 familyds.net
+0.0.0.0 familyds.org
 0.0.0.0 fantasyleague.cc
 0.0.0.0 faqserv.com
 0.0.0.0 farted.net
 0.0.0.0 fartit.com
 0.0.0.0 fatdiary.org
+0.0.0.0 fdns.uk
 0.0.0.0 fearpenguins.com
 0.0.0.0 feste-ip.net
 0.0.0.0 fin-tech.com
@@ -481,6 +507,7 @@
 0.0.0.0 for-some.biz
 0.0.0.0 for-the.biz
 0.0.0.0 forss.to
+0.0.0.0 fortiddns.com
 0.0.0.0 forumz.info
 0.0.0.0 fr.to
 0.0.0.0 fragmentary.info
@@ -490,6 +517,7 @@
 0.0.0.0 freeddns.us
 0.0.0.0 freedynamicdns.net
 0.0.0.0 freedynamicdns.org
+0.0.0.0 freehost000.xyz
 0.0.0.0 freemyip.com
 0.0.0.0 freesa.org
 0.0.0.0 freetcp.com
@@ -553,6 +581,7 @@
 0.0.0.0 ftpaccess.cc
 0.0.0.0 ftpserver.biz
 0.0.0.0 fuettertdasnetz.de
+0.0.0.0 fxnxs.com
 0.0.0.0 gally.jp
 0.0.0.0 game-host.org
 0.0.0.0 game-server.cc
@@ -568,6 +597,7 @@
 0.0.0.0 ghostnation.org
 0.0.0.0 gigaportal.pl
 0.0.0.0 giize.com
+0.0.0.0 glddns.com
 0.0.0.0 gleeze.com
 0.0.0.0 global-instr.us
 0.0.0.0 gluebank.com
@@ -594,6 +624,7 @@
 0.0.0.0 guild-site.com
 0.0.0.0 gurcanozturk.com
 0.0.0.0 gurdit.com
+0.0.0.0 guthriecontainers.com
 0.0.0.0 gw.lt
 0.0.0.0 gw1.org
 0.0.0.0 h-o-s-t.name
@@ -609,8 +640,9 @@
 0.0.0.0 happyminecraft.com
 0.0.0.0 hatenboer.org
 0.0.0.0 hbmc.net
+0.0.0.0 dyn.dns.he.net
 0.0.0.0 health-carereform.com
-0.0.0.0 forgot.her.name
+0.0.0.0 her.name
 0.0.0.0 here-for-more.info
 0.0.0.0 herodias.net
 0.0.0.0 heroinewarrior.com
@@ -618,7 +650,7 @@
 0.0.0.0 hiddencorner.org
 0.0.0.0 hijaxdesigns.com
 0.0.0.0 hin.tw
-0.0.0.0 forgot.his.name
+0.0.0.0 his.name
 0.0.0.0 hitremixes.com
 0.0.0.0 hldns.ru
 0.0.0.0 hmail.us
@@ -650,7 +682,6 @@
 0.0.0.0 hopto.org
 0.0.0.0 host2go.net
 0.0.0.0 hosthampster.com
-0.0.0.0 hpc.tw
 0.0.0.0 hs.vc
 0.0.0.0 htmlcomponentservice.com
 0.0.0.0 https443.net
@@ -658,6 +689,7 @@
 0.0.0.0 hulichicken.com
 0.0.0.0 humorvisite.eu
 0.0.0.0 hunnur.com
+0.0.0.0 i234.me
 0.0.0.0 iamallama.com
 0.0.0.0 ics.tw
 0.0.0.0 ideasciviles.com
@@ -689,6 +721,7 @@
 0.0.0.0 iownyour.org
 0.0.0.0 ip-ddns.com
 0.0.0.0 ip-dynamic.com
+0.0.0.0 ip-dynamic.org
 0.0.0.0 ipnodns.ru
 0.0.0.0 ipq.co
 0.0.0.0 iprowave.com
@@ -834,6 +867,7 @@
 0.0.0.0 ldtp.com
 0.0.0.0 lebtimnetz.de
 0.0.0.0 lee.mx
+0.0.0.0 legitdns.com
 0.0.0.0 leitud.ee
 0.0.0.0 leitungsen.de
 0.0.0.0 leivo.org
@@ -876,6 +910,7 @@
 0.0.0.0 medbury.com
 0.0.0.0 medittech.com
 0.0.0.0 mefound.com
+0.0.0.0 meicosoft.com
 0.0.0.0 melakaboy.com
 0.0.0.0 merseine.com
 0.0.0.0 merseine.org
@@ -925,12 +960,14 @@
 0.0.0.0 myaddr.io
 0.0.0.0 myaddr.tools
 0.0.0.0 mydad.info
+0.0.0.0 myddns.biz
 0.0.0.0 myddns.com
 0.0.0.0 myddns.me
 0.0.0.0 myddns.rocks
 0.0.0.0 mydissent.net
 0.0.0.0 mydns.bz
 0.0.0.0 mydns.jp
+0.0.0.0 myds.me
 0.0.0.0 myeffect.net
 0.0.0.0 myftp.biz
 0.0.0.0 myftp.info
@@ -965,6 +1002,7 @@
 0.0.0.0 mysecuritycamera.net
 0.0.0.0 mysecuritycamera.org
 0.0.0.0 myserver.org
+0.0.0.0 mysynology.net
 0.0.0.0 myvnc.com
 0.0.0.0 mywebworld.info
 0.0.0.0 mywire.org
@@ -999,6 +1037,7 @@
 0.0.0.0 no-ip.com
 0.0.0.0 no-ip.fr
 0.0.0.0 no-ip.info
+0.0.0.0 no-ip.me
 0.0.0.0 no-ip.net
 0.0.0.0 no-ip.org
 0.0.0.0 nodns.ca
@@ -1053,6 +1092,7 @@
 0.0.0.0 oray.com
 0.0.0.0 d-n-s.org.uk
 0.0.0.0 dynamicdns.org.uk
+0.0.0.0 limit.org.uk
 0.0.0.0 organiccrap.com
 0.0.0.0 orskkino.ru
 0.0.0.0 otzo.com
@@ -1092,6 +1132,8 @@
 0.0.0.0 portmap.host
 0.0.0.0 prettyweak.com
 0.0.0.0 priamaakcia.sk
+0.0.0.0 pride.moe
+0.0.0.0 pride.ngo
 0.0.0.0 privatedns.com
 0.0.0.0 privatedns.org
 0.0.0.0 privateimport.jp
@@ -1102,6 +1144,7 @@
 0.0.0.0 prostore.ru
 0.0.0.0 prout.be
 0.0.0.0 proxydns.com
+0.0.0.0 prvcy.page
 0.0.0.0 psybnc.org
 0.0.0.0 ptchat.net
 0.0.0.0 publicvm.com
@@ -1336,6 +1379,9 @@
 0.0.0.0 usa.cc
 0.0.0.0 uzhi.ru
 0.0.0.0 v13clan.com
+0.0.0.0 v6.army
+0.0.0.0 v6.navy
+0.0.0.0 v6.rocks
 0.0.0.0 vankin.de
 0.0.0.0 vantechddns.com
 0.0.0.0 vantechdns.com
@@ -1345,8 +1391,10 @@
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
 0.0.0.0 viamisoftware.com
+0.0.0.0 vietnamddns.com
 0.0.0.0 viewdns.net
 0.0.0.0 viiic.net
+0.0.0.0 vinaddns.com
 0.0.0.0 vincomlimited.com
 0.0.0.0 vitalwerks.com
 0.0.0.0 vizvaz.com
@@ -1367,6 +1415,7 @@
 0.0.0.0 webhop.me
 0.0.0.0 webhop.net
 0.0.0.0 webhop.org
+0.0.0.0 webok.net
 0.0.0.0 webredirect.org
 0.0.0.0 webs.vc
 0.0.0.0 westblade.com
