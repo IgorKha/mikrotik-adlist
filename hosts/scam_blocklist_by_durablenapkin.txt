@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.68
-! Last modified: 2026-02-01T06:24:49.942Z
+! Version: 1.0.19.75
+! Last modified: 2026-02-08T06:25:54.032Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -24,8 +24,6 @@
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 account.ws-reward.com
-0.0.0.0 add-signal-group.com
-0.0.0.0 add-signal-groups.com
 0.0.0.0 adidasko.com
 0.0.0.0 adminicesm.life
 0.0.0.0 affordableforyouusa5.godaddysites.com
@@ -39,7 +37,6 @@
 0.0.0.0 airupgreece.net
 0.0.0.0 airupnederlands.com
 0.0.0.0 airupsrbija.com
-0.0.0.0 aizipai.cn
 0.0.0.0 akulaku.me
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
@@ -55,12 +52,10 @@
 0.0.0.0 amorpulse.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
-0.0.0.0 app-uniswapping.org
 0.0.0.0 appdrive.info
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 arnoldgloverruss58.myshopify.com
-0.0.0.0 artdecorhome.store
 0.0.0.0 arthoodie.com
 0.0.0.0 arvetellefsen.no
 0.0.0.0 asvbaen.info
@@ -162,8 +157,6 @@
 0.0.0.0 cinemak.pl
 0.0.0.0 cipustar.com
 0.0.0.0 cityofdream.co.uk
-0.0.0.0 claim-uniswap.app
-0.0.0.0 claims-uniswap.app
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 cmoboy.com
 0.0.0.0 cnhadverti.co
@@ -177,6 +170,7 @@
 0.0.0.0 coinaps.com
 0.0.0.0 coinreq.com
 0.0.0.0 colorandcotton.com
+0.0.0.0 commerz-phototans.com
 0.0.0.0 compoundexotics.com
 0.0.0.0 confira.io
 0.0.0.0 coolest3d.com
@@ -203,6 +197,7 @@
 0.0.0.0 dashracegear.net
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
+0.0.0.0 dbphototans.com
 0.0.0.0 ddzk513bd.com
 0.0.0.0 debridlink.com
 0.0.0.0 decoryourhome.store
@@ -210,8 +205,6 @@
 0.0.0.0 dein-rundfunkbeitrag.de
 0.0.0.0 deiongh.info
 0.0.0.0 deluxdoll.com
-0.0.0.0 denatranajuda.co
-0.0.0.0 denatranotificacao.co
 0.0.0.0 designbyus.online
 0.0.0.0 desiupload.in
 0.0.0.0 devifoodgrains.com
@@ -259,7 +252,6 @@
 0.0.0.0 eslgrandscup.com
 0.0.0.0 estiloserena.com.br
 0.0.0.0 etaindia.org
-0.0.0.0 etaindiaonline.com
 0.0.0.0 eudoraz.com
 0.0.0.0 eudshop.shop
 0.0.0.0 eventmusk-x.com
@@ -295,7 +287,6 @@
 0.0.0.0 faze9.com
 0.0.0.0 fazpowerdenet.tumblr.com
 0.0.0.0 fdrc-gov.org
-0.0.0.0 felara.com.do
 0.0.0.0 field-garnet-duckling.glitch.me
 0.0.0.0 filedenzu.com
 0.0.0.0 filexstorage.site
@@ -323,8 +314,6 @@
 0.0.0.0 food-network.fwh.is
 0.0.0.0 foreveusps.com
 0.0.0.0 freebitcoin.pages.dev
-0.0.0.0 freedom.invoice5g-bill.com
-0.0.0.0 freedom.invoiceid-bill.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 fuehrungszeugnis-service.de
@@ -401,7 +390,6 @@
 0.0.0.0 iagadvanced.com
 0.0.0.0 iaqorwr.com
 0.0.0.0 icelandclothing.myshopify.com
-0.0.0.0 igloaptopto.net
 0.0.0.0 ikiha.com
 0.0.0.0 iklrge.com
 0.0.0.0 ikoee.com
@@ -607,7 +595,6 @@
 0.0.0.0 newfootwearshop.com
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 newpipe.app
-0.0.0.0 nextmrolympia.com
 0.0.0.0 nextstephire.net
 0.0.0.0 nicelegant.com
 0.0.0.0 niche3d.us
@@ -626,6 +613,8 @@
 0.0.0.0 nip46.com
 0.0.0.0 nip5.com
 0.0.0.0 nip57.com
+0.0.0.0 nip8.com
+0.0.0.0 nip9.com
 0.0.0.0 nirvezal.com
 0.0.0.0 nobrerefino.com
 0.0.0.0 nofotballshop.com
@@ -700,6 +689,7 @@
 0.0.0.0 powerboostup.com
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 premiumqualityblanket.com
+0.0.0.0 primakovreadings.info
 0.0.0.0 primeleech.com
 0.0.0.0 primevod.pl
 0.0.0.0 printteestore.com
@@ -784,7 +774,6 @@
 0.0.0.0 somethingapparel.com
 0.0.0.0 souhoney.com
 0.0.0.0 southernlife.net
-0.0.0.0 spark.kindpickle.info
 0.0.0.0 sport-specialoffers.shop
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 sportsbrooks.com
@@ -807,9 +796,11 @@
 0.0.0.0 storesp.com
 0.0.0.0 streamabie.com
 0.0.0.0 streamboo.com
+0.0.0.0 streamloot.co
 0.0.0.0 streamvod.pl
 0.0.0.0 strefa-filmu.pl
 0.0.0.0 successglossary.com
+0.0.0.0 sugarandpearl.com
 0.0.0.0 suitablepartner.life
 0.0.0.0 summersale.online
 0.0.0.0 sunsetstore.net
@@ -883,68 +874,32 @@
 0.0.0.0 ultrasonica.info
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
-0.0.0.0 uniswap-airdrops.org
 0.0.0.0 uniswap-claim-gold.run
 0.0.0.0 uniswap-claim-today.run
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap-wallet.pro
-0.0.0.0 uniswap.cool
 0.0.0.0 uniswap.host
-0.0.0.0 uniswap.markets
 0.0.0.0 uniswap.ro
 0.0.0.0 uniswap0120.com
-0.0.0.0 uniswap0123.com
-0.0.0.0 uniswap1.buzz
-0.0.0.0 uniswap1.click
-0.0.0.0 uniswap1.life
-0.0.0.0 uniswap1.online
-0.0.0.0 uniswap1.site
-0.0.0.0 uniswap1.space
-0.0.0.0 uniswap1.tokyo
 0.0.0.0 uniswap100x.xyz
 0.0.0.0 uniswap10x.xyz
-0.0.0.0 uniswap2.buzz
-0.0.0.0 uniswap2.click
-0.0.0.0 uniswap2.cloud
-0.0.0.0 uniswap2.life
-0.0.0.0 uniswap2.online
-0.0.0.0 uniswap2.space
-0.0.0.0 uniswap2.tokyo
 0.0.0.0 uniswap2025.xyz
 0.0.0.0 uniswap3.buzz
-0.0.0.0 uniswap3.click
 0.0.0.0 uniswap3.online
 0.0.0.0 uniswap3.site
-0.0.0.0 uniswap3.space
 0.0.0.0 uniswap3.tech
-0.0.0.0 uniswap3.tokyo
 0.0.0.0 uniswap365.xyz
 0.0.0.0 uniswap5.biz
 0.0.0.0 uniswap5.cloud
 0.0.0.0 uniswap5.info
-0.0.0.0 uniswap5.link
-0.0.0.0 uniswap5.love
 0.0.0.0 uniswap5.online
-0.0.0.0 uniswap5.tokyo
 0.0.0.0 uniswap5.website
 0.0.0.0 uniswap5.work
 0.0.0.0 uniswap5.xyz
-0.0.0.0 uniswap7.biz
 0.0.0.0 uniswap7.buzz
-0.0.0.0 uniswap7.click
-0.0.0.0 uniswap7.cloud
-0.0.0.0 uniswap7.info
 0.0.0.0 uniswap7.life
-0.0.0.0 uniswap7.link
-0.0.0.0 uniswap7.love
-0.0.0.0 uniswap7.online
 0.0.0.0 uniswap7.site
-0.0.0.0 uniswap7.space
 0.0.0.0 uniswap7.tech
-0.0.0.0 uniswap7.tokyo
-0.0.0.0 uniswap7.website
-0.0.0.0 uniswap7.work
-0.0.0.0 uniswap7.xyz
 0.0.0.0 uniswap777.xyz
 0.0.0.0 uniswapagent.com
 0.0.0.0 uniswapai.xyz
@@ -985,7 +940,6 @@
 0.0.0.0 uschse04.my03.com
 0.0.0.0 uusilemmikki.com
 0.0.0.0 uydrnhsb.info
-0.0.0.0 v5-uniswap.info
 0.0.0.0 valeofoodsgroup.com
 0.0.0.0 validsteamkeys.com
 0.0.0.0 vanced-official.com
@@ -1055,7 +1009,6 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
-0.0.0.0 xai467k.com
 0.0.0.0 xajzfwgs.com
 0.0.0.0 xcartpro.com
 0.0.0.0 xn--airuptrkiye-yhb.com

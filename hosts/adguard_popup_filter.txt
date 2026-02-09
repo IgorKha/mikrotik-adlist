@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.75
-! Last modified: 2026-02-01T06:24:37.161Z
+! Version: 1.0.17.76
+! Last modified: 2026-02-08T06:25:38.374Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 sparrowcanned.com
 0.0.0.0 dwlv.xyz
@@ -204,7 +204,6 @@
 0.0.0.0 adblockerprofessional.com
 0.0.0.0 adclickbyte.com
 0.0.0.0 adfgetlink.net
-0.0.0.0 adflowtube.com
 0.0.0.0 adglare.net
 0.0.0.0 adglidepro.com
 0.0.0.0 aditms.me
@@ -213,7 +212,6 @@
 0.0.0.0 admachina.com
 0.0.0.0 admeking.com
 0.0.0.0 admobe.com
-0.0.0.0 adoni-nea.com
 0.0.0.0 ads-blocker.app
 0.0.0.0 ads4trk.com
 0.0.0.0 adscdn.net
@@ -367,7 +365,6 @@
 0.0.0.0 disable-adverts.com
 0.0.0.0 displayvertising.com
 0.0.0.0 dithodackee.com
-0.0.0.0 divaresnapshareagido.com
 0.0.0.0 dlrectdates.com
 0.0.0.0 domainparkingmanager.it
 0.0.0.0 donkeyflower.xyz
@@ -382,16 +379,13 @@
 0.0.0.0 earnbeginnerdocument.com
 0.0.0.0 easelegbike.com
 0.0.0.0 easyconverts.com
-0.0.0.0 ecomicrolab.com
 0.0.0.0 eeco.xyz
 0.0.0.0 eetognauy.net
 0.0.0.0 efficientorbit.co
 0.0.0.0 emancytal.com
 0.0.0.0 endlessloveonline.online
 0.0.0.0 enframement.pics
-0.0.0.0 enield.com
 0.0.0.0 enrtx.com
-0.0.0.0 equides.pro
 0.0.0.0 escortlist.pro
 0.0.0.0 evil-candle.pro
 0.0.0.0 excellingvista.com
@@ -410,7 +404,6 @@
 0.0.0.0 finder2024.com
 0.0.0.0 flowldsb.online
 0.0.0.0 flowldsf.online
-0.0.0.0 flowworksfivesphere.com
 0.0.0.0 flyingadvert.com
 0.0.0.0 foerpo.com
 0.0.0.0 foflf.com
@@ -687,7 +680,6 @@
 0.0.0.0 realsh.xyz
 0.0.0.0 realtime-bid.com
 0.0.0.0 recesstransport.icu
-0.0.0.0 redaffil.com
 0.0.0.0 redirecting.online
 0.0.0.0 reebr.com
 0.0.0.0 rel-s.com
@@ -805,7 +797,6 @@
 0.0.0.0 trkfomedia.eu
 0.0.0.0 trknovi.com
 0.0.0.0 trkpostback.com
-0.0.0.0 trkred.com
 0.0.0.0 trksmorestreacking.com
 0.0.0.0 trpool.org
 0.0.0.0 trumppig.work
@@ -847,7 +838,6 @@
 0.0.0.0 vizoalygrenn.com
 0.0.0.0 vmgjt.click
 0.0.0.0 vmmcdn.com
-0.0.0.0 voguelift.biz
 0.0.0.0 volleyballachiever.site
 0.0.0.0 voluumtrk.com
 0.0.0.0 vpn-offers.org
@@ -865,7 +855,6 @@
 0.0.0.0 wettigo136.com
 0.0.0.0 wewearegogogo.com
 0.0.0.0 wheceelt.net
-0.0.0.0 where-to.shop
 0.0.0.0 wintrck.com
 0.0.0.0 wuujae.com
 0.0.0.0 x2tsa.com

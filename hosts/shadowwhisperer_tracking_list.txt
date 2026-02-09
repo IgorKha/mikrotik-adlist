@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.49
-! Last modified: 2026-02-01T06:24:37.734Z
+! Version: 1.0.2.55
+! Last modified: 2026-02-08T06:25:39.334Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -32352,6 +32352,7 @@
 0.0.0.0 fuaqql8trk.com
 0.0.0.0 fucpa.sk-ii.com
 0.0.0.0 fudrf.titan.fitness
+0.0.0.0 fueled.io
 0.0.0.0 fuerth.symanics.net
 0.0.0.0 fuglekos.com
 0.0.0.0 fuhhg.tanaorjewelry.com
@@ -32849,7 +32850,6 @@
 0.0.0.0 geode.donkeymob.com
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geoedge.be
-0.0.0.0 geo.elgato.com
 0.0.0.0 geo.emol.cl
 0.0.0.0 geofilter-compress.storage.googleapis.com
 0.0.0.0 geofilter.storage.googleapis.com
@@ -58550,6 +58550,7 @@
 0.0.0.0 mmqap.intimatesforall.com
 0.0.0.0 mmqkf.theplantguy.com
 0.0.0.0 mms.cnn.com
+0.0.0.0 mm-sdk-analytics.api.cx.metamask.io
 0.0.0.0 mms.menmansion.com
 0.0.0.0 mmstat.com
 0.0.0.0 mmzc4tg6trk.com
@@ -58721,6 +58722,7 @@
 0.0.0.0 monsido.com
 0.0.0.0 monsterinsights.com
 0.0.0.0 montesano.com
+0.0.0.0 montiapm.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon-trk.com
 0.0.0.0 monu.delivery
@@ -69022,6 +69024,7 @@
 0.0.0.0 privacy.gomastercard.com.au
 0.0.0.0 privacy.happyfam.de
 0.0.0.0 privacy.heineken.it
+0.0.0.0 privacy.hibid.com
 0.0.0.0 privacy.ics.com
 0.0.0.0 privacy.interestfree.com.au
 0.0.0.0 privacy.intouch.wunderweib.de
@@ -101715,6 +101718,7 @@
 0.0.0.0 stat.tilataksitahko.fi
 0.0.0.0 stat.tilausliikennekarkkainen.fi
 0.0.0.0 stat.tilausliikennepaajanen.fi
+0.0.0.0 stat.tildaapi.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.tilijayrityspalvelu.fi
 0.0.0.0 stat.tilintarkastustarjalindroth.fi

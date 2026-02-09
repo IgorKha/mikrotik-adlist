@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.20.97
-! Last modified: 2026-02-01T06:24:55.096Z
+! Version: 1.0.21.3
+! Last modified: 2026-02-08T06:26:01.007Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -528,6 +528,9 @@
 0.0.0.0 lixbngx.top
 0.0.0.0 ublcz.cn
 0.0.0.0 ads.twitter.center
+0.0.0.0 divibase.xyz
+0.0.0.0 t-sales.jp
+0.0.0.0 kryvessa.xenithra.site
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -1927,6 +1930,7 @@
 0.0.0.0 telus.signup.clik2pay.com
 0.0.0.0 mercado-livre.produtos.usacomment.com
 0.0.0.0 bitkub.onrender.com
+0.0.0.0 adguardvpnnew.biz
 0.0.0.0 uwelldeutschland.com
 0.0.0.0 melbournedistillery.com
 0.0.0.0 emta-ee-authst.firebaseapp.com
@@ -3168,5 +3172,9 @@
 0.0.0.0 7zip.com
 0.0.0.0 7zip.cloud
 0.0.0.0 wploits.com
-0.0.0.0 fantia.paid-task.com
+0.0.0.0 paid-task.com
 0.0.0.0 mpchc.net
+0.0.0.0 subscriptionprocess.im
+0.0.0.0 acc-verification.world
+0.0.0.0 l1ve-com.444774.shop
+0.0.0.0 rblx-copier.vercel.app
