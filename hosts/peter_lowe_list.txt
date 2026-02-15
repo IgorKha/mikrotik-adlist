@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.56
-! Last modified: 2026-02-08T06:25:32.728Z
+! Version: 1.0.16.59
+! Last modified: 2026-02-15T06:25:35.008Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -767,6 +767,7 @@
 0.0.0.0 adv.wp.pl
 0.0.0.0 adv.yo.cz
 0.0.0.0 advangelists.com
+0.0.0.0 advariant.com
 0.0.0.0 adventory.com
 0.0.0.0 adventurousamount.com
 0.0.0.0 advert.bayarea.com
@@ -1002,6 +1003,7 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.czi.cz
@@ -2001,6 +2003,7 @@
 0.0.0.0 kueezrtb.com
 0.0.0.0 kvsadman.com
 0.0.0.0 l1.britannica.com
+0.0.0.0 lakesecure.com
 0.0.0.0 lameletters.com
 0.0.0.0 landkarts.com
 0.0.0.0 larati.net
@@ -2052,6 +2055,7 @@
 0.0.0.0 limecodesign.com
 0.0.0.0 link-booster.de
 0.0.0.0 link.axios.com
+0.0.0.0 link.beelivery.com
 0.0.0.0 link.email.davidlloydclubs.co.uk
 0.0.0.0 link.email.usmagazine.com
 0.0.0.0 link.go.chase
@@ -2122,6 +2126,7 @@
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madcpms.com
 0.0.0.0 madinad.com
+0.0.0.0 madisonavenue.com
 0.0.0.0 madvertise.de
 0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
@@ -2652,6 +2657,7 @@
 0.0.0.0 rambunctiousflock.com
 0.0.0.0 rampidads.com
 0.0.0.0 randkuj.xyz
+0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-links.de
@@ -2822,7 +2828,6 @@
 0.0.0.0 serendipityecho.com
 0.0.0.0 serpentshampoo.com
 0.0.0.0 serv0.com
-0.0.0.0 servads.net
 0.0.0.0 servclick1move.com
 0.0.0.0 serve.tercept.com
 0.0.0.0 servedby-buysellads.com
@@ -3275,6 +3280,7 @@
 0.0.0.0 tumbleicicle.com
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
+0.0.0.0 twelvedawn.com
 0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 tynt.com

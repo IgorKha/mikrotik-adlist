@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.42
-! Last modified: 2026-02-08T06:26:01.502Z
+! Version: 1.0.16.46
+! Last modified: 2026-02-15T06:25:59.252Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -267,7 +267,9 @@
 0.0.0.0 dhs.org
 0.0.0.0 digikabel.hu
 0.0.0.0 digitalgroupe.com
+0.0.0.0 diskstation.eu
 0.0.0.0 diskstation.me
+0.0.0.0 diskstation.org
 0.0.0.0 ditchyourip.com
 0.0.0.0 divx.se
 0.0.0.0 dlinkddns.com
@@ -330,6 +332,7 @@
 0.0.0.0 doyleandprendergast.com
 0.0.0.0 dp76.com
 0.0.0.0 dpcube.com
+0.0.0.0 dray-dns.de
 0.0.0.0 drayddns.com
 0.0.0.0 dropfiles.net
 0.0.0.0 drunkensailor.org
@@ -364,6 +367,7 @@
 0.0.0.0 dyn-access.org
 0.0.0.0 dyn-ip24.de
 0.0.0.0 dyn-o-saur.com
+0.0.0.0 dyn-vpn.de
 0.0.0.0 dynalias.com
 0.0.0.0 dynalias.net
 0.0.0.0 dynalias.org
@@ -430,6 +434,7 @@
 0.0.0.0 dynv4.net
 0.0.0.0 dynv6.com
 0.0.0.0 dynv6.net
+0.0.0.0 dynvpn.de
 0.0.0.0 dyyndns.net
 0.0.0.0 e-m-a-i-l.org
 0.0.0.0 e-romagnoli.com
@@ -650,6 +655,7 @@
 0.0.0.0 hiddencorner.org
 0.0.0.0 hijaxdesigns.com
 0.0.0.0 hin.tw
+0.0.0.0 hiprinter.com
 0.0.0.0 his.name
 0.0.0.0 hitremixes.com
 0.0.0.0 hldns.ru
@@ -911,6 +917,7 @@
 0.0.0.0 medittech.com
 0.0.0.0 mefound.com
 0.0.0.0 meicosoft.com
+0.0.0.0 mein-vigor.de
 0.0.0.0 melakaboy.com
 0.0.0.0 merseine.com
 0.0.0.0 merseine.org
@@ -954,6 +961,8 @@
 0.0.0.0 musterihizmetleri.com
 0.0.0.0 mwop.net
 0.0.0.0 my.to
+0.0.0.0 my-vigor.de
+0.0.0.0 my-wan.de
 0.0.0.0 my03.com
 0.0.0.0 myactivedirectory.com
 0.0.0.0 myaddr.dev
@@ -1310,6 +1319,9 @@
 0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
 0.0.0.0 swtest.ru
+0.0.0.0 syno-ds.de
+0.0.0.0 synology-diskstation.de
+0.0.0.0 synology-ds.de
 0.0.0.0 synoserver.com
 0.0.0.0 sysadminetworks.com
 0.0.0.0 system-ns.com
@@ -1369,6 +1381,7 @@
 0.0.0.0 ufcfan.org
 0.0.0.0 ufodns.com
 0.0.0.0 ugo.si
+0.0.0.0 uk.ms
 0.0.0.0 uk.to
 0.0.0.0 undo.it
 0.0.0.0 unibutton.com
