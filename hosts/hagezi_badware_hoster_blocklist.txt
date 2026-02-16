@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.18.91
-! Last modified: 2026-02-08T06:26:01.641Z
+! Version: 1.0.19.1
+! Last modified: 2026-02-15T06:25:59.341Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -502,6 +502,7 @@
 0.0.0.0 edublogs.org
 0.0.0.0 educatorpage.com
 0.0.0.0 educatorpages.com
+0.0.0.0 efacturas.net
 0.0.0.0 eg.gp
 0.0.0.0 ehaitao.com
 0.0.0.0 eklablog.com
@@ -813,6 +814,7 @@
 0.0.0.0 lovable.app
 0.0.0.0 loveslife.biz
 0.0.0.0 lovestoblog.com
+0.0.0.0 loxblog.com
 0.0.0.0 lspmr.org
 0.0.0.0 lu.kg
 0.0.0.0 luzzati.com
@@ -1156,6 +1158,7 @@
 0.0.0.0 uzblog.net
 0.0.0.0 v.gp
 0.0.0.0 v0r.org
+0.0.0.0 val.run
 0.0.0.0 vastserve.com
 0.0.0.0 ve.gp
 0.0.0.0 verifypass.pw
@@ -1174,6 +1177,7 @@
 0.0.0.0 wallinside.com
 0.0.0.0 wallst.ru
 0.0.0.0 wapka.club
+0.0.0.0 wapka.co
 0.0.0.0 wapka.site
 0.0.0.0 wapka.store
 0.0.0.0 wapka.top
@@ -1265,6 +1269,7 @@
 0.0.0.0 xsph.ru
 0.0.0.0 xtgem.com
 0.0.0.0 xtreemhost.com
+0.0.0.0 xx.kg
 0.0.0.0 xx.lc
 0.0.0.0 xxl.lc
 0.0.0.0 xxxxxxxx.jp

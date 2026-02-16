@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.41
-! Last modified: 2026-02-08T06:25:49.430Z
+! Version: 1.0.15.42
+! Last modified: 2026-02-15T06:25:49.485Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -192,6 +192,7 @@
 0.0.0.0 backend.qimtek.se
 0.0.0.0 bam.bonad.io
 0.0.0.0 banner.bet365partners.com
+0.0.0.0 banneradder.se
 0.0.0.0 banners.instaforex.com
 0.0.0.0 banners.jldigital.se
 0.0.0.0 banners.wsnonline.dk

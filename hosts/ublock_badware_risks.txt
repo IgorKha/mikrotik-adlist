@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.21.3
-! Last modified: 2026-02-08T06:26:01.007Z
+! Version: 1.0.21.6
+! Last modified: 2026-02-15T06:25:58.945Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -3173,8 +3173,11 @@
 0.0.0.0 7zip.cloud
 0.0.0.0 wploits.com
 0.0.0.0 paid-task.com
+0.0.0.0 invoice-guide.com
 0.0.0.0 mpchc.net
 0.0.0.0 subscriptionprocess.im
 0.0.0.0 acc-verification.world
 0.0.0.0 l1ve-com.444774.shop
 0.0.0.0 rblx-copier.vercel.app
+0.0.0.0 pc-huorong.com
+0.0.0.0 kervjrfjd.pro

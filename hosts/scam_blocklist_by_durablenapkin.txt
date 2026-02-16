@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.75
-! Last modified: 2026-02-08T06:25:54.032Z
+! Version: 1.0.19.82
+! Last modified: 2026-02-15T06:25:53.301Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 10xuniswap.xyz
@@ -23,7 +23,8 @@
 0.0.0.0 93mobiles.com
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
-0.0.0.0 account.ws-reward.com
+0.0.0.0 add-signal-group.com
+0.0.0.0 adflowtube.com
 0.0.0.0 adidasko.com
 0.0.0.0 adminicesm.life
 0.0.0.0 affordableforyouusa5.godaddysites.com
@@ -125,7 +126,6 @@
 0.0.0.0 breakshirts.com
 0.0.0.0 brttre.com
 0.0.0.0 bsnltower.com
-0.0.0.0 bsnltower5g.com
 0.0.0.0 bsnltowerinstallations.com
 0.0.0.0 bsntowoff.com
 0.0.0.0 btc9339.com
@@ -197,6 +197,7 @@
 0.0.0.0 dashracegear.net
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
+0.0.0.0 db-phototans.com
 0.0.0.0 dbphototans.com
 0.0.0.0 ddzk513bd.com
 0.0.0.0 debridlink.com
@@ -238,7 +239,7 @@
 0.0.0.0 e-visaindia.com
 0.0.0.0 e-visaindiaonline.com
 0.0.0.0 e-visums.nl
-0.0.0.0 easynatures.com
+0.0.0.0 ecomicrolab.com
 0.0.0.0 ecs-online.ffm.to
 0.0.0.0 edecher.com
 0.0.0.0 edgeupgrade.com
@@ -369,7 +370,6 @@
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 helpnanacenter.helpscoutdocs.com
-0.0.0.0 helpuspsnow.ru
 0.0.0.0 hernoclothing.com
 0.0.0.0 heyfusio.com
 0.0.0.0 hfr67jhqrw8.com
@@ -447,7 +447,6 @@
 0.0.0.0 karanpcofficial.blogspot.com
 0.0.0.0 keenfootwearsale.com
 0.0.0.0 kesug.com
-0.0.0.0 kidsmama.online
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 kingcampoutdoors.co.jp
 0.0.0.0 kino-cda.pl
@@ -455,7 +454,6 @@
 0.0.0.0 kinonline.pl
 0.0.0.0 kisserine.com
 0.0.0.0 kitchendecor.shop
-0.0.0.0 klasykavod.pl
 0.0.0.0 klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-pc.com
 0.0.0.0 kms-tool.com
@@ -476,7 +474,6 @@
 0.0.0.0 leonoremanry.sa.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 lesliespracklen.sa.com
-0.0.0.0 levelbash.com
 0.0.0.0 levelupstore.xyz
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 ligerking.com
@@ -497,6 +494,7 @@
 0.0.0.0 mail-cytanet.pages.dev
 0.0.0.0 malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
+0.0.0.0 mansion-xenarthran.info
 0.0.0.0 maxdebrid.com
 0.0.0.0 mayor4london.com
 0.0.0.0 mcds100.com
@@ -510,6 +508,7 @@
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 miucart.com
+0.0.0.0 modalsaya.xyz
 0.0.0.0 moddetail.com
 0.0.0.0 modmobile24.com
 0.0.0.0 monkstars.com
@@ -609,7 +608,6 @@
 0.0.0.0 nip29.com
 0.0.0.0 nip3.com
 0.0.0.0 nip4.com
-0.0.0.0 nip44.com
 0.0.0.0 nip46.com
 0.0.0.0 nip5.com
 0.0.0.0 nip57.com
@@ -624,6 +622,7 @@
 0.0.0.0 notasdenatran.co
 0.0.0.0 notify-user-adjustments.vercel.app
 0.0.0.0 novabeds.ca
+0.0.0.0 nowefilmyonline.pl
 0.0.0.0 nxtgenerator.top
 0.0.0.0 nzxsxn.98kk89.com
 0.0.0.0 oablages.org.br
@@ -643,6 +642,7 @@
 0.0.0.0 online-eta.com
 0.0.0.0 onlinecda.pl
 0.0.0.0 onlinefilmy.pl
+0.0.0.0 onlinekino.pl
 0.0.0.0 onlinevisa.com
 0.0.0.0 onlinewideo.pl
 0.0.0.0 onlyfanstake.pro
@@ -671,8 +671,10 @@
 0.0.0.0 pharaohstore.com
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
+0.0.0.0 phototan-unterstutzung.win
 0.0.0.0 phototan.net
 0.0.0.0 pinjamanelit.top
+0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 pinjamteman.top
 0.0.0.0 pinjamuang.top
 0.0.0.0 pipopi.com
@@ -715,6 +717,7 @@
 0.0.0.0 rosateeshop.com
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
+0.0.0.0 rozomii.info
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 rupiahlagi.com
 0.0.0.0 rupiahsaku.com
@@ -754,7 +757,6 @@
 0.0.0.0 sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 signal-group-add.com
-0.0.0.0 signal-groups-add.com
 0.0.0.0 signpify.com
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
@@ -816,12 +818,14 @@
 0.0.0.0 taramatikarou.com
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 tee24h.com
 0.0.0.0 teearrow.com
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
 0.0.0.0 tencheckit.org
 0.0.0.0 teodoroautopecas.com
+0.0.0.0 terverystaio.info
 0.0.0.0 teslatime.net
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
@@ -852,6 +856,7 @@
 0.0.0.0 travelexpress.us.com
 0.0.0.0 travelvisabookings.com
 0.0.0.0 travisa.com
+0.0.0.0 treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 tripinpremiumsnacks.com
@@ -872,34 +877,16 @@
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 ultra-cda.pl
 0.0.0.0 ultrasonica.info
-0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
-0.0.0.0 uniswap-claim-gold.run
 0.0.0.0 uniswap-claim-today.run
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap-wallet.pro
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.ro
-0.0.0.0 uniswap0120.com
 0.0.0.0 uniswap100x.xyz
 0.0.0.0 uniswap10x.xyz
 0.0.0.0 uniswap2025.xyz
-0.0.0.0 uniswap3.buzz
-0.0.0.0 uniswap3.online
-0.0.0.0 uniswap3.site
-0.0.0.0 uniswap3.tech
 0.0.0.0 uniswap365.xyz
-0.0.0.0 uniswap5.biz
-0.0.0.0 uniswap5.cloud
-0.0.0.0 uniswap5.info
-0.0.0.0 uniswap5.online
-0.0.0.0 uniswap5.website
-0.0.0.0 uniswap5.work
-0.0.0.0 uniswap5.xyz
-0.0.0.0 uniswap7.buzz
-0.0.0.0 uniswap7.life
-0.0.0.0 uniswap7.site
-0.0.0.0 uniswap7.tech
 0.0.0.0 uniswap777.xyz
 0.0.0.0 uniswapagent.com
 0.0.0.0 uniswapai.xyz
@@ -944,7 +931,6 @@
 0.0.0.0 validsteamkeys.com
 0.0.0.0 vanced-official.com
 0.0.0.0 vanced.to
-0.0.0.0 vegamartz.com
 0.0.0.0 velmaglendenning.ru.com
 0.0.0.0 vencord.app
 0.0.0.0 venezuelabaseballjerseys.com
