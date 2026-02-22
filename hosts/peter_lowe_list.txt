@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.59
-! Last modified: 2026-02-15T06:25:35.008Z
+! Version: 1.0.16.60
+! Last modified: 2026-02-22T06:23:10.650Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -566,7 +566,6 @@
 0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
-0.0.0.0 ads.unison.bg
 0.0.0.0 ads.usatoday.com
 0.0.0.0 ads.uxs.at
 0.0.0.0 ads.v-lazer.com
@@ -1325,7 +1324,6 @@
 0.0.0.0 colorfulpet.com
 0.0.0.0 coloroptimizer.com
 0.0.0.0 comfortablecheese.com
-0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 communications.melitaltd.com
 0.0.0.0 compactbanner.com
@@ -2807,7 +2805,6 @@
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingstocking.com
 0.0.0.0 screechingstove.com
-0.0.0.0 scripte-monster.de
 0.0.0.0 scrubswim.com
 0.0.0.0 seadform.net
 0.0.0.0 searchmarketing.com
