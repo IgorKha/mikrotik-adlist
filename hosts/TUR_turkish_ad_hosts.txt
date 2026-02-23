@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.70
-! Last modified: 2026-02-15T06:25:52.131Z
+! Version: 1.0.14.71
+! Last modified: 2026-02-22T06:23:27.055Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -295,6 +295,7 @@
 0.0.0.0 api.taps.io
 0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 api.useinsider.com
+0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-dataroid.akbank.com
 0.0.0.0 api-dataroid.akode.com
@@ -391,6 +392,7 @@
 0.0.0.0 bireysel-reklam-sayfamiz.tk
 0.0.0.0 bitcireklam.com
 0.0.0.0 bmrg.reflected.net
+0.0.0.0 bnc.lt
 0.0.0.0 bncsdestekgiristr.com
 0.0.0.0 bngdyn.com
 0.0.0.0 bngprm.com
@@ -474,12 +476,15 @@
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.clickiocdn.com
 0.0.0.0 cdn.cloudimagesb.com
+0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.confiant-integrations.net
 0.0.0.0 cdn.convertbox.com
+0.0.0.0 cdn.cpex.cz
 0.0.0.0 cdn.dataroid.com
 0.0.0.0 cdn.dimml.io
 0.0.0.0 cdn.dokondigit.quest
 0.0.0.0 cdn.doubleverify.com
+0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdn.efilli.com
 0.0.0.0 cdn.eksiup.com
 0.0.0.0 cdn.engine.4dsply.com
@@ -615,7 +620,6 @@
 0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.mgid.com
 0.0.0.0 cmp.inmobi.com
-0.0.0.0 cmp.quantcast.com
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cnt.nuvid.com
@@ -636,6 +640,7 @@
 0.0.0.0 collector.wawlabs.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector-1054.tvsquared.com
+0.0.0.0 collector-pxdojv695v.protechts.net
 0.0.0.0 commercialvalue.org
 0.0.0.0 conditionchange.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
@@ -648,6 +653,7 @@
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 connect-dre.dbankcloud.cn
 0.0.0.0 connect-dre.hispace.hicloud.com
+0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 consent-manager-events.ogury.io
@@ -725,6 +731,7 @@
 0.0.0.0 d692b70a4e.a6dc99d1a8.com
 0.0.0.0 d899faa8b1.79b1c4498b.com
 0.0.0.0 da37c08c29.36b7ca5028.com
+0.0.0.0 dai.google.com
 0.0.0.0 danesuffocate.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.flurry.com
@@ -812,6 +819,7 @@
 0.0.0.0 egitimhanekurumum.net
 0.0.0.0 elo-io.videoplayerhub.com
 0.0.0.0 elonreptiloid.com
+0.0.0.0 elqtrk.intel.com
 0.0.0.0 elsa.memoinsights.com
 0.0.0.0 emea.hhkld.com
 0.0.0.0 engine.adzerk.net
@@ -863,6 +871,7 @@
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 fe.cabioredtop.com
 0.0.0.0 fid.agkn.com
+0.0.0.0 fingerprintjs.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -1044,6 +1053,7 @@
 0.0.0.0 iplocation-api.wp.trt.com.tr
 0.0.0.0 ipr.n11.com
 0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ironsource.mobi
 0.0.0.0 iscep-stories.commencis.com
 0.0.0.0 isortagim.hangikredi.com
 0.0.0.0 istat.izlesene.com
@@ -1198,6 +1208,7 @@
 0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics.vinted.it
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics1.data.hicloud.com
@@ -1316,6 +1327,7 @@
 0.0.0.0 pad-v3.presage.io
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 panel.afyads.com
+0.0.0.0 pangleglobal.com
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 parkingridiculous.com
 0.0.0.0 parksoftreklam.com
@@ -1325,6 +1337,7 @@
 0.0.0.0 pcdn.dengage.com
 0.0.0.0 pcookie.aliexpress.com
 0.0.0.0 pebed.dm-event.net
+0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 per1.segmentify.com
 0.0.0.0 per2.segmentify.com
 0.0.0.0 perr.h-cdn.com
@@ -1421,6 +1434,7 @@
 0.0.0.0 qds0l.publishers.tremorhub.com
 0.0.0.0 qgxbluhsgad.com
 0.0.0.0 qsearch-a.akamaihd.net
+0.0.0.0 quantcast.com
 0.0.0.0 r.admob.com
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.skimresources.com
@@ -1567,6 +1581,7 @@
 0.0.0.0 sdk.iad-05.braze.com
 0.0.0.0 sdk.iad-06.braze.com
 0.0.0.0 sdk.fra-01.braze.eu
+0.0.0.0 sdk.postscrip.io
 0.0.0.0 sdk.pulse.schibsted.com
 0.0.0.0 sdk.sharethrough.com
 0.0.0.0 sdk-api-v1.singular.net
@@ -2013,6 +2028,7 @@
 0.0.0.0 www.voxmrcdgzuwb.com
 0.0.0.0 www.w3counter.com
 0.0.0.0 www9.smartadserver.com
+0.0.0.0 www91.intel.com
 0.0.0.0 wyhifdpatl.com
 0.0.0.0 wzrkt.com
 0.0.0.0 x.bidswitch.net

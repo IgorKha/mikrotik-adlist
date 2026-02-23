@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.15.74
-! Last modified: 2026-02-15T06:25:38.425Z
+! Version: 1.0.15.96
+! Last modified: 2026-02-22T06:23:14.026Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.15.74
+! Version: 1.0.15.96
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-02-15T03:10:40.535Z
+! Last modified: 2026-02-21T18:13:15.570Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1435,6 +1435,7 @@
 0.0.0.0 b.doloaqywbvq.ru
 0.0.0.0 b.webwise.org
 0.0.0.0 b2b-update.appwrite.network
+0.0.0.0 b8bsb.55002298.click
 0.0.0.0 babouche-maroc.fr
 0.0.0.0 bac-reunion.fr
 0.0.0.0 backlusjumpdur.club
@@ -1717,6 +1718,7 @@
 0.0.0.0 dewinci.fr
 0.0.0.0 dfnac.fr
 0.0.0.0 dhauzja511.co.cc
+0.0.0.0 dhl-closeariu.kaixuankio.cn
 0.0.0.0 dhlmyorder82662-info-can.com
 0.0.0.0 digiclk.com
 0.0.0.0 digicub.fr
@@ -1813,6 +1815,7 @@
 0.0.0.0 facebookj.fr
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
 0.0.0.0 facemail.com
+0.0.0.0 factorship.wcyrkdd.cn
 0.0.0.0 fafarge.fr
 0.0.0.0 faggotry.com
 0.0.0.0 falkcoppercookware.fr
@@ -1873,6 +1876,7 @@
 0.0.0.0 ftdownload.com
 0.0.0.0 fu.golikeus.net			# Facebook trojan
 0.0.0.0 fuzzy-afternoon.surge.sh
+0.0.0.0 fwbdndyikloaxb68duujcfyudy.appwrite.network
 0.0.0.0 g2play.fr
 0.0.0.0 gabrielahlavack.samcart.com
 0.0.0.0 gadgetsytecnologia.com
@@ -1968,6 +1972,7 @@
 0.0.0.0 hlthiliv.shop
 0.0.0.0 hocolats-voisin.fr
 0.0.0.0 hommetendance.fr
+0.0.0.0 honeyburn.za.com
 0.0.0.0 hostify.fr
 0.0.0.0 hostiko.fr
 0.0.0.0 hot24profit.life
@@ -2628,6 +2633,7 @@
 0.0.0.0 rickrolling.com
 0.0.0.0 rifec.co
 0.0.0.0 rimnow.fr
+0.0.0.0 ringcleas.sa.com
 0.0.0.0 riosaladohp.com
 0.0.0.0 robertgraham.fr
 0.0.0.0 rockrose.fr
@@ -2641,6 +2647,7 @@
 0.0.0.0 rottentomatoes.fr
 0.0.0.0 rtag.fr
 0.0.0.0 rubgyrama.fr
+0.0.0.0 ruchika29access55824.acemlna.com
 0.0.0.0 runnerswolrd.fr
 0.0.0.0 runtnc.net
 0.0.0.0 russian-sex.com
@@ -2792,6 +2799,7 @@
 0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 tax-canada2023.co
 0.0.0.0 tbebestknives.fr
+0.0.0.0 teak.gen.tr
 0.0.0.0 teamsport-philipp.fr
 0.0.0.0 tearbelt.com
 0.0.0.0 technicalconsumerreports.com
@@ -2904,6 +2912,7 @@
 0.0.0.0 van-city-sign-on.com
 0.0.0.0 vc-login.com
 0.0.0.0 vcarrefour.fr
+0.0.0.0 vendhelpuous.pgvjmp.cn
 0.0.0.0 venturead.com
 0.0.0.0 verify.rambler-profile.site
 0.0.0.0 versbaudet.fr
@@ -3000,22 +3009,33 @@
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.adblock.fr
 0.0.0.0 www.adshufffle.com
+0.0.0.0 www.airmedcarennetwork.com
+0.0.0.0 www.airybotsh.pro
+0.0.0.0 www.alexyastro.com
 0.0.0.0 www.allhqpics.com			# Facebook trojan
+0.0.0.0 www.allscrabble.com
+0.0.0.0 www.allstateproteectionplans.com
 0.0.0.0 www.anatol.com
+0.0.0.0 www.apcort.com
 0.0.0.0 www.aramcom.space
 0.0.0.0 www.asianread.com
 0.0.0.0 www.audacity.es
 0.0.0.0 www.audacity.fr
+0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
+0.0.0.0 www.bazarusmassazha.com
 0.0.0.0 www.bbyjgkkdihiyxy.com
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bigantstore.com
+0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
+0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.brandsclothingco.com
 0.0.0.0 www.brghterimagelab.com
 0.0.0.0 www.brightstardv.pro
+0.0.0.0 www.briidgeapp.com
 0.0.0.0 www.bucahssana.com
 0.0.0.0 www.bumerang.cc
 0.0.0.0 www.bvcnle.cfd
@@ -3024,29 +3044,36 @@
 0.0.0.0 www.cambonanza.com
 0.0.0.0 www.canadianshawid.com
 0.0.0.0 www.caramail.com
+0.0.0.0 www.carolmassoterapia.com
 0.0.0.0 www.cassink.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
+0.0.0.0 www.centeralbidding.com
 0.0.0.0 www.chelick.net			# Facebook trojan
+0.0.0.0 www.chichomods.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.clearacreonline.com
 0.0.0.0 www.clearalgorithm.com
+0.0.0.0 www.clipsfan.com
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
+0.0.0.0 www.consultingbyelevate.com
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
 0.0.0.0 www.crowdnestfun.com
 0.0.0.0 www.darkrro.com
 0.0.0.0 www.dartya.com
+0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 www.deperiodista.com
 0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
 0.0.0.0 www.didata.bw
+0.0.0.0 www.digisubmission.com
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dorminvaders.com
 0.0.0.0 www.dymor.cfd
@@ -3078,6 +3105,7 @@
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.goggle.com
 0.0.0.0 www.gparted.fr
+0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
 0.0.0.0 www.grouphappy.com
@@ -3098,6 +3126,7 @@
 0.0.0.0 www.informereng.com
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
+0.0.0.0 www.iovenesweb.com
 0.0.0.0 www.irony.world
 0.0.0.0 www.jvidzaixian.com
 0.0.0.0 www.jvzoo.com
@@ -3128,7 +3157,9 @@
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.monkikitchen.com
 0.0.0.0 www.mshelp247.weebly.com
+0.0.0.0 www.msxzff.com
 0.0.0.0 www.mycolonialpenm.com
+0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
@@ -3141,6 +3172,7 @@
 0.0.0.0 www.objectopoly.info
 0.0.0.0 www.oix.com
 0.0.0.0 www.oletipmegroup.com
+0.0.0.0 www.oliviathemes.com
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.oppery.com
 0.0.0.0 www.otsserver.com
@@ -3148,16 +3180,20 @@
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.paramutplus.com
+0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paviro.cfd
+0.0.0.0 www.peachysailwv.pro
 0.0.0.0 www.pearlyappss.pro
 0.0.0.0 www.pepernity.com
 0.0.0.0 www.phantomluck.com
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.picture-uploads.com
+0.0.0.0 www.pinupspinup.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
+0.0.0.0 www.portutopcas.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.presidency.site
 0.0.0.0 www.prgwbn.cfd
@@ -3184,11 +3220,14 @@
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.smionecare.com
+0.0.0.0 www.softmillon.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.ssl2.in
 0.0.0.0 www.statsff.com
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stopphoulplay.com
+0.0.0.0 www.strongarchzu.com
 0.0.0.0 www.studioorientbay.com
 0.0.0.0 www.swallowwire.sa.com
 0.0.0.0 www.sweetiesecrets.com
@@ -3197,6 +3236,7 @@
 0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
+0.0.0.0 www.thefriday.net
 0.0.0.0 www.thesecuredtrader.com
 0.0.0.0 www.thunderbird.es
 0.0.0.0 www.tinkfrog.com
@@ -3213,6 +3253,7 @@
 0.0.0.0 www.urldelivery.com
 0.0.0.0 www.ventilationdirec.com
 0.0.0.0 www.venturead.com
+0.0.0.0 www.vetmanevi.com
 0.0.0.0 www.videolove.clanteam.com
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.vkvmotion.com
@@ -3224,11 +3265,15 @@
 0.0.0.0 www.webwise.org
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
+0.0.0.0 www.wholesaleorganix.com
 0.0.0.0 www.wifimarfixhotspot.com
 0.0.0.0 www.willysy.com
+0.0.0.0 www.winecrazydesigns.com
 0.0.0.0 www.winlottofrequently.com
+0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.yendermsoul.com
 0.0.0.0 www.youfiletor.com
+0.0.0.0 www.zippylakeri.name
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
 0.0.0.0 xcdkb.comfortykive.xyz

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.57
-! Last modified: 2026-02-15T06:25:40.769Z
+! Version: 1.0.2.58
+! Last modified: 2026-02-22T06:23:16.256Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -41138,6 +41138,7 @@
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 literatelight.com
 0.0.0.0 litics.godberd.com
+0.0.0.0 litix.digitalvideoplatform.com
 0.0.0.0 litix.io
 0.0.0.0 litlyx.com
 0.0.0.0 littlebuddy.apple.com
@@ -59945,6 +59946,7 @@
 0.0.0.0 nicksetup.davidbedrick.com
 0.0.0.0 nickwerbung.zenmovement.ch
 0.0.0.0 nid.barrons.com
+0.0.0.0 nid.biblegateway.com
 0.0.0.0 nid.news.co.uk
 0.0.0.0 nid.the-sun.com
 0.0.0.0 nid.thesun.co.uk
@@ -103464,6 +103466,7 @@
 0.0.0.0 tags.benarnews.org
 0.0.0.0 tags.bestcheck.de
 0.0.0.0 tags.bestow.com
+0.0.0.0 tags.biblegateway.com
 0.0.0.0 tags.bills.com
 0.0.0.0 tags.bk.mufg.jp
 0.0.0.0 tags.bunte.de

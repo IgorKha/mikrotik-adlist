@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.19.1
-! Last modified: 2026-02-15T06:25:59.341Z
+! Version: 1.0.19.7
+! Last modified: 2026-02-22T06:23:34.003Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -146,10 +146,8 @@
 0.0.0.0 aeza.network
 0.0.0.0 africafull.top
 0.0.0.0 ag.gp
-0.0.0.0 ag0rcgwjv5.com
 0.0.0.0 ahlamountada.com
 0.0.0.0 airground.club
-0.0.0.0 airself.shop
 0.0.0.0 al6.de
 0.0.0.0 alboompro.com
 0.0.0.0 all.lc
@@ -217,7 +215,6 @@
 0.0.0.0 biz.tc
 0.0.0.0 biz.uz
 0.0.0.0 bizhat.com
-0.0.0.0 bizmovie.shop
 0.0.0.0 blackapplehost.com
 0.0.0.0 blackblogs.org
 0.0.0.0 blinkweb.com
@@ -370,7 +367,6 @@
 0.0.0.0 cloudwaysapps.com
 0.0.0.0 club.lc
 0.0.0.0 club-area.de
-0.0.0.0 clubstrack.shop
 0.0.0.0 clumsy.de
 0.0.0.0 cn.gp
 0.0.0.0 co.de
@@ -436,7 +432,6 @@
 0.0.0.0 csb.app
 0.0.0.0 ct8.pl
 0.0.0.0 ctempurl.com
-0.0.0.0 cubavalue.shop
 0.0.0.0 cyberbree.com
 0.0.0.0 cyberfight.de
 0.0.0.0 cz.gp
@@ -446,7 +441,6 @@
 0.0.0.0 da.cx
 0.0.0.0 da.ru
 0.0.0.0 daftpage.com
-0.0.0.0 datechurch.shop
 0.0.0.0 datesize.top
 0.0.0.0 datingpm.club
 0.0.0.0 dax.ru
@@ -463,7 +457,6 @@
 0.0.0.0 de-info.de
 0.0.0.0 design.tl
 0.0.0.0 designcarthosting.com
-0.0.0.0 dietmark.shop
 0.0.0.0 digitalzones.com
 0.0.0.0 dimsolo.com
 0.0.0.0 dinamikajambi.com
@@ -491,7 +484,6 @@
 0.0.0.0 e-monsite.com
 0.0.0.0 easyfreehosting.com
 0.0.0.0 eb2a.com
-0.0.0.0 ebuykind.shop
 0.0.0.0 ec.gp
 0.0.0.0 ecardalert.com
 0.0.0.0 ecomplanet.com
@@ -558,7 +550,6 @@
 0.0.0.0 findarea.shop
 0.0.0.0 firearms.com
 0.0.0.0 firm.nu
-0.0.0.0 fishmeet.shop
 0.0.0.0 fitnell.com
 0.0.0.0 flashbuilder.net
 0.0.0.0 flazio.com
@@ -630,7 +621,6 @@
 0.0.0.0 gaming.lc
 0.0.0.0 gamingadd.club
 0.0.0.0 gearhostpreview.com
-0.0.0.0 georgiatwo.shop
 0.0.0.0 gerentebr.com
 0.0.0.0 getenjoyment.net
 0.0.0.0 getresponsesite.com
@@ -642,7 +632,6 @@
 0.0.0.0 sp.gname.net
 0.0.0.0 godaddysites.com
 0.0.0.0 godfrance.club
-0.0.0.0 godscience.shop
 0.0.0.0 gofreeserve.com
 0.0.0.0 googletagmanagers.com
 0.0.0.0 govauinboxmsg-support.com
@@ -659,7 +648,6 @@
 0.0.0.0 guest.de
 0.0.0.0 guide.lc
 0.0.0.0 guzhibo.cn
-0.0.0.0 gymsharkitaliaofficial.it
 0.0.0.0 h.gp
 0.0.0.0 hanefra7bikiemta.com
 0.0.0.0 hase.in
@@ -687,7 +675,6 @@
 0.0.0.0 hostland.pro
 0.0.0.0 hostseba.com
 0.0.0.0 hot.lc
-0.0.0.0 hotloss.shop
 0.0.0.0 hoxty.com
 0.0.0.0 hp.lc
 0.0.0.0 hpage.com
@@ -702,7 +689,6 @@
 0.0.0.0 hund.in
 0.0.0.0 hupont.hu
 0.0.0.0 hyderabadadda.com
-0.0.0.0 hyip.com
 0.0.0.0 hyperphp.com
 0.0.0.0 i.gp
 0.0.0.0 ibiz.cc
@@ -795,7 +781,6 @@
 0.0.0.0 land.to
 0.0.0.0 launchaco.com
 0.0.0.0 leaguelineup.com
-0.0.0.0 leastupdate.top
 0.0.0.0 lernt.de
 0.0.0.0 lhosting.info
 0.0.0.0 liebe.lc

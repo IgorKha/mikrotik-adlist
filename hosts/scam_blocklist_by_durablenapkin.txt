@@ -1,15 +1,12 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.82
-! Last modified: 2026-02-15T06:25:53.301Z
+! Version: 1.0.19.89
+! Last modified: 2026-02-22T06:23:28.140Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
-0.0.0.0 10xuniswap.xyz
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
 0.0.0.0 1sttheworld.com
-0.0.0.0 24uniswap.xyz
 0.0.0.0 270278609-2020004278-462904544-440202503325--570202500372x-usps.com
-0.0.0.0 365uniswap.xyz
 0.0.0.0 3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev
 0.0.0.0 3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net
 0.0.0.0 42gixk.98kk89.com
@@ -18,12 +15,12 @@
 0.0.0.0 555sq.com.cn
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
-0.0.0.0 777uniswap.xyz
 0.0.0.0 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
 0.0.0.0 93mobiles.com
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 add-signal-group.com
+0.0.0.0 add-signal-groups.com
 0.0.0.0 adflowtube.com
 0.0.0.0 adidasko.com
 0.0.0.0 adminicesm.life
@@ -44,13 +41,13 @@
 0.0.0.0 all-tube.pl
 0.0.0.0 allergyfl.com
 0.0.0.0 allnewsready.com
-0.0.0.0 allocation-uniswap.co
 0.0.0.0 allstarshirt.com
 0.0.0.0 allupdatenow.com
 0.0.0.0 alphatowercompany.in
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -151,7 +148,6 @@
 0.0.0.0 check-update-today.me
 0.0.0.0 chesssorrydescend.com
 0.0.0.0 chikepod.com
-0.0.0.0 chipcy.com
 0.0.0.0 chipteeamz.com
 0.0.0.0 cibtvisas.com
 0.0.0.0 cinemak.pl
@@ -173,6 +169,7 @@
 0.0.0.0 commerz-phototans.com
 0.0.0.0 compoundexotics.com
 0.0.0.0 confira.io
+0.0.0.0 containably.com
 0.0.0.0 coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 corg.co
@@ -219,7 +216,6 @@
 0.0.0.0 dleggere.com
 0.0.0.0 dogparadiseshop.com
 0.0.0.0 dogparadisestore.com
-0.0.0.0 doh-gov.com
 0.0.0.0 doh-gov.ph
 0.0.0.0 dohealths.com
 0.0.0.0 dolystore.com
@@ -253,6 +249,7 @@
 0.0.0.0 eslgrandscup.com
 0.0.0.0 estiloserena.com.br
 0.0.0.0 etaindia.org
+0.0.0.0 etv-in.com
 0.0.0.0 eudoraz.com
 0.0.0.0 eudshop.shop
 0.0.0.0 eventmusk-x.com
@@ -293,7 +290,6 @@
 0.0.0.0 filexstorage.site
 0.0.0.0 fili-cc.tv
 0.0.0.0 filman-hd.cc
-0.0.0.0 filmersi.pl
 0.0.0.0 filmhit.pl
 0.0.0.0 filmhunt.pl
 0.0.0.0 filmo.agency
@@ -343,7 +339,6 @@
 0.0.0.0 get-kmspico.com
 0.0.0.0 getintopc.today
 0.0.0.0 getkmspico.com
-0.0.0.0 getsupport-lcloud.com
 0.0.0.0 getwavemax.com
 0.0.0.0 giftyweb.com
 0.0.0.0 gig-os.com
@@ -370,6 +365,7 @@
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 helpnanacenter.helpscoutdocs.com
+0.0.0.0 helpuspsnow.ru
 0.0.0.0 hernoclothing.com
 0.0.0.0 heyfusio.com
 0.0.0.0 hfr67jhqrw8.com
@@ -412,6 +408,7 @@
 0.0.0.0 indianimmigration.org
 0.0.0.0 indianonlinevisas.org
 0.0.0.0 indiantravelvisa.com
+0.0.0.0 indianvisa-online.org
 0.0.0.0 indianvisa.online
 0.0.0.0 indianvisagov.com
 0.0.0.0 indianvisaonline.org
@@ -433,7 +430,6 @@
 0.0.0.0 iphone.quiztionnaire.biz
 0.0.0.0 iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
-0.0.0.0 iteeus.com
 0.0.0.0 itseasy.com
 0.0.0.0 ivisa.com
 0.0.0.0 j-natural.com
@@ -474,6 +470,7 @@
 0.0.0.0 leonoremanry.sa.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 lesliespracklen.sa.com
+0.0.0.0 levelbash.com
 0.0.0.0 levelupstore.xyz
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 ligerking.com
@@ -489,6 +486,7 @@
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
+0.0.0.0 lucysstyle.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -597,7 +595,6 @@
 0.0.0.0 nextstephire.net
 0.0.0.0 nicelegant.com
 0.0.0.0 niche3d.us
-0.0.0.0 ninzatool.pw
 0.0.0.0 nip1.com
 0.0.0.0 nip17.com
 0.0.0.0 nip2.com
@@ -613,13 +610,13 @@
 0.0.0.0 nip57.com
 0.0.0.0 nip8.com
 0.0.0.0 nip9.com
+0.0.0.0 nip98.com
 0.0.0.0 nirvezal.com
 0.0.0.0 nobrerefino.com
 0.0.0.0 nofotballshop.com
 0.0.0.0 norfotball.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 nosdaarte.com
-0.0.0.0 notasdenatran.co
 0.0.0.0 notify-user-adjustments.vercel.app
 0.0.0.0 novabeds.ca
 0.0.0.0 nowefilmyonline.pl
@@ -697,14 +694,11 @@
 0.0.0.0 printteestore.com
 0.0.0.0 promoalfresco.com
 0.0.0.0 promotion40-form.com
-0.0.0.0 providedexcitingcritical.pro
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 qq51f.short.gy
 0.0.0.0 qriedf.info
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
-0.0.0.0 regularizedenatran.co
-0.0.0.0 remessacorreio.site
 0.0.0.0 resources4gaming.com
 0.0.0.0 revanced-extended.com
 0.0.0.0 revancedmusic.com
@@ -757,7 +751,9 @@
 0.0.0.0 sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 signal-group-add.com
+0.0.0.0 signal-groups-add.com
 0.0.0.0 signpify.com
+0.0.0.0 signwdocu.com
 0.0.0.0 singingfiles.com
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
@@ -781,7 +777,6 @@
 0.0.0.0 sportsbrooks.com
 0.0.0.0 sportswearfanatics.com
 0.0.0.0 spotgee.com
-0.0.0.0 stableuniswap.xyz
 0.0.0.0 staging.zendrop.com
 0.0.0.0 startuplatte.com
 0.0.0.0 steamgateways.com
@@ -807,7 +802,6 @@
 0.0.0.0 summersale.online
 0.0.0.0 sunsetstore.net
 0.0.0.0 supercutestuff.com
-0.0.0.0 superuniswap.xyz
 0.0.0.0 supperbrand.company.site
 0.0.0.0 survivalcatsupply.com
 0.0.0.0 sweet-bonanza-demo.gr
@@ -844,7 +838,6 @@
 0.0.0.0 toko999.net
 0.0.0.0 toko999.shop
 0.0.0.0 tomadamsenergy.com
-0.0.0.0 too-gle.com
 0.0.0.0 touristvisaonline.com
 0.0.0.0 toweragency.in
 0.0.0.0 towerdepartment.com
@@ -877,47 +870,22 @@
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 ultra-cda.pl
 0.0.0.0 ultrasonica.info
+0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
-0.0.0.0 uniswap-claim-today.run
-0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap-wallet.pro
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.ro
-0.0.0.0 uniswap100x.xyz
-0.0.0.0 uniswap10x.xyz
-0.0.0.0 uniswap2025.xyz
-0.0.0.0 uniswap365.xyz
-0.0.0.0 uniswap777.xyz
 0.0.0.0 uniswapagent.com
-0.0.0.0 uniswapai.xyz
-0.0.0.0 uniswapapp.xyz
-0.0.0.0 uniswapbot.xyz
-0.0.0.0 uniswapcapital.xyz
 0.0.0.0 uniswapclient.com
-0.0.0.0 uniswapcoin.xyz
 0.0.0.0 uniswapcriteria.com
 0.0.0.0 uniswapcriteria.net
 0.0.0.0 uniswapcriteria.org
 0.0.0.0 uniswapcriterion.com
 0.0.0.0 uniswapcriterion.net
 0.0.0.0 uniswapcriterion.org
-0.0.0.0 uniswapdefi.xyz
-0.0.0.0 uniswapetf.xyz
-0.0.0.0 uniswapfund.xyz
-0.0.0.0 uniswaphub.xyz
-0.0.0.0 uniswaplabs.xyz
-0.0.0.0 uniswaplender.xyz
-0.0.0.0 uniswaplending.xyz
-0.0.0.0 uniswapnft.xyz
-0.0.0.0 uniswapr.org
 0.0.0.0 uniswaps-v3.net
-0.0.0.0 uniswapstake.xyz
-0.0.0.0 uniswapstaking.xyz
 0.0.0.0 uniswapsupport.online
-0.0.0.0 uniswaptoken.xyz
-0.0.0.0 uniswaptrading.xyz
 0.0.0.0 uniswapv3.xyz
-0.0.0.0 uniswapwallletconnect.su
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 updatesnow.click
 0.0.0.0 uplevelreward.com
@@ -991,7 +959,6 @@
 0.0.0.0 wpad.top
 0.0.0.0 wpad.xyz
 0.0.0.0 wpclick.cc
-0.0.0.0 ws.existingcustomer.live
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
@@ -1016,7 +983,6 @@
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com
 0.0.0.0 yuaonew.com
-0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
 0.0.0.0 zalukaj-film.pl
 0.0.0.0 zalukaj-pl.tv

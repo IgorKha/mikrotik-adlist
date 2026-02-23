@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.46
-! Last modified: 2026-02-15T06:25:59.252Z
+! Version: 1.0.16.48
+! Last modified: 2026-02-22T06:23:33.924Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -245,7 +245,6 @@
 0.0.0.0 ddns-dvr.com
 0.0.0.0 ddns-ip.net
 0.0.0.0 ddns5.com
-0.0.0.0 ddnsapp.com
 0.0.0.0 ddnsfree.com
 0.0.0.0 ddnsgeek.com
 0.0.0.0 ddnsguru.com
@@ -968,6 +967,7 @@
 0.0.0.0 myaddr.dev
 0.0.0.0 myaddr.io
 0.0.0.0 myaddr.tools
+0.0.0.0 mycompany.tv
 0.0.0.0 mydad.info
 0.0.0.0 myddns.biz
 0.0.0.0 myddns.com
@@ -982,6 +982,7 @@
 0.0.0.0 myftp.info
 0.0.0.0 myftp.org
 0.0.0.0 myhome-server.de
+0.0.0.0 myhouse.tv
 0.0.0.0 myip.org
 0.0.0.0 myiphost.com
 0.0.0.0 myjino.ru
