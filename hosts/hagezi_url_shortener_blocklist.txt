@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.3.70
-! Last modified: 2026-02-22T06:23:34.167Z
+! Version: 1.0.3.74
+! Last modified: 2026-03-01T06:23:24.164Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -15,7 +15,6 @@
 0.0.0.0 0a.sk
 0.0.0.0 0a0.uk
 0.0.0.0 0bs.de
-0.0.0.0 0i.is
 0.0.0.0 0ln.eu
 0.0.0.0 0ln.io
 0.0.0.0 0o.lv
@@ -184,7 +183,6 @@
 0.0.0.0 2tf.net
 0.0.0.0 2tiny.in
 0.0.0.0 2to.info
-0.0.0.0 2tu.us
 0.0.0.0 2u.gg
 0.0.0.0 2u.lc
 0.0.0.0 2u.pw
@@ -358,7 +356,6 @@
 0.0.0.0 7z.si
 0.0.0.0 8.ly
 0.0.0.0 8591.tw
-0.0.0.0 888b.pw
 0.0.0.0 888df.com
 0.0.0.0 88nb.cc
 0.0.0.0 88win.link
@@ -750,7 +747,6 @@
 0.0.0.0 anx.io
 0.0.0.0 any.gs
 0.0.0.0 anyimage.io
-0.0.0.0 anytimefitnessinstagram.com
 0.0.0.0 anyurl.it
 0.0.0.0 ao3-news.org
 0.0.0.0 aol.it
@@ -793,7 +789,6 @@
 0.0.0.0 appsko.ca
 0.0.0.0 go.appsscript.info
 0.0.0.0 appurl.io
-0.0.0.0 appusps.live
 0.0.0.0 appw.me
 0.0.0.0 appwhats.in
 0.0.0.0 apsense.cc
@@ -1167,7 +1162,6 @@
 0.0.0.0 bitly.bz
 0.0.0.0 bitly.com
 0.0.0.0 bitly.cx
-0.0.0.0 bitly.gold
 0.0.0.0 bitly.im
 0.0.0.0 bitly.is
 0.0.0.0 bitly.kr
@@ -1841,7 +1835,6 @@
 0.0.0.0 coinbarlink.net
 0.0.0.0 coinbot.kr
 0.0.0.0 coinclix.co
-0.0.0.0 coinpr.info
 0.0.0.0 coklat.vip
 0.0.0.0 link.colborlight.com
 0.0.0.0 akhatry.com.np
@@ -1887,7 +1880,6 @@
 0.0.0.0 readystart.com.au
 0.0.0.0 red1.com.br
 0.0.0.0 redlight.com.br
-0.0.0.0 roblox.com.nf
 0.0.0.0 rocketlink.com.br
 0.0.0.0 short.com.vn
 0.0.0.0 shortlink.com.au
@@ -2101,7 +2093,6 @@
 0.0.0.0 cutto.io
 0.0.0.0 cutts.in
 0.0.0.0 cutturl.xyz
-0.0.0.0 cutur.link
 0.0.0.0 cuturl.cloud
 0.0.0.0 cuturl.com
 0.0.0.0 cuturl.net
@@ -2180,7 +2171,6 @@
 0.0.0.0 db-wettbewerb.de
 0.0.0.0 dbatsch.com
 0.0.0.0 dbfuk.org
-0.0.0.0 dblp.org
 0.0.0.0 dbolc.com
 0.0.0.0 dbolink.com
 0.0.0.0 dbricks.co
@@ -2769,7 +2759,6 @@
 0.0.0.0 ffxiv.link
 0.0.0.0 fgurl.net
 0.0.0.0 fhurl.com
-0.0.0.0 fi9.ir
 0.0.0.0 fiatconnect.app
 0.0.0.0 fibr.ai
 0.0.0.0 ficken.ws
@@ -3075,7 +3064,6 @@
 0.0.0.0 gibi.link
 0.0.0.0 gigalink.me
 0.0.0.0 gigaz.in
-0.0.0.0 gigbridge.app
 0.0.0.0 gil.re
 0.0.0.0 giosous.com
 0.0.0.0 gir.gg
@@ -3112,7 +3100,6 @@
 0.0.0.0 globargains.com
 0.0.0.0 glol.in
 0.0.0.0 glolin.com
-0.0.0.0 glowin88.site
 0.0.0.0 glss.co
 0.0.0.0 gma.abc
 0.0.0.0 gmh.bz
@@ -3506,7 +3493,6 @@
 0.0.0.0 huntscreens.com
 0.0.0.0 hurirk.net
 0.0.0.0 hurl.it
-0.0.0.0 hurl.me
 0.0.0.0 hurl.ws
 0.0.0.0 husband92.com
 0.0.0.0 hutmat.in
@@ -4156,7 +4142,6 @@
 0.0.0.0 kurv.gr
 0.0.0.0 kurz.jetzt
 0.0.0.0 kurzelinks.de
-0.0.0.0 kut.rs
 0.0.0.0 kuta.ir
 0.0.0.0 kutlink.com
 0.0.0.0 kutt.in
@@ -5132,7 +5117,6 @@
 0.0.0.0 minecraftparodileri.com
 0.0.0.0 mineurl.top
 0.0.0.0 minfier.com
-0.0.0.0 minggu.cfd
 0.0.0.0 mini-url.in
 0.0.0.0 mini-url.net
 0.0.0.0 minifi.ca
@@ -6218,7 +6202,6 @@
 0.0.0.0 project418.org
 0.0.0.0 projects.id
 0.0.0.0 projycto.com
-0.0.0.0 prolink.website
 0.0.0.0 prolink168.com
 0.0.0.0 prolinks.me
 0.0.0.0 pronat360.com
@@ -7150,7 +7133,6 @@
 0.0.0.0 shortenn.org
 0.0.0.0 shortenn.site
 0.0.0.0 shortenpay.com
-0.0.0.0 shortenpro.com
 0.0.0.0 shortenr.de
 0.0.0.0 shortens.org
 0.0.0.0 shortenurl.app
@@ -7536,7 +7518,6 @@
 0.0.0.0 slnk.se
 0.0.0.0 slot633.gg
 0.0.0.0 slotamina.com
-0.0.0.0 slpre.com
 0.0.0.0 slptr.com
 0.0.0.0 slslink.com
 0.0.0.0 slugy.co
@@ -7686,7 +7667,6 @@
 0.0.0.0 sor.bz
 0.0.0.0 sorc.me
 0.0.0.0 sorkale.me
-0.0.0.0 sosh.al
 0.0.0.0 sosi.al
 0.0.0.0 sosy.al
 0.0.0.0 sosyal.one
@@ -7870,7 +7850,6 @@
 0.0.0.0 superurl.io
 0.0.0.0 superxavier.link
 0.0.0.0 supi.tools
-0.0.0.0 supportsae.com
 0.0.0.0 supr.cl
 0.0.0.0 supr.link
 0.0.0.0 supurlman.com
@@ -8053,7 +8032,6 @@
 0.0.0.0 tek.io
 0.0.0.0 teknut.com
 0.0.0.0 telega.io
-0.0.0.0 telegramviral.com
 0.0.0.0 teleko.me
 0.0.0.0 developer.telesign.com
 0.0.0.0 tellurl.com
@@ -8269,7 +8247,6 @@
 0.0.0.0 tinyurl.rest
 0.0.0.0 tinyurl.rocks
 0.0.0.0 tinyurl.se
-0.0.0.0 tinyurl.win
 0.0.0.0 tinyurlforbusiness.com
 0.0.0.0 tinyurls.biz
 0.0.0.0 tinyurls.io
@@ -9286,7 +9263,6 @@
 0.0.0.0 visitame.app
 0.0.0.0 visitmy.link
 0.0.0.0 visitmylinks.com
-0.0.0.0 visitmypage.org
 0.0.0.0 visitsitenow.com
 0.0.0.0 visiyta.com
 0.0.0.0 vivir.pro

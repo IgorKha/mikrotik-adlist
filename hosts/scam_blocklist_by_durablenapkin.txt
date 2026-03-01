@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.89
-! Last modified: 2026-02-22T06:23:28.140Z
+! Version: 1.0.19.96
+! Last modified: 2026-03-01T06:23:16.544Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -59,7 +59,6 @@
 0.0.0.0 asvbaen.info
 0.0.0.0 atlaspvs.com
 0.0.0.0 atrendsz.com
-0.0.0.0 attenstyle.com
 0.0.0.0 audiosg.com.sg
 0.0.0.0 augusthenri.be
 0.0.0.0 aussiesportfashion.com
@@ -148,6 +147,7 @@
 0.0.0.0 check-update-today.me
 0.0.0.0 chesssorrydescend.com
 0.0.0.0 chikepod.com
+0.0.0.0 chipcy.com
 0.0.0.0 chipteeamz.com
 0.0.0.0 cibtvisas.com
 0.0.0.0 cinemak.pl
@@ -163,7 +163,6 @@
 0.0.0.0 cofdeal.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coiincmi.com
-0.0.0.0 coinaps.com
 0.0.0.0 coinreq.com
 0.0.0.0 colorandcotton.com
 0.0.0.0 commerz-phototans.com
@@ -212,6 +211,7 @@
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 distryct.shop
 0.0.0.0 diteringion.com
+0.0.0.0 diytsi.shop
 0.0.0.0 dkfodboldstore.com
 0.0.0.0 dleggere.com
 0.0.0.0 dogparadiseshop.com
@@ -297,6 +297,7 @@
 0.0.0.0 filmy-online.eu
 0.0.0.0 filmy24.cc
 0.0.0.0 filser.pl
+0.0.0.0 find-vod.com
 0.0.0.0 find-vod.com.pl
 0.0.0.0 findglocal.com
 0.0.0.0 finnews7.wordpress.com
@@ -309,7 +310,6 @@
 0.0.0.0 flwzen.com
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 food-network.fwh.is
-0.0.0.0 foreveusps.com
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
@@ -408,7 +408,6 @@
 0.0.0.0 indianimmigration.org
 0.0.0.0 indianonlinevisas.org
 0.0.0.0 indiantravelvisa.com
-0.0.0.0 indianvisa-online.org
 0.0.0.0 indianvisa.online
 0.0.0.0 indianvisagov.com
 0.0.0.0 indianvisaonline.org
@@ -485,6 +484,7 @@
 0.0.0.0 lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
+0.0.0.0 lucchesesale.shop
 0.0.0.0 lucidtiger.com
 0.0.0.0 lucysstyle.com
 0.0.0.0 maebl.com
@@ -492,7 +492,6 @@
 0.0.0.0 mail-cytanet.pages.dev
 0.0.0.0 malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
-0.0.0.0 mansion-xenarthran.info
 0.0.0.0 maxdebrid.com
 0.0.0.0 mayor4london.com
 0.0.0.0 mcds100.com
@@ -512,9 +511,6 @@
 0.0.0.0 monkstars.com
 0.0.0.0 mot73yi07.info
 0.0.0.0 ms-analytics.mywire.org
-0.0.0.0 msgclick.top
-0.0.0.0 msgclick.uno
-0.0.0.0 msgclick.xyz
 0.0.0.0 msl-cf.id
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
@@ -558,7 +554,6 @@
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
-0.0.0.0 navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
@@ -620,7 +615,6 @@
 0.0.0.0 notify-user-adjustments.vercel.app
 0.0.0.0 novabeds.ca
 0.0.0.0 nowefilmyonline.pl
-0.0.0.0 nxtgenerator.top
 0.0.0.0 nzxsxn.98kk89.com
 0.0.0.0 oablages.org.br
 0.0.0.0 obejrzyj-to.pl
@@ -776,6 +770,7 @@
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 sportsbrooks.com
 0.0.0.0 sportswearfanatics.com
+0.0.0.0 sportswearforfans.com
 0.0.0.0 spotgee.com
 0.0.0.0 staging.zendrop.com
 0.0.0.0 startuplatte.com
@@ -854,7 +849,6 @@
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 tripinpremiumsnacks.com
 0.0.0.0 trkucibqy.com
-0.0.0.0 trnzu.info
 0.0.0.0 tromselementbygg.no
 0.0.0.0 trumpsupport.help
 0.0.0.0 trusltwcllet.com
@@ -862,7 +856,6 @@
 0.0.0.0 twiiiter.com
 0.0.0.0 twinsbio.com
 0.0.0.0 twitterr.com
-0.0.0.0 ucapsidop.info
 0.0.0.0 ucureo.com
 0.0.0.0 udemy-creators.com
 0.0.0.0 udrop.com
@@ -872,26 +865,17 @@
 0.0.0.0 ultrasonica.info
 0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
-0.0.0.0 uniswap-wallet.pro
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.ro
 0.0.0.0 uniswapagent.com
-0.0.0.0 uniswapclient.com
-0.0.0.0 uniswapcriteria.com
-0.0.0.0 uniswapcriteria.net
-0.0.0.0 uniswapcriteria.org
-0.0.0.0 uniswapcriterion.com
-0.0.0.0 uniswapcriterion.net
-0.0.0.0 uniswapcriterion.org
-0.0.0.0 uniswaps-v3.net
 0.0.0.0 uniswapsupport.online
-0.0.0.0 uniswapv3.xyz
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 updatesnow.click
 0.0.0.0 uplevelreward.com
 0.0.0.0 upnews.me
 0.0.0.0 uprising.kip.pro
 0.0.0.0 ureashi.com
+0.0.0.0 us99.pro
 0.0.0.0 uschse04.my03.com
 0.0.0.0 uusilemmikki.com
 0.0.0.0 uydrnhsb.info
@@ -916,7 +900,6 @@
 0.0.0.0 vikingstore.co
 0.0.0.0 vindhuisdieren.com
 0.0.0.0 vinisay.com
-0.0.0.0 vip100.cc
 0.0.0.0 vipdeit.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 virustoal.com
@@ -933,6 +916,7 @@
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film
+0.0.0.0 vodfix.pl
 0.0.0.0 vodlist.com
 0.0.0.0 volcomofficial.com
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app

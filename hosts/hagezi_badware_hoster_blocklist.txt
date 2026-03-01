@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.19.7
-! Last modified: 2026-02-22T06:23:34.003Z
+! Version: 1.0.19.14
+! Last modified: 2026-03-01T06:23:23.809Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -118,7 +118,6 @@
 0.0.0.0 9k.com
 0.0.0.0 a.gp
 0.0.0.0 a-loch.de
-0.0.0.0 a0001.net
 0.0.0.0 a3n.de
 0.0.0.0 aa6.de
 0.0.0.0 aa8.de
@@ -168,7 +167,6 @@
 0.0.0.0 ar.gp
 0.0.0.0 arabinn.club
 0.0.0.0 arcadepages.com
-0.0.0.0 argentpropertiesvb.com
 0.0.0.0 arrangiert.de
 0.0.0.0 artsold.top
 0.0.0.0 asia.cm
@@ -200,6 +198,7 @@
 0.0.0.0 bazefrost.ru
 0.0.0.0 bcz.com
 0.0.0.0 be.gp
+0.0.0.0 beepworld.de
 0.0.0.0 beepworld.it
 0.0.0.0 beget.tech
 0.0.0.0 begins.de
@@ -288,6 +287,7 @@
 0.0.0.0 blogspot.ug
 0.0.0.0 blogzet.com
 0.0.0.0 bo.gp
+0.0.0.0 bokee.com
 0.0.0.0 bookmark.com
 0.0.0.0 boxmail.biz
 0.0.0.0 boxmode.io
@@ -494,7 +494,6 @@
 0.0.0.0 edublogs.org
 0.0.0.0 educatorpage.com
 0.0.0.0 educatorpages.com
-0.0.0.0 efacturas.net
 0.0.0.0 eg.gp
 0.0.0.0 ehaitao.com
 0.0.0.0 eklablog.com
@@ -634,8 +633,6 @@
 0.0.0.0 godfrance.club
 0.0.0.0 gofreeserve.com
 0.0.0.0 googletagmanagers.com
-0.0.0.0 govauinboxmsg-support.com
-0.0.0.0 govinboxausecure-support.com
 0.0.0.0 gr.gp
 0.0.0.0 gr.kg
 0.0.0.0 gr-site.com
@@ -671,7 +668,6 @@
 0.0.0.0 hostfree.pw
 0.0.0.0 hostingas.in
 0.0.0.0 hostingsiteforfree.com
-0.0.0.0 hostkda.com
 0.0.0.0 hostland.pro
 0.0.0.0 hostseba.com
 0.0.0.0 hot.lc
@@ -757,6 +753,7 @@
 0.0.0.0 k.gp
 0.0.0.0 k1.cx
 0.0.0.0 kann-helfen.de
+0.0.0.0 kataweb.it
 0.0.0.0 keepfree.de
 0.0.0.0 kilu.at
 0.0.0.0 kilu.biz
@@ -909,6 +906,7 @@
 0.0.0.0 own-free-website.com
 0.0.0.0 ozq.de
 0.0.0.0 p.gp
+0.0.0.0 pacbell.net
 0.0.0.0 page.tl
 0.0.0.0 page-suspension.net
 0.0.0.0 page4.me
