@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.60
-! Last modified: 2026-02-22T06:23:10.650Z
+! Version: 1.0.16.66
+! Last modified: 2026-03-01T06:22:53.583Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -286,6 +286,7 @@
 0.0.0.0 adnet.de
 0.0.0.0 adnet.ru
 0.0.0.0 adnetasia.com
+0.0.0.0 adnetwork.net
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 adnews.maddog2000.de
 0.0.0.0 adnium.com
@@ -566,6 +567,7 @@
 0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
+0.0.0.0 ads.unison.bg
 0.0.0.0 ads.usatoday.com
 0.0.0.0 ads.uxs.at
 0.0.0.0 ads.v-lazer.com
@@ -1411,6 +1413,7 @@
 0.0.0.0 crystalboulevard.com
 0.0.0.0 cs.co
 0.0.0.0 curbminers.com
+0.0.0.0 curiousmetal.com
 0.0.0.0 curtaincows.com
 0.0.0.0 curveshore.com
 0.0.0.0 cushiondrum.com
@@ -1567,7 +1570,6 @@
 0.0.0.0 erne.co
 0.0.0.0 ero-advertising.com
 0.0.0.0 essaygiants.com
-0.0.0.0 estat.com
 0.0.0.0 esty.com
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 et.nytimes.com
@@ -2093,6 +2095,7 @@
 0.0.0.0 loadsurprise.com
 0.0.0.0 locked4.com
 0.0.0.0 lockerdome.com
+0.0.0.0 locolava.com
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
@@ -2229,7 +2232,6 @@
 0.0.0.0 mintegral.com
 0.0.0.0 mittencattle.com
 0.0.0.0 mix2ads.com
-0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mkto-ab410147.com
 0.0.0.0 mktoresp.com
@@ -2332,6 +2334,7 @@
 0.0.0.0 newnudecash.com
 0.0.0.0 news-cdn.site
 0.0.0.0 newsadsppush.com
+0.0.0.0 newsbotnet.com
 0.0.0.0 newt1.adultadworld.com
 0.0.0.0 newt1.adultworld.com
 0.0.0.0 nexac.com
@@ -2641,6 +2644,7 @@
 0.0.0.0 r.msn.com
 0.0.0.0 r.scoota.co
 0.0.0.0 r.sibmail.havasit.com
+0.0.0.0 r1.arts-mail.com
 0.0.0.0 r1.visualwebsiteoptimizer.com
 0.0.0.0 r2.visualwebsiteoptimizer.com
 0.0.0.0 r3.visualwebsiteoptimizer.com
@@ -2855,6 +2859,7 @@
 0.0.0.0 sicksmash.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 signalayer.com
+0.0.0.0 signalszone.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 silvermob.com
 0.0.0.0 simpleanalytics.io
@@ -3124,6 +3129,7 @@
 0.0.0.0 themangotea.com
 0.0.0.0 themoneytizer.com
 0.0.0.0 therapistla.com
+0.0.0.0 thewavebeats.com
 0.0.0.0 thinkitten.com
 0.0.0.0 thirdparty.bnc.lt
 0.0.0.0 thirdrespect.com
@@ -3258,6 +3264,7 @@
 0.0.0.0 trk.4ff.pro
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 trk.sayerfinancial.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk42.net
 0.0.0.0 trkn.us
@@ -3427,6 +3434,7 @@
 0.0.0.0 wlmarketing.com
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
+0.0.0.0 worldrealize.com
 0.0.0.0 worldwide-cash.net
 0.0.0.0 worriednumber.com
 0.0.0.0 wowfunnow.com

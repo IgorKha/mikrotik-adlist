@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.85
-! Last modified: 2026-02-22T06:23:23.877Z
+! Version: 1.0.0.86
+! Last modified: 2026-03-01T06:23:09.497Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -44,17 +44,17 @@
 0.0.0.0 exo.nel.measure.office.net.sw.buhl-data.com
 0.0.0.0 teams.nel.measure.office.net.sw.buhl-data.com
 0.0.0.0 insights.cloud.microsoft
-0.0.0.0 westus-0.in.applicationinsights.azure.com.drandts.co.uk
 0.0.0.0 measure.office.net.edgesuite.net
 0.0.0.0 collector.azure.eaglex.ic.gov
-0.0.0.0 ecs.nel.measure.office.net.cn.intinfra.com
-0.0.0.0 exo.nel.measure.office.net.cn.intinfra.com
-0.0.0.0 identity.nel.measure.office.net.cn.intinfra.com
-0.0.0.0 m365cdn.nel.measure.office.net.cn.intinfra.com
-0.0.0.0 officehub.nel.measure.office.net.cn.intinfra.com
-0.0.0.0 spo.nel.measure.office.net.cn.intinfra.com
-0.0.0.0 teams.nel.measure.office.net.cn.intinfra.com
-0.0.0.0 wordonline.nel.measure.office.net.cn.intinfra.com
+0.0.0.0 measure.office.net.cn.intinfra.com
+0.0.0.0 ecs.nel.measure.office.net.cz.intinfra.com
+0.0.0.0 exo.nel.measure.office.net.cz.intinfra.com
+0.0.0.0 identity.nel.measure.office.net.cz.intinfra.com
+0.0.0.0 m365cdn.nel.measure.office.net.cz.intinfra.com
+0.0.0.0 officehub.nel.measure.office.net.cz.intinfra.com
+0.0.0.0 spo.nel.measure.office.net.cz.intinfra.com
+0.0.0.0 teams.nel.measure.office.net.cz.intinfra.com
+0.0.0.0 exo.nel.measure.office.net.in.intinfra.com
 0.0.0.0 analytics.live.com
 0.0.0.0 c.live.com
 0.0.0.0 location.live.net

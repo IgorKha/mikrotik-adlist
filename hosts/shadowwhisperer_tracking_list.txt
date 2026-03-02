@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.58
-! Last modified: 2026-02-22T06:23:16.256Z
+! Version: 1.0.2.59
+! Last modified: 2026-03-01T06:23:00.483Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -26469,6 +26469,7 @@
 0.0.0.0 data.go.bartelldrugs.com
 0.0.0.0 data.goldprice.chowtaifook.com
 0.0.0.0 data.grafton.com
+0.0.0.0 datagrail.io
 0.0.0.0 data.granite.ie
 0.0.0.0 data.green-spirit.de
 0.0.0.0 data.grofitnation.com
@@ -28288,6 +28289,7 @@
 0.0.0.0 df.greenmangaming.com
 0.0.0.0 d.finansian.id
 0.0.0.0 d.fine-tuner.ai
+0.0.0.0 df.infra.sz.shopee.co.id
 0.0.0.0 d.fipmed.co
 0.0.0.0 d.fiwell.com.br
 0.0.0.0 d.fixnuisible.be
@@ -39178,7 +39180,6 @@
 0.0.0.0 ip.anysrc.net
 0.0.0.0 ip.apibox.cloud
 0.0.0.0 ipapi.co
-0.0.0.0 ip-api.com
 0.0.0.0 ipapi.com
 0.0.0.0 ipapi.de
 0.0.0.0 ip-api.io
@@ -61173,7 +61174,6 @@
 0.0.0.0 orca.overbold.co
 0.0.0.0 orca.weatherontheway.app
 0.0.0.0 orchidearesearch.com
-0.0.0.0 orcid.org
 0.0.0.0 order2get.xyz
 0.0.0.0 order.compressionstockingsonline.com.au
 0.0.0.0 order.cribofart.com
@@ -73734,6 +73734,7 @@
 0.0.0.0 second.secondpairs.com
 0.0.0.0 se.connect.essence.com
 0.0.0.0 se-core-pipe.com
+0.0.0.0 secreporter.susercontent.com
 0.0.0.0 secretislandemail.com
 0.0.0.0 secretivecub.com
 0.0.0.0 secretivesheep.com
@@ -107189,6 +107190,7 @@
 0.0.0.0 tracking.shoelab.cr
 0.0.0.0 tracking.shopator.com
 0.0.0.0 tracking.shopcider.com
+0.0.0.0 tracking.shopee.co.id
 0.0.0.0 tracking.shopstylecollective.com
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.shopstyle.co.uk
