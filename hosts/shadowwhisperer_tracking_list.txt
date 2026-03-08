@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.59
-! Last modified: 2026-03-01T06:23:00.483Z
+! Version: 1.0.2.61
+! Last modified: 2026-03-08T06:21:08.261Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -7394,6 +7394,7 @@
 0.0.0.0 analytics.einsa.net
 0.0.0.0 analytics.einsle.cloud
 0.0.0.0 analytics.eipeldauer-consulting.com
+0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.eirib.ir
 0.0.0.0 analytics.e-it-c.ch
 0.0.0.0 analytics.ejo.de
@@ -16004,6 +16005,7 @@
 0.0.0.0 api.anacorso.com.br
 0.0.0.0 api.anactr.com.br
 0.0.0.0 api.analebear.com
+0.0.0.0 api-analista.icons8.com
 0.0.0.0 api-analytics.4patientcare.com
 0.0.0.0 api-analytics.botovo.cz
 0.0.0.0 api-analytics.cipofalva.hu
@@ -21220,6 +21222,7 @@
 0.0.0.0 cloud.lotustravel.se
 0.0.0.0 cloud.mackayears.net
 0.0.0.0 cloud-media.fr
+0.0.0.0 cloudmetrics.xenforo.com
 0.0.0.0 cloud.moyagi.com
 0.0.0.0 cloud.orimlighyra.se
 0.0.0.0 cloud.pensionera.se
@@ -53322,6 +53325,7 @@
 0.0.0.0 metrics.siblu.com
 0.0.0.0 metrics.siblu.fr
 0.0.0.0 metrics.sidcot.org.uk
+0.0.0.0 metrics.siemens-cdn.com
 0.0.0.0 metrics.simargenta.be
 0.0.0.0 metrics.simcoe.com
 0.0.0.0 metrics.similac.com
@@ -94434,7 +94438,6 @@
 0.0.0.0 stat.r-hv.com
 0.0.0.0 stat.rickenbach-tg.ch
 0.0.0.0 stat.rigexpert.com
-0.0.0.0 stat.ripe.net
 0.0.0.0 stat.rkltuovinen.fi
 0.0.0.0 stat-rock.com
 0.0.0.0 stat.rockfish-river.com
@@ -104558,6 +104561,7 @@
 0.0.0.0 telemetry.am.pictet.com
 0.0.0.0 telemetry.api.2kcoretech.online
 0.0.0.0 telemetryapi.logos.com
+0.0.0.0 telemetry.api.mylyve.com
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.wmcdp.io
 0.0.0.0 telemetry.bowflex.ca
@@ -109561,6 +109565,7 @@
 0.0.0.0 usage.osmappa.it
 0.0.0.0 usage.osmap.uk
 0.0.0.0 usage.osmap.us
+0.0.0.0 usage-ping.brave.com
 0.0.0.0 usage-reporter.duplicati.com
 0.0.0.0 usage.weba-sonnenschirme.de
 0.0.0.0 usamidia.v4company.com

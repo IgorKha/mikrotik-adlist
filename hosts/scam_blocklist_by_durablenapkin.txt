@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.19.96
-! Last modified: 2026-03-01T06:23:16.544Z
+! Version: 1.0.20.3
+! Last modified: 2026-03-08T06:21:20.746Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -186,7 +186,6 @@
 0.0.0.0 cycle100percent.com
 0.0.0.0 czasnakino.pl
 0.0.0.0 czwcvfbc.page.link
-0.0.0.0 dailygiftstore.com
 0.0.0.0 danainstan.xyz
 0.0.0.0 danylevych.com
 0.0.0.0 dash.pocketuniverse.app
@@ -211,7 +210,6 @@
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 distryct.shop
 0.0.0.0 diteringion.com
-0.0.0.0 diytsi.shop
 0.0.0.0 dkfodboldstore.com
 0.0.0.0 dleggere.com
 0.0.0.0 dogparadiseshop.com
@@ -303,6 +301,7 @@
 0.0.0.0 finnews7.wordpress.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
+0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fitgirlrepacksite.com
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
@@ -360,17 +359,15 @@
 0.0.0.0 gunstee.com
 0.0.0.0 habtoorloyal.com
 0.0.0.0 hairyfy.com
-0.0.0.0 haowei.me
 0.0.0.0 happymod.cloud
 0.0.0.0 headsets4business.co.uk
-0.0.0.0 helpdesk-usps.online
 0.0.0.0 helpnanacenter.helpscoutdocs.com
-0.0.0.0 helpuspsnow.ru
 0.0.0.0 hernoclothing.com
 0.0.0.0 heyfusio.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
+0.0.0.0 hityvod.pl
 0.0.0.0 hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 hotbignews.com
@@ -455,13 +452,11 @@
 0.0.0.0 kmsauto.info
 0.0.0.0 kmspi.co
 0.0.0.0 kmspico-official.org
-0.0.0.0 kmspico.io
 0.0.0.0 knightmods.com
 0.0.0.0 koinprime.com
 0.0.0.0 kontribusiuang.top
 0.0.0.0 kopisusu.co.id
 0.0.0.0 kra18.com
-0.0.0.0 krediteksklusif.com
 0.0.0.0 kuyhaa.cc
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 lds.xyz
@@ -484,9 +479,9 @@
 0.0.0.0 lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
-0.0.0.0 lucchesesale.shop
 0.0.0.0 lucidtiger.com
 0.0.0.0 lucysstyle.com
+0.0.0.0 luxsgear.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -522,10 +517,8 @@
 0.0.0.0 myfunfarm.com
 0.0.0.0 myhandshops.myshopify.com
 0.0.0.0 mypuregaming.com
-0.0.0.0 mysuperdatingforyou.life
 0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
-0.0.0.0 natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 natvisa.com
 0.0.0.0 navi1.com
@@ -580,6 +573,7 @@
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 nayatowerinstallation.in.net
+0.0.0.0 nbdiscount.com
 0.0.0.0 neozor.com
 0.0.0.0 nevaon.com
 0.0.0.0 new.gdtot.me
@@ -640,7 +634,6 @@
 0.0.0.0 onrunningshop.com
 0.0.0.0 ontario-energy.com
 0.0.0.0 orderquilt.com
-0.0.0.0 outarshop.fi
 0.0.0.0 outel.abmarketworks.com
 0.0.0.0 outlet-alfresco.com
 0.0.0.0 owlala.com
@@ -663,7 +656,6 @@
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 phototan-unterstutzung.win
-0.0.0.0 phototan.net
 0.0.0.0 pinjamanelit.top
 0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 pinjamteman.top
@@ -689,6 +681,7 @@
 0.0.0.0 promoalfresco.com
 0.0.0.0 promotion40-form.com
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
+0.0.0.0 punchonsol.top
 0.0.0.0 qq51f.short.gy
 0.0.0.0 qriedf.info
 0.0.0.0 quoka.dk9zc9.pro
@@ -707,7 +700,6 @@
 0.0.0.0 royalhedgies.com
 0.0.0.0 rozomii.info
 0.0.0.0 rsaonlinenow.com.au
-0.0.0.0 rupiahlagi.com
 0.0.0.0 rupiahsaku.com
 0.0.0.0 rustdesk.co.nz
 0.0.0.0 rustdesk.io
@@ -744,8 +736,6 @@
 0.0.0.0 shy-boat-90ce.jiko728928922.workers.dev
 0.0.0.0 sieuto.com
 0.0.0.0 sigmaoffers.com
-0.0.0.0 signal-group-add.com
-0.0.0.0 signal-groups-add.com
 0.0.0.0 signpify.com
 0.0.0.0 signwdocu.com
 0.0.0.0 singingfiles.com
@@ -795,7 +785,6 @@
 0.0.0.0 sugarandpearl.com
 0.0.0.0 suitablepartner.life
 0.0.0.0 summersale.online
-0.0.0.0 sunsetstore.net
 0.0.0.0 supercutestuff.com
 0.0.0.0 supperbrand.company.site
 0.0.0.0 survivalcatsupply.com
@@ -819,7 +808,6 @@
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
-0.0.0.0 thehappywood.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 theonepercentcommunity.com
 0.0.0.0 theshirtyouneed.com
@@ -863,12 +851,10 @@
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 ultra-cda.pl
 0.0.0.0 ultrasonica.info
-0.0.0.0 uni-swap.space
 0.0.0.0 unifully.com
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.ro
 0.0.0.0 uniswapagent.com
-0.0.0.0 uniswapsupport.online
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 updatesnow.click
 0.0.0.0 uplevelreward.com
@@ -922,6 +908,7 @@
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 wadahlapak.top
 0.0.0.0 wallpaperflare.com
+0.0.0.0 waronsol.top
 0.0.0.0 warriordecor.com
 0.0.0.0 watchmark.shop
 0.0.0.0 watchseniorfit.com
@@ -946,7 +933,6 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
-0.0.0.0 xajzfwgs.com
 0.0.0.0 xcartpro.com
 0.0.0.0 xn--airuptrkiye-yhb.com
 0.0.0.0 xunlei.it
@@ -962,7 +948,6 @@
 0.0.0.0 youdebrid.com
 0.0.0.0 yourdatefind.com
 0.0.0.0 yoursecrethookup.com
-0.0.0.0 youtubee.com
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com

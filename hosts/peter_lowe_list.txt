@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.66
-! Last modified: 2026-03-01T06:22:53.583Z
+! Version: 1.0.16.69
+! Last modified: 2026-03-08T06:21:02.615Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -810,6 +810,7 @@
 0.0.0.0 aerserv.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 affec.tv
+0.0.0.0 affectionknit.com
 0.0.0.0 affili.net
 0.0.0.0 affiliate.1800flowers.com
 0.0.0.0 affiliate.dtiserv.com
@@ -822,7 +823,6 @@
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.thinkhost.net
 0.0.0.0 affiliates.thrixxx.com
-0.0.0.0 affiliates.ultrahosting.com
 0.0.0.0 affiliatetracking.com
 0.0.0.0 affiliatetracking.net
 0.0.0.0 affiliatewindow.com
@@ -888,7 +888,6 @@
 0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 ancientact.com
 0.0.0.0 androiddownload.net
-0.0.0.0 angossa.com
 0.0.0.0 aniview.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 annoyedairport.com
@@ -1164,6 +1163,7 @@
 0.0.0.0 carbonads.net
 0.0.0.0 cardmethod.com
 0.0.0.0 caringcast.com
+0.0.0.0 carsarace.com
 0.0.0.0 cartstack.com
 0.0.0.0 carvecakes.com
 0.0.0.0 casalemedia.com
@@ -1349,7 +1349,6 @@
 0.0.0.0 content22.online.citi.com
 0.0.0.0 contextweb.com
 0.0.0.0 contrack.link
-0.0.0.0 controlcola.com
 0.0.0.0 converge-digital.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionbet.com
@@ -2230,6 +2229,7 @@
 0.0.0.0 minewhat.com
 0.0.0.0 minibilling.com
 0.0.0.0 mintegral.com
+0.0.0.0 mintfunnel.co
 0.0.0.0 mittencattle.com
 0.0.0.0 mix2ads.com
 0.0.0.0 mixpanel.com
@@ -2357,7 +2357,6 @@
 0.0.0.0 ntvk1.ru
 0.0.0.0 nullitics.com
 0.0.0.0 nuseek.com
-0.0.0.0 nutritiousbean.com
 0.0.0.0 nzaza.com
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 o333o.com
@@ -2372,6 +2371,7 @@
 0.0.0.0 oascentral.register.com
 0.0.0.0 objecthero.com
 0.0.0.0 obscenesidewalk.com
+0.0.0.0 oceancloudhosts.com
 0.0.0.0 oclasrv.com
 0.0.0.0 odbierz-bony.ovp.pl
 0.0.0.0 oewa.at
@@ -2562,6 +2562,7 @@
 0.0.0.0 prf.hn
 0.0.0.0 priceypies.com
 0.0.0.0 pricklydebt.com
+0.0.0.0 prideproms.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
@@ -2827,7 +2828,6 @@
 0.0.0.0 sendmepixel.com
 0.0.0.0 seraphichorizon.com
 0.0.0.0 serendipityecho.com
-0.0.0.0 serpentshampoo.com
 0.0.0.0 serv0.com
 0.0.0.0 servclick1move.com
 0.0.0.0 serve.tercept.com

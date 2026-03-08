@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.95
-! Last modified: 2026-03-01T06:23:11.231Z
+! Version: 1.0.16.98
+! Last modified: 2026-03-08T06:21:16.630Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.95
+! Version: 1.0.16.98
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-02-28T17:08:35.096Z
+! Last modified: 2026-03-06T08:16:47.049Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -13017,6 +13017,7 @@
 0.0.0.0 abruptroad.com
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
+0.0.0.0 abvfupqkyaj.in
 0.0.0.0 abyssfar.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
@@ -13734,6 +13735,7 @@
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 afftrk.altex.ro
 0.0.0.0 afrjhanwosa.com
+0.0.0.0 afrxixlnj.com
 0.0.0.0 afzotfwramzy.in
 0.0.0.0 agacelebir.com
 0.0.0.0 aggravatingoil.com
@@ -14153,6 +14155,7 @@
 0.0.0.0 brutishlylifevoicing.com
 0.0.0.0 brygella.com
 0.0.0.0 brynh-lei.com
+0.0.0.0 bt.teparytympan.qpon
 0.0.0.0 btpnative.com
 0.0.0.0 bucksense.com
 0.0.0.0 buffooncountabletreble.com
@@ -14948,6 +14951,7 @@
 0.0.0.0 geniusonclick.com
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
+0.0.0.0 geoqvcybdtn.com
 0.0.0.0 geovisite.com
 0.0.0.0 get-here-click.xyz
 0.0.0.0 getadx.com
@@ -15006,6 +15010,7 @@
 0.0.0.0 go6shde9nj2itle.com
 0.0.0.0 goadservices.com
 0.0.0.0 gobetweenlenient.com
+0.0.0.0 gocxnnxiy.com
 0.0.0.0 godpvqnszo.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldbach.com
@@ -15291,6 +15296,7 @@
 0.0.0.0 jfan1.com
 0.0.0.0 jfjle4g5l.com
 0.0.0.0 jhukfaosdjfa.com
+0.0.0.0 jijswitreaqv.in
 0.0.0.0 jinkads.de
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 jitterspauperusher.com
@@ -15317,6 +15323,7 @@
 0.0.0.0 justrelevant.com
 0.0.0.0 justwebads.com
 0.0.0.0 jwuoxhjuq.com
+0.0.0.0 jz.thringsettos.cyou
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kaffnet.com
 0.0.0.0 kaisauwoure.net
@@ -15396,6 +15403,7 @@
 0.0.0.0 lfalfehuq.com
 0.0.0.0 lfeorrzkua.com
 0.0.0.0 lfstmedia.com
+0.0.0.0 lfvvhemghapw.com
 0.0.0.0 lidburger.com
 0.0.0.0 ligatus.de
 0.0.0.0 lightboxcdn.com
@@ -15637,6 +15645,7 @@
 0.0.0.0 moradu.com
 0.0.0.0 motricity.com
 0.0.0.0 motrixi.com
+0.0.0.0 mountaindriftevolutiontechnologies.net
 0.0.0.0 moversa.com
 0.0.0.0 movie-pass.live
 0.0.0.0 movve.com
@@ -15787,6 +15796,7 @@
 0.0.0.0 nuggad.net
 0.0.0.0 nui.media
 0.0.0.0 nuseek.com
+0.0.0.0 nv.shunnerencinal.shop
 0.0.0.0 nv3tosjqd.com
 0.0.0.0 ny.damasseakamai.com
 0.0.0.0 nycvqozkkmzti.com
@@ -15814,6 +15824,7 @@
 0.0.0.0 oceanicdreamcove.com
 0.0.0.0 ocio.leadzu.com
 0.0.0.0 oclasrv.com
+0.0.0.0 odnvkuocmow.in
 0.0.0.0 odqdkealzr.com
 0.0.0.0 oewa.at
 0.0.0.0 offclaydolon.com
@@ -15837,6 +15848,7 @@
 0.0.0.0 ojqbnqdwycws.com
 0.0.0.0 ojwoqdpiwdt.com
 0.0.0.0 okspeechlessamong.com
+0.0.0.0 oljqobudyusf.com
 0.0.0.0 omazeiros.com
 0.0.0.0 omciecoa37tw4.com
 0.0.0.0 omgcoool.com
@@ -16305,6 +16317,7 @@
 0.0.0.0 reluctancefleck.com
 0.0.0.0 remotepwn.com
 0.0.0.0 remox.com
+0.0.0.0 renderstreamshuttleanalytics.net
 0.0.0.0 repeatsweater.com
 0.0.0.0 reporo.net
 0.0.0.0 republika.onet.pl
@@ -17135,6 +17148,7 @@
 0.0.0.0 wellmadefrog.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
+0.0.0.0 wgtyvqbfkxg.com
 0.0.0.0 whairtoa.com
 0.0.0.0 whaleads.com
 0.0.0.0 whazugho.com
@@ -17275,12 +17289,14 @@
 0.0.0.0 xertive.com
 0.0.0.0 xfvvygrv.com
 0.0.0.0 xg4ken.com
+0.0.0.0 xgodpmdczzyza.com
 0.0.0.0 xiti.com
 0.0.0.0 xius.com
 0.0.0.0 xjrwxfdphc.com
 0.0.0.0 xlviiirdr.com
 0.0.0.0 xlx1.com
 0.0.0.0 xm.geslingclime.shop
+0.0.0.0 xnocffar.com
 0.0.0.0 xp.retinichawks.cyou
 0.0.0.0 xpe9.com
 0.0.0.0 xpihripcao.in
