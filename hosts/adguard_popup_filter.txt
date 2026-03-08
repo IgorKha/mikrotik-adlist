@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.78
-! Last modified: 2026-03-01T06:22:59.393Z
+! Version: 1.0.17.82
+! Last modified: 2026-03-08T06:21:07.684Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 host69k.cfd
+0.0.0.0 druggedrat.com
 0.0.0.0 sv1291.space
 0.0.0.0 crn77.com
 0.0.0.0 ejretpiytkcna.website
@@ -274,7 +276,6 @@
 0.0.0.0 bbmoe.com
 0.0.0.0 bboy1.com
 0.0.0.0 bclogin-check.com
-0.0.0.0 behim.click
 0.0.0.0 bemobtrcks.com
 0.0.0.0 bemobtrk.com
 0.0.0.0 bestchainconnection.com
@@ -440,7 +441,6 @@
 0.0.0.0 gomsop.com
 0.0.0.0 gorclck.com
 0.0.0.0 gotrackier.com
-0.0.0.0 graitsie.com
 0.0.0.0 grfpr.com
 0.0.0.0 gtbdhr.com
 0.0.0.0 gys5.com
@@ -601,7 +601,6 @@
 0.0.0.0 offergate-software11.com
 0.0.0.0 offergate-software20.com
 0.0.0.0 offergate-software6.com
-0.0.0.0 oglalavoodoo.world
 0.0.0.0 olopruy.com
 0.0.0.0 omegaadblock.net
 0.0.0.0 omgt3.com
@@ -748,11 +747,11 @@
 0.0.0.0 sprinlof.com
 0.0.0.0 spuppeh.net
 0.0.0.0 spygenix.xyz
+0.0.0.0 srowox.com
 0.0.0.0 srvpcn.com
 0.0.0.0 srvqck11.com
 0.0.0.0 srvqck15.com
 0.0.0.0 srvqck3.com
-0.0.0.0 srvqck5.com
 0.0.0.0 srvtrck.com
 0.0.0.0 stableflowconnection.co.in
 0.0.0.0 staysafeonlinetoday.com
@@ -836,7 +835,6 @@
 0.0.0.0 viralnewsbd.xyz
 0.0.0.0 viralvideoclip.info
 0.0.0.0 virelon.com
-0.0.0.0 visitarkqr.click
 0.0.0.0 visualmirage.co
 0.0.0.0 vizoalygrenn.com
 0.0.0.0 vmgjt.click
@@ -847,7 +845,6 @@
 0.0.0.0 vstwerxerbc.top
 0.0.0.0 vulnerableimmigrateaboveaverage.com
 0.0.0.0 w0we.com
-0.0.0.0 waisheph.com
 0.0.0.0 want-some-psh.com
 0.0.0.0 wasanasosettoou.org
 0.0.0.0 wbidder.online
@@ -855,7 +852,6 @@
 0.0.0.0 webfanclub.com
 0.0.0.0 webmedrtb.com
 0.0.0.0 wetrackgames.com
-0.0.0.0 wettigo136.com
 0.0.0.0 wewearegogogo.com
 0.0.0.0 wheceelt.net
 0.0.0.0 wintrck.com
