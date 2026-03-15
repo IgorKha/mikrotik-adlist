@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.19.23
-! Last modified: 2026-03-08T06:21:26.855Z
+! Version: 1.0.19.27
+! Last modified: 2026-03-15T06:30:24.080Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -194,7 +194,6 @@
 0.0.0.0 banksurvey.biz
 0.0.0.0 bappy.com
 0.0.0.0 batcave.net
-0.0.0.0 bazefrost.ru
 0.0.0.0 bcz.com
 0.0.0.0 be.gp
 0.0.0.0 beepworld.de
@@ -493,6 +492,7 @@
 0.0.0.0 edublogs.org
 0.0.0.0 educatorpage.com
 0.0.0.0 educatorpages.com
+0.0.0.0 efacturas.net
 0.0.0.0 eg.gp
 0.0.0.0 ehaitao.com
 0.0.0.0 eklablog.com
@@ -545,6 +545,7 @@
 0.0.0.0 fileave.com
 0.0.0.0 filme.lc
 0.0.0.0 financecryptoworld.com
+0.0.0.0 financial-offer.com
 0.0.0.0 firearms.com
 0.0.0.0 firm.nu
 0.0.0.0 fitnell.com
@@ -683,6 +684,7 @@
 0.0.0.0 hund.in
 0.0.0.0 hupont.hu
 0.0.0.0 hyderabadadda.com
+0.0.0.0 hyip.com
 0.0.0.0 hyperphp.com
 0.0.0.0 i.gp
 0.0.0.0 ibiz.cc

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.42
-! Last modified: 2026-03-08T06:21:16.705Z
+! Version: 1.0.15.44
+! Last modified: 2026-03-15T06:30:13.475Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -454,6 +454,7 @@
 0.0.0.0 extern.prisjakt.nu
 0.0.0.0 external.reseguiden.se
 0.0.0.0 ezodn.com
+0.0.0.0 ezoicanalytics.com
 0.0.0.0 f.convertkit.com
 0.0.0.0 faro-collector-prod-eu-west-0.grafana.net
 0.0.0.0 fastlane.rubiconproject.com
@@ -647,7 +648,6 @@
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nichehuset.dk
 0.0.0.0 nitroscripts.com
-0.0.0.0 norranstats.azurewebsites.net
 0.0.0.0 norstatsurveys.com
 0.0.0.0 npario-inc.net
 0.0.0.0 ntrfr.expekt.se
