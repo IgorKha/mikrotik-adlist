@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.13
-! Last modified: 2026-03-08T06:21:15.981Z
+! Version: 1.0.0.14
+! Last modified: 2026-03-15T06:30:12.816Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -264,6 +264,8 @@
 0.0.0.0 i-cn01a.ocloud.heytapmobi.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 omes-sec.heytapmobi.com
+0.0.0.0 oversea-nebula-in.heytapmobi.com
+0.0.0.0 oversea-nebula-sg.heytapmobi.com
 0.0.0.0 dcintl.push.heytapmobi.com
 0.0.0.0 device-ups.push.heytapmobi.com
 0.0.0.0 id.push.heytapmobi.com

@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.16.98
-! Last modified: 2026-03-08T06:21:16.630Z
+! Version: 1.0.17.1
+! Last modified: 2026-03-15T06:30:13.400Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.16.98
+! Version: 1.0.17.1
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-03-06T08:16:47.049Z
+! Last modified: 2026-03-12T03:07:13.467Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2560,9 +2560,12 @@
 0.0.0.0 vpaid.doubleverify.com
 0.0.0.0 vtrk.doubleverify.com
 0.0.0.0 criteo.net
+0.0.0.0 client-side-metrics.as.criteo.net
+0.0.0.0 imageproxy.as.criteo.net
 0.0.0.0 pix.hk.as.criteo.net
 0.0.0.0 static.criteo.net
 0.0.0.0 static.eu.criteo.net
+0.0.0.0 ads.as.criteo.com
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 ads.us.criteo.com
 0.0.0.0 ag.gbc.criteo.com
@@ -7947,6 +7950,7 @@
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-access-va.pangle.io
 0.0.0.0 api16-access-wf-sg.pangle.io
+0.0.0.0 api16-dual-event-sg2.pangle.io
 0.0.0.0 api16-endcard-pack-sg.pangle.io
 0.0.0.0 api16-log-gcp.pangle.io
 0.0.0.0 api16-log-sg.pangle.io
@@ -9377,6 +9381,12 @@
 0.0.0.0 alivc-aio-sgp.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 videocloud-sgp.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 vod-newplayer-sg.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 ad-host-backup-america.oss-us-west-1.aliyuncs.com
+0.0.0.0 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
+0.0.0.0 ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
+0.0.0.0 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
 0.0.0.0 cdn.userreport.com
@@ -11194,6 +11204,145 @@
 0.0.0.0 cvt-s1.agl006.host
 0.0.0.0 cvt-s2.agl006.host
 0.0.0.0 spx-s1.agl006.host
+0.0.0.0 adups.cn
+0.0.0.0 fota4.adups.cn
+0.0.0.0 fota5.adups.cn
+0.0.0.0 fota5p.adups.cn
+0.0.0.0 fota5s.adups.cn
+0.0.0.0 www.adups.cn
+0.0.0.0 adups.com
+0.0.0.0 ap.adups.com
+0.0.0.0 clean.adups.com
+0.0.0.0 fota5.adups.com
+0.0.0.0 fota5p.adups.com
+0.0.0.0 fota5s.adups.com
+0.0.0.0 fota5t.adups.com
+0.0.0.0 fotareliance.adups.com
+0.0.0.0 iotapi.adups.com
+0.0.0.0 push5.adups.com
+0.0.0.0 ad-ipd.sxp.smartclip.net
+0.0.0.0 ad.smartclip.net
+0.0.0.0 ad.sxp.smartclip.net
+0.0.0.0 appassets.smartclip.net
+0.0.0.0 bid.sxp.smartclip.net
+0.0.0.0 cache.sxp.smartclip.net
+0.0.0.0 cdn.hbbtv.smartclip.net
+0.0.0.0 cdn.smartclip.net
+0.0.0.0 dco.smartclip.net
+0.0.0.0 des.smartclip.net
+0.0.0.0 des.sxp.smartclip.net
+0.0.0.0 errors.hbbtv.smartclip.net
+0.0.0.0 hbbtv.smartclip.net
+0.0.0.0 hoover.sxp.smartclip.net
+0.0.0.0 hoovermedia.sxp.smartclip.net
+0.0.0.0 scheduler.atv.smartclip.net
+0.0.0.0 scheduler.hbbtv.smartclip.net
+0.0.0.0 smartclip.net
+0.0.0.0 stats.hbbtv.smartclip.net
+0.0.0.0 stats.smartclip.net
+0.0.0.0 stats.sxp.smartclip.net
+0.0.0.0 sxp.smartclip.net
+0.0.0.0 sync.sxp.smartclip.net
+0.0.0.0 www.smartclip.net
+0.0.0.0 smartclip-services.com
+0.0.0.0 cdn.smartclip-services.com
+0.0.0.0 www.smartclip-services.com
+0.0.0.0 maxesads.com
+0.0.0.0 api.maxesads.com
+0.0.0.0 gdl.maxesads.com
+0.0.0.0 rep.maxesads.com
+0.0.0.0 onegg.site
+0.0.0.0 api.onegg.site
+0.0.0.0 hookspf.com
+0.0.0.0 adx-strategy-api.hookspf.com
+0.0.0.0 da.hookspf.com
+0.0.0.0 tk.hookspf.com
+0.0.0.0 tkda.hookspf.com
+0.0.0.0 sonicsads.com
+0.0.0.0 cfg.sonicsads.com
+0.0.0.0 npv.sonicsads.com
+0.0.0.0 acobt.tech
+0.0.0.0 done.acobt.tech
+0.0.0.0 tr.acobt.tech
+0.0.0.0 www.acobt.tech
+0.0.0.0 adx-fk-req.mosspf.cn
+0.0.0.0 adx-sg-req.mosspf.cn
+0.0.0.0 adx-vg-req.mosspf.cn
+0.0.0.0 adx.mosspf.cn
+0.0.0.0 api.mosspf.cn
+0.0.0.0 da.mosspf.cn
+0.0.0.0 mosspf.cn
+0.0.0.0 ssapi.mosspf.cn
+0.0.0.0 tk-sg.mosspf.cn
+0.0.0.0 tk.mosspf.cn
+0.0.0.0 www.mosspf.cn
+0.0.0.0 mosspf.com
+0.0.0.0 adx-sg-req.mosspf.com
+0.0.0.0 adx-vg-req.mosspf.com
+0.0.0.0 adx.mosspf.com
+0.0.0.0 api.mosspf.com
+0.0.0.0 da.mosspf.com
+0.0.0.0 tk-sg.mosspf.com
+0.0.0.0 tk.mosspf.com
+0.0.0.0 tkda.mosspf.com
+0.0.0.0 mosspf.net
+0.0.0.0 adx-fk-req.mosspf.net
+0.0.0.0 adx-fk.mosspf.net
+0.0.0.0 adx-rf-request.mosspf.net
+0.0.0.0 adx-rf.mosspf.net
+0.0.0.0 adx-vg-req.mosspf.net
+0.0.0.0 adx-vg.mosspf.net
+0.0.0.0 adx.mosspf.net
+0.0.0.0 api.mosspf.net
+0.0.0.0 da.mosspf.net
+0.0.0.0 mores.mosspf.net
+0.0.0.0 tk-sg.mosspf.net
+0.0.0.0 tk.mosspf.net
+0.0.0.0 tkda.mosspf.net
+0.0.0.0 mossru.com
+0.0.0.0 adx.mossru.com
+0.0.0.0 adx-fk-req.mossru.com
+0.0.0.0 adx-rf-request.mossru.com
+0.0.0.0 adx-vg-req.mossru.com
+0.0.0.0 api.mossru.com
+0.0.0.0 da.mossru.com
+0.0.0.0 tk.mossru.com
+0.0.0.0 tkda.mossru.com
+0.0.0.0 mossfast.com
+0.0.0.0 adx.mossfast.com
+0.0.0.0 adx-sg-req.mossfast.com
+0.0.0.0 api.mossfast.com
+0.0.0.0 da.mossfast.com
+0.0.0.0 tk.mossfast.com
+0.0.0.0 tk-sg.mossfast.com
+0.0.0.0 tkda.mossfast.com
+0.0.0.0 mossturbo.com
+0.0.0.0 adx.mossturbo.com
+0.0.0.0 adx-fk-req.mossturbo.com
+0.0.0.0 adx-rf-request.mossturbo.com
+0.0.0.0 adx-sg-req.mossturbo.com
+0.0.0.0 adx-vg-req.mossturbo.com
+0.0.0.0 api.mossturbo.com
+0.0.0.0 api-sec.mossturbo.com
+0.0.0.0 da.mossturbo.com
+0.0.0.0 mores.mossturbo.com
+0.0.0.0 tk.mossturbo.com
+0.0.0.0 tk-sg.mossturbo.com
+0.0.0.0 tkda.mossturbo.com
+0.0.0.0 youngle.tech
+0.0.0.0 api.youngle.tech
+0.0.0.0 cname-cdn.youngle.tech
+0.0.0.0 eu-cdn.youngle.tech
+0.0.0.0 gdl.youngle.tech
+0.0.0.0 hk-cdn.youngle.tech
+0.0.0.0 na-cdn.youngle.tech
+0.0.0.0 sg-cdn.youngle.tech
+0.0.0.0 www.youngle.tech
+0.0.0.0 dmrtb.com
+0.0.0.0 dmsdk-api.dmrtb.com
+0.0.0.0 sdk-oversea.dmrtb.com
+0.0.0.0 ssp-api.dmrtb.com
+0.0.0.0 www.dmrtb.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -12983,6 +13132,7 @@
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
 0.0.0.0 520click.com
+0.0.0.0 540creative.net
 0.0.0.0 5advertise.com
 0.0.0.0 5ivy3ikkt.com
 0.0.0.0 5toft8or7on8tt.com
@@ -13503,6 +13653,7 @@
 0.0.0.0 ads.xtra.co.nz
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yldmgrimg.net
+0.0.0.0 ads.zorvec.top
 0.0.0.0 ads04.tapsense.com
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.opensubtitles.org
@@ -13828,6 +13979,7 @@
 0.0.0.0 api.myadsget.com
 0.0.0.0 api.parse.com
 0.0.0.0 api.unthem.com
+0.0.0.0 api.youngle.site
 0.0.0.0 apis.appnxt.net
 0.0.0.0 apoilpnwr.com
 0.0.0.0 app-promo.com
@@ -14622,6 +14774,7 @@
 0.0.0.0 devaluequalmrelative.com
 0.0.0.0 deviatestartblock.com
 0.0.0.0 devoteegibberishsinister.com
+0.0.0.0 devpeakomegainnovations.com
 0.0.0.0 diagramjawlineunhappy.com
 0.0.0.0 dianomi.com
 0.0.0.0 dibsemey.com
@@ -15145,6 +15298,7 @@
 0.0.0.0 hw.zuimeitianqi.com
 0.0.0.0 hwoqshyx.com
 0.0.0.0 hwpnocpctu.com
+0.0.0.0 hwuhkabi.in
 0.0.0.0 hxgqqxopf.com
 0.0.0.0 hybrid.ai
 0.0.0.0 hydramedia.com
@@ -15691,6 +15845,7 @@
 0.0.0.0 mytdsnet.com
 0.0.0.0 mythings.com
 0.0.0.0 mytop-in.net
+0.0.0.0 mzyvyjsq.com
 0.0.0.0 n69.com
 0.0.0.0 na.o18.click
 0.0.0.0 nagoverpayreimburse.com
@@ -15841,6 +15996,7 @@
 0.0.0.0 ofleafeona.com
 0.0.0.0 og-shopee9.com
 0.0.0.0 oghqvffmnt.com
+0.0.0.0 ogpriuleifns.com
 0.0.0.0 ohtctjiuow.com
 0.0.0.0 oinkedbowls.com
 0.0.0.0 oixohmve.com
@@ -15905,6 +16061,7 @@
 0.0.0.0 origunix.com
 0.0.0.0 oriori.com
 0.0.0.0 orlotalers.com
+0.0.0.0 orqmimfug.in
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 orylhull.com
 0.0.0.0 orywrjsf.com
@@ -15955,6 +16112,7 @@
 0.0.0.0 palaroleg.guru
 0.0.0.0 paleleaf.com
 0.0.0.0 pallet.fm
+0.0.0.0 panclndhgcpktf.com
 0.0.0.0 pangle.pangleglobal.com
 0.0.0.0 papaneecorche.com
 0.0.0.0 papayamobile.com
@@ -16361,6 +16519,7 @@
 0.0.0.0 riverhit.com
 0.0.0.0 rjw4obbw.com
 0.0.0.0 rkgwzfwjgk.com
+0.0.0.0 rl.harshlyistles.com
 0.0.0.0 rle.ru
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmhfrtnd.com
@@ -16535,7 +16694,7 @@
 0.0.0.0 smart2cnjuh34jb.com
 0.0.0.0 smart4ads.com
 0.0.0.0 smartclick.net
-0.0.0.0 smartclip.net
+0.0.0.0 smartclip.com
 0.0.0.0 smartmad.com
 0.0.0.0 smartyads.com
 0.0.0.0 smashsurprise.com
@@ -16710,6 +16869,7 @@
 0.0.0.0 sysmeasuring.net
 0.0.0.0 system-notify.app
 0.0.0.0 systemleadb.com
+0.0.0.0 sz.pyrulaupstage.qpon
 0.0.0.0 t.easyads28.mobi
 0.0.0.0 t.insigit.com
 0.0.0.0 t.lumupu.xyz
@@ -16759,6 +16919,7 @@
 0.0.0.0 telaria.com
 0.0.0.0 teliad.de
 0.0.0.0 temelio.com
+0.0.0.0 templatein13.net
 0.0.0.0 tendertest.com
 0.0.0.0 tenthsfrumpy.com
 0.0.0.0 terra8nb.com
@@ -16799,6 +16960,7 @@
 0.0.0.0 tipsembankment.com
 0.0.0.0 tipslyrev.com
 0.0.0.0 tirosagalite.com
+0.0.0.0 tkexutqf.in
 0.0.0.0 tlvmedia.com
 0.0.0.0 tm-banners.gamingadult.com
 0.0.0.0 tm-offers.gamingadult.com
@@ -17179,6 +17341,7 @@
 0.0.0.0 wlmarketing.com
 0.0.0.0 wmcdpt.com
 0.0.0.0 wmirk.ru
+0.0.0.0 wmllfxjjnjq.com
 0.0.0.0 wombierfloc.com
 0.0.0.0 wombjingle.com
 0.0.0.0 wonderhsjnsd.com
@@ -17261,6 +17424,7 @@
 0.0.0.0 www.routeserve.info
 0.0.0.0 www.servsave.com
 0.0.0.0 www.shndrktrk.com
+0.0.0.0 www.smartclip.com
 0.0.0.0 www.swpsvc.com
 0.0.0.0 www.theweblocker.net
 0.0.0.0 www.tkqlhce.com
@@ -17981,6 +18145,8 @@
 0.0.0.0 tagmanager.alright.network
 0.0.0.0 tamgrt.com
 0.0.0.0 targeting.washpost.nile.works
+0.0.0.0 tc.mnbvcxzq.com
+0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tdf.ringier.ch
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
@@ -18000,6 +18166,7 @@
 0.0.0.0 to.getnitropack.com
 0.0.0.0 track-aws.notsy.io
 0.0.0.0 track.56txs4.com
+0.0.0.0 track.bluexad.ai
 0.0.0.0 track.cbdatatracker.com
 0.0.0.0 track.cordial.io
 0.0.0.0 track.easeus.com

@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.82
-! Last modified: 2026-03-08T06:21:07.684Z
+! Version: 1.0.17.85
+! Last modified: 2026-03-15T06:30:04.836Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 kjfmvnuri.click
 0.0.0.0 host69k.cfd
 0.0.0.0 druggedrat.com
 0.0.0.0 sv1291.space
@@ -360,6 +361,7 @@
 0.0.0.0 debaucky.com
 0.0.0.0 deepsathegoh.com
 0.0.0.0 degg.site
+0.0.0.0 degreedistance.cfd
 0.0.0.0 deluxe-download.com
 0.0.0.0 demowebcode.online
 0.0.0.0 di7stero.com
@@ -1249,7 +1251,6 @@
 0.0.0.0 dm.html.net
 0.0.0.0 promo.stream-films.fr
 0.0.0.0 promo.vador.com
-0.0.0.0 traditionallyobjectlessblinked.com
 0.0.0.0 64p3am9x95ct.com
 0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 a63t9o1azf.com
@@ -1257,7 +1258,5 @@
 0.0.0.0 auredzeon.com
 0.0.0.0 dairouzy.net
 0.0.0.0 iwtserve.com
-0.0.0.0 pheersie.com
 0.0.0.0 shqbsdjatunl.com
-0.0.0.0 ueuodgnrhb.com
 0.0.0.0 track.aptitudemedia.co
