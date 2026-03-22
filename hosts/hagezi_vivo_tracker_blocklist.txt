@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
-! Version: 1.0.0.16
-! Last modified: 2026-03-15T06:30:12.733Z
+! Version: 1.0.0.17
+! Last modified: 2026-03-22T06:26:14.203Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
@@ -223,9 +223,22 @@
 0.0.0.0 tr-vcode-od.vivoglobal.com
 0.0.0.0 tr-vcode-or.vivoglobal.com
 0.0.0.0 tr-weather.vivoglobal.com
+0.0.0.0 uk-timesync.vivoglobal.com
 0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 xn-ex-adreq-asa-c5b.vivoglobal.com
+0.0.0.0 za-p.vivoglobal.com
 0.0.0.0 zasc-cota.vivoglobal.com
+0.0.0.0 zasc-domaincfg.vivoglobal.com
+0.0.0.0 zasc-err-up.vivoglobal.com
+0.0.0.0 zasc-onrt-stsdk.vivoglobal.com
+0.0.0.0 zasc-ort-stsdk.vivoglobal.com
+0.0.0.0 zasc-pnrt-stsdk.vivoglobal.com
+0.0.0.0 zasc-romsp-unifyconfig.vivoglobal.com
+0.0.0.0 zasc-st-sl.vivoglobal.com
+0.0.0.0 zasc-stsdk.vivoglobal.com
+0.0.0.0 zasc-timesync.vivoglobal.com
+0.0.0.0 zasc-vcode-api.vivoglobal.com
 0.0.0.0 zasc-vcode-od.vivoglobal.com
+0.0.0.0 zasc-vcode-or.vivoglobal.com
 0.0.0.0 h4g3z1-native.vivo.web.app
 0.0.0.0 vhs.wwstat.com

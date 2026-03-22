@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.71
-! Last modified: 2026-03-15T06:30:16.229Z
+! Version: 1.0.14.72
+! Last modified: 2026-03-22T06:26:20.343Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -124,6 +124,7 @@
 0.0.0.0 ads.google.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.linkedin.com
+0.0.0.0 ads.microsoft.com
 0.0.0.0 ads.themoneytizer.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.pinterest.com
@@ -139,7 +140,9 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.trafficjunky.net
+0.0.0.0 ads.x.com
 0.0.0.0 ads.vidoomy.com
+0.0.0.0 ads.vk.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.yieldmo.com
@@ -685,6 +688,7 @@
 0.0.0.0 cross-promo-provider.easybrain.com
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 cs.admanmedia.com
+0.0.0.0 cs.avito.ru
 0.0.0.0 cs.luckyorange.net
 0.0.0.0 cs.ns1p.net
 0.0.0.0 csi.gstatic.com
@@ -1210,6 +1214,7 @@
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.vinted.it
 0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 metrics-ingress-web.svc.vinted.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics1.data.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
@@ -1581,7 +1586,7 @@
 0.0.0.0 sdk.iad-05.braze.com
 0.0.0.0 sdk.iad-06.braze.com
 0.0.0.0 sdk.fra-01.braze.eu
-0.0.0.0 sdk.postscrip.io
+0.0.0.0 sdk.postscript.io
 0.0.0.0 sdk.pulse.schibsted.com
 0.0.0.0 sdk.sharethrough.com
 0.0.0.0 sdk-api-v1.singular.net
@@ -1641,6 +1646,7 @@
 0.0.0.0 snap.licdn.com
 0.0.0.0 snigelweb-com.videoplayerhub.com
 0.0.0.0 snippet.affilimate.io
+0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 snssdk1340.onelink.me
 0.0.0.0 socket.streamable.com
 0.0.0.0 sommelier.futurehybrid.tech
@@ -1713,6 +1719,7 @@
 0.0.0.0 statics.esputnik.com
 0.0.0.0 statics.olx.com.tr
 0.0.0.0 statistics.daktilo.com
+0.0.0.0 stats.avito.ru
 0.0.0.0 stats.bannersnack.com
 0.0.0.0 stats.birgun.net
 0.0.0.0 stats.hprofits.com

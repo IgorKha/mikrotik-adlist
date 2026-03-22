@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.73
-! Last modified: 2026-03-15T06:29:59.704Z
+! Version: 1.0.16.77
+! Last modified: 2026-03-22T06:25:59.042Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -43,6 +43,7 @@
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
+0.0.0.0 a11.click
 0.0.0.0 a135.wftv.com
 0.0.0.0 a5.overclockers.ua
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
@@ -216,7 +217,6 @@
 0.0.0.0 adform.com
 0.0.0.0 adform.net
 0.0.0.0 adformdsp.net
-0.0.0.0 adgardener.com
 0.0.0.0 adhaven.com
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
@@ -596,7 +596,6 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.yumenetworks.com
 0.0.0.0 ads1-adnow.com
-0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 ads10.speedbit.com
@@ -1184,6 +1183,7 @@
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouscredit.com
 0.0.0.0 cbanners.virtuagirlhd.com
+0.0.0.0 cbzxy.com
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.freshmarketer.com
@@ -1656,6 +1656,7 @@
 0.0.0.0 fireworks-advertising.com
 0.0.0.0 firstlightera.com
 0.0.0.0 fixedfold.com
+0.0.0.0 fjordsand.com
 0.0.0.0 flairadscpc.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flashtalking.com
@@ -1737,7 +1738,6 @@
 0.0.0.0 glisteningsign.com
 0.0.0.0 globalismedia.com
 0.0.0.0 gloriousbeef.com
-0.0.0.0 gloyah.net
 0.0.0.0 gmads.net
 0.0.0.0 gml.email
 0.0.0.0 go-clicks.de
@@ -2387,6 +2387,7 @@
 0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 ogury.com
 0.0.0.0 ojrq.net
+0.0.0.0 omg10.com
 0.0.0.0 omnijay.com
 0.0.0.0 omniture.com
 0.0.0.0 omtrdc.net
@@ -3071,6 +3072,7 @@
 0.0.0.0 t.visit.disneydestinations.com
 0.0.0.0 t.visitorqueue.com
 0.0.0.0 t.x.co
+0.0.0.0 t1.rorystravelclub.co.uk
 0.0.0.0 t1.rorytravelclub-news.co.uk
 0.0.0.0 taboola.com
 0.0.0.0 tag-demo.mention-me.com
@@ -3401,7 +3403,6 @@
 0.0.0.0 webpower.com
 0.0.0.0 webreseau.com
 0.0.0.0 webseoanalytics.com
-0.0.0.0 websponsors.com
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net

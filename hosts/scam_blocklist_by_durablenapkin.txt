@@ -1,12 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.11
-! Last modified: 2026-03-15T06:30:17.412Z
+! Version: 1.0.20.18
+! Last modified: 2026-03-22T06:26:22.139Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
 0.0.0.0 1sttheworld.com
 0.0.0.0 270278609-2020004278-462904544-440202503325--570202500372x-usps.com
+0.0.0.0 365analytics.xyz
 0.0.0.0 3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev
 0.0.0.0 3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net
 0.0.0.0 42gixk.98kk89.com
@@ -44,6 +45,7 @@
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
+0.0.0.0 anacondanz.com
 0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
@@ -59,9 +61,7 @@
 0.0.0.0 audiosg.com.sg
 0.0.0.0 augusthenri.be
 0.0.0.0 aussiesportfashion.com
-0.0.0.0 autorizadigital.co
 0.0.0.0 avarik.web.app
-0.0.0.0 avisocnh.co
 0.0.0.0 azfancy.com
 0.0.0.0 azsolver.com
 0.0.0.0 azvclothing.com
@@ -151,9 +151,7 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 cmoboy.com
-0.0.0.0 cnhadverti.co
 0.0.0.0 cnhajuda.co
-0.0.0.0 cnhcomunicado.co
 0.0.0.0 cnhnotificou.co
 0.0.0.0 cnhvirtual.co
 0.0.0.0 cofdeal.com
@@ -161,11 +159,9 @@
 0.0.0.0 coiincmi.com
 0.0.0.0 coinreq.com
 0.0.0.0 colorandcotton.com
-0.0.0.0 commerz-phototans.com
 0.0.0.0 compoundexotics.com
 0.0.0.0 confira.io
 0.0.0.0 containably.com
-0.0.0.0 coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 corg.co
 0.0.0.0 couponxoo.com
@@ -189,7 +185,6 @@
 0.0.0.0 dashracegear.net
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
-0.0.0.0 db-phototans.com
 0.0.0.0 ddzk513bd.com
 0.0.0.0 debridlink.com
 0.0.0.0 decoryourhome.store
@@ -203,7 +198,6 @@
 0.0.0.0 dieserbenni.ru
 0.0.0.0 displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
-0.0.0.0 distryct.shop
 0.0.0.0 diteringion.com
 0.0.0.0 dkfodboldstore.com
 0.0.0.0 dleggere.com
@@ -233,7 +227,6 @@
 0.0.0.0 edgeupgrade.com
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 ekommmedia.com
-0.0.0.0 emberio.com
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 envisiongear.com
 0.0.0.0 eset.co.il
@@ -282,6 +275,7 @@
 0.0.0.0 filexstorage.site
 0.0.0.0 fili-cc.tv
 0.0.0.0 filman-hd.cc
+0.0.0.0 filmersi.pl
 0.0.0.0 filmhit.pl
 0.0.0.0 filmhunt.pl
 0.0.0.0 filmo.agency
@@ -352,10 +346,10 @@
 0.0.0.0 habtoorloyal.com
 0.0.0.0 hairyfy.com
 0.0.0.0 happymod.cloud
+0.0.0.0 haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 hernoclothing.com
-0.0.0.0 heyfusio.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
@@ -437,6 +431,7 @@
 0.0.0.0 kinonline.pl
 0.0.0.0 kisserine.com
 0.0.0.0 kitchendecor.shop
+0.0.0.0 klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-pc.com
 0.0.0.0 kms-tool.com
 0.0.0.0 kmsauto.info
@@ -472,7 +467,6 @@
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
-0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
@@ -496,10 +490,11 @@
 0.0.0.0 moddetail.com
 0.0.0.0 modmobile24.com
 0.0.0.0 monkstars.com
-0.0.0.0 mot73yi07.info
 0.0.0.0 ms-analytics.mywire.org
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
+0.0.0.0 mulllvad.org
+0.0.0.0 mullvaad.net
 0.0.0.0 multifilmy.pl
 0.0.0.0 museuw.com
 0.0.0.0 muskusa.com
@@ -509,6 +504,7 @@
 0.0.0.0 myhandshops.myshopify.com
 0.0.0.0 mypuregaming.com
 0.0.0.0 nalzahqp.page.link
+0.0.0.0 nanoweb3-rarityledgertech.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 natvisa.com
 0.0.0.0 navi1.com
@@ -519,6 +515,7 @@
 0.0.0.0 navi14.com
 0.0.0.0 navi18.com
 0.0.0.0 navi2.com
+0.0.0.0 navi20.com
 0.0.0.0 navi20.ru
 0.0.0.0 navi21.com
 0.0.0.0 navi22.ru
@@ -530,6 +527,7 @@
 0.0.0.0 navi26.ru
 0.0.0.0 navi27.ru
 0.0.0.0 navi3.com
+0.0.0.0 navi30.com
 0.0.0.0 navi30.ru
 0.0.0.0 navi33.com
 0.0.0.0 navi35.com
@@ -544,6 +542,7 @@
 0.0.0.0 navi5.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
+0.0.0.0 navi55.com
 0.0.0.0 navi56.com
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
@@ -638,6 +637,7 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
 0.0.0.0 peaveymartca.com
+0.0.0.0 peekpok.com
 0.0.0.0 penguinnow.com
 0.0.0.0 peppatees.com
 0.0.0.0 perlatoshoe.com
@@ -646,6 +646,7 @@
 0.0.0.0 pharaohstore.com
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
+0.0.0.0 phototan-erneuern.net
 0.0.0.0 phototan-unterstutzung.win
 0.0.0.0 pinjamanelit.top
 0.0.0.0 pinjamanrupiah.xyz
@@ -664,10 +665,10 @@
 0.0.0.0 powerboostup.com
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 premiumqualityblanket.com
-0.0.0.0 primakovreadings.info
 0.0.0.0 primeleech.com
 0.0.0.0 primevod.pl
 0.0.0.0 printteestore.com
+0.0.0.0 promo-offer.com
 0.0.0.0 promoalfresco.com
 0.0.0.0 promotion40-form.com
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
@@ -676,6 +677,7 @@
 0.0.0.0 qriedf.info
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
+0.0.0.0 refund4cra.com
 0.0.0.0 resources4gaming.com
 0.0.0.0 revanced-extended.com
 0.0.0.0 revancedmusic.com
@@ -747,13 +749,13 @@
 0.0.0.0 somethingapparel.com
 0.0.0.0 souhoney.com
 0.0.0.0 southernlife.net
-0.0.0.0 sport-specialoffers.shop
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 sportsbrooks.com
 0.0.0.0 sportswearfanatics.com
 0.0.0.0 sportswearforfans.com
 0.0.0.0 spotgee.com
 0.0.0.0 staging.zendrop.com
+0.0.0.0 stallioncredit.com
 0.0.0.0 startuplatte.com
 0.0.0.0 steamgateways.com
 0.0.0.0 steampowered.cn.com
@@ -784,7 +786,6 @@
 0.0.0.0 swuso.com
 0.0.0.0 t-post.com
 0.0.0.0 tamed-exotics.com
-0.0.0.0 taramatikarou.com
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tbao684tryo.com
 0.0.0.0 tee24h.com
@@ -808,12 +809,12 @@
 0.0.0.0 tikgeeker.com
 0.0.0.0 tinkleo.com
 0.0.0.0 tiranaaquapark-eg.com
+0.0.0.0 tlstoreonline.com
 0.0.0.0 toko999.net
 0.0.0.0 toko999.shop
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 touristvisaonline.com
 0.0.0.0 toweragency.in
-0.0.0.0 towerdepartment.com
 0.0.0.0 townaptdesk.info
 0.0.0.0 toyrube.com
 0.0.0.0 tpqcywcx.page.link
@@ -841,6 +842,7 @@
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 ultra-cda.pl
 0.0.0.0 ultrasonica.info
+0.0.0.0 uni-swap.online
 0.0.0.0 unifully.com
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.ro
@@ -935,10 +937,12 @@
 0.0.0.0 youdebrid.com
 0.0.0.0 yourdatefind.com
 0.0.0.0 yoursecrethookup.com
+0.0.0.0 youtubee.com
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com
 0.0.0.0 yuaonew.com
+0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
 0.0.0.0 zalukaj-film.pl
 0.0.0.0 zalukaj-pl.tv

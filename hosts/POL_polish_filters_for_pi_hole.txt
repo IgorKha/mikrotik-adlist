@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.14.93
-! Last modified: 2026-03-15T06:30:13.225Z
+! Version: 1.0.14.95
+! Last modified: 2026-03-22T06:26:15.394Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0daib.pl
 0.0.0.0 0x01n2ptpuz3.com
@@ -106,6 +106,7 @@
 0.0.0.0 dynacrems.wp.pl
 0.0.0.0 ebrokerpartner.pl
 0.0.0.0 edujikim.com
+0.0.0.0 effectivegatecpm.com
 0.0.0.0 embed.powercontent.pl
 0.0.0.0 embemy.com
 0.0.0.0 eu.ekatox.com
@@ -293,6 +294,7 @@
 0.0.0.0 trophylab.com
 0.0.0.0 truelovesbeauty.co.uk
 0.0.0.0 tvmoviespoilers.com
+0.0.0.0 tvpnews.site
 0.0.0.0 ulixes.pl
 0.0.0.0 unknow.now.sh
 0.0.0.0 uod2quk646.com
