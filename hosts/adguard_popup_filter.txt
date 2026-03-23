@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.85
-! Last modified: 2026-03-15T06:30:04.836Z
+! Version: 1.0.17.86
+! Last modified: 2026-03-22T06:26:05.114Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 kjfmvnuri.click
 0.0.0.0 host69k.cfd
@@ -199,7 +199,6 @@
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 6by30.com
-0.0.0.0 7flies12.de
 0.0.0.0 8jfbt5va3r.com
 0.0.0.0 905trk.com
 0.0.0.0 a-ads.com
@@ -335,7 +334,6 @@
 0.0.0.0 cntrealize.com
 0.0.0.0 coastalbloom.xyz
 0.0.0.0 colleem.com
-0.0.0.0 colorsealprosper.co
 0.0.0.0 colossal-pathway.life
 0.0.0.0 conestreshow.com
 0.0.0.0 controlclickflow.com
@@ -664,7 +662,6 @@
 0.0.0.0 psockapa.net
 0.0.0.0 pubadx.one
 0.0.0.0 pubtrky.com
-0.0.0.0 pulsivecerebra.top
 0.0.0.0 pupspu.com
 0.0.0.0 push-sense.com
 0.0.0.0 push1000.top
@@ -688,7 +685,6 @@
 0.0.0.0 reebr.com
 0.0.0.0 rel-s.com
 0.0.0.0 resentreaccotia.com
-0.0.0.0 revertsskimmia.shop
 0.0.0.0 rexsrv.com
 0.0.0.0 rhinoaffiliates.com
 0.0.0.0 riflesurfing.xyz
@@ -737,7 +733,6 @@
 0.0.0.0 singledatetime.com
 0.0.0.0 skated.co
 0.0.0.0 skylindo.com
-0.0.0.0 skywardjourneys.co
 0.0.0.0 slcuse.com
 0.0.0.0 sloto.live
 0.0.0.0 smrtmnk2.com
@@ -843,7 +838,6 @@
 0.0.0.0 vmmcdn.com
 0.0.0.0 volleyballachiever.site
 0.0.0.0 voluumtrk.com
-0.0.0.0 vpn-offers.org
 0.0.0.0 vstwerxerbc.top
 0.0.0.0 vulnerableimmigrateaboveaverage.com
 0.0.0.0 w0we.com
