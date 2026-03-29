@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.77
-! Last modified: 2026-03-22T06:25:59.042Z
+! Version: 1.0.16.81
+! Last modified: 2026-03-29T06:33:43.931Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -528,6 +528,7 @@
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.revjet.com
+0.0.0.0 ads.reward-hunt.com
 0.0.0.0 ads.samsung.com
 0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.schmoozecom.net
@@ -559,7 +560,6 @@
 0.0.0.0 ads.trinitymirror.co.uk
 0.0.0.0 ads.tripod.com
 0.0.0.0 ads.tripod.lycos.co.uk
-0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 ads.tripod.lycos.es
 0.0.0.0 ads.tripod.lycos.it
 0.0.0.0 ads.tripod.lycos.nl
@@ -734,6 +734,7 @@
 0.0.0.0 adstanding.com
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstest.weather.com
+0.0.0.0 adstub.net
 0.0.0.0 adsupply.com
 0.0.0.0 adswizz.com
 0.0.0.0 adsxyz.com
@@ -1655,6 +1656,7 @@
 0.0.0.0 fireworkanalytics.com
 0.0.0.0 fireworks-advertising.com
 0.0.0.0 firstlightera.com
+0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fixedfold.com
 0.0.0.0 fjordsand.com
 0.0.0.0 flairadscpc.com
@@ -1767,7 +1769,6 @@
 0.0.0.0 gotoyahoo.com
 0.0.0.0 gotraffic.net
 0.0.0.0 gp.dejanews.com
-0.0.0.0 graizoah.com
 0.0.0.0 grandfatherguitar.com
 0.0.0.0 granlite.com
 0.0.0.0 grapeshot.co.uk
@@ -1920,6 +1921,7 @@
 0.0.0.0 innovid.com
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 insgly.net
+0.0.0.0 insidepsych.net
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
 0.0.0.0 inskinad.com
@@ -2234,6 +2236,7 @@
 0.0.0.0 mintfunnel.co
 0.0.0.0 mittencattle.com
 0.0.0.0 mix2ads.com
+0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mkto-ab410147.com
 0.0.0.0 mktoresp.com
@@ -2599,7 +2602,6 @@
 0.0.0.0 pstmrk.it
 0.0.0.0 pub.chez.com
 0.0.0.0 pub.club-internet.fr
-0.0.0.0 pub.hardware.fr
 0.0.0.0 pub.network
 0.0.0.0 pub.realmedia.fr
 0.0.0.0 pubdirecte.com
@@ -2652,7 +2654,6 @@
 0.0.0.0 r1.visualwebsiteoptimizer.com
 0.0.0.0 r2.visualwebsiteoptimizer.com
 0.0.0.0 r3.visualwebsiteoptimizer.com
-0.0.0.0 raac33.net
 0.0.0.0 rabbitrifle.com
 0.0.0.0 rackforstorage.com
 0.0.0.0 radar.cedexis.com
