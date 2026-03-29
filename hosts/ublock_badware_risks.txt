@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.21.32
-! Last modified: 2026-03-22T06:26:30.050Z
+! Version: 1.0.21.38
+! Last modified: 2026-03-29T06:34:15.716Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -2518,6 +2518,7 @@
 0.0.0.0 sentinelbotcore.co.in
 0.0.0.0 kexornero.co.in
 0.0.0.0 vironexta.com
+0.0.0.0 fusionchainedge.com
 0.0.0.0 maxsecurityultimate.com
 0.0.0.0 hotdebrid.com
 0.0.0.0 maxdebrid.com
@@ -2767,6 +2768,7 @@
 0.0.0.0 xblocklist*.pages.dev
 0.0.0.0 xsuki*.pages.dev
 0.0.0.0 bxchx.pages.dev
+0.0.0.0 xblockchecker*.pages.dev
 0.0.0.0 lastpassrecovery.com
 0.0.0.0 kgms.top
 0.0.0.0 arrakis2.com
@@ -3079,3 +3081,8 @@
 0.0.0.0 anysoft.click
 0.0.0.0 zeof-defender.pro
 0.0.0.0 laptopprivacyado.com
+0.0.0.0 dyiket.com
+0.0.0.0 plus.rustfacepunch.com
+0.0.0.0 studio-blender.com
+0.0.0.0 update-check.com
+0.0.0.0 keepass-xc.com

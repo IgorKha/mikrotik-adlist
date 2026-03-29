@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.26
-! Last modified: 2026-03-22T06:26:13.634Z
+! Version: 1.0.15.27
+! Last modified: 2026-03-29T06:33:59.437Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -161,6 +161,7 @@
 0.0.0.0 campus.co.za
 0.0.0.0 casual-date.com.ar
 0.0.0.0 casualdating4u.com
+0.0.0.0 casualdating69.com
 0.0.0.0 casualdating-club.de
 0.0.0.0 casualdating.net
 0.0.0.0 casual-fling.com
@@ -468,6 +469,7 @@
 0.0.0.0 eharmony.com
 0.0.0.0 eharmony.co.uk
 0.0.0.0 elitedatingcompany.net
+0.0.0.0 elitekink.com
 0.0.0.0 elitemate.com
 0.0.0.0 elitesingles.co.za
 0.0.0.0 elovedates.com
@@ -591,6 +593,7 @@
 0.0.0.0 hotbuddies.co.uk
 0.0.0.0 hubpeople.ai
 0.0.0.0 hubpeople.com
+0.0.0.0 hubz.pl
 0.0.0.0 hushlove.com
 0.0.0.0 ichwilldichjetzt.com
 0.0.0.0 icouple.fr
@@ -699,6 +702,7 @@
 0.0.0.0 localgilfs.com
 0.0.0.0 localhottiesnow.com
 0.0.0.0 localmaturedating.net
+0.0.0.0 localmeets.ie
 0.0.0.0 lonelyparentsdate.com
 0.0.0.0 lonelywivesdatelink.com
 0.0.0.0 loopylove.com

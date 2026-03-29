@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
 ! Version: 1.0.17.2
-! Last modified: 2026-03-22T06:26:16.021Z
+! Last modified: 2026-03-29T06:34:01.300Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List

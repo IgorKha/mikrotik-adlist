@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-! Version: 1.0.14.63
-! Last modified: 2026-03-22T06:26:11.529Z
+! Version: 1.0.14.64
+! Last modified: 2026-03-29T06:33:57.174Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 adgoogle.net
 0.0.0.0 crashlytics.com
@@ -1567,6 +1567,7 @@
 0.0.0.0 idx.dev
 0.0.0.0 waze.com
 0.0.0.0 www.tiltbrush.com
+0.0.0.0 x.company
 0.0.0.0 g.co
 0.0.0.0 goo.gl
 0.0.0.0 youtu.be

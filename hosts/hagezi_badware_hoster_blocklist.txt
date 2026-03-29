@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.19.34
-! Last modified: 2026-03-22T06:26:30.728Z
+! Version: 1.0.19.35
+! Last modified: 2026-03-29T06:34:16.307Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -323,7 +323,6 @@
 0.0.0.0 c0.pl
 0.0.0.0 ca.gp
 0.0.0.0 cabanova.com
-0.0.0.0 caixa-soportecliente.com
 0.0.0.0 canalblog.com
 0.0.0.0 canva.site
 0.0.0.0 carrd.co
@@ -500,8 +499,6 @@
 0.0.0.0 epizy.com
 0.0.0.0 erlegen.de
 0.0.0.0 es.gp
-0.0.0.0 es-bbvacliente-movil.com
-0.0.0.0 es-caixamovil-clientes.com
 0.0.0.0 esel.in
 0.0.0.0 eshop-ya.life
 0.0.0.0 eu.cm

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.86
-! Last modified: 2026-03-22T06:26:05.114Z
+! Version: 1.0.17.89
+! Last modified: 2026-03-29T06:33:50.101Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 kjfmvnuri.click
 0.0.0.0 host69k.cfd
@@ -219,7 +219,6 @@
 0.0.0.0 admobe.com
 0.0.0.0 ads-blocker.app
 0.0.0.0 ads4trk.com
-0.0.0.0 adscdn.net
 0.0.0.0 adsco.re
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adspredictiv.com
@@ -237,24 +236,19 @@
 0.0.0.0 affpa.top
 0.0.0.0 affroller.com
 0.0.0.0 affstreck.com
-0.0.0.0 afodreet.net
 0.0.0.0 aftrk3.com
 0.0.0.0 agat-tech.com
 0.0.0.0 aglobally.com
 0.0.0.0 aifolr.com
 0.0.0.0 aimging.com
 0.0.0.0 aiphotomania.com
-0.0.0.0 aistekso.net
 0.0.0.0 ak-is2.net
 0.0.0.0 albonsa.com
 0.0.0.0 alexatracker.com
-0.0.0.0 alibabatraffic.com
 0.0.0.0 alpine-vpn.com
 0.0.0.0 amichi.info
 0.0.0.0 amusing-injury.com
-0.0.0.0 aneorwd.com
 0.0.0.0 animeloundry.com
-0.0.0.0 antcixn.com
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 appointeeivyspongy.com
 0.0.0.0 approved.website
@@ -269,7 +263,6 @@
 0.0.0.0 auto-ads6.site
 0.0.0.0 avlmy.com
 0.0.0.0 avogex.com
-0.0.0.0 awalesglower.com
 0.0.0.0 awecrptjmp.com
 0.0.0.0 basicflownetowork.co.in
 0.0.0.0 bayshorline.com
@@ -294,12 +287,10 @@
 0.0.0.0 bluodpa-a.online
 0.0.0.0 blurbreimbursetrombone.com
 0.0.0.0 bmmads.com
-0.0.0.0 boardpress-b.online
 0.0.0.0 bobgames-prolister.com
 0.0.0.0 bonusgew.com
 0.0.0.0 boredhippie.com
 0.0.0.0 boskodating.com
-0.0.0.0 boxthis.xyz
 0.0.0.0 brainberries.co
 0.0.0.0 brationalfilarded.com
 0.0.0.0 bucksmein.com
@@ -307,7 +298,6 @@
 0.0.0.0 byethost41.net
 0.0.0.0 c3j7rk-rtbix.top
 0.0.0.0 camliveshow.xyz
-0.0.0.0 camptrck.com
 0.0.0.0 candyai.love
 0.0.0.0 cashgzb.com
 0.0.0.0 casinobonusdeals.io
@@ -851,6 +841,7 @@
 0.0.0.0 wewearegogogo.com
 0.0.0.0 wheceelt.net
 0.0.0.0 wintrck.com
+0.0.0.0 wonderadblock.com
 0.0.0.0 wuujae.com
 0.0.0.0 x2tsa.com
 0.0.0.0 x3os.com
@@ -1245,12 +1236,3 @@
 0.0.0.0 dm.html.net
 0.0.0.0 promo.stream-films.fr
 0.0.0.0 promo.vador.com
-0.0.0.0 64p3am9x95ct.com
-0.0.0.0 9eb10b7a3d04a.com
-0.0.0.0 a63t9o1azf.com
-0.0.0.0 adbsys.icu
-0.0.0.0 auredzeon.com
-0.0.0.0 dairouzy.net
-0.0.0.0 iwtserve.com
-0.0.0.0 shqbsdjatunl.com
-0.0.0.0 track.aptitudemedia.co

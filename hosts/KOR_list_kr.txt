@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
-! Version: 1.0.15.69
-! Last modified: 2026-03-22T06:26:17.963Z
+! Version: 1.0.15.70
+! Last modified: 2026-03-29T06:34:03.087Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 ad.adwiser.kr
 0.0.0.0 digitalcamp.co.kr
@@ -70,7 +70,7 @@
 0.0.0.0 displayad.lotteon.com
 0.0.0.0 ad-script.viewus.co.kr
 0.0.0.0 ad-insight.sellermill.com
-0.0.0.0 reqde.sooplive.co.kr
+0.0.0.0 reqde.sooplive.com
 0.0.0.0 serv.ds.kakao.com
 0.0.0.0 ad.auction.co.kr
 0.0.0.0 dadispapi.auction.co.kr
@@ -94,7 +94,7 @@
 0.0.0.0 naverpa-phinf.pstatic.net
 0.0.0.0 ad2.mimint.co.kr
 0.0.0.0 wwwads.seoul.co.kr
-0.0.0.0 adballoon.sooplive.co.kr
+0.0.0.0 adballoon.sooplive.com
 0.0.0.0 ad.themedianw.com
 0.0.0.0 ad.3dpop.kr
 0.0.0.0 cdndn.3dpop.kr
@@ -175,7 +175,7 @@
 0.0.0.0 adg.dawin.tv
 0.0.0.0 ads.quanta.la
 0.0.0.0 adm.smartmediarep.com
-0.0.0.0 deapi.sooplive.co.kr
+0.0.0.0 deapi.sooplive.com
 0.0.0.0 ds.11st.co.kr
 0.0.0.0 ad.mrab.co.kr
 0.0.0.0 ad.mediafarm.co.kr
