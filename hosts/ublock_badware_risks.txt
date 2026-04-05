@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.21.38
-! Last modified: 2026-03-29T06:34:15.716Z
+! Version: 1.0.21.48
+! Last modified: 2026-04-05T06:35:40.239Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -2539,9 +2539,6 @@
 0.0.0.0 deepseeklogins.com
 0.0.0.0 deepseekapk.download
 0.0.0.0 deepseekapp.download
-0.0.0.0 hhcollect.co
-0.0.0.0 pay-hh.com
-0.0.0.0 harriscollect.net
 0.0.0.0 irs.gov.*.com
 0.0.0.0 govuk.*.top
 0.0.0.0 e-navy*.weebly.com
@@ -2778,6 +2775,9 @@
 0.0.0.0 voting-express-tl.
 0.0.0.0 sportifymore.ct.ws
 0.0.0.0 voting-express-tl.ct.ws
+0.0.0.0 spotifyprimeszones-sl.ct.ws
+0.0.0.0 spotifyprimeszones-
+0.0.0.0 spotify*.ct.ws
 0.0.0.0 cs2beneluxtour.com
 0.0.0.0 eplproseason25.com
 0.0.0.0 eslpromasters.com
@@ -3086,3 +3086,28 @@
 0.0.0.0 studio-blender.com
 0.0.0.0 update-check.com
 0.0.0.0 keepass-xc.com
+0.0.0.0 canadamilksettlement.com
+0.0.0.0 bp-sogou.com.cn
+0.0.0.0 win-sogou.com
+0.0.0.0 x-sogou.com
+0.0.0.0 qishmusic.com.cn
+0.0.0.0 apps-sougoupinyin.com
+0.0.0.0 ai-sogou.com.cn
+0.0.0.0 soougou.com.cn
+0.0.0.0 pc-sogou.com.cn
+0.0.0.0 sogoushurf.com
+0.0.0.0 chrome-hl.hl.cn
+0.0.0.0 ggooglle-chrrome.com.cn
+0.0.0.0 cnzh-google-apps.hl.cn
+0.0.0.0 zh-googlle-chrome.hl.cn
+0.0.0.0 360cncn.com
+0.0.0.0 wps-cnzh.com
+0.0.0.0 360edge.cn
+0.0.0.0 app-google-zh.hl.cn
+0.0.0.0 zhcn-googele.hl.cn
+0.0.0.0 baiduwangpan.cc
+0.0.0.0 chrome-gooogle-zh.hl.cn
+0.0.0.0 google-chrrome-zh.hl.cn
+0.0.0.0 testio.ecartdev.com
+0.0.0.0 applot-jp.com
+0.0.0.0 orcanmedikal.com.tr

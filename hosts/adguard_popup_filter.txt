@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.89
-! Last modified: 2026-03-29T06:33:50.101Z
+! Version: 1.0.17.94
+! Last modified: 2026-04-05T06:35:19.792Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 kjfmvnuri.click
 0.0.0.0 host69k.cfd
@@ -255,6 +255,7 @@
 0.0.0.0 appslime.com
 0.0.0.0 appthe.click
 0.0.0.0 argrowlitheor.com
+0.0.0.0 asosub.org
 0.0.0.0 astjigglypuffchan.com
 0.0.0.0 atp.revistamuchomas.com
 0.0.0.0 atsg.me
@@ -306,8 +307,6 @@
 0.0.0.0 cddtsecure.com
 0.0.0.0 ceramicturtleremnant.com
 0.0.0.0 checkcdn.net
-0.0.0.0 choogeet.net
-0.0.0.0 choosingoffer.lol
 0.0.0.0 chpadblock.com
 0.0.0.0 ciencia.ao
 0.0.0.0 clearwatch.tv
@@ -330,7 +329,6 @@
 0.0.0.0 coolserving.com
 0.0.0.0 coosync.com
 0.0.0.0 coticoffee.com
-0.0.0.0 countertrck.com
 0.0.0.0 cpacrack.com
 0.0.0.0 cradaygo.com
 0.0.0.0 crockadilla.com
@@ -343,27 +341,21 @@
 0.0.0.0 date2024.com
 0.0.0.0 date4sex.pro
 0.0.0.0 datedeskads.com
-0.0.0.0 datesassistant.com
 0.0.0.0 dateyou2024.com
 0.0.0.0 datingforyour4.site
 0.0.0.0 debaucky.com
 0.0.0.0 deepsathegoh.com
-0.0.0.0 degg.site
 0.0.0.0 degreedistance.cfd
-0.0.0.0 deluxe-download.com
 0.0.0.0 demowebcode.online
 0.0.0.0 di7stero.com
 0.0.0.0 diagramjawlineunhappy.com
 0.0.0.0 dianomi.com
 0.0.0.0 directdexchange.com
-0.0.0.0 disable-adverts.com
 0.0.0.0 displayvertising.com
 0.0.0.0 dithodackee.com
 0.0.0.0 dlrectdates.com
 0.0.0.0 domainparkingmanager.it
 0.0.0.0 donkeyflower.xyz
-0.0.0.0 doostozoa.net
-0.0.0.0 downloading-addon.com
 0.0.0.0 dpuppers.com
 0.0.0.0 dreamteamaffiliates.com
 0.0.0.0 drsmediaexchange.com
@@ -374,11 +366,9 @@
 0.0.0.0 easelegbike.com
 0.0.0.0 easyconverts.com
 0.0.0.0 eeco.xyz
-0.0.0.0 eetognauy.net
 0.0.0.0 efficientorbit.co
 0.0.0.0 emancytal.com
 0.0.0.0 endlessloveonline.online
-0.0.0.0 enframement.pics
 0.0.0.0 enrtx.com
 0.0.0.0 escortlist.pro
 0.0.0.0 evil-candle.pro
@@ -1034,27 +1024,21 @@
 0.0.0.0 absurdbatchconfess.com
 0.0.0.0 adhoc4.net
 0.0.0.0 adme-net.com
-0.0.0.0 adoffers.network
 0.0.0.0 adpointbreakrtb.com
 0.0.0.0 adsrv.me
 0.0.0.0 adtrk20.com
 0.0.0.0 affiliatetracker.io
 0.0.0.0 agileskincareunrented.com
-0.0.0.0 ahlefind.com
 0.0.0.0 aimportfoliosquid.com
 0.0.0.0 airartapt.site
 0.0.0.0 ajrkm3.com
-0.0.0.0 allsports4free.club
 0.0.0.0 allsports4free.live
-0.0.0.0 allure-ng.net
 0.0.0.0 amazing-dates.com
 0.0.0.0 angrilyanimatorcuddle.com
 0.0.0.0 antfa.link
 0.0.0.0 antivirusfit.co
 0.0.0.0 antj.link
-0.0.0.0 aozoiekopoaka.shop
 0.0.0.0 appendixwarmingauthors.com
-0.0.0.0 areantaid.site
 0.0.0.0 arthygeo.info
 0.0.0.0 astrologyflyabletruth.com
 0.0.0.0 atimaze.com
@@ -1073,7 +1057,6 @@
 0.0.0.0 click2m.org
 0.0.0.0 clickadilla.com
 0.0.0.0 clickcdn.co
-0.0.0.0 clofferap.com
 0.0.0.0 cloudgallery.net
 0.0.0.0 cloudtransfer.store
 0.0.0.0 cmvrclicks000.com
@@ -1082,7 +1065,6 @@
 0.0.0.0 correctdilutetrophy.com
 0.0.0.0 daftsex.com
 0.0.0.0 dailyreports.info
-0.0.0.0 daitchest.com
 0.0.0.0 dalyai.com
 0.0.0.0 denetsuk.com
 0.0.0.0 diffusionsubletunnamed.com
@@ -1107,7 +1089,6 @@
 0.0.0.0 flixtab.com
 0.0.0.0 fr-dustreaming.com
 0.0.0.0 freelovehere.com
-0.0.0.0 frjelsoieapoas.shop
 0.0.0.0 frtyl.com
 0.0.0.0 ggpickaff.com
 0.0.0.0 ggpickyaff.com
@@ -1121,16 +1102,13 @@
 0.0.0.0 hk6vdj4z.click
 0.0.0.0 hop.boutique
 0.0.0.0 hotboys.biz
-0.0.0.0 huysoftzfile.shop
 0.0.0.0 incontro-veloce.com
 0.0.0.0 infokz.com
-0.0.0.0 infossztech.cfd
 0.0.0.0 investing1.com
 0.0.0.0 islamiclyricallyvariable.com
 0.0.0.0 jetm-tech.net
 0.0.0.0 jewhouca.net
 0.0.0.0 karissavip.com
-0.0.0.0 ladsats.com
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 lenzmx.com
 0.0.0.0 localsnapsext.com
@@ -1139,7 +1117,6 @@
 0.0.0.0 minently.com
 0.0.0.0 monetizer.co
 0.0.0.0 morinavotarius.top
-0.0.0.0 mors22.com
 0.0.0.0 mozime.com
 0.0.0.0 o000oo.com
 0.0.0.0 oclasrv.com
@@ -1153,19 +1130,16 @@
 0.0.0.0 potwm.com
 0.0.0.0 pourbaiser.com
 0.0.0.0 powv1deo.cc
-0.0.0.0 premium4kflix.club
 0.0.0.0 prmobiles.com
 0.0.0.0 producebreed.com
 0.0.0.0 profitablecpmnetwork.com
 0.0.0.0 ptapjmp.com
 0.0.0.0 pulseadnetwork.com
 0.0.0.0 rencontreadultere.club
-0.0.0.0 routinato.shop
 0.0.0.0 rtbbonline.com
 0.0.0.0 schjmp.com
 0.0.0.0 search-converter.com
 0.0.0.0 searchdimension.com
-0.0.0.0 shebaasot.com
 0.0.0.0 slabshookwasted.com
 0.0.0.0 slext2.com
 0.0.0.0 smapp.work
@@ -1183,7 +1157,6 @@
 0.0.0.0 timesroadmapwed.com
 0.0.0.0 tlootas.org
 0.0.0.0 toponclick.com
-0.0.0.0 topperformance.xyz
 0.0.0.0 torrent09.uno
 0.0.0.0 torrent9.cm
 0.0.0.0 tourpowouro.shop
@@ -1192,9 +1165,7 @@
 0.0.0.0 unltdentertainment.co
 0.0.0.0 urbanproxy.eu
 0.0.0.0 valemedia.net
-0.0.0.0 vaniacozzolino.com
 0.0.0.0 ver-pelis.me
-0.0.0.0 videos-on-demand.link
 0.0.0.0 viewmoregirls.com
 0.0.0.0 viiadr.com
 0.0.0.0 vimeonk.com
@@ -1202,11 +1173,9 @@
 0.0.0.0 wgoto.xyz
 0.0.0.0 wmober.com
 0.0.0.0 x.porn.fr
-0.0.0.0 xfmlp.com
 0.0.0.0 xtraserp.com
 0.0.0.0 xu2.com
 0.0.0.0 xxxviijmp.com
-0.0.0.0 yggtorrent.com
 0.0.0.0 ztdog.com
 0.0.0.0 altusmediagroupinc.go2cloud.org
 0.0.0.0 buziol.pl

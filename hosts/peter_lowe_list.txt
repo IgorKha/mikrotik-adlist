@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.81
-! Last modified: 2026-03-29T06:33:43.931Z
+! Version: 1.0.16.87
+! Last modified: 2026-04-05T06:35:14.688Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -432,7 +432,6 @@
 0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
 0.0.0.0 ads.guardianunlimited.co.uk
-0.0.0.0 ads.guru3d.com
 0.0.0.0 ads.hbv.de
 0.0.0.0 ads.hearstmags.com
 0.0.0.0 ads.heartlight.org
@@ -606,7 +605,6 @@
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.hsoub.com
 0.0.0.0 ads2.virtual-nights.com
-0.0.0.0 ads2.webdrive.no
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads24h.net
@@ -778,7 +776,6 @@
 0.0.0.0 adverticum.net
 0.0.0.0 advertipros.com
 0.0.0.0 advertise.com
-0.0.0.0 advertiseireland.com
 0.0.0.0 advertiserurl.com
 0.0.0.0 advertising.com
 0.0.0.0 advertisingbanners.com
@@ -1440,6 +1437,7 @@
 0.0.0.0 damdoor.com
 0.0.0.0 dapper.net
 0.0.0.0 data.namesakeoscilloscopemarquis.com
+0.0.0.0 datapickles.com
 0.0.0.0 datenow.link
 0.0.0.0 daybreaklights.com
 0.0.0.0 dc-storm.com
@@ -1746,6 +1744,7 @@
 0.0.0.0 go-link.network
 0.0.0.0 go-mpulse.net
 0.0.0.0 go-rank.de
+0.0.0.0 go.clickwww.com
 0.0.0.0 go.dhs.gov
 0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.first.org
@@ -1758,6 +1757,7 @@
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
 0.0.0.0 gondolagnome.com
+0.0.0.0 goodcontentservice.top
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
@@ -2602,6 +2602,7 @@
 0.0.0.0 pstmrk.it
 0.0.0.0 pub.chez.com
 0.0.0.0 pub.club-internet.fr
+0.0.0.0 pub.hardware.fr
 0.0.0.0 pub.network
 0.0.0.0 pub.realmedia.fr
 0.0.0.0 pubdirecte.com
@@ -2848,6 +2849,7 @@
 0.0.0.0 shakegoldfish.com
 0.0.0.0 shareasale.com
 0.0.0.0 sharethrough.com
+0.0.0.0 shd247.click
 0.0.0.0 sher.index.hu
 0.0.0.0 shesubscriptions.com
 0.0.0.0 shinystat.com
@@ -2925,6 +2927,7 @@
 0.0.0.0 sortable.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sovrn.com
+0.0.0.0 sp-a-q-f.ib-game.jp
 0.0.0.0 spacash.com
 0.0.0.0 spaceleadster.com
 0.0.0.0 sparklingshelf.com
@@ -3427,6 +3430,7 @@
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widget.privy.com
 0.0.0.0 wikia-ads.wikia.com
+0.0.0.0 wikiquotations.com
 0.0.0.0 win.iqm.com
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
