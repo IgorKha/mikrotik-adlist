@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
-! Version: 1.0.0.5
-! Last modified: 2026-03-29T06:34:00.253Z
+! Version: 1.0.0.7
+! Last modified: 2026-04-05T06:35:27.822Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -82,6 +82,10 @@
 0.0.0.0 feedbackws.fe.apple-dns.cn
 0.0.0.0 feedbackws.fe2.apple-dns.net
 0.0.0.0 me.apple-dns.net
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 notes-analytics-events.news.apple-dns.net
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 applemediaservices.com
 0.0.0.0 cstat.cdn-apple.com
 0.0.0.0 securemetrics.apple.com.cn

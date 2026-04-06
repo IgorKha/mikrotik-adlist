@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-! Version: 1.0.23.77
-! Last modified: 2026-03-29T06:33:57.678Z
+! Version: 1.0.23.86
+! Last modified: 2026-04-05T06:35:25.934Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 003396815.xyz
 0.0.0.0 004430.xyz
@@ -71,7 +71,6 @@
 0.0.0.0 1080-kino.com
 0.0.0.0 10drives.com
 0.0.0.0 10hitmovies.click
-0.0.0.0 10hitmovies.club
 0.0.0.0 10hitmovies.com
 0.0.0.0 10hitmovies.help
 0.0.0.0 10hitmovies.lat
@@ -91,7 +90,6 @@
 0.0.0.0 123files.club
 0.0.0.0 123fox.net
 0.0.0.0 123freemovies.net
-0.0.0.0 123freemovies.show
 0.0.0.0 123hulu.com
 0.0.0.0 123movie.blog
 0.0.0.0 123movie.cc
@@ -200,6 +198,7 @@
 0.0.0.0 1ddl.org
 0.0.0.0 1desiremovies.foo
 0.0.0.0 1fichier.com
+0.0.0.0 1filmyfly.top
 0.0.0.0 1flix.to
 0.0.0.0 1gabba.net
 0.0.0.0 1gabba.pw
@@ -799,8 +798,10 @@
 0.0.0.0 anidb.info
 0.0.0.0 anidex.info
 0.0.0.0 anidex.moe
+0.0.0.0 anidoor.me
 0.0.0.0 anidub.pro
 0.0.0.0 anify.to
+0.0.0.0 anigo.to
 0.0.0.0 anilinkz.to
 0.0.0.0 animatedchaos.com
 0.0.0.0 animationdigitalnetwork.fr
@@ -1564,6 +1565,7 @@
 0.0.0.0 bollyflix.faith
 0.0.0.0 bollyflix.fish
 0.0.0.0 bollyflix.fit
+0.0.0.0 bollyflix.frl
 0.0.0.0 bollyflix.ist
 0.0.0.0 bollyflix.miami
 0.0.0.0 bollyflix.pub
@@ -2822,6 +2824,7 @@
 0.0.0.0 diyar24.com
 0.0.0.0 dizcompany.ru
 0.0.0.0 dizi44.life
+0.0.0.0 dizi49.life
 0.0.0.0 dizilla.to
 0.0.0.0 dizimag.onl
 0.0.0.0 dizipal.bar
@@ -3694,6 +3697,7 @@
 0.0.0.0 film-francais-vf.com
 0.0.0.0 film-pertutti.art
 0.0.0.0 film-pertutti.autos
+0.0.0.0 film-pertutti.bond
 0.0.0.0 film-pertutti.click
 0.0.0.0 film-pertutti.cyou
 0.0.0.0 film-pertutti.homes
@@ -4539,6 +4543,7 @@
 0.0.0.0 gnutellaforums.com
 0.0.0.0 go123.stream
 0.0.0.0 go2load.com
+0.0.0.0 goal2.live
 0.0.0.0 goalz.zip
 0.0.0.0 goatd.me
 0.0.0.0 god-games.com
@@ -4858,6 +4863,7 @@
 0.0.0.0 hdfilme-tv.cc
 0.0.0.0 hdfilmizle22.com
 0.0.0.0 hdfreaks.cc
+0.0.0.0 hdfull.cam
 0.0.0.0 hdfull.lv
 0.0.0.0 hdhome.org
 0.0.0.0 hdhub4u.family
@@ -5716,6 +5722,7 @@
 0.0.0.0 keke.re
 0.0.0.0 data.kenecolor.com
 0.0.0.0 keohosting.net
+0.0.0.0 kerry410bks.com
 0.0.0.0 kevinsport.top
 0.0.0.0 kevinsports.top
 0.0.0.0 kevinsporttv.top
@@ -6926,7 +6933,6 @@
 0.0.0.0 moviesmod.forum
 0.0.0.0 moviesmod.fyi
 0.0.0.0 moviesmod.gift
-0.0.0.0 moviesmod.how
 0.0.0.0 moviesmod.kim
 0.0.0.0 moviesmod.mom
 0.0.0.0 moviesmod.nl
@@ -7074,6 +7080,7 @@
 0.0.0.0 multicanais.com
 0.0.0.0 multicanais.fans
 0.0.0.0 multicanais.live
+0.0.0.0 multimovies.autos
 0.0.0.0 multimovies.center
 0.0.0.0 multimovies.cheap
 0.0.0.0 multimovies.click
@@ -7555,6 +7562,7 @@
 0.0.0.0 nyaa.net
 0.0.0.0 nyaa.si
 0.0.0.0 tracker.nyaa.uk
+0.0.0.0 tracker.nyaa.vc
 0.0.0.0 t.nyaatracker.com
 0.0.0.0 tr.nyacat.pw
 0.0.0.0 nyafilmer.lol
@@ -9008,6 +9016,7 @@
 0.0.0.0 simpsonitos.com
 0.0.0.0 simpsonsua.tv
 0.0.0.0 sims4odezhda.ru
+0.0.0.0 sinema.lat
 0.0.0.0 sinezy.biz
 0.0.0.0 sinezy.cx
 0.0.0.0 sisbdisp.com
@@ -9846,6 +9855,7 @@
 0.0.0.0 sunonlinebd.com
 0.0.0.0 sunplex.net
 0.0.0.0 sunset-dragons.com
+0.0.0.0 sunsetline07.online
 0.0.0.0 sunveil63.live
 0.0.0.0 sunxdcc.com
 0.0.0.0 super-torrent.pl
@@ -10766,6 +10776,7 @@
 0.0.0.0 uakino-bay.net
 0.0.0.0 uakino-lu.com
 0.0.0.0 uakinogo.art
+0.0.0.0 uakinogo.best
 0.0.0.0 uakinogo.co
 0.0.0.0 uakinogo.com
 0.0.0.0 uakinogo.day
@@ -11746,6 +11757,7 @@
 0.0.0.0 wiflix.pw
 0.0.0.0 wiflix.voto
 0.0.0.0 wild-bytes.org
+0.0.0.0 tracker.wildkat.net
 0.0.0.0 wilmaa.com
 0.0.0.0 wilothepilo.xyz
 0.0.0.0 win-pro.net
@@ -11974,6 +11986,7 @@
 0.0.0.0 yabancidizi.now
 0.0.0.0 yabse.com
 0.0.0.0 yalla-shoot.fun
+0.0.0.0 yalla-shoot.mov
 0.0.0.0 yalla-shoot-mobasher.com
 0.0.0.0 yalla-shootv.live
 0.0.0.0 yalla-shootx.org
@@ -12090,6 +12103,7 @@
 0.0.0.0 yourserie.com
 0.0.0.0 yoursports.stream
 0.0.0.0 youserials.com
+0.0.0.0 youthincinema.com
 0.0.0.0 youtorrent.com
 0.0.0.0 youwatch.org
 0.0.0.0 yowaapp.com

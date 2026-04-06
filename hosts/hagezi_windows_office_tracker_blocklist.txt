@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.91
-! Last modified: 2026-03-29T06:33:59.847Z
+! Version: 1.0.0.93
+! Last modified: 2026-04-05T06:35:27.587Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -14,6 +14,7 @@
 0.0.0.0 js1.tst.applicationinsights.io
 0.0.0.0 js2.tst.applicationinsights.io
 0.0.0.0 applicationinsights.azure.com
+0.0.0.0 api.applicationinsights.azure.cn
 0.0.0.0 dc.applicationinsights.azure.cn
 0.0.0.0 dc.applicationinsights.azure.us
 0.0.0.0 in.applicationinsights.azure.cn
@@ -146,6 +147,7 @@
 0.0.0.0 watson.live.com
 0.0.0.0 ads.microsoft.com
 0.0.0.0 adsdk.microsoft.com
+0.0.0.0 www.adsinapps.microsoft.com
 0.0.0.0 advertising.microsoft.com
 0.0.0.0 analyticspixel.microsoft.com
 0.0.0.0 applicationinsights.microsoft.com
@@ -172,6 +174,7 @@
 0.0.0.0 msadsscale.microsoft.com
 0.0.0.0 oca.microsoft.com
 0.0.0.0 watson.officeint.microsoft.com
+0.0.0.0 rad.microsoft.com
 0.0.0.0 telem-edge.smartscreen.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 spynet2.microsoft.com
@@ -219,6 +222,10 @@
 0.0.0.0 ad.msn.com
 0.0.0.0 adevents.msn.com
 0.0.0.0 ads.msn.com
+0.0.0.0 www.a.ads1.msn.com
+0.0.0.0 www.b.ads1.msn.com
+0.0.0.0 www.ads1.msn.com
+0.0.0.0 www.a.ads2.msn.com
 0.0.0.0 metric.appex-rf.msn.com
 0.0.0.0 c.ar.msn.com
 0.0.0.0 arc.msn.com
@@ -226,6 +233,7 @@
 0.0.0.0 arc1.msn.com
 0.0.0.0 arc2.msn.com
 0.0.0.0 arc3.msn.com
+0.0.0.0 arc5.msn.com
 0.0.0.0 arc9.msn.com
 0.0.0.0 c.at.msn.com
 0.0.0.0 c.be.msn.com

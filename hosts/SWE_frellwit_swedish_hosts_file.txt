@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.46
-! Last modified: 2026-03-29T06:34:01.465Z
+! Version: 1.0.15.48
+! Last modified: 2026-04-05T06:35:28.335Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -408,7 +408,6 @@
 0.0.0.0 digitalfeedback.euro.confirmit.com
 0.0.0.0 digitaliseringsinitiativet.se
 0.0.0.0 dinapengar.compricer.se
-0.0.0.0 dinbilgaranti.se
 0.0.0.0 dl.episerver.net
 0.0.0.0 dmcdn.yieldbird.com
 0.0.0.0 dmp.adform.net
@@ -466,7 +465,6 @@
 0.0.0.0 flx1.com
 0.0.0.0 fml-x.com
 0.0.0.0 fms.360yield.com
-0.0.0.0 footjoygolfskorrea.com.se
 0.0.0.0 fpnpmcdn.net
 0.0.0.0 fraagesport.com
 0.0.0.0 franecki.net
@@ -933,7 +931,6 @@
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.gamedock.io
 0.0.0.0 tracker.metricool.com
-0.0.0.0 tracker.zummycloud.com
 0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 tracker.kollega.open-analytics.se
 0.0.0.0 tracker.kulturradet.open-analytics.se

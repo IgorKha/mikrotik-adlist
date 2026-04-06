@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.27
-! Last modified: 2026-03-29T06:33:59.437Z
+! Version: 1.0.15.29
+! Last modified: 2026-04-05T06:35:27.350Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -194,6 +194,7 @@
 0.0.0.0 christiandisableddating.com
 0.0.0.0 christianlifestyle.com
 0.0.0.0 christianmingle.com
+0.0.0.0 citassenioronline.es
 0.0.0.0 clickandflirt.com
 0.0.0.0 clubeamizade.com
 0.0.0.0 clubedamizade.com

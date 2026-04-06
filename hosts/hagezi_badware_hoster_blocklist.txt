@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.19.35
-! Last modified: 2026-03-29T06:34:16.307Z
+! Version: 1.0.19.43
+! Last modified: 2026-04-05T06:35:40.594Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -20,6 +20,7 @@
 0.0.0.0 0hna.com
 0.0.0.0 one4u.0lx.net
 0.0.0.0 0pe.kr
+0.0.0.0 0pi.com
 0.0.0.0 1.vg
 0.0.0.0 10001mb.com
 0.0.0.0 100freemb.com
@@ -47,6 +48,7 @@
 0.0.0.0 1freewebspace.com
 0.0.0.0 1hwy.com
 0.0.0.0 1shop.de
+0.0.0.0 1sthost.org
 0.0.0.0 1sweethost.com
 0.0.0.0 1tt.net
 0.0.0.0 1w3.de
@@ -148,7 +150,6 @@
 0.0.0.0 all.lc
 0.0.0.0 allemal.de
 0.0.0.0 als-geschenk.de
-0.0.0.0 altervista.org
 0.0.0.0 am-geilsten.de
 0.0.0.0 am-strand.de
 0.0.0.0 amarillozoo.com
@@ -204,7 +205,6 @@
 0.0.0.0 biz.ly
 0.0.0.0 biz.ps
 0.0.0.0 biz.tc
-0.0.0.0 biz.uz
 0.0.0.0 bizhat.com
 0.0.0.0 blackapplehost.com
 0.0.0.0 blackblogs.org
@@ -215,6 +215,7 @@
 0.0.0.0 blog.lc
 0.0.0.0 blog.ru
 0.0.0.0 blog-online.eu
+0.0.0.0 blog5.net
 0.0.0.0 blogcu.com
 0.0.0.0 blogcudinti.com
 0.0.0.0 blogg.de
@@ -238,7 +239,6 @@
 0.0.0.0 blogspot.ch
 0.0.0.0 blogspot.cl
 0.0.0.0 blogspot.co
-0.0.0.0 blogspot.com
 0.0.0.0 blogspot.cz
 0.0.0.0 blogspot.de
 0.0.0.0 blogspot.dk
@@ -279,10 +279,9 @@
 0.0.0.0 blogzet.com
 0.0.0.0 bo.gp
 0.0.0.0 bookmark.com
+0.0.0.0 booru.org
 0.0.0.0 boxmail.biz
 0.0.0.0 boxmode.io
-0.0.0.0 bplaced.de
-0.0.0.0 bplaced.net
 0.0.0.0 br.gp
 0.0.0.0 bravehost.com
 0.0.0.0 bravenet.com
@@ -324,13 +323,12 @@
 0.0.0.0 ca.gp
 0.0.0.0 cabanova.com
 0.0.0.0 canalblog.com
-0.0.0.0 canva.site
-0.0.0.0 carrd.co
 0.0.0.0 cba.pl
 0.0.0.0 cbkgardens.com
+0.0.0.0 ccname.org
+0.0.0.0 cdnfree.org
 0.0.0.0 cellnovis.com
 0.0.0.0 center.tl
-0.0.0.0 cfolks.pl
 0.0.0.0 ch.gp
 0.0.0.0 ch.kg
 0.0.0.0 ch.st
@@ -358,9 +356,7 @@
 0.0.0.0 club-area.de
 0.0.0.0 clumsy.de
 0.0.0.0 cn.gp
-0.0.0.0 co.de
 0.0.0.0 co.gp
-0.0.0.0 co.nu
 0.0.0.0 24.co.at
 0.0.0.0 all.co.uk
 0.0.0.0 atspace.co.uk
@@ -413,12 +409,13 @@
 0.0.0.0 cool.lc
 0.0.0.0 coolpage.biz
 0.0.0.0 corolain.ru
-0.0.0.0 cprapid.com
+0.0.0.0 128-199-7-137.cprapid.com
+0.0.0.0 208-115-225-138.cprapid.com
+0.0.0.0 3-89-181-9.cprapid.com
 0.0.0.0 sitebeat.crazydomains.com
 0.0.0.0 creatorlink.net
 0.0.0.0 cryptonight.net
 0.0.0.0 cs-clan.org
-0.0.0.0 csb.app
 0.0.0.0 ct8.pl
 0.0.0.0 ctempurl.com
 0.0.0.0 cyberbree.com
@@ -460,7 +457,6 @@
 0.0.0.0 download.sh
 0.0.0.0 downloaden24.de
 0.0.0.0 dox4.com
-0.0.0.0 dpdns.org
 0.0.0.0 dr.ag
 0.0.0.0 dreamstation.com
 0.0.0.0 dreht-auf.de
@@ -477,7 +473,6 @@
 0.0.0.0 ecardalert.com
 0.0.0.0 ecomplanet.com
 0.0.0.0 ecrater.com
-0.0.0.0 editorx.io
 0.0.0.0 edoctransfer.com
 0.0.0.0 edu.eu
 0.0.0.0 edublogs.org
@@ -519,7 +514,6 @@
 0.0.0.0 event-redeem.com
 0.0.0.0 events-games.com
 0.0.0.0 evenweb.com
-0.0.0.0 ewp.live
 0.0.0.0 exactpages.com
 0.0.0.0 ez-sites.ws
 0.0.0.0 ezblogz.com
@@ -528,6 +522,7 @@
 0.0.0.0 familylobby.com
 0.0.0.0 fast-page.org
 0.0.0.0 fat-fly.com
+0.0.0.0 fateback.com
 0.0.0.0 fb-business.com
 0.0.0.0 fcpages.com
 0.0.0.0 ferreracademy.com
@@ -556,7 +551,6 @@
 0.0.0.0 fotos.lc
 0.0.0.0 fr.gp
 0.0.0.0 fr.nf
-0.0.0.0 framer.website
 0.0.0.0 free.bg
 0.0.0.0 free.cr
 0.0.0.0 free.lc
@@ -633,8 +627,6 @@
 0.0.0.0 hase.in
 0.0.0.0 hashnode.dev
 0.0.0.0 healthyemployee.me
-0.0.0.0 helioho.st
-0.0.0.0 heliohost.us
 0.0.0.0 hexe.in
 0.0.0.0 hilfe24h.de
 0.0.0.0 hinerava.com
@@ -762,7 +754,6 @@
 0.0.0.0 liebe.lc
 0.0.0.0 like-blogs.com
 0.0.0.0 likesyou.org
-0.0.0.0 lima-city.de
 0.0.0.0 links.lc
 0.0.0.0 list-mgmt.com
 0.0.0.0 live-stream.eu
@@ -772,7 +763,6 @@
 0.0.0.0 liveplan.club
 0.0.0.0 logdown.com
 0.0.0.0 look.in
-0.0.0.0 lovable.app
 0.0.0.0 loveslife.biz
 0.0.0.0 lovestoblog.com
 0.0.0.0 loxblog.com
@@ -841,6 +831,7 @@
 0.0.0.0 nazuka.net
 0.0.0.0 neocities.org
 0.0.0.0 netai.net
+0.0.0.0 netfast.org
 0.0.0.0 nethouse.ru
 0.0.0.0 netten.ru
 0.0.0.0 netz.tl
@@ -885,7 +876,6 @@
 0.0.0.0 page-suspension.net
 0.0.0.0 page4.me
 0.0.0.0 pages10.com
-0.0.0.0 pagexl.com
 0.0.0.0 pancake.run
 0.0.0.0 parknhost.com
 0.0.0.0 party.lc
@@ -910,13 +900,11 @@
 0.0.0.0 pl.gp
 0.0.0.0 pl-oferta-id2387942371.top
 0.0.0.0 planet.tl
-0.0.0.0 plesk.page
 0.0.0.0 pnsiayfas.net
 0.0.0.0 podia.com
 0.0.0.0 populr.me
 0.0.0.0 portal.lc
 0.0.0.0 postbit.com
-0.0.0.0 pp.ua
 0.0.0.0 pressname.club
 0.0.0.0 preview-domain.com
 0.0.0.0 primetap.com
@@ -937,9 +925,7 @@
 0.0.0.0 ql4h.net
 0.0.0.0 qu.am
 0.0.0.0 quiztionnaire.uk
-0.0.0.0 qzz.io
 0.0.0.0 r.gp
-0.0.0.0 r2.dev
 0.0.0.0 radiola.club
 0.0.0.0 re2.de
 0.0.0.0 reco.ws
@@ -956,7 +942,6 @@
 0.0.0.0 rumahweb.org
 0.0.0.0 runhosting.com
 0.0.0.0 s.gp
-0.0.0.0 sa.com
 0.0.0.0 sa.gp
 0.0.0.0 schmust.de
 0.0.0.0 schoolrack.com
@@ -990,7 +975,6 @@
 0.0.0.0 shopping.cr
 0.0.0.0 shopping.hn
 0.0.0.0 simdif.com
-0.0.0.0 simplesite.com
 0.0.0.0 site.pro
 0.0.0.0 site123.me
 0.0.0.0 site90.net
@@ -1013,7 +997,6 @@
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
 0.0.0.0 spruz.com
-0.0.0.0 square7.ch
 0.0.0.0 srv1.org
 0.0.0.0 start.lc
 0.0.0.0 sth.nz
@@ -1038,6 +1021,7 @@
 0.0.0.0 teamzonesports.com
 0.0.0.0 tehno-politen.ru
 0.0.0.0 teleporthq.app
+0.0.0.0 telrock.org
 0.0.0.0 tempisite.com
 0.0.0.0 temporary.site
 0.0.0.0 temporary-demo.site
@@ -1067,10 +1051,8 @@
 0.0.0.0 tripod.com
 0.0.0.0 turbo.site
 0.0.0.0 turkish.lc
-0.0.0.0 tuxfamily.org
 0.0.0.0 tw.gp
 0.0.0.0 tw1.ru
-0.0.0.0 typedream.app
 0.0.0.0 u.gp
 0.0.0.0 ua.gp
 0.0.0.0 ubpages.com
@@ -1097,7 +1079,6 @@
 0.0.0.0 uphero.com
 0.0.0.0 uploader.eu
 0.0.0.0 urlaub.lc
-0.0.0.0 us.kg
 0.0.0.0 us.nf
 0.0.0.0 us.st
 0.0.0.0 usa.gg
@@ -1109,7 +1090,6 @@
 0.0.0.0 uzblog.net
 0.0.0.0 v.gp
 0.0.0.0 v0r.org
-0.0.0.0 val.run
 0.0.0.0 vastserve.com
 0.0.0.0 ve.gp
 0.0.0.0 verifypass.pw
@@ -1142,11 +1122,9 @@
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webaccess-email.com
 0.0.0.0 webador.com
-0.0.0.0 webadorsite.com
 0.0.0.0 webatu.com
 0.0.0.0 webblog24.de
 0.0.0.0 webcindario.com
-0.0.0.0 webflow.io
 0.0.0.0 webgarden.com
 0.0.0.0 weblium.site
 0.0.0.0 webng.com
@@ -1163,12 +1141,14 @@
 0.0.0.0 webnode.fr
 0.0.0.0 webnode.gr
 0.0.0.0 webnode.it
+0.0.0.0 webnode.jp
 0.0.0.0 webnode.mx
 0.0.0.0 webnode.nl
 0.0.0.0 webnode.page
 0.0.0.0 webnode.pt
 0.0.0.0 webnode.ro
 0.0.0.0 webnode.ru
+0.0.0.0 webnode.se
 0.0.0.0 webnode.sk
 0.0.0.0 webnode.tw
 0.0.0.0 webnode.vn
@@ -1190,9 +1170,6 @@
 0.0.0.0 welt.tl
 0.0.0.0 wiki.lc
 0.0.0.0 will-dich.eu
-0.0.0.0 wixsite.com
-0.0.0.0 wixstudio.com
-0.0.0.0 wixstudio.io
 0.0.0.0 workplan.club
 0.0.0.0 world.mu
 0.0.0.0 world-blog.de
@@ -1218,7 +1195,6 @@
 0.0.0.0 xsph.ru
 0.0.0.0 xtgem.com
 0.0.0.0 xtreemhost.com
-0.0.0.0 xx.kg
 0.0.0.0 xx.lc
 0.0.0.0 xxl.lc
 0.0.0.0 xxxxxxxx.jp
@@ -1229,7 +1205,6 @@
 0.0.0.0 yi.org
 0.0.0.0 yj.ae
 0.0.0.0 yola.com
-0.0.0.0 yolasite.com
 0.0.0.0 yooco.org
 0.0.0.0 you.lc
 0.0.0.0 yourbar.club
@@ -1238,9 +1213,9 @@
 0.0.0.0 yourjavascript.com
 0.0.0.0 yuichi.shop
 0.0.0.0 z.gp
-0.0.0.0 za.com
 0.0.0.0 za.gp
-0.0.0.0 za.net
+0.0.0.0 awi.za.com
+0.0.0.0 ishg.za.com
 0.0.0.0 zohosites.com
 0.0.0.0 zoomshare.com
 0.0.0.0 zustimmen.de
