@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.19.43
-! Last modified: 2026-04-05T06:35:40.594Z
+! Version: 1.0.19.53
+! Last modified: 2026-04-12T06:42:45.765Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -142,10 +142,9 @@
 0.0.0.0 ac6.de
 0.0.0.0 admarketlocation.com
 0.0.0.0 aeza.network
-0.0.0.0 africafull.top
 0.0.0.0 ag.gp
+0.0.0.0 ag0rcgwjv5.com
 0.0.0.0 ahlamountada.com
-0.0.0.0 airground.club
 0.0.0.0 al6.de
 0.0.0.0 all.lc
 0.0.0.0 allemal.de
@@ -161,7 +160,6 @@
 0.0.0.0 anschauen.in
 0.0.0.0 anschiessen.de
 0.0.0.0 ar.gp
-0.0.0.0 arabinn.club
 0.0.0.0 arcadepages.com
 0.0.0.0 arrangiert.de
 0.0.0.0 artsold.top
@@ -187,7 +185,6 @@
 0.0.0.0 bakoweb.com
 0.0.0.0 ballern.de
 0.0.0.0 bandungberita.com
-0.0.0.0 banksurvey.biz
 0.0.0.0 bappy.com
 0.0.0.0 batcave.net
 0.0.0.0 bcz.com
@@ -209,7 +206,6 @@
 0.0.0.0 blackapplehost.com
 0.0.0.0 blackblogs.org
 0.0.0.0 blinkweb.com
-0.0.0.0 blo.gg
 0.0.0.0 blog.com
 0.0.0.0 blog.hr
 0.0.0.0 blog.lc
@@ -227,6 +223,7 @@
 0.0.0.0 blogia.com
 0.0.0.0 blogmaster.net
 0.0.0.0 blogmonster.de
+0.0.0.0 blogrip.com
 0.0.0.0 blogsky.com
 0.0.0.0 blogspot.ae
 0.0.0.0 blogspot.al
@@ -288,6 +285,7 @@
 0.0.0.0 bravepages.com
 0.0.0.0 bravesites.com
 0.0.0.0 brizy.site
+0.0.0.0 bugs3.com
 0.0.0.0 builderall.net
 0.0.0.0 builtfree.org
 0.0.0.0 business.site
@@ -336,10 +334,8 @@
 0.0.0.0 chamberecommerce.com
 0.0.0.0 chat.dj
 0.0.0.0 chat3.de
-0.0.0.0 chatpc.club
 0.0.0.0 chez.com
 0.0.0.0 city.tl
-0.0.0.0 cityhotel.club
 0.0.0.0 cixx6.com
 0.0.0.0 ciy.de
 0.0.0.0 cl.gp
@@ -428,7 +424,6 @@
 0.0.0.0 da.ru
 0.0.0.0 daftpage.com
 0.0.0.0 datesize.top
-0.0.0.0 datingpm.club
 0.0.0.0 dax.ru
 0.0.0.0 ddl2.pl
 0.0.0.0 de.cm
@@ -447,7 +442,6 @@
 0.0.0.0 dimsolo.com
 0.0.0.0 dinamikajambi.com
 0.0.0.0 dnip.net
-0.0.0.0 doctorfew.top
 0.0.0.0 domain.lc
 0.0.0.0 members.domaindlx.com
 0.0.0.0 doodlekit.com
@@ -486,7 +480,6 @@
 0.0.0.0 elementfx.com
 0.0.0.0 emyspot.com
 0.0.0.0 english.lc
-0.0.0.0 englishset.club
 0.0.0.0 entekpartners.com
 0.0.0.0 enterprisedeliveries.com
 0.0.0.0 envy.nu
@@ -519,6 +512,7 @@
 0.0.0.0 ezblogz.com
 0.0.0.0 ezyro.com
 0.0.0.0 f11.us
+0.0.0.0 facepl.com
 0.0.0.0 familylobby.com
 0.0.0.0 fast-page.org
 0.0.0.0 fat-fly.com
@@ -595,7 +589,6 @@
 0.0.0.0 fw.hu
 0.0.0.0 game.lc
 0.0.0.0 gaming.lc
-0.0.0.0 gamingadd.club
 0.0.0.0 gearhostpreview.com
 0.0.0.0 gerentebr.com
 0.0.0.0 getenjoyment.net
@@ -607,7 +600,6 @@
 0.0.0.0 glitch.me
 0.0.0.0 sp.gname.net
 0.0.0.0 godaddysites.com
-0.0.0.0 godfrance.club
 0.0.0.0 gofreeserve.com
 0.0.0.0 googletagmanagers.com
 0.0.0.0 gr.gp
@@ -631,7 +623,6 @@
 0.0.0.0 hilfe24h.de
 0.0.0.0 hinerava.com
 0.0.0.0 hkearth.xyz
-0.0.0.0 hklevel.club
 0.0.0.0 home.lc
 0.0.0.0 homemarker.com
 0.0.0.0 homepage.cx
@@ -642,6 +633,7 @@
 0.0.0.0 hostfree.pw
 0.0.0.0 hostingas.in
 0.0.0.0 hostingsiteforfree.com
+0.0.0.0 hostkda.com
 0.0.0.0 hostland.pro
 0.0.0.0 hostseba.com
 0.0.0.0 hot.lc
@@ -744,8 +736,8 @@
 0.0.0.0 kz.gp
 0.0.0.0 l.gp
 0.0.0.0 l4n.org
+0.0.0.0 l8n5kafm6l.net
 0.0.0.0 laden.biz
-0.0.0.0 laexchange.top
 0.0.0.0 land.to
 0.0.0.0 launchaco.com
 0.0.0.0 leaguelineup.com
@@ -760,7 +752,6 @@
 0.0.0.0 live2.de
 0.0.0.0 liveblog365.com
 0.0.0.0 livehost.fr
-0.0.0.0 liveplan.club
 0.0.0.0 logdown.com
 0.0.0.0 look.in
 0.0.0.0 loveslife.biz
@@ -792,7 +783,7 @@
 0.0.0.0 mobi.ps
 0.0.0.0 mobinteg.com
 0.0.0.0 mochahost.com
-0.0.0.0 moneylower.top
+0.0.0.0 moneyash.top
 0.0.0.0 mp3.cr
 0.0.0.0 mpeblog.com
 0.0.0.0 muf.mobi
@@ -880,14 +871,12 @@
 0.0.0.0 parknhost.com
 0.0.0.0 party.lc
 0.0.0.0 pc.lc
-0.0.0.0 pcbusiness.club
 0.0.0.0 pcriot.com
 0.0.0.0 pe.gp
 0.0.0.0 pe.hu
 0.0.0.0 perfektionieren.de
 0.0.0.0 perl.sh
 0.0.0.0 ph.gp
-0.0.0.0 phonecode.club
 0.0.0.0 photos.lc
 0.0.0.0 phpnet.org
 0.0.0.0 phpnet.us
@@ -905,7 +894,6 @@
 0.0.0.0 populr.me
 0.0.0.0 portal.lc
 0.0.0.0 postbit.com
-0.0.0.0 pressname.club
 0.0.0.0 preview-domain.com
 0.0.0.0 primetap.com
 0.0.0.0 privat.lc
@@ -926,11 +914,9 @@
 0.0.0.0 qu.am
 0.0.0.0 quiztionnaire.uk
 0.0.0.0 r.gp
-0.0.0.0 radiola.club
 0.0.0.0 re2.de
 0.0.0.0 reco.ws
 0.0.0.0 regruhosting.ru
-0.0.0.0 rentvalues.biz
 0.0.0.0 rf.gd
 0.0.0.0 ro.gp
 0.0.0.0 royal-host.com
@@ -990,10 +976,8 @@
 0.0.0.0 solidwebhost.com
 0.0.0.0 somee.com
 0.0.0.0 sophiashantidaniel.com
-0.0.0.0 soundtrue.club
 0.0.0.0 soup.io
 0.0.0.0 space.lc
-0.0.0.0 spaceplay.top
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
 0.0.0.0 spruz.com
@@ -1036,7 +1020,6 @@
 0.0.0.0 timeforchangecounselling.com
 0.0.0.0 tld.cc
 0.0.0.0 tmweb.ru
-0.0.0.0 tokyoca.top
 0.0.0.0 top.lc
 0.0.0.0 top.tc
 0.0.0.0 top8.com
@@ -1085,7 +1068,6 @@
 0.0.0.0 usafreespace.com
 0.0.0.0 usclargo.com
 0.0.0.0 user.lc
-0.0.0.0 ussource.club
 0.0.0.0 uz.gp
 0.0.0.0 uzblog.net
 0.0.0.0 v.gp
@@ -1170,7 +1152,6 @@
 0.0.0.0 welt.tl
 0.0.0.0 wiki.lc
 0.0.0.0 will-dich.eu
-0.0.0.0 workplan.club
 0.0.0.0 world.mu
 0.0.0.0 world-blog.de
 0.0.0.0 world-store.de
@@ -1207,7 +1188,6 @@
 0.0.0.0 yola.com
 0.0.0.0 yooco.org
 0.0.0.0 you.lc
-0.0.0.0 yourbar.club
 0.0.0.0 yourdomain.com
 0.0.0.0 yourfreehosting.net
 0.0.0.0 yourjavascript.com

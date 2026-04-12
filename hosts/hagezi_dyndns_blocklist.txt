@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.61
-! Last modified: 2026-04-05T06:35:40.524Z
+! Version: 1.0.16.65
+! Last modified: 2026-04-12T06:42:45.581Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0x.no
@@ -92,6 +92,7 @@
 0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
+0.0.0.0 awiki.org
 0.0.0.0 ax.lt
 0.0.0.0 b0tnet.com
 0.0.0.0 b33r.us
@@ -192,7 +193,6 @@
 0.0.0.0 cloudns.pro
 0.0.0.0 cloudwatch.net
 0.0.0.0 cloudxns.net
-0.0.0.0 cmirg.com
 0.0.0.0 cnstefancelmare.ro
 0.0.0.0 changeip.co.uk
 0.0.0.0 dynamicdns.co.uk
@@ -477,6 +477,7 @@
 0.0.0.0 eurotank.ro
 0.0.0.0 eva.hk
 0.0.0.0 everton.com
+0.0.0.0 evils.in
 0.0.0.0 expired-dns.com
 0.0.0.0 ez-dns.com
 0.0.0.0 ez-ip.net
@@ -509,6 +510,7 @@
 0.0.0.0 for-our.info
 0.0.0.0 for-some.biz
 0.0.0.0 for-the.biz
+0.0.0.0 foroemprende.com
 0.0.0.0 forss.to
 0.0.0.0 fortiddns.com
 0.0.0.0 forumz.info
@@ -1188,6 +1190,7 @@
 0.0.0.0 root64.de
 0.0.0.0 roth.ca
 0.0.0.0 route64.de
+0.0.0.0 rpz.su
 0.0.0.0 rtam.net
 0.0.0.0 rum.si
 0.0.0.0 run.place

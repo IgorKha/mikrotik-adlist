@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.33
-! Last modified: 2026-04-05T06:35:32.194Z
+! Version: 1.0.20.40
+! Last modified: 2026-04-12T06:42:35.521Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -28,7 +28,6 @@
 0.0.0.0 air-up-turkiye.com
 0.0.0.0 airteltower.com
 0.0.0.0 airtoff.com
-0.0.0.0 airup-nederland.com
 0.0.0.0 airup-romania.com
 0.0.0.0 airupbulgaria.com
 0.0.0.0 airupgreece.net
@@ -79,7 +78,6 @@
 0.0.0.0 bertasxt.com
 0.0.0.0 best-torrents.com
 0.0.0.0 bestvod.pl
-0.0.0.0 big-sale-warehouse.com
 0.0.0.0 billboardwring.com
 0.0.0.0 binom0-web.com
 0.0.0.0 binomo-brokers.com
@@ -107,6 +105,7 @@
 0.0.0.0 blackoutarchertender.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
+0.0.0.0 bmpro.tech
 0.0.0.0 bncentertainment.com
 0.0.0.0 bnidigital.com
 0.0.0.0 bolejug.us
@@ -148,11 +147,7 @@
 0.0.0.0 cipustar.com
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 cluckergifts.ecwid.com
-0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
-0.0.0.0 cnhajuda.co
-0.0.0.0 cnhnotificou.co
-0.0.0.0 cnhvirtual.co
 0.0.0.0 cofdeal.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coiincmi.com
@@ -235,6 +230,7 @@
 0.0.0.0 eslgrandscup.com
 0.0.0.0 estiloserena.com.br
 0.0.0.0 etaindia.org
+0.0.0.0 etaindiaonline.com
 0.0.0.0 etv-in.com
 0.0.0.0 eudoraz.com
 0.0.0.0 eudshop.shop
@@ -247,9 +243,7 @@
 0.0.0.0 evisaindia.org
 0.0.0.0 evisaindiaonline.org
 0.0.0.0 ex-torrenty.org
-0.0.0.0 exfresutexi.info
 0.0.0.0 expressmovers.com
-0.0.0.0 ezycases.com
 0.0.0.0 facebook-google-15oqyxwtkremqyujsm.vercel.app
 0.0.0.0 facebook-google-vptyyny63pwfipshmm.vercel.app
 0.0.0.0 facebook-google-ygggvmvciad74v9lhi.vercel.app
@@ -278,7 +272,6 @@
 0.0.0.0 fili-cc.tv
 0.0.0.0 filman-hd.cc
 0.0.0.0 filmersi.pl
-0.0.0.0 filmhit.pl
 0.0.0.0 filmhunt.pl
 0.0.0.0 filmo.agency
 0.0.0.0 filmobaza.pl
@@ -323,7 +316,6 @@
 0.0.0.0 gemlis.com
 0.0.0.0 genesis-mining.com
 0.0.0.0 get-kmspico.com
-0.0.0.0 getintopc.today
 0.0.0.0 getkmspico.com
 0.0.0.0 getwavemax.com
 0.0.0.0 giftyweb.com
@@ -350,6 +342,7 @@
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 hernoclothing.com
+0.0.0.0 heukmsactivator.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
@@ -423,7 +416,6 @@
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
-0.0.0.0 keenfootwearsale.com
 0.0.0.0 kesug.com
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 kingcampoutdoors.co.jp
@@ -433,7 +425,6 @@
 0.0.0.0 kisserine.com
 0.0.0.0 kitchendecor.shop
 0.0.0.0 klasykavod.pl
-0.0.0.0 klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-pc.com
 0.0.0.0 kms-tool.com
 0.0.0.0 kmsauto.info
@@ -463,7 +454,6 @@
 0.0.0.0 lisabuddy.com
 0.0.0.0 litcomplex.com
 0.0.0.0 liverepsae.adeftsolutions.com
-0.0.0.0 lojavariedadesvariedades.com
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
@@ -475,6 +465,7 @@
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
+0.0.0.0 makitfornows.com
 0.0.0.0 malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 maxdebrid.com
@@ -595,6 +586,7 @@
 0.0.0.0 nirvezal.com
 0.0.0.0 nobrerefino.com
 0.0.0.0 nofotballshop.com
+0.0.0.0 nonofy.com
 0.0.0.0 norfotball.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 nosdaarte.com
@@ -625,7 +617,6 @@
 0.0.0.0 onlyfanstake.pro
 0.0.0.0 onrunningshop.com
 0.0.0.0 ontario-energy.com
-0.0.0.0 orami.one
 0.0.0.0 orderquilt.com
 0.0.0.0 outel.abmarketworks.com
 0.0.0.0 outlet-alfresco.com
@@ -730,6 +721,7 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
 0.0.0.0 skinszone.net
+0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 smartokids.com
@@ -902,7 +894,6 @@
 0.0.0.0 wadahlapak.top
 0.0.0.0 wallpaperflare.com
 0.0.0.0 ware-bezahlt.info
-0.0.0.0 waronsol.top
 0.0.0.0 warriordecor.com
 0.0.0.0 watchmark.shop
 0.0.0.0 watchseniorfit.com

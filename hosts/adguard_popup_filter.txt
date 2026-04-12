@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.94
-! Last modified: 2026-04-05T06:35:19.792Z
+! Version: 1.0.17.96
+! Last modified: 2026-04-12T06:42:17.009Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 kjfmvnuri.click
 0.0.0.0 host69k.cfd
@@ -376,25 +376,20 @@
 0.0.0.0 exclkplat.com
 0.0.0.0 exclplatmain.com
 0.0.0.0 expdirclk.com
-0.0.0.0 extension-ad-stopper.com
 0.0.0.0 extsoft.info
 0.0.0.0 exxtended-access.com
 0.0.0.0 eyewondermedia.com
 0.0.0.0 fantabro.com
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
-0.0.0.0 fbpqvs.com
 0.0.0.0 finanvideos.com
 0.0.0.0 finder2024.com
-0.0.0.0 flowldsb.online
 0.0.0.0 flowldsf.online
 0.0.0.0 flyingadvert.com
 0.0.0.0 foerpo.com
 0.0.0.0 foflf.com
-0.0.0.0 forooqso.tv
 0.0.0.0 freetrckr.com
 0.0.0.0 frequentjam.com
-0.0.0.0 freshpops.net
 0.0.0.0 fstsrv9.com
 0.0.0.0 fuck-ads.vercel.app
 0.0.0.0 fuse-cloud.com
@@ -405,7 +400,6 @@
 0.0.0.0 gb1aff.com
 0.0.0.0 gemfowls.com
 0.0.0.0 gensonal.com
-0.0.0.0 gentwoleads.top
 0.0.0.0 get-gx.net
 0.0.0.0 getsthis.com
 0.0.0.0 gkrtmc.com
@@ -711,6 +705,7 @@
 0.0.0.0 shulugoo.net
 0.0.0.0 signamentswithd.com
 0.0.0.0 singledatetime.com
+0.0.0.0 sitepageflow.com
 0.0.0.0 skated.co
 0.0.0.0 skylindo.com
 0.0.0.0 slcuse.com
