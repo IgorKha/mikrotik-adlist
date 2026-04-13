@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.14.96
-! Last modified: 2026-04-05T06:35:28.114Z
+! Version: 1.0.15.1
+! Last modified: 2026-04-12T06:42:28.579Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0daib.pl
 0.0.0.0 0x01n2ptpuz3.com
@@ -124,6 +124,7 @@
 0.0.0.0 gasurvey.gemius.com
 0.0.0.0 gcontent.services.tvn.pl
 0.0.0.0 glaimtug.com
+0.0.0.0 glampress.pl
 0.0.0.0 googlesyndication.com
 0.0.0.0 goprediction.com
 0.0.0.0 gotowanie.pl.edrrak.com
@@ -161,6 +162,7 @@
 0.0.0.0 klrtspet.net
 0.0.0.0 konto.amronet.pl
 0.0.0.0 krakenfolio.com
+0.0.0.0 lapetitefreres.com
 0.0.0.0 lcx.pl
 0.0.0.0 leadexpert.pl
 0.0.0.0 legenhit.com
@@ -241,6 +243,7 @@
 0.0.0.0 serwer1566493.home.pl
 0.0.0.0 shift.oferty-kredytowe.pl
 0.0.0.0 shoplov.in
+0.0.0.0 showmediadaily.com
 0.0.0.0 shownewsdaily.com
 0.0.0.0 sign-doc.com
 0.0.0.0 skdailynews.com
@@ -321,6 +324,7 @@
 0.0.0.0 xinloc.com
 0.0.0.0 yearning-go.com
 0.0.0.0 ymetrica.com
+0.0.0.0 z-ostatniej-chwili.com.pl
 0.0.0.0 zaloz-netia.pl
 0.0.0.0 zapmeta.com.pl
 0.0.0.0 zas.mylead.global
@@ -328,3 +332,4 @@
 0.0.0.0 znicely.com
 0.0.0.0 zostofou.link
 0.0.0.0 zukxd6fkxqn.com
+0.0.0.0 mondeanimalinteressant.com

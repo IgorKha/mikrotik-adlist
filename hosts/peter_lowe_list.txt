@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.16.87
-! Last modified: 2026-04-05T06:35:14.688Z
+! Version: 1.0.16.92
+! Last modified: 2026-04-12T06:42:10.209Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -76,6 +76,7 @@
 0.0.0.0 actuallysnake.com
 0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
+0.0.0.0 acustomizedgift.com
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-cupid.com
@@ -123,6 +124,7 @@
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mg
+0.0.0.0 ad.missena.io
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.mynetreklam.com.streamprovider.net
@@ -342,7 +344,6 @@
 0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
-0.0.0.0 ads.alive.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -397,7 +398,6 @@
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.elcarado.com
 0.0.0.0 ads.electrocelt.com
-0.0.0.0 ads.elitetrader.com
 0.0.0.0 ads.emdee.ca
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.epi.sk
@@ -776,6 +776,7 @@
 0.0.0.0 adverticum.net
 0.0.0.0 advertipros.com
 0.0.0.0 advertise.com
+0.0.0.0 advertiseireland.com
 0.0.0.0 advertiserurl.com
 0.0.0.0 advertising.com
 0.0.0.0 advertisingbanners.com
@@ -854,6 +855,7 @@
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 americash.com
+0.0.0.0 amidsttruly.com
 0.0.0.0 amung.us
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.adpost.org
@@ -1259,7 +1261,6 @@
 0.0.0.0 click.uber.com
 0.0.0.0 click.v.visionlab.es
 0.0.0.0 click2freemoney.com
-0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 click4.pro
 0.0.0.0 clickadddilla.com
 0.0.0.0 clickadz.com
@@ -1436,7 +1437,6 @@
 0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
 0.0.0.0 dapper.net
-0.0.0.0 data.namesakeoscilloscopemarquis.com
 0.0.0.0 datapickles.com
 0.0.0.0 datenow.link
 0.0.0.0 daybreaklights.com
@@ -1764,6 +1764,7 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 goqon.com
 0.0.0.0 gostats.com
 0.0.0.0 gothamads.com
 0.0.0.0 gotoyahoo.com
@@ -2194,8 +2195,6 @@
 0.0.0.0 mediatext.com
 0.0.0.0 mediavine.com
 0.0.0.0 mediavoice.com
-0.0.0.0 mediax.angloinfo.com
-0.0.0.0 mediaz.angloinfo.com
 0.0.0.0 medleyads.com
 0.0.0.0 medyanetads.com
 0.0.0.0 meetrics.net
@@ -2306,6 +2305,7 @@
 0.0.0.0 mytop-in.net
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
+0.0.0.0 nakedly.ai
 0.0.0.0 nappyattack.com
 0.0.0.0 nappyneck.com
 0.0.0.0 nastydollars.com
@@ -2726,6 +2726,7 @@
 0.0.0.0 responsiveads.com
 0.0.0.0 restrainstorm.com
 0.0.0.0 retargeter.com
+0.0.0.0 rev.iq
 0.0.0.0 revcatch.com
 0.0.0.0 revcontent.com
 0.0.0.0 reveal.clearbit.com
@@ -2766,6 +2767,7 @@
 0.0.0.0 rqtrk.eu
 0.0.0.0 rs6.net
 0.0.0.0 rsc-ads.vidaahub.com
+0.0.0.0 rsc-mntz.vidaahub.com
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtbadzesto.com
@@ -3164,7 +3166,6 @@
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 toolforthought.com
-0.0.0.0 top-casting-termine.de
 0.0.0.0 top-site-list.com
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
@@ -3482,13 +3483,13 @@
 0.0.0.0 yepads.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
+0.0.0.0 yg5sjx5kzy.com
 0.0.0.0 yieldads.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldoptimizer.com
 0.0.0.0 yieldtraffic.com
-0.0.0.0 yldbt.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 yoads.net
 0.0.0.0 yoggrt.com

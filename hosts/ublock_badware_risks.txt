@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.21.48
-! Last modified: 2026-04-05T06:35:40.239Z
+! Version: 1.0.21.57
+! Last modified: 2026-04-12T06:42:45.052Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -334,9 +334,7 @@
 0.0.0.0 projecthygieia.com
 0.0.0.0 fusionhacks.cc
 0.0.0.0 mysoft.rest
-0.0.0.0 lunexmods.cc
-0.0.0.0 lunexmods.io
-0.0.0.0 soft-hub.site
+0.0.0.0 iridia.me
 0.0.0.0 atnpx.com
 0.0.0.0 webpushcloud.top
 0.0.0.0 workerz1.com
@@ -514,6 +512,7 @@
 0.0.0.0 ads.twitter.center
 0.0.0.0 divibase.xyz
 0.0.0.0 kensatsu.top
+0.0.0.0 lincolnforestlakeproject.com
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -2101,6 +2100,7 @@
 0.0.0.0 appeal-account-copyright-case-review.
 0.0.0.0 community-flagged-
 0.0.0.0 help-for-work-*.pages.dev
+0.0.0.0 marketplace-item-details-*.zya.me
 0.0.0.0 info-meta-noreply.com
 0.0.0.0 business-help-temp-
 0.0.0.0 royal-glade-286f.kdsj.workers.dev
@@ -2519,6 +2519,7 @@
 0.0.0.0 kexornero.co.in
 0.0.0.0 vironexta.com
 0.0.0.0 fusionchainedge.com
+0.0.0.0 jartibbinght.com
 0.0.0.0 maxsecurityultimate.com
 0.0.0.0 hotdebrid.com
 0.0.0.0 maxdebrid.com
@@ -3097,17 +3098,69 @@
 0.0.0.0 pc-sogou.com.cn
 0.0.0.0 sogoushurf.com
 0.0.0.0 chrome-hl.hl.cn
+0.0.0.0 qeeyou.cn
+0.0.0.0 googgle-chrrome.hl.cn
+0.0.0.0 bangyoul.cn
+0.0.0.0 laiwujiaoyu.com
+0.0.0.0 leigodnn.com
+0.0.0.0 leigod.net
+0.0.0.0 leigodco.com
+0.0.0.0 google-ch-chrome.com.cn
+0.0.0.0 of-tencent.com
+0.0.0.0 meeting-tencent.org
+0.0.0.0 zh-tenxun.com
+0.0.0.0 apps-tencent.com
+0.0.0.0 qishuiie.com
+0.0.0.0 qishuiit.com
+0.0.0.0 qishui-yinle.hl.cn
 0.0.0.0 ggooglle-chrrome.com.cn
 0.0.0.0 cnzh-google-apps.hl.cn
+0.0.0.0 google-zhcn-chrome.com.cn
+0.0.0.0 apps-chrome-zh.hl.cn
 0.0.0.0 zh-googlle-chrome.hl.cn
+0.0.0.0 todeskapp.com
+0.0.0.0 todesk-zh.hl.cn
+0.0.0.0 todesk.ac.cn
+0.0.0.0 todesk.im
+0.0.0.0 youku.earth
+0.0.0.0 youkuhonor.com
+0.0.0.0 youku.tv
+0.0.0.0 www-office-wps.com.cn
+0.0.0.0 offiio-wps.com.cn
+0.0.0.0 wps.ac.cn
+0.0.0.0 cn-wps-zh.com.cn
+0.0.0.0 tuba.toolg.cn
+0.0.0.0 m-i4.cn
+0.0.0.0 aisi-i4.com
+0.0.0.0 aisi.nx.cn
+0.0.0.0 zsi4.com
+0.0.0.0 aisipc.net
+0.0.0.0 as-i4.com.cn
+0.0.0.0 office-wps-hl.hl.cn
+0.0.0.0 todeskappa.com.cn
+0.0.0.0 apd-todesk.com.cn
 0.0.0.0 360cncn.com
+0.0.0.0 qishui.team
 0.0.0.0 wps-cnzh.com
+0.0.0.0 dlworker.top
 0.0.0.0 360edge.cn
 0.0.0.0 app-google-zh.hl.cn
 0.0.0.0 zhcn-googele.hl.cn
+0.0.0.0 qishuui.com.cn
+0.0.0.0 ms.kuugo.cc
 0.0.0.0 baiduwangpan.cc
 0.0.0.0 chrome-gooogle-zh.hl.cn
+0.0.0.0 apps-google-hl.hl.cn
 0.0.0.0 google-chrrome-zh.hl.cn
 0.0.0.0 testio.ecartdev.com
 0.0.0.0 applot-jp.com
 0.0.0.0 orcanmedikal.com.tr
+0.0.0.0 telega.info
+0.0.0.0 telega.me
+0.0.0.0 life-certain.jp
+0.0.0.0 kyrelune.net
+0.0.0.0 roll-tooth.com
+0.0.0.0 vultenok.net
+0.0.0.0 zalenith.com
+0.0.0.0 prasquinor.jp
+0.0.0.0 cleanguard.tech
