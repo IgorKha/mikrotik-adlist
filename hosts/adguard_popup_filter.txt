@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.96
-! Last modified: 2026-04-12T06:42:17.009Z
+! Version: 1.0.17.99
+! Last modified: 2026-04-19T06:44:53.829Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 go.gsrv.dev
 0.0.0.0 kjfmvnuri.click
 0.0.0.0 host69k.cfd
 0.0.0.0 druggedrat.com
@@ -429,7 +430,6 @@
 0.0.0.0 highcpmgate.com
 0.0.0.0 hiiona.com
 0.0.0.0 hnrgmc.com
-0.0.0.0 hoadaphagoar.net
 0.0.0.0 hoglinsu.com
 0.0.0.0 hoktrips.com
 0.0.0.0 holdhostel.space
@@ -443,7 +443,6 @@
 0.0.0.0 icetechus.com
 0.0.0.0 icubeswire.co
 0.0.0.0 imkirh.com
-0.0.0.0 improvebin.xyz
 0.0.0.0 inbrowserplay.com
 0.0.0.0 indlyment-stuador.com
 0.0.0.0 installupdate.online
@@ -461,14 +460,12 @@
 0.0.0.0 jiuwert.online
 0.0.0.0 js-check.com
 0.0.0.0 junkyadexchange.com
-0.0.0.0 junmediadclikrmdi.com
 0.0.0.0 jwalkin.com
 0.0.0.0 k3on.com
 0.0.0.0 kagonst.com
 0.0.0.0 kaminari.systems
 0.0.0.0 kbmljxm.com
 0.0.0.0 ker2clk.com
-0.0.0.0 koafaimoor.net
 0.0.0.0 kstrk.com
 0.0.0.0 ku42hjr2e.com
 0.0.0.0 lamplynx.com
@@ -482,19 +479,14 @@
 0.0.0.0 linksprf.com
 0.0.0.0 litteracywing.pro
 0.0.0.0 livespacelivekeyrealclub.com
-0.0.0.0 lmdfmd.com
 0.0.0.0 loaditfile.com
 0.0.0.0 loadtime.org
-0.0.0.0 loazuptaice.net
 0.0.0.0 locooler-ageneral.com
 0.0.0.0 lovemiingle.life
-0.0.0.0 luxq8.com
 0.0.0.0 lwnbts.com
-0.0.0.0 lxkzcss.xyz
 0.0.0.0 lylufhuxqwi.com
 0.0.0.0 madeupice.com
 0.0.0.0 madurird.com
-0.0.0.0 magazinenews1.xyz
 0.0.0.0 magsrv.com
 0.0.0.0 mainadcenter.com
 0.0.0.0 mainexclkdir.com
@@ -505,7 +497,6 @@
 0.0.0.0 masterreviews.org
 0.0.0.0 maxconvtrk.com
 0.0.0.0 maxickedpantents.com
-0.0.0.0 maxidefender.xyz
 0.0.0.0 maxidownload.com
 0.0.0.0 mazefoam.com
 0.0.0.0 mbcm2.com
@@ -521,7 +512,6 @@
 0.0.0.0 mediahell.world
 0.0.0.0 meetflirtmatch.com
 0.0.0.0 meetwebclub.com
-0.0.0.0 menews.org
 0.0.0.0 metabatted.com
 0.0.0.0 metatrckpixel.com
 0.0.0.0 mettend-hamous.xyz

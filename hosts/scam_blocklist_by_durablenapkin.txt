@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.40
-! Last modified: 2026-04-12T06:42:35.521Z
+! Version: 1.0.20.48
+! Last modified: 2026-04-19T06:45:07.013Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -14,6 +14,7 @@
 0.0.0.0 4556.de
 0.0.0.0 47n78xprrvp1.top
 0.0.0.0 555sq.com.cn
+0.0.0.0 5gtower.in
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
@@ -46,7 +47,6 @@
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
 0.0.0.0 anacondanz.com
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -169,7 +169,6 @@
 0.0.0.0 cryptot.net
 0.0.0.0 customizerbox.com
 0.0.0.0 customurink.com
-0.0.0.0 cuteclub.org
 0.0.0.0 cutty.app
 0.0.0.0 cycle100percent.com
 0.0.0.0 czasnakino.pl
@@ -292,6 +291,7 @@
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fullview.pl
 0.0.0.0 fundanemt.org
@@ -316,6 +316,7 @@
 0.0.0.0 gemlis.com
 0.0.0.0 genesis-mining.com
 0.0.0.0 get-kmspico.com
+0.0.0.0 getintopc.today
 0.0.0.0 getkmspico.com
 0.0.0.0 getwavemax.com
 0.0.0.0 giftyweb.com
@@ -460,12 +461,10 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
-0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
-0.0.0.0 makitfornows.com
 0.0.0.0 malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 maxdebrid.com
@@ -505,7 +504,6 @@
 0.0.0.0 navi100.com
 0.0.0.0 navi11.com
 0.0.0.0 navi12.com
-0.0.0.0 navi14.com
 0.0.0.0 navi18.com
 0.0.0.0 navi2.com
 0.0.0.0 navi20.com
@@ -529,7 +527,7 @@
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
-0.0.0.0 navi43.com
+0.0.0.0 navi42.ru
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 navi5.com
@@ -553,6 +551,7 @@
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
 0.0.0.0 navi90.com
+0.0.0.0 navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 nayatowerinstallation.in.net
@@ -570,7 +569,6 @@
 0.0.0.0 nip1.com
 0.0.0.0 nip17.com
 0.0.0.0 nip2.com
-0.0.0.0 nip23.com
 0.0.0.0 nip24.com
 0.0.0.0 nip26.com
 0.0.0.0 nip28.com
@@ -657,11 +655,9 @@
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 primeleech.com
 0.0.0.0 primevod.pl
-0.0.0.0 printteestore.com
 0.0.0.0 promo-offer.com
 0.0.0.0 promoalfresco.com
 0.0.0.0 promotion40-form.com
-0.0.0.0 prpages.com
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 punchonsol.top
 0.0.0.0 qq51f.short.gy
@@ -721,7 +717,6 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
 0.0.0.0 skinszone.net
-0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 smartokids.com
@@ -752,7 +747,6 @@
 0.0.0.0 steampowered.cn.com
 0.0.0.0 steamunlock.com
 0.0.0.0 stellara.de
-0.0.0.0 stellasummer.com
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 storagestory.com
 0.0.0.0 store-aleteia.org
@@ -791,6 +785,7 @@
 0.0.0.0 the-north-face.gr
 0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
+0.0.0.0 themountainwarehouse.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 theonepercentcommunity.com
 0.0.0.0 theshirtyouneed.com
@@ -802,7 +797,6 @@
 0.0.0.0 tiranaaquapark-eg.com
 0.0.0.0 tlstoreonline.com
 0.0.0.0 toko999.net
-0.0.0.0 toko999.shop
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 touristvisaonline.com
 0.0.0.0 toweragency.in
@@ -816,6 +810,7 @@
 0.0.0.0 travisa.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 tripinpremiumsnacks.com
+0.0.0.0 trivo.uk
 0.0.0.0 trkucibqy.com
 0.0.0.0 tromselementbygg.no
 0.0.0.0 trusltwcllet.com

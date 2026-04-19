@@ -1,15 +1,15 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.17.27
-! Last modified: 2026-04-12T06:42:14.401Z
+! Version: 1.0.17.43
+! Last modified: 2026-04-19T06:44:51.847Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.17.27
+! Version: 1.0.17.43
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-10T23:17:06.281Z
+! Last modified: 2026-04-17T23:19:30.556Z
 !
-! Compiled by @adguard/hostlist-compiler v2.0.0
+! Compiled by @adguard/hostlist-compiler v2.1.0
 !
 0.0.0.0 ads234.com
 0.0.0.0 ads345.com
@@ -1354,6 +1354,7 @@
 0.0.0.0 alojamientocentroleon.es
 0.0.0.0 alphardgolf.fr
 0.0.0.0 alphlauren.fr
+0.0.0.0 alt-mk-sports.com
 0.0.0.0 alzy.fr
 0.0.0.0 amayaresorts.fr
 0.0.0.0 americankitchen.fr
@@ -1702,9 +1703,9 @@
 0.0.0.0 cures.ru.com
 0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
-0.0.0.0 cvbnff.s3.eu-central-003.backblazeb2.com
 0.0.0.0 cyberpanel.fr
 0.0.0.0 cyfe.fr
+0.0.0.0 czr.customzonereview.com
 0.0.0.0 d.phormlabs.com
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 dahenie.accsvc.cfd
@@ -1732,6 +1733,7 @@
 0.0.0.0 deposit-et-1interac.help
 0.0.0.0 depositphotos.fr
 0.0.0.0 depottool.bond
+0.0.0.0 desertdreamtour.com
 0.0.0.0 details-update.com
 0.0.0.0 devguardmap.org
 0.0.0.0 dewinci.fr
@@ -1831,7 +1833,6 @@
 0.0.0.0 expired-antiviruses.com
 0.0.0.0 extrashop.fr
 0.0.0.0 f-voyance.fr
-0.0.0.0 f003.backblazeb2.com
 0.0.0.0 f05098.privacy4browsers.com
 0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 fabhabitat.fr
@@ -2046,6 +2047,7 @@
 0.0.0.0 imagecenter.fr
 0.0.0.0 imago-tv.fr
 0.0.0.0 imotors.fr
+0.0.0.0 in-aoke.com
 0.0.0.0 inateck.fr
 0.0.0.0 incuirfes.beauty
 0.0.0.0 info-sectes.fr
@@ -2139,6 +2141,7 @@
 0.0.0.0 kweiqox.beauty
 0.0.0.0 l-histoire.fr
 0.0.0.0 l.wl.co
+0.0.0.0 l2.cuyouthmusic.com
 0.0.0.0 la1dwne9cn5c.com
 0.0.0.0 laatribune.fr
 0.0.0.0 labanquepoqtale.fr
@@ -2909,6 +2912,7 @@
 0.0.0.0 thesimsresource.fr
 0.0.0.0 thetorrentz.fr
 0.0.0.0 thickporter.sa.com
+0.0.0.0 thislocalhost.com
 0.0.0.0 thisone.online
 0.0.0.0 thomasmore.fr
 0.0.0.0 thunderbird.es
@@ -2939,6 +2943,7 @@
 0.0.0.0 trevia.za.com
 0.0.0.0 trifama.com
 0.0.0.0 trioadvisor.fr
+0.0.0.0 trk.arenachat.xyz
 0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trouveunfilm.fr
 0.0.0.0 trovi.com
@@ -2956,6 +2961,7 @@
 0.0.0.0 tx.micro.net.pk
 0.0.0.0 tx2returnhome.com
 0.0.0.0 typewriter.fr
+0.0.0.0 tyyvps.com
 0.0.0.0 tzmqyj.com
 0.0.0.0 u-pssud.fr
 0.0.0.0 ua-consumerpanel.frge.io
@@ -3065,6 +3071,7 @@
 0.0.0.0 westerdayeol.site
 0.0.0.0 wetter24.fr
 0.0.0.0 wewillrocknow.com
+0.0.0.0 wfflxx.com
 0.0.0.0 whiscas.fr
 0.0.0.0 whiteenamel.fr
 0.0.0.0 whqxzx.com
@@ -3115,6 +3122,7 @@
 0.0.0.0 www.allscrabble.com
 0.0.0.0 www.allstateproteectionplans.com
 0.0.0.0 www.allusermanual.com
+0.0.0.0 www.americanresortresolutions.com
 0.0.0.0 www.amintart.com
 0.0.0.0 www.amomales.com
 0.0.0.0 www.anatol.com
@@ -3140,6 +3148,7 @@
 0.0.0.0 www.barjacity.com
 0.0.0.0 www.basealloys.com
 0.0.0.0 www.baseequip.com
+0.0.0.0 www.bayareafyuerzk.com
 0.0.0.0 www.bazarusmassazha.com
 0.0.0.0 www.bbyjgkkdihiyxy.com
 0.0.0.0 www.bcwars.net
@@ -3147,14 +3156,18 @@
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bernoussiphone.com
 0.0.0.0 www.bestlabour.com
+0.0.0.0 www.bevisgame.com
 0.0.0.0 www.bicyclefan.com
 0.0.0.0 www.bigantstore.com
 0.0.0.0 www.bigpremiere.com
+0.0.0.0 www.blanknightsmfg.com
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
 0.0.0.0 www.blogmaking.com
+0.0.0.0 www.bluecollarparanormal.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
+0.0.0.0 www.bonuxsarrive.com
 0.0.0.0 www.bookstadium.com
 0.0.0.0 www.borocade.com
 0.0.0.0 www.brandsclothingco.com
@@ -3191,6 +3204,7 @@
 0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.chichomods.com
 0.0.0.0 www.chiefsale.com
+0.0.0.0 www.cidadelobito.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.cidersunjt.com
@@ -3213,6 +3227,7 @@
 0.0.0.0 www.commuteinfo.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.consultingbyelevate.com
+0.0.0.0 www.controlpop.com
 0.0.0.0 www.cookoven.com
 0.0.0.0 www.corlythra.uk
 0.0.0.0 www.cpatglobal.com
@@ -3234,11 +3249,13 @@
 0.0.0.0 www.desirymart.com
 0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
+0.0.0.0 www.dictadosonline.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.diffuselec.com
 0.0.0.0 www.digisubmission.com
 0.0.0.0 www.digitalcoachpro.name
 0.0.0.0 www.dkpmsa.cfd
+0.0.0.0 www.dlinktour.com
 0.0.0.0 www.dorminvaders.com
 0.0.0.0 www.drivegoals.com
 0.0.0.0 www.dualeotruyenno.com
@@ -3258,6 +3275,7 @@
 0.0.0.0 www.europelinen.com
 0.0.0.0 www.exactpharm.com
 0.0.0.0 www.exambased.com
+0.0.0.0 www.exceleratehelp.com
 0.0.0.0 www.expolearn.com
 0.0.0.0 www.exposhot.com
 0.0.0.0 www.expressmails.com
@@ -3345,6 +3363,7 @@
 0.0.0.0 www.hits-football.com
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
+0.0.0.0 www.hotpanic.net
 0.0.0.0 www.hoursales.com
 0.0.0.0 www.hugesector.com
 0.0.0.0 www.hunterspeed.com
@@ -3387,6 +3406,7 @@
 0.0.0.0 www.kittayaroyalbeauty.com
 0.0.0.0 www.kiwicares.com
 0.0.0.0 www.knowinteractive.com
+0.0.0.0 www.knoxmenus.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.kryzantor.uk
 0.0.0.0 www.lahoreautismcentre.com
@@ -3419,6 +3439,7 @@
 0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.megapurchase.com
 0.0.0.0 www.memorieson.com
+0.0.0.0 www.mexdrugs.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.mildpost.com
 0.0.0.0 www.milkycascadeut.site
@@ -3442,6 +3463,7 @@
 0.0.0.0 www.nabtapharma.com
 0.0.0.0 www.nanohistory.com
 0.0.0.0 www.nearestsalon.com
+0.0.0.0 www.necklaceu.com
 0.0.0.0 www.neonpack.com
 0.0.0.0 www.neonracketpro.com
 0.0.0.0 www.new2crypto.com
@@ -3456,10 +3478,13 @@
 0.0.0.0 www.nowreact.com
 0.0.0.0 www.nu26.com
 0.0.0.0 www.nuntioz.com
+0.0.0.0 www.nursse.com
 0.0.0.0 www.nwbidrtb.com
 0.0.0.0 www.nzgamingworld.com
 0.0.0.0 www.oakridgeflows.uk
 0.0.0.0 www.objectopoly.info
+0.0.0.0 www.officerreport.com
+0.0.0.0 www.ogopond.com
 0.0.0.0 www.oilbasics.com
 0.0.0.0 www.oix.com
 0.0.0.0 www.oletipmegroup.com
@@ -3508,9 +3533,12 @@
 0.0.0.0 www.portutopcas.com
 0.0.0.0 www.postsavings.com
 0.0.0.0 www.ppoi.org
+0.0.0.0 www.premiumbrandszonalibre.com
 0.0.0.0 www.presidency.site
 0.0.0.0 www.prgwbn.cfd
 0.0.0.0 www.primecrestnq.name
+0.0.0.0 www.primitivecountrydecor.com
+0.0.0.0 www.princessuppies.com
 0.0.0.0 www.proflashdata.com			# Facebook trojan
 0.0.0.0 www.promoskills.com
 0.0.0.0 www.properrayam.pro
@@ -3526,9 +3554,12 @@
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
+0.0.0.0 www.randrongames.com
 0.0.0.0 www.raremosssr.name
+0.0.0.0 www.raspberryketoneslim.com
 0.0.0.0 www.reachtaxi.com
 0.0.0.0 www.readyviews.com
+0.0.0.0 www.realdrjudy.com
 0.0.0.0 www.reandrogames.com
 0.0.0.0 www.recallblog.com
 0.0.0.0 www.rekonsise.com
@@ -3537,6 +3568,7 @@
 0.0.0.0 www.rerminix.com
 0.0.0.0 www.revivemore.com
 0.0.0.0 www.rickrolling.com
+0.0.0.0 www.ricontools.com
 0.0.0.0 www.rightchanges.com
 0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
@@ -3547,6 +3579,7 @@
 0.0.0.0 www.salttm.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sandybrookyt.name
+0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.sellpetrol.com
@@ -3561,14 +3594,17 @@
 0.0.0.0 www.sinera.org
 0.0.0.0 www.sizecart.com
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
 0.0.0.0 www.smokyshadecj.name
+0.0.0.0 www.snkido.com
 0.0.0.0 www.snowhandball.com
 0.0.0.0 www.snurrlyspin.com
 0.0.0.0 www.softcarp.com
 0.0.0.0 www.softmillon.com
 0.0.0.0 www.softpebble.com
+0.0.0.0 www.softwarebeginner.com
 0.0.0.0 www.sohailpc.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.sporttile.com
@@ -3580,13 +3616,17 @@
 0.0.0.0 www.stocksrate.com
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.stormhelix.uk
+0.0.0.0 www.stricklyhouses.com
 0.0.0.0 www.strongarchzu.com
 0.0.0.0 www.studioorientbay.com
 0.0.0.0 www.stylistnet.com
 0.0.0.0 www.styxwise.com
 0.0.0.0 www.subwayfast.com
+0.0.0.0 www.sunglassesfor.com
+0.0.0.0 www.supereeego.com
 0.0.0.0 www.supportnestframe.uk
 0.0.0.0 www.supportwindowlane.uk
+0.0.0.0 www.svipfulishipin.com
 0.0.0.0 www.swallowwire.sa.com
 0.0.0.0 www.sweetdominique.com
 0.0.0.0 www.sweetdreamiu.com
@@ -3600,6 +3640,7 @@
 0.0.0.0 www.technygrow.com
 0.0.0.0 www.techyscope.com
 0.0.0.0 www.tenantbackgronudsearch.com
+0.0.0.0 www.teresinaapartment.com
 0.0.0.0 www.textdynamics.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
@@ -3632,6 +3673,7 @@
 0.0.0.0 www.venturead.com
 0.0.0.0 www.vetmanevi.com
 0.0.0.0 www.videolove.clanteam.com
+0.0.0.0 www.videonhadat.com
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.voolat.com
@@ -3665,7 +3707,6 @@
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com
-0.0.0.0 www.yodobashi.com
 0.0.0.0 www.youfiletor.com
 0.0.0.0 www.yreta.com
 0.0.0.0 www.zenithvault.uk
