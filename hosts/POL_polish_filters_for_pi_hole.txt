@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.15.1
-! Last modified: 2026-04-12T06:42:28.579Z
+! Version: 1.0.15.3
+! Last modified: 2026-04-19T06:45:02.449Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0daib.pl
 0.0.0.0 0x01n2ptpuz3.com
@@ -183,6 +183,7 @@
 0.0.0.0 mito-pharma.pl
 0.0.0.0 mniamblog.polnda.asckat.com
 0.0.0.0 mobiklivestmox.pl
+0.0.0.0 mondeanimalinteressant.com
 0.0.0.0 mostnewsfeed.com
 0.0.0.0 moviads.pl
 0.0.0.0 mrex.exs.pl
@@ -217,6 +218,7 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantserve.com
 0.0.0.0 raupsica.net
+0.0.0.0 realitydaily24.com
 0.0.0.0 rec-ir.quartic.pl
 0.0.0.0 rect.b2bpersonals.net
 0.0.0.0 reddevilsrugby.co.uk
@@ -332,4 +334,3 @@
 0.0.0.0 znicely.com
 0.0.0.0 zostofou.link
 0.0.0.0 zukxd6fkxqn.com
-0.0.0.0 mondeanimalinteressant.com

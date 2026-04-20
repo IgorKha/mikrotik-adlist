@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.87
-! Last modified: 2026-04-12T06:42:18.309Z
+! Version: 1.0.2.93
+! Last modified: 2026-04-19T06:44:54.605Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -15509,6 +15509,7 @@
 0.0.0.0 analytics.yamanlabs.com
 0.0.0.0 analytics.yamanote.de
 0.0.0.0 analytics.yamdu.com
+0.0.0.0 analytics.yankmate.xyz
 0.0.0.0 analytics.yannick.eu
 0.0.0.0 analytics.yannickherzog.de
 0.0.0.0 analytics.yannikis.com
@@ -27884,6 +27885,7 @@
 0.0.0.0 dd.monidentifiant.sncf
 0.0.0.0 ddm.wellfound.com
 0.0.0.0 dd.myselogerpro.com
+0.0.0.0 ddn6tw9h.com
 0.0.0.0 d.dnightwish.xyz
 0.0.0.0 dd.nytimes.com
 0.0.0.0 d.dogssupreme.de
@@ -28742,6 +28744,7 @@
 0.0.0.0 dkrhrl.hamstyle.co.kr
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 d.laceandliberty.com
+0.0.0.0 dl.armour-inc-down.net
 0.0.0.0 d.lasapiniere.lu
 0.0.0.0 d.lastoriadi.it
 0.0.0.0 dlazecoa.pl
@@ -60631,6 +60634,7 @@
 0.0.0.0 ola.winksobrancelha.design
 0.0.0.0 olcjs.chicos.com
 0.0.0.0 olclm.halloweencostumes.com
+0.0.0.0 ol-collector.quillbot.com
 0.0.0.0 old.comicsonline.com
 0.0.0.0 oldfashionedoffer.com
 0.0.0.0 oldtransfer.com
@@ -70070,6 +70074,7 @@
 0.0.0.0 r51x6dij.marlaaaron.com
 0.0.0.0 r53dtxqv.haverhill.com
 0.0.0.0 r541.houstonchronicle.com
+0.0.0.0 r54m.com
 0.0.0.0 r5-pc-stats.stryder.respawn.com
 0.0.0.0 r5prhus0.samplize.com
 0.0.0.0 r5xyizq4.huk.com
@@ -73403,6 +73408,7 @@
 0.0.0.0 scale.rapharocha.com
 0.0.0.0 scale.silvercrown.com.br
 0.0.0.0 scale.teevaofficial.com
+0.0.0.0 scaletrackz.com
 0.0.0.0 scale.tuttiami.com.br
 0.0.0.0 scale.usadostore.com.br
 0.0.0.0 scallop.esolia.pro
@@ -81082,6 +81088,7 @@
 0.0.0.0 smetrics.cellcept.com
 0.0.0.0 smetrics.celticarehealthplan.com
 0.0.0.0 smetrics.cenpaticointegratedcareaz.com
+0.0.0.0 smetrics.census.gov
 0.0.0.0 smetrics.centene.com
 0.0.0.0 smetrics.centerpointenergy.com
 0.0.0.0 smetrics.centerwell.com
@@ -106164,6 +106171,7 @@
 0.0.0.0 track.barberskabet.dk
 0.0.0.0 track.bauwirtschaft-bw.de
 0.0.0.0 track.bc1920.de
+0.0.0.0 trackbee.ai
 0.0.0.0 track.beeznest.com
 0.0.0.0 track.belinterexpo.by
 0.0.0.0 track.bemmefiz.com.br

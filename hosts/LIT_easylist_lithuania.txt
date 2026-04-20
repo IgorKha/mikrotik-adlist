@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_36.txt
-! Version: 1.0.14.54
-! Last modified: 2026-04-12T06:42:33.409Z
+! Version: 1.0.14.55
+! Last modified: 2026-04-19T06:45:05.700Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 ad.admitad.com
 0.0.0.0 adart.hostin.lt
