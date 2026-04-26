@@ -1,10 +1,11 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_20.txt
-! Version: 1.0.14.56
-! Last modified: 2026-04-19T06:45:02.961Z
+! Version: 1.0.14.57
+! Last modified: 2026-04-26T10:00:44.821Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 10bet.com
 0.0.0.0 2mdn.net
 0.0.0.0 a.kajgana.com
+0.0.0.0 a.press24.mk
 0.0.0.0 a.sitel.com.mk
 0.0.0.0 a.skopjeinfo.mk
 0.0.0.0 acadv.net
@@ -24,6 +25,7 @@
 0.0.0.0 ads.crnobelo.mk
 0.0.0.0 ads.deca.mk
 0.0.0.0 ads.ekipa.mk
+0.0.0.0 ads.ekonomijaibiznis.mk
 0.0.0.0 ads.emedia.mk
 0.0.0.0 ads.epp.mk
 0.0.0.0 ads.exdynsrv.com
@@ -63,6 +65,7 @@
 0.0.0.0 ads.sportclub.mk
 0.0.0.0 ads.sportmedia.mk
 0.0.0.0 ads.sportplus.mk
+0.0.0.0 ads.sportsport.mk
 0.0.0.0 ads.stankov.me
 0.0.0.0 ads.studenti.mk
 0.0.0.0 ads.telma.com.mk

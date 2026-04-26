@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.19.56
-! Last modified: 2026-04-19T06:45:15.767Z
+! Version: 1.0.19.59
+! Last modified: 2026-04-26T10:00:59.147Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000a.de
 0.0.0.0 000space.com
@@ -162,7 +162,6 @@
 0.0.0.0 ar.gp
 0.0.0.0 arcadepages.com
 0.0.0.0 arrangiert.de
-0.0.0.0 artsold.top
 0.0.0.0 asia.cm
 0.0.0.0 asia.gp
 0.0.0.0 at.cr
@@ -175,7 +174,6 @@
 0.0.0.0 aufbauend.de
 0.0.0.0 ausposaunen.de
 0.0.0.0 auto.lc
-0.0.0.0 autoscolor.club
 0.0.0.0 aw3.de
 0.0.0.0 awardspace.biz
 0.0.0.0 awardspace.com
@@ -214,6 +212,7 @@
 0.0.0.0 blog5.net
 0.0.0.0 blogcu.com
 0.0.0.0 blogcudinti.com
+0.0.0.0 blogdosaga.com
 0.0.0.0 blogg.de
 0.0.0.0 blogg.se
 0.0.0.0 blogger.ba
@@ -424,7 +423,6 @@
 0.0.0.0 da.cx
 0.0.0.0 da.ru
 0.0.0.0 daftpage.com
-0.0.0.0 datesize.top
 0.0.0.0 dax.ru
 0.0.0.0 ddl2.pl
 0.0.0.0 de.cm
@@ -524,7 +522,6 @@
 0.0.0.0 fileave.com
 0.0.0.0 filme.lc
 0.0.0.0 financecryptoworld.com
-0.0.0.0 financial-offer.com
 0.0.0.0 firearms.com
 0.0.0.0 firm.nu
 0.0.0.0 fitnell.com
@@ -766,9 +763,7 @@
 0.0.0.0 mail.ht
 0.0.0.0 majesticbank.at
 0.0.0.0 majesticbank.de
-0.0.0.0 manfeature.club
 0.0.0.0 mashstaffing.com
-0.0.0.0 mdtwo.top
 0.0.0.0 me.gp
 0.0.0.0 me.ly
 0.0.0.0 mediafirex.icu
@@ -864,7 +859,6 @@
 0.0.0.0 ozq.de
 0.0.0.0 p.gp
 0.0.0.0 page.tl
-0.0.0.0 page-suspension.net
 0.0.0.0 page4.me
 0.0.0.0 pages10.com
 0.0.0.0 pancake.run
@@ -889,7 +883,6 @@
 0.0.0.0 pl.gp
 0.0.0.0 pl-oferta-id2387942371.top
 0.0.0.0 planet.tl
-0.0.0.0 pnsiayfas.net
 0.0.0.0 podia.com
 0.0.0.0 populr.me
 0.0.0.0 portal.lc

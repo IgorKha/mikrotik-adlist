@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.17.99
-! Last modified: 2026-04-19T06:44:53.829Z
+! Version: 1.0.18.2
+! Last modified: 2026-04-26T10:00:34.520Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 b-short.link
 0.0.0.0 go.gsrv.dev
 0.0.0.0 kjfmvnuri.click
 0.0.0.0 host69k.cfd
@@ -482,6 +483,7 @@
 0.0.0.0 loaditfile.com
 0.0.0.0 loadtime.org
 0.0.0.0 locooler-ageneral.com
+0.0.0.0 lorymo.online
 0.0.0.0 lovemiingle.life
 0.0.0.0 lwnbts.com
 0.0.0.0 lylufhuxqwi.com
@@ -549,7 +551,6 @@
 0.0.0.0 noohapou.com
 0.0.0.0 noolt.com
 0.0.0.0 northauthority.xyz
-0.0.0.0 northrtbads.top
 0.0.0.0 novibet.partners
 0.0.0.0 nrs6ffl9w.com
 0.0.0.0 ntrftrksec.com
@@ -558,7 +559,6 @@
 0.0.0.0 nwwrtbbit.com
 0.0.0.0 nxt-psh.com
 0.0.0.0 nylonnickel.xyz
-0.0.0.0 oamsedsaiph.net
 0.0.0.0 obtaintrout.com
 0.0.0.0 occasional-flow.com
 0.0.0.0 offergate-ecommerce-cdn5.com
@@ -572,7 +572,6 @@
 0.0.0.0 onclckpop.com
 0.0.0.0 onclickperformance.com
 0.0.0.0 onlidex.com
-0.0.0.0 opengalaxyapps.monster
 0.0.0.0 openrtb-banner.com
 0.0.0.0 optnx.com
 0.0.0.0 optvz.com
@@ -1121,6 +1120,7 @@
 0.0.0.0 ptapjmp.com
 0.0.0.0 pulseadnetwork.com
 0.0.0.0 rencontreadultere.club
+0.0.0.0 repslys.com
 0.0.0.0 rtbbonline.com
 0.0.0.0 schjmp.com
 0.0.0.0 search-converter.com

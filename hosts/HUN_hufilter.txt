@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_35.txt
 ! Version: 1.0.15.26
-! Last modified: 2026-04-19T06:45:05.607Z
+! Last modified: 2026-04-26T10:00:47.938Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 adserver.raceonline.hu
 0.0.0.0 a.adnium.com

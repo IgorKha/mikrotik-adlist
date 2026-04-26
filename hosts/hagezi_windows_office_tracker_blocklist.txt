@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.0.95
-! Last modified: 2026-04-19T06:45:01.792Z
+! Version: 1.0.0.97
+! Last modified: 2026-04-26T10:00:43.379Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -41,15 +41,9 @@
 0.0.0.0 g.bing.com
 0.0.0.0 raka.bing.com
 0.0.0.0 c.bingapis.com
-0.0.0.0 exo.nel.measure.office.net.sw.buhl-data.com
-0.0.0.0 teams.nel.measure.office.net.sw.buhl-data.com
 0.0.0.0 insights.cloud.microsoft
 0.0.0.0 measure.office.net.edgesuite.net
 0.0.0.0 collector.azure.eaglex.ic.gov
-0.0.0.0 measure.office.net.cn.intinfra.com
-0.0.0.0 measure.office.net.cz.intinfra.com
-0.0.0.0 measure.office.net.in.intinfra.com
-0.0.0.0 measure.office.net.us.intinfra.com
 0.0.0.0 analytics.live.com
 0.0.0.0 c.live.com
 0.0.0.0 location.live.net
@@ -365,6 +359,7 @@
 0.0.0.0 citrixanalyticseh-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticseh2.servicebus.windows.net
 0.0.0.0 citrixanalyticseh2-alias.servicebus.windows.net
+0.0.0.0 citrixanalyticseh3-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticsehaps.servicebus.windows.net
 0.0.0.0 citrixanalyticsehaps-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticseheu.servicebus.windows.net

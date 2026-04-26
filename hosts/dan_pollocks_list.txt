@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.17.43
-! Last modified: 2026-04-19T06:44:51.847Z
+! Version: 1.0.17.62
+! Last modified: 2026-04-26T10:00:32.574Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.17.43
+! Version: 1.0.17.62
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-17T23:19:30.556Z
+! Last modified: 2026-04-26T03:14:57.137Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1261,9 +1261,11 @@
 0.0.0.0 zc1.maillist-manage.com.cn
 0.0.0.0 zz.cqcounter.com
 0.0.0.0 0.nextyourcontent.com
+0.0.0.0 00000.uno
 0.0.0.0 05tz2e9.com
 0.0.0.0 1-bmo-client-login.com
 0.0.0.0 1-directshipmtdhlsexpress-order.help
+0.0.0.0 10-letter-words.com
 0.0.0.0 1001paixnidia.fr
 0.0.0.0 105915624.com
 0.0.0.0 10tide.com
@@ -1682,6 +1684,7 @@
 0.0.0.0 cp.liferan.pro
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
+0.0.0.0 cra-documents.ca
 0.0.0.0 cra-etransfer.online
 0.0.0.0 crarefundsreview.com
 0.0.0.0 crdp-strsbourg.fr
@@ -1750,6 +1753,7 @@
 0.0.0.0 diomedia.fr
 0.0.0.0 dirtmountainbike.fr
 0.0.0.0 disneyholidays.fr
+0.0.0.0 dldyjy.com
 0.0.0.0 dns2.net1.it
 0.0.0.0 dnythgt.com
 0.0.0.0 docs.ukr.net.ssl2.in
@@ -2198,6 +2202,7 @@
 0.0.0.0 lemnode.fr
 0.0.0.0 lemondde.fr
 0.0.0.0 lemovnde.fr
+0.0.0.0 leojblog.com
 0.0.0.0 leomonde.fr
 0.0.0.0 leparirien.fr
 0.0.0.0 leparisein.fr
@@ -2548,6 +2553,7 @@
 0.0.0.0 paytel.fr
 0.0.0.0 paytrtrollsteamworkspace.myclickfunnels.com
 0.0.0.0 pbworks.fr
+0.0.0.0 pc-apps-kaiyunsports.com
 0.0.0.0 pcblibraries.fr
 0.0.0.0 pckgatups.bond
 0.0.0.0 pclt.net
@@ -2778,6 +2784,7 @@
 0.0.0.0 serv-canada2024.com
 0.0.0.0 servpro.fr
 0.0.0.0 setup-mydelivery-date6437-fedex.com
+0.0.0.0 sgluco.shop
 0.0.0.0 shapado.com
 0.0.0.0 sharelink.fr
 0.0.0.0 shiiva.fr
@@ -3103,6 +3110,7 @@
 0.0.0.0 ws50.crypto-loot.com
 0.0.0.0 wwnc.xyz
 0.0.0.0 www.7zip.fr
+0.0.0.0 www.991abc.com
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.abnehmenkabofit.de
@@ -3128,6 +3136,7 @@
 0.0.0.0 www.anatol.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.apkfuuny.com
+0.0.0.0 www.aqualakefy.name
 0.0.0.0 www.aramcom.space
 0.0.0.0 www.arfrepuestos.com
 0.0.0.0 www.arknasasbluecross.com
@@ -3177,6 +3186,7 @@
 0.0.0.0 www.brightstardv.pro
 0.0.0.0 www.briidgeapp.com
 0.0.0.0 www.briskappmu.name
+0.0.0.0 www.briskshadeyv.com
 0.0.0.0 www.brooksrunningdeals.com
 0.0.0.0 www.bucahssana.com
 0.0.0.0 www.builtinfo.com
@@ -3198,12 +3208,14 @@
 0.0.0.0 www.catjre.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
+0.0.0.0 www.cemerhealth.com
 0.0.0.0 www.centeralbidding.com
 0.0.0.0 www.checkdrivers.com
 0.0.0.0 www.checkpics.com
 0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.chichomods.com
 0.0.0.0 www.chiefsale.com
+0.0.0.0 www.chinesehollywood.com
 0.0.0.0 www.cidadelobito.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
@@ -3271,11 +3283,13 @@
 0.0.0.0 www.electrobell.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.energiazoque.com
+0.0.0.0 www.esjetonline.com
 0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.europelinen.com
 0.0.0.0 www.exactpharm.com
 0.0.0.0 www.exambased.com
 0.0.0.0 www.exceleratehelp.com
+0.0.0.0 www.exoticainmotion.com
 0.0.0.0 www.expolearn.com
 0.0.0.0 www.exposhot.com
 0.0.0.0 www.expressmails.com
@@ -3297,6 +3311,7 @@
 0.0.0.0 www.fischereszter.hu
 0.0.0.0 www.fixedshine.com
 0.0.0.0 www.fixingfast.com
+0.0.0.0 www.flaglergrill.com
 0.0.0.0 www.flexibleadmin.com
 0.0.0.0 www.fluffyappyp.com
 0.0.0.0 www.fluidfiber.com
@@ -3361,6 +3376,7 @@
 0.0.0.0 www.higherteam.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
+0.0.0.0 www.hocxaydung.com
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
 0.0.0.0 www.hotpanic.net
@@ -3392,6 +3408,7 @@
 0.0.0.0 www.jessicalonda.com
 0.0.0.0 www.jeuxfortuna.com
 0.0.0.0 www.jeuxjackpotcasino.com
+0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jovareo.com
 0.0.0.0 www.justdebug.com
 0.0.0.0 www.jvidzaixian.com
@@ -3407,12 +3424,16 @@
 0.0.0.0 www.kiwicares.com
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.knoxmenus.com
+0.0.0.0 www.kobotausa.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.kryzantor.uk
 0.0.0.0 www.lahoreautismcentre.com
 0.0.0.0 www.lanaita.com
+0.0.0.0 www.langleyantiques.com
 0.0.0.0 www.launchbuffer.com
+0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learntechno.com
+0.0.0.0 www.ledfaucetlight.com
 0.0.0.0 www.leeucode.com
 0.0.0.0 www.lemoncascadexq.name
 0.0.0.0 www.libanco.com
@@ -3422,6 +3443,7 @@
 0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
 0.0.0.0 www.likethislist.biz			# Facebook trojan
+0.0.0.0 www.liveorigamirisk.com
 0.0.0.0 www.loansfield.com
 0.0.0.0 www.lockupouseburn.com
 0.0.0.0 www.loginhunter.com
@@ -3430,18 +3452,21 @@
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.lunargrovefx.com
 0.0.0.0 www.magento-analytics.com
+0.0.0.0 www.maiecaffe.com
 0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.makeupglobal.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.markethelper.name
 0.0.0.0 www.match3quests.com
+0.0.0.0 www.matifi.com
 0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.megapurchase.com
 0.0.0.0 www.memorieson.com
 0.0.0.0 www.mexdrugs.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.mildpost.com
+0.0.0.0 www.milgaard.com
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
 0.0.0.0 www.modelsailboat.net
@@ -3452,7 +3477,11 @@
 0.0.0.0 www.mostexchange.com
 0.0.0.0 www.movielocks.com
 0.0.0.0 www.mshelp247.weebly.com
+0.0.0.0 www.msmpokergamer.com
 0.0.0.0 www.msxzff.com
+0.0.0.0 www.multiceps.com
+0.0.0.0 www.myalegent07.com
+0.0.0.0 www.mycitycue.com
 0.0.0.0 www.mycolonialpenm.com
 0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
@@ -3462,6 +3491,7 @@
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.nabtapharma.com
 0.0.0.0 www.nanohistory.com
+0.0.0.0 www.naturalmovementz.com
 0.0.0.0 www.nearestsalon.com
 0.0.0.0 www.necklaceu.com
 0.0.0.0 www.neonpack.com
@@ -3469,6 +3499,7 @@
 0.0.0.0 www.new2crypto.com
 0.0.0.0 www.newshello.com
 0.0.0.0 www.nextfeatures.com
+0.0.0.0 www.nigja.com
 0.0.0.0 www.nnews.net
 0.0.0.0 www.nobetsjustfun.com
 0.0.0.0 www.northvalesgrids.uk
@@ -3543,6 +3574,7 @@
 0.0.0.0 www.promoskills.com
 0.0.0.0 www.properrayam.pro
 0.0.0.0 www.proxionet.com
+0.0.0.0 www.proxygeni.com
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.ptcasinoonline.com
@@ -3564,12 +3596,15 @@
 0.0.0.0 www.recallblog.com
 0.0.0.0 www.rekonsise.com
 0.0.0.0 www.relaxingcafe.com
+0.0.0.0 www.reliaslearrning.com
 0.0.0.0 www.renderfoest.com
 0.0.0.0 www.rerminix.com
 0.0.0.0 www.revivemore.com
+0.0.0.0 www.rhemacorp.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.ricontools.com
 0.0.0.0 www.rightchanges.com
+0.0.0.0 www.riversidefr.com
 0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
 0.0.0.0 www.rtkmyz.cfd
@@ -3581,19 +3616,23 @@
 0.0.0.0 www.sandybrookyt.name
 0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
+0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.sellpetrol.com
 0.0.0.0 www.sellrubber.com
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
+0.0.0.0 www.shinyechogz.name
 0.0.0.0 www.shopvisitors.com
 0.0.0.0 www.sidneyman.com
 0.0.0.0 www.silebah.com
 0.0.0.0 www.silentgateck.site
+0.0.0.0 www.silverboxcreativestudio.com
 0.0.0.0 www.simplyartful.com
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.sizecart.com
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.skyonlinegratis.com
 0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
@@ -3608,6 +3647,7 @@
 0.0.0.0 www.sohailpc.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.sporttile.com
+0.0.0.0 www.ssdede.com
 0.0.0.0 www.ssl2.in
 0.0.0.0 www.statsff.com
 0.0.0.0 www.steelbucks.com
@@ -3691,6 +3731,7 @@
 0.0.0.0 www.webwise.org
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
+0.0.0.0 www.whiskeyallys.com
 0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
 0.0.0.0 www.wifimarfixhotspot.com
@@ -3700,8 +3741,10 @@
 0.0.0.0 www.winecrazydesigns.com
 0.0.0.0 www.wingfoilmargarita.com
 0.0.0.0 www.winlottofrequently.com
+0.0.0.0 www.wjldfm.com
 0.0.0.0 www.woodycrystaljo.name
 0.0.0.0 www.workschat.com
+0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.xandermaker.com
 0.0.0.0 www.xtremetechcr.com
