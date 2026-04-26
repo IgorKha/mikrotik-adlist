@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.2.93
-! Last modified: 2026-04-19T06:44:54.605Z
+! Version: 1.0.2.96
+! Last modified: 2026-04-26T10:00:35.500Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -444,6 +444,7 @@
 0.0.0.0 58illstzdi.execute-api.us-east-1.amazonaws.com
 0.0.0.0 594071643.zuckersuessverlag.de
 0.0.0.0 5baf1288cf.dl8.me
+0.0.0.0 5ma5p56xtyzgg6xqqy2zih7rku0teqkb.lambda-url.eu-central-1.on.aws
 0.0.0.0 5mc92su06suu.www.abhijith.page
 0.0.0.0 5mcwl.pw
 0.0.0.0 5o4p3wks.casino-runner2.com
@@ -2816,6 +2817,7 @@
 0.0.0.0 admathhd.com
 0.0.0.0 admatomo.com
 0.0.0.0 admba.shadeit.com
+0.0.0.0 admd.ink
 0.0.0.0 a.dmedia.dk
 0.0.0.0 admetrica.ru
 0.0.0.0 admetric.io
@@ -3591,6 +3593,7 @@
 0.0.0.0 a.kion.ru
 0.0.0.0 akisinn.info
 0.0.0.0 akjfo.sunrisecapitalgroup.com
+0.0.0.0 a.klaviyo.com
 0.0.0.0 aklojs.com
 0.0.0.0 akming.xyz
 0.0.0.0 aknfo.karenkane.com
@@ -19312,6 +19315,7 @@
 0.0.0.0 bwstatistics.sapoapps.vn
 0.0.0.0 bwu-a4af10c8.banregio.com
 0.0.0.0 bwup.suncorpbank.com.au
+0.0.0.0 b.www.walmart.com
 0.0.0.0 bwyasc.inseasonjewelry.com
 0.0.0.0 bx0cztrk.com
 0.0.0.0 bxbtbf.msccruises.no
@@ -21128,6 +21132,7 @@
 0.0.0.0 clients.webstats.pl
 0.0.0.0 client.talefy.ai
 0.0.0.0 client-telemetry.hingeprod.net
+0.0.0.0 client-telemetry-preauth.hingeprod.net
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 clienttracing-pa.googleapis.com
 0.0.0.0 clientupdatenw.com
@@ -24272,6 +24277,7 @@
 0.0.0.0 d1cykymlllue3h.cloudfront.net
 0.0.0.0 d1d3jupgwm7m5r.cloudfront.net
 0.0.0.0 d1dpj83k3qhw55.cloudfront.net
+0.0.0.0 d1dxoqu0t5mb7j.cloudfront.net
 0.0.0.0 d1eoo1tco6rr5e.cloudfront.net
 0.0.0.0 d1f5e6p0r74ryd.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
@@ -30852,6 +30858,7 @@
 0.0.0.0 events-analytics.apple.com
 0.0.0.0 events.animecix.co
 0.0.0.0 events.api.faire.com
+0.0.0.0 events.asurion.com
 0.0.0.0 events.ato.santander.co.uk
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.audiate.me
@@ -44791,6 +44798,7 @@
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log.g-enews.com
 0.0.0.0 logger007.cam4.com
+0.0.0.0 logger.21wiz.com
 0.0.0.0 logger.baltbet.ru
 0.0.0.0 logger.baofeng.com
 0.0.0.0 logger.bizzaru.com
@@ -61326,6 +61334,7 @@
 0.0.0.0 oslus.theadventurechallenge.com
 0.0.0.0 osmnv.happyhairbrush.com.au
 0.0.0.0 osn-cirrus.cas.org
+0.0.0.0 osp-logging-prod.platform.asurion53.com
 0.0.0.0 os.resy.com
 0.0.0.0 os.shutterfly.com
 0.0.0.0 ostlon.com
@@ -61548,6 +61557,7 @@
 0.0.0.0 page.parreiraimoveis.com.br
 0.0.0.0 page.placo.fr
 0.0.0.0 page.placo.isover.fr
+0.0.0.0 pagepulse.info
 0.0.0.0 pages01.net
 0.0.0.0 pages02.net
 0.0.0.0 pages03.net
@@ -72095,6 +72105,7 @@
 0.0.0.0 rtclx.com
 0.0.0.0 rtc.multiscreensite.com
 0.0.0.0 rtcollector.goeuro.com
+0.0.0.0 rtc.website-editor.net
 0.0.0.0 rtds.progressive.com
 0.0.0.0 r.tevasamorir.co
 0.0.0.0 rtf-40-netred.top
@@ -93335,6 +93346,7 @@
 0.0.0.0 static.thrillist.com
 0.0.0.0 statictics.enotria.pe
 0.0.0.0 statictrack.educatrack.com
+0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 staticxx.s3.amazonaws.com
 0.0.0.0 stat.ifrace.fr
 0.0.0.0 stat.igooo.fi
@@ -103452,6 +103464,7 @@
 0.0.0.0 tag.fmscycles.com
 0.0.0.0 tag.foreverfierce.com
 0.0.0.0 tag.franquiahomeangels.com.br
+0.0.0.0 tag.gendiscover.com
 0.0.0.0 tagger.communitiesexperience.com
 0.0.0.0 tagger.communitiesxp.com
 0.0.0.0 tagger.ope.scmp.com
@@ -103852,6 +103865,7 @@
 0.0.0.0 tag.vezzi.pl
 0.0.0.0 tag.viva-cruises.com
 0.0.0.0 tag.vrst.com
+0.0.0.0 tag.waf360.com
 0.0.0.0 tag.waterworldmedford.com
 0.0.0.0 tag.wavesflowagency.ai
 0.0.0.0 tag-wellsfargo.nod-glb.nuance.com
@@ -108143,6 +108157,7 @@
 0.0.0.0 trck.flexnet.co.jp
 0.0.0.0 trck.frutafrutashop.com
 0.0.0.0 trck.geoearnings.com
+0.0.0.0 trck.house
 0.0.0.0 trck.ineliagarcia.com
 0.0.0.0 trckingbyte.com
 0.0.0.0 trcking.mondialtourisme.fr
@@ -111508,6 +111523,7 @@
 0.0.0.0 wefi.com
 0.0.0.0 wego.here.com
 0.0.0.0 wehvtomny.com
+0.0.0.0 wekre6r5lsxxzzbnlltsbyfm6i0dcqrs.lambda-url.eu-central-1.on.aws
 0.0.0.0 welcomesoftware.com
 0.0.0.0 welcome.toptrendyinc.com
 0.0.0.0 wellfsargo.us

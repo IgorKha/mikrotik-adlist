@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.6
-! Last modified: 2026-04-19T06:45:02.686Z
+! Version: 1.0.17.11
+! Last modified: 2026-04-26T10:00:44.422Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.6
+! Version: 1.0.17.11
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-04-17T10:06:33.670Z
+! Last modified: 2026-04-23T08:46:02.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3544,6 +3544,7 @@
 0.0.0.0 clevertap-prod.com
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 in1.clevertap-prod.com
+0.0.0.0 sg1-spiky.clevertap-prod.com
 0.0.0.0 sg1.clevertap-prod.com
 0.0.0.0 us1.clevertap-prod.com
 0.0.0.0 app.freshmarketer.com
@@ -12600,6 +12601,14 @@
 0.0.0.0 api.moneyoyo.org
 0.0.0.0 feed.moneyoyo.org
 0.0.0.0 sdk.moneyoyo.com
+0.0.0.0 engagelab.cc
+0.0.0.0 global-sis.api.engagelab.cc
+0.0.0.0 global-websis.api.engagelab.cc
+0.0.0.0 pushstat.api.engagelab.cc
+0.0.0.0 webpushstat.api.engagelab.cc
+0.0.0.0 www.engagelab.cc
+0.0.0.0 global-sis.engagelab.com
+0.0.0.0 webpushstat-sgp.engagelab.com
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-ndtv.3s.com.vn
@@ -13099,6 +13108,7 @@
 0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 1-1ads.com
+0.0.0.0 104processors.net
 0.0.0.0 11ssq.com
 0.0.0.0 12ezo5v60.com
 0.0.0.0 14i8trbbx4.com
@@ -13183,6 +13193,7 @@
 0.0.0.0 aboardlevel.com
 0.0.0.0 above.com
 0.0.0.0 aboveredirect.top
+0.0.0.0 abpziztci.in
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abruptroad.com
 0.0.0.0 absorbingband.com
@@ -13977,8 +13988,10 @@
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 antlerlode.com
 0.0.0.0 antvoice.com
+0.0.0.0 antxmmerxmdhu.com
 0.0.0.0 anvilfunctions.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 anym8.com
 0.0.0.0 anymedia.lv
 0.0.0.0 ap2h9d2g3.com
 0.0.0.0 apercusdimly.com
@@ -14029,6 +14042,7 @@
 0.0.0.0 archswimming.com
 0.0.0.0 arhribadjqp.com
 0.0.0.0 aromamirror.com
+0.0.0.0 arrogancedanderuntruth.com
 0.0.0.0 arsdev.net
 0.0.0.0 arsnivyr.com
 0.0.0.0 arswabluchan.com
@@ -14349,6 +14363,7 @@
 0.0.0.0 bvmcdn.net
 0.0.0.0 bvtpk.com
 0.0.0.0 bwp.download.com
+0.0.0.0 bytefrom2010.com
 0.0.0.0 bzyfzusiqohk.com
 0.0.0.0 c.bannerflow.net
 0.0.0.0 c.bigmir.net
@@ -15040,6 +15055,7 @@
 0.0.0.0 feedyourheadmag.com
 0.0.0.0 feuageepitoke.com
 0.0.0.0 fhsmtrnsfnt.com
+0.0.0.0 fhvfd.com
 0.0.0.0 fibqukktuv.in
 0.0.0.0 fiksu.com
 0.0.0.0 filezoness.com
@@ -15233,6 +15249,7 @@
 0.0.0.0 gzaqwebtipm.com
 0.0.0.0 h2aek6rv0ard.com
 0.0.0.0 h74v6kerf.com
+0.0.0.0 hai8g.com
 0.0.0.0 hailstonefatherinlawsuggestions.com
 0.0.0.0 hairsromance.com
 0.0.0.0 hammerhearing.com
@@ -15463,6 +15480,8 @@
 0.0.0.0 jailbulb.com
 0.0.0.0 jailorscoman.cfd
 0.0.0.0 jaiporukodaisa.com
+0.0.0.0 janitorprecisiontrio.com
+0.0.0.0 jappkummodah.in
 0.0.0.0 jarvispopsu.com
 0.0.0.0 jatxt.com
 0.0.0.0 jcount.com
@@ -15488,6 +15507,7 @@
 0.0.0.0 joudauhee.com
 0.0.0.0 jouteetu.net
 0.0.0.0 jouwaikekaivep.net
+0.0.0.0 jqvhnbxtwze.com
 0.0.0.0 js.mbidadm.com
 0.0.0.0 js.wpncdn.com
 0.0.0.0 js.wpnjs.com
@@ -15520,6 +15540,7 @@
 0.0.0.0 kiynew.com
 0.0.0.0 kjdvn1340-ads.blogspot.com
 0.0.0.0 klclick1.com
+0.0.0.0 klik.blog
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
 0.0.0.0 kmfwrqdp.com
@@ -15549,6 +15570,7 @@
 0.0.0.0 kuqfudazkn.com
 0.0.0.0 kvkaa.com
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
+0.0.0.0 kykay.com
 0.0.0.0 kzuocxorfo.com
 0.0.0.0 laceassumestatic.com
 0.0.0.0 lactolwant.com
@@ -15661,6 +15683,7 @@
 0.0.0.0 magnetic.com
 0.0.0.0 magnite.com
 0.0.0.0 mahoganyproductthat.com
+0.0.0.0 maidthereuponblacken.com
 0.0.0.0 makafdsugxco.com
 0.0.0.0 malatiswirled.com
 0.0.0.0 maltunfaithfulpredominant.com
@@ -15954,6 +15977,7 @@
 0.0.0.0 nonpareilanticipatedintention.com
 0.0.0.0 nonstoppartner.net
 0.0.0.0 noolt.com
+0.0.0.0 northeasternobstinatedevelop.com
 0.0.0.0 nossairt.net
 0.0.0.0 notifysrv.com
 0.0.0.0 notix.io
@@ -15972,6 +15996,7 @@
 0.0.0.0 ntvsw.com
 0.0.0.0 nuckinxuco.com
 0.0.0.0 nuclearads.com
+0.0.0.0 nucopzqt.in
 0.0.0.0 nuffnang.com.my
 0.0.0.0 nuggad.net
 0.0.0.0 nui.media
@@ -16033,6 +16058,7 @@
 0.0.0.0 oljqobudyusf.com
 0.0.0.0 omazeiros.com
 0.0.0.0 omciecoa37tw4.com
+0.0.0.0 omg10.com
 0.0.0.0 omgcoool.com
 0.0.0.0 ommentsere.biz
 0.0.0.0 omnatuor.com
@@ -16303,6 +16329,7 @@
 0.0.0.0 prmtracking.com
 0.0.0.0 pro-ads.club
 0.0.0.0 pro-advertising.com
+0.0.0.0 proceduresto3.net
 0.0.0.0 producerplot.com
 0.0.0.0 proext.com
 0.0.0.0 profero.com
@@ -16350,6 +16377,7 @@
 0.0.0.0 ptichoolsougn.net
 0.0.0.0 ptipsixo.com
 0.0.0.0 ptoushoa.com
+0.0.0.0 pttuzodqkbgv.com
 0.0.0.0 ptuzrywmega.com
 0.0.0.0 pu3.biz
 0.0.0.0 pu4.biz
@@ -16455,7 +16483,9 @@
 0.0.0.0 rapleaf.com
 0.0.0.0 raresummer.com
 0.0.0.0 rate.ru
+0.0.0.0 rb.rhussvelter.com
 0.0.0.0 rcvlink.com
+0.0.0.0 rcyopmpfef.in
 0.0.0.0 rdr.wargaming.net
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
@@ -16490,6 +16520,7 @@
 0.0.0.0 reedunpack.com
 0.0.0.0 referralware.com
 0.0.0.0 refersion.com
+0.0.0.0 reffpa.com
 0.0.0.0 reflushneuma.com
 0.0.0.0 refnippod.com
 0.0.0.0 refpa4293501.top
@@ -16568,6 +16599,7 @@
 0.0.0.0 rounuatedanximum.com
 0.0.0.0 routeserve.info
 0.0.0.0 roxr.net
+0.0.0.0 rqjcsnihsje.com
 0.0.0.0 rsalcch.com
 0.0.0.0 rtb.gamoshi.io
 0.0.0.0 rtbidder.net
@@ -17489,6 +17521,7 @@
 0.0.0.0 xlviiirdr.com
 0.0.0.0 xlx1.com
 0.0.0.0 xm.geslingclime.shop
+0.0.0.0 xmafrihkua.in
 0.0.0.0 xnocffar.com
 0.0.0.0 xp.retinichawks.cyou
 0.0.0.0 xpe9.com
