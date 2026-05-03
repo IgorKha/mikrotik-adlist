@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.4.48
-! Last modified: 2026-04-26T10:00:59.480Z
+! Version: 1.0.4.56
+! Last modified: 2026-05-03T07:02:09.353Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -66,7 +66,6 @@
 0.0.0.0 1cl.be
 0.0.0.0 1cl.me
 0.0.0.0 1clix.in
-0.0.0.0 1da.ir
 0.0.0.0 1dietplans.com
 0.0.0.0 1do.me
 0.0.0.0 1drv.ms
@@ -117,7 +116,6 @@
 0.0.0.0 1url.my
 0.0.0.0 1url.re
 0.0.0.0 1url.vn
-0.0.0.0 1vk.net
 0.0.0.0 1west.io
 0.0.0.0 1wn.bz
 0.0.0.0 1xfn.tech
@@ -347,7 +345,6 @@
 0.0.0.0 7ny.tv
 0.0.0.0 7oi.de
 0.0.0.0 7or.net
-0.0.0.0 7vd.cn
 0.0.0.0 7z.si
 0.0.0.0 8.ly
 0.0.0.0 8591.tw
@@ -398,7 +395,6 @@
 0.0.0.0 a360.co
 0.0.0.0 a38.fr
 0.0.0.0 a3st.in
-0.0.0.0 a4k.co
 0.0.0.0 a4r.at
 0.0.0.0 a4u.me
 0.0.0.0 a8s.app
@@ -573,7 +569,6 @@
 0.0.0.0 aighy.com
 0.0.0.0 go.aim.edu
 0.0.0.0 aim2.cc
-0.0.0.0 aimetath.com
 0.0.0.0 aimqr.com
 0.0.0.0 aintok.com
 0.0.0.0 ainurl.pro
@@ -613,7 +608,6 @@
 0.0.0.0 akunss.com
 0.0.0.0 akunsu.com
 0.0.0.0 akunvip.top
-0.0.0.0 akunvip.win
 0.0.0.0 akunwso.gratis
 0.0.0.0 al.st
 0.0.0.0 al4.dev
@@ -728,6 +722,7 @@
 0.0.0.0 anmeld.biz
 0.0.0.0 annabelparr.com
 0.0.0.0 annah.ar
+0.0.0.0 annoyingnightmareedit.com
 0.0.0.0 anon.to
 0.0.0.0 anonshort.com
 0.0.0.0 anp.su
@@ -763,7 +758,6 @@
 0.0.0.0 app.link
 0.0.0.0 eventogo.app.br
 0.0.0.0 redirect.app.br
-0.0.0.0 vstag.app.br
 0.0.0.0 appbitly.com
 0.0.0.0 appcurt.com
 0.0.0.0 kutt.appinn.com
@@ -892,7 +886,6 @@
 0.0.0.0 avydn.co
 0.0.0.0 awactools.com
 0.0.0.0 awc.li
-0.0.0.0 awenje.com
 0.0.0.0 aws.tl
 0.0.0.0 aws3.link
 0.0.0.0 aws3-demo.link
@@ -913,7 +906,6 @@
 0.0.0.0 ayuk.link
 0.0.0.0 ayzyu.com
 0.0.0.0 azc.cc
-0.0.0.0 azhfoom.com
 0.0.0.0 azipurl.app
 0.0.0.0 azipurl.com
 0.0.0.0 azlink.me
@@ -954,6 +946,7 @@
 0.0.0.0 r.babscon.com
 0.0.0.0 bacn.me
 0.0.0.0 go.badarinathgella.com
+0.0.0.0 baggyrepackingrocky.com
 0.0.0.0 bagi.link
 0.0.0.0 bagneed.com
 0.0.0.0 baid.us
@@ -1041,7 +1034,6 @@
 0.0.0.0 shortin.besquares.net
 0.0.0.0 bestbet1000.xyz
 0.0.0.0 us.bestbrains.com
-0.0.0.0 bestshortlink.com
 0.0.0.0 go.betnacional.bet.br
 0.0.0.0 betaloop.io
 0.0.0.0 betaxfree.net
@@ -1165,7 +1157,6 @@
 0.0.0.0 bitlyvi.com
 0.0.0.0 bitlz.cc
 0.0.0.0 bitq.link
-0.0.0.0 bitradex.net
 0.0.0.0 bitri.link
 0.0.0.0 bitshort.vip
 0.0.0.0 bitshrt.com
@@ -1260,7 +1251,6 @@
 0.0.0.0 boarfishesquandangsunderdried.com
 0.0.0.0 boclinkvn.net
 0.0.0.0 bofh.us
-0.0.0.0 bofo.ly
 0.0.0.0 boi.re
 0.0.0.0 boile.rs
 0.0.0.0 bola.mx
@@ -1321,7 +1311,6 @@
 0.0.0.0 bre.is
 0.0.0.0 brendan.fyi
 0.0.0.0 brev.ws
-0.0.0.0 breve.bio
 0.0.0.0 brevelink.com
 0.0.0.0 brever.link
 0.0.0.0 brevi.space
@@ -1559,7 +1548,6 @@
 0.0.0.0 cgrp.io
 0.0.0.0 cgvoice.live
 0.0.0.0 ch.run
-0.0.0.0 ch-get.info
 0.0.0.0 cha.ms
 0.0.0.0 change-erp.com
 0.0.0.0 changelink.pro
@@ -1569,7 +1557,6 @@
 0.0.0.0 cheap-bitcoin.online
 0.0.0.0 cheap-stocks.biz
 0.0.0.0 checkbill.biz
-0.0.0.0 checkshorturl.bio
 0.0.0.0 chekc.life
 0.0.0.0 chem.sg
 0.0.0.0 cherrykiss.club
@@ -1687,8 +1674,6 @@
 0.0.0.0 cliczy.com
 0.0.0.0 clientlinks.net
 0.0.0.0 clik.now
-0.0.0.0 clikk.in
-0.0.0.0 clikly.link
 0.0.0.0 clikr.ir
 0.0.0.0 cliks.co
 0.0.0.0 clikx.net
@@ -1702,7 +1687,6 @@
 0.0.0.0 clipmy.link
 0.0.0.0 clipperlink.com
 0.0.0.0 clipurl.com
-0.0.0.0 clipurl.tech
 0.0.0.0 clipurl.us
 0.0.0.0 clipy.cx
 0.0.0.0 cliq.ing
@@ -2705,6 +2689,7 @@
 0.0.0.0 fastslinks.site
 0.0.0.0 fasttory.com
 0.0.0.0 fasturl.link
+0.0.0.0 fattoincasadabenedetta.link
 0.0.0.0 faturl.com
 0.0.0.0 fav.me
 0.0.0.0 fave.co
@@ -3014,6 +2999,7 @@
 0.0.0.0 getblue.me
 0.0.0.0 getcode.pw
 0.0.0.0 getf.ly
+0.0.0.0 getfinefile.com
 0.0.0.0 geti.in
 0.0.0.0 getlasso.co
 0.0.0.0 getlickd.com
@@ -4709,6 +4695,7 @@
 0.0.0.0 lnk.direct
 0.0.0.0 lnk.do
 0.0.0.0 lnk.gd
+0.0.0.0 lnk.ink
 0.0.0.0 lnk.jo
 0.0.0.0 lnk.ke
 0.0.0.0 lnk.news
@@ -5437,6 +5424,7 @@
 0.0.0.0 nanourl.org
 0.0.0.0 nanuba.com
 0.0.0.0 napmkt.com
+0.0.0.0 narilyhukelpfulin.com
 0.0.0.0 narrowurl.com
 0.0.0.0 go.nasa.gov
 0.0.0.0 nashcapernaum.org
@@ -7190,6 +7178,7 @@
 0.0.0.0 shortlk.com
 0.0.0.0 shortll.com
 0.0.0.0 shortlnk.app
+0.0.0.0 shortlnk.co
 0.0.0.0 shortlnk.xyz
 0.0.0.0 shortlr.com
 0.0.0.0 shortlurl.com
@@ -8598,6 +8587,7 @@
 0.0.0.0 u4y.ch
 0.0.0.0 u6e.de
 0.0.0.0 u99.pro
+0.0.0.0 u9x.wtf
 0.0.0.0 uabio.me
 0.0.0.0 uafly.co
 0.0.0.0 ual.fyi

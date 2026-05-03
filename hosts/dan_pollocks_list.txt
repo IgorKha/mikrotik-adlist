@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.17.62
-! Last modified: 2026-04-26T10:00:32.574Z
+! Version: 1.0.17.80
+! Last modified: 2026-05-03T07:01:48.131Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.17.62
+! Version: 1.0.17.80
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-26T03:14:57.137Z
+! Last modified: 2026-05-02T18:26:29.674Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1511,6 +1511,7 @@
 0.0.0.0 bouygiestelecom.fr
 0.0.0.0 bpong.fr
 0.0.0.0 bracabrac.fr
+0.0.0.0 brainns.sa.com
 0.0.0.0 breg.fr
 0.0.0.0 breitbart.fr
 0.0.0.0 breizh-ile.fr
@@ -1523,6 +1524,7 @@
 0.0.0.0 brokking.fr
 0.0.0.0 brostyles.fr
 0.0.0.0 brunga.at	# Facebook phishing attempt
+0.0.0.0 bsugars.sa.com
 0.0.0.0 bt.webwise.org
 0.0.0.0 bulletwhiskey.sa.com
 0.0.0.0 bundesanzeiger.fr
@@ -1632,6 +1634,7 @@
 0.0.0.0 climate-actionpayment.com
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
+0.0.0.0 cloudalert.shop
 0.0.0.0 cltxhot.fun
 0.0.0.0 cmcre.fr
 0.0.0.0 cndpt.fr
@@ -1696,6 +1699,7 @@
 0.0.0.0 croissieres.fr
 0.0.0.0 crouslyon.fr
 0.0.0.0 crpo.fr
+0.0.0.0 crrect.sa.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 ctmsapp.com
 0.0.0.0 cuder.fr
@@ -1730,6 +1734,7 @@
 0.0.0.0 deloitteca.com
 0.0.0.0 delphix.fr
 0.0.0.0 deltarviews.bond
+0.0.0.0 dentalfix.shop
 0.0.0.0 denx.fr
 0.0.0.0 department06.fr
 0.0.0.0 deposit-cra2023.com
@@ -1737,6 +1742,7 @@
 0.0.0.0 depositphotos.fr
 0.0.0.0 depottool.bond
 0.0.0.0 desertdreamtour.com
+0.0.0.0 desfans.sportgroup.cl
 0.0.0.0 details-update.com
 0.0.0.0 devguardmap.org
 0.0.0.0 dewinci.fr
@@ -1881,6 +1887,7 @@
 0.0.0.0 flightams.fr
 0.0.0.0 fnactickets.fr
 0.0.0.0 foiegras-groliere.fr
+0.0.0.0 foreverprintco.com
 0.0.0.0 formumactif.fr
 0.0.0.0 forumdread.com
 0.0.0.0 forurm-candaulisme.fr
@@ -2620,6 +2627,7 @@
 0.0.0.0 poweroff.pt
 0.0.0.0 powertrfic.fr
 0.0.0.0 ppoi.org
+0.0.0.0 ppures.shop
 0.0.0.0 pr-wealth.in
 0.0.0.0 predictiondisplay.com
 0.0.0.0 predictivadnetwork.com
@@ -3109,6 +3117,7 @@
 0.0.0.0 ws49.crypto-loot.com
 0.0.0.0 ws50.crypto-loot.com
 0.0.0.0 wwnc.xyz
+0.0.0.0 www.316ee.com
 0.0.0.0 www.7zip.fr
 0.0.0.0 www.991abc.com
 0.0.0.0 www.a2uu36g43l.download
@@ -3173,6 +3182,7 @@
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
 0.0.0.0 www.blogmaking.com
+0.0.0.0 www.blueadvantagearkasas.com
 0.0.0.0 www.bluecollarparanormal.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
@@ -3199,10 +3209,12 @@
 0.0.0.0 www.cambonanza.com
 0.0.0.0 www.camtory.com
 0.0.0.0 www.canadianshawid.com
+0.0.0.0 www.caothusohoc.com
 0.0.0.0 www.caramail.com
 0.0.0.0 www.careertake.com
 0.0.0.0 www.carehigher.com
 0.0.0.0 www.carolmassoterapia.com
+0.0.0.0 www.casinostarluck.net
 0.0.0.0 www.cassink.com
 0.0.0.0 www.catabcde.com
 0.0.0.0 www.catjre.com
@@ -3242,8 +3254,10 @@
 0.0.0.0 www.controlpop.com
 0.0.0.0 www.cookoven.com
 0.0.0.0 www.corlythra.uk
+0.0.0.0 www.corvettiortho.com
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
+0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
 0.0.0.0 www.ctlcai.com
@@ -3348,6 +3362,7 @@
 0.0.0.0 www.ggdark.net
 0.0.0.0 www.gildedrosens.name
 0.0.0.0 www.gimp.es
+0.0.0.0 www.glassygrovefy.pro
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.goggle.com
 0.0.0.0 www.goldentopics.com
@@ -3469,6 +3484,7 @@
 0.0.0.0 www.milgaard.com
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
+0.0.0.0 www.miocardite.com
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.moncasinoonline.com
 0.0.0.0 www.monkeyball.osa.pl
@@ -3486,6 +3502,7 @@
 0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
 0.0.0.0 www.myfavcouponstore.com
+0.0.0.0 www.myfurnituresirplus.com
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
@@ -3502,6 +3519,7 @@
 0.0.0.0 www.nigja.com
 0.0.0.0 www.nnews.net
 0.0.0.0 www.nobetsjustfun.com
+0.0.0.0 www.noithatphanthinh.com
 0.0.0.0 www.northvalesgrids.uk
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
@@ -3534,9 +3552,11 @@
 0.0.0.0 www.paintballpins.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
+0.0.0.0 www.palaceskateboard.com
 0.0.0.0 www.paramutplus.com
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
+0.0.0.0 www.paseyourself.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.pcfixguide.help
 0.0.0.0 www.pdrill.com
@@ -3578,6 +3598,7 @@
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.ptcasinoonline.com
+0.0.0.0 www.puppywoodshihtzu.com
 0.0.0.0 www.purchaseproof.com
 0.0.0.0 www.pure-glance.com
 0.0.0.0 www.qateee.com
@@ -3607,6 +3628,7 @@
 0.0.0.0 www.riversidefr.com
 0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
+0.0.0.0 www.robkellysurf.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.rtpbolaslotjago.com
 0.0.0.0 www.russian-sex.com
@@ -3649,6 +3671,7 @@
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssdede.com
 0.0.0.0 www.ssl2.in
+0.0.0.0 www.startupsforstartups.com
 0.0.0.0 www.statsff.com
 0.0.0.0 www.steelbucks.com
 0.0.0.0 www.stellarium.fr
@@ -3716,6 +3739,7 @@
 0.0.0.0 www.videonhadat.com
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.vkvmotion.com
+0.0.0.0 www.vnailssanclemente.com
 0.0.0.0 www.voolat.com
 0.0.0.0 www.walkhelp.net
 0.0.0.0 www.wantsfly.com
@@ -3725,12 +3749,14 @@
 0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.webassembly.stream
+0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.websrruss.com
 0.0.0.0 www.webwise.com
 0.0.0.0 www.webwise.org
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
+0.0.0.0 www.wezelco.com
 0.0.0.0 www.whiskeyallys.com
 0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
@@ -3747,6 +3773,7 @@
 0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.xandermaker.com
+0.0.0.0 www.xdesimbi.com
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com
@@ -3765,6 +3792,7 @@
 0.0.0.0 xxlargepop.com
 0.0.0.0 yachtingmagazine.fr
 0.0.0.0 yama.myfixhub.cfd
+0.0.0.0 yanteaviation.com
 0.0.0.0 ycapital.fr
 0.0.0.0 yev.moviesdirectpro.com
 0.0.0.0 yexex.comfortykive.xyz

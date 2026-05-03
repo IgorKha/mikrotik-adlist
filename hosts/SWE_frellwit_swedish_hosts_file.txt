@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.50
-! Last modified: 2026-04-26T10:00:44.589Z
+! Version: 1.0.15.51
+! Last modified: 2026-05-03T07:01:57.607Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -537,7 +537,6 @@
 0.0.0.0 insight.nikkasystems.com
 0.0.0.0 insights.algolia.io
 0.0.0.0 interactions.sesamy.com
-0.0.0.0 investerarbrevet.se
 0.0.0.0 inviso.rampanel.com
 0.0.0.0 invite.leanlab.co
 0.0.0.0 ion.btcswe.com
@@ -1000,7 +999,6 @@
 0.0.0.0 tracking.etidning.vetlandaposten.se
 0.0.0.0 tracking.etidning.vlt.se
 0.0.0.0 tracking.etidning.vn.se
-0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.expressen.se
 0.0.0.0 tracking.falkopingstidning.se
 0.0.0.0 tracking.falukuriren.se
