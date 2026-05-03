@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.55
-! Last modified: 2026-04-26T10:00:49.555Z
+! Version: 1.0.20.62
+! Last modified: 2026-05-03T07:02:01.267Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -23,6 +23,7 @@
 0.0.0.0 accbing.com
 0.0.0.0 adflowtube.com
 0.0.0.0 adidasko.com
+0.0.0.0 adminicesm.life
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 afiletoget.click
 0.0.0.0 air-up-turkiye.com
@@ -47,6 +48,7 @@
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
 0.0.0.0 anacondanz.com
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -63,6 +65,7 @@
 0.0.0.0 avarik.web.app
 0.0.0.0 azfancy.com
 0.0.0.0 azsolver.com
+0.0.0.0 azvclothing.com
 0.0.0.0 babybeddingdesign.com
 0.0.0.0 bajeczki.org.pl
 0.0.0.0 baltic-pipe-finansowy.blogspot.com
@@ -134,7 +137,6 @@
 0.0.0.0 canjaume.com
 0.0.0.0 caraci.it
 0.0.0.0 casualdating1.com
-0.0.0.0 cda-pl.pl
 0.0.0.0 cda-zalukaj.prv.pl
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
@@ -147,6 +149,7 @@
 0.0.0.0 cinemak.pl
 0.0.0.0 cipustar.com
 0.0.0.0 cityofdream.co.uk
+0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 cmoboy.com
 0.0.0.0 cofdeal.com
@@ -221,6 +224,7 @@
 0.0.0.0 edgeupgrade.com
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 ekommmedia.com
+0.0.0.0 emberio.com
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 envisiongear.com
 0.0.0.0 eset.co.il
@@ -282,7 +286,6 @@
 0.0.0.0 finnews7.wordpress.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
-0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
 0.0.0.0 flattee.com
@@ -291,7 +294,6 @@
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
-0.0.0.0 frostgoddess.com
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fullview.pl
 0.0.0.0 fundanemt.org
@@ -346,7 +348,6 @@
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
 0.0.0.0 hityvod.pl
-0.0.0.0 hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 hotbignews.com
 0.0.0.0 hotdebrid.com
@@ -403,7 +404,6 @@
 0.0.0.0 injustice.site
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
-0.0.0.0 iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
 0.0.0.0 itseasy.com
 0.0.0.0 ivisa.com
@@ -460,6 +460,7 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
+0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
@@ -486,9 +487,6 @@
 0.0.0.0 ms-analytics.mywire.org
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
-0.0.0.0 mulllvad.org
-0.0.0.0 mullvaad.net
-0.0.0.0 multifilmy.pl
 0.0.0.0 muskusa.com
 0.0.0.0 mybestautologin567.com
 0.0.0.0 myblogshop.top
@@ -505,7 +503,6 @@
 0.0.0.0 navi12.com
 0.0.0.0 navi18.com
 0.0.0.0 navi2.com
-0.0.0.0 navi20.com
 0.0.0.0 navi20.ru
 0.0.0.0 navi21.com
 0.0.0.0 navi21.ru
@@ -518,7 +515,6 @@
 0.0.0.0 navi26.ru
 0.0.0.0 navi27.ru
 0.0.0.0 navi3.com
-0.0.0.0 navi30.com
 0.0.0.0 navi30.ru
 0.0.0.0 navi33.com
 0.0.0.0 navi35.com
@@ -527,11 +523,10 @@
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 navi42.ru
-0.0.0.0 navi45.ru
+0.0.0.0 navi44.com
 0.0.0.0 navi5.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
-0.0.0.0 navi55.com
 0.0.0.0 navi56.com
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
@@ -563,6 +558,7 @@
 0.0.0.0 nextstephire.net
 0.0.0.0 nicelegant.com
 0.0.0.0 niche3d.us
+0.0.0.0 nip1.com
 0.0.0.0 nip17.com
 0.0.0.0 nip2.com
 0.0.0.0 nip24.com
@@ -632,7 +628,6 @@
 0.0.0.0 pharaohstore.com
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
-0.0.0.0 phpmyadmin.staging.demo.www1.transaction-processing.one
 0.0.0.0 pinjamanelit.top
 0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 pinjamteman.top
@@ -657,6 +652,7 @@
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 punchonsol.top
 0.0.0.0 qq51f.short.gy
+0.0.0.0 quitasueno.com
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
 0.0.0.0 resources4gaming.com
@@ -770,8 +766,6 @@
 0.0.0.0 tamed-exotics.com
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tbao684tryo.com
-0.0.0.0 tdgrop168.vip
-0.0.0.0 teearrow.com
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
@@ -797,7 +791,6 @@
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 touristvisaonline.com
 0.0.0.0 toweragency.in
-0.0.0.0 townaptdesk.info
 0.0.0.0 toyrube.com
 0.0.0.0 tpqcywcx.page.link
 0.0.0.0 trade-skins.net
@@ -805,6 +798,7 @@
 0.0.0.0 travelexpress.us.com
 0.0.0.0 travelvisabookings.com
 0.0.0.0 travisa.com
+0.0.0.0 trendsharks.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 tripinpremiumsnacks.com
 0.0.0.0 trivo.uk
@@ -897,7 +891,6 @@
 0.0.0.0 watchseniorfit.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 wazofurniture.com
-0.0.0.0 wealthsimple-zfmip.com
 0.0.0.0 weathly.com
 0.0.0.0 webvod.pl
 0.0.0.0 whbinder.com
