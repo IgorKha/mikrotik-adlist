@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
 ! Version: 1.0.3.8
-! Last modified: 2026-05-10T07:06:01.160Z
+! Last modified: 2026-05-10T08:50:42.977Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
