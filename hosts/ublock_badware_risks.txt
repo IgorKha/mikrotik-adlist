@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.21.70
-! Last modified: 2026-05-03T07:02:08.853Z
+! Version: 1.0.21.75
+! Last modified: 2026-05-10T07:06:27.685Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -506,6 +506,7 @@
 0.0.0.0 divibase.xyz
 0.0.0.0 kensatsu.top
 0.0.0.0 lincolnforestlakeproject.com
+0.0.0.0 safeageplan.link
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -3212,6 +3213,49 @@
 0.0.0.0 chrome-gooogle-zh.hl.cn
 0.0.0.0 apps-google-hl.hl.cn
 0.0.0.0 google-chrrome-zh.hl.cn
+0.0.0.0 chrome-chrome-
+0.0.0.0 zhcn-chrome-chrome.com.cn
+0.0.0.0 chrome-chrome-cn.hl.cn
+0.0.0.0 chrome-chrome-zh.hl.cn
+0.0.0.0 zh-todesk-cn.hl.cn
+0.0.0.0 de-todesk.com.cn
+0.0.0.0 kb-wps.com.cn
+0.0.0.0 todesk-web.hl.cn
+0.0.0.0 sougoucom.cn
+0.0.0.0 lineapps.com.cn
+0.0.0.0 web-todesk.com.cn
+0.0.0.0 qh-qishuiyinyue.hl.cn
+0.0.0.0 yu-qishui.com.cn
+0.0.0.0 lline.com.cn
+0.0.0.0 ks-wps.com.cn
+0.0.0.0 line-go.hl.cn
+0.0.0.0 line163.com
+0.0.0.0 store-sogou.com
+0.0.0.0 huoronggw.org.cn
+0.0.0.0 firefox-zh.com.cn
+0.0.0.0 huoronggk.com
+0.0.0.0 wk-wps.com.cn
+0.0.0.0 hj-wps.com.cn
+0.0.0.0 hq-wps.com.cn
+0.0.0.0 qishuiq.com.cn
+0.0.0.0 google-google-chrome-google-com.hl.cn
+0.0.0.0 yd-fanyi.hl.cn
+0.0.0.0 aaa-youdao.com.cn
+0.0.0.0 hv-youdao.com.cn
+0.0.0.0 fanxa-youdao.com.cn
+0.0.0.0 go-youdao.com.cn
+0.0.0.0 mac-youdao.com
+0.0.0.0 m-todesk.com.cn
+0.0.0.0 w-todesk.com.cn
+0.0.0.0 n-todesk.com.cn
+0.0.0.0 mu-qishuimusic.com.cn
+0.0.0.0 cn-qishui-music-zh.hl.cn
+0.0.0.0 app-dingding.com.cn
+0.0.0.0 po-todesk.com.cn
+0.0.0.0 w-dingding.com.cn
+0.0.0.0 youdaoi.com
+0.0.0.0 ee-web-youdao.com.cn
+0.0.0.0 translate-youdao.com.cn
 0.0.0.0 testio.ecartdev.com
 0.0.0.0 applot-jp.com
 0.0.0.0 orcanmedikal.com.tr
@@ -3231,3 +3275,6 @@
 0.0.0.0 360guard-360.cn
 0.0.0.0 360weishi-360.cn
 0.0.0.0 www-rarlab.com
+0.0.0.0 goldbergcoins.com
+0.0.0.0 erahitopupikloss.com
+0.0.0.0 asionamedrafter.com

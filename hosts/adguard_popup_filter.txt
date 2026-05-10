@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.2
-! Last modified: 2026-05-03T07:01:49.865Z
+! Version: 1.0.18.4
+! Last modified: 2026-05-10T07:05:59.939Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 freebestgames2025.com
 0.0.0.0 b-short.link
 0.0.0.0 go.gsrv.dev
 0.0.0.0 kjfmvnuri.click
@@ -587,7 +588,6 @@
 0.0.0.0 paulastroid.com
 0.0.0.0 peaktrck.uno
 0.0.0.0 pemsrv.com
-0.0.0.0 permanentillnessclever.com
 0.0.0.0 pexorise.com
 0.0.0.0 phazashabu.pro
 0.0.0.0 phgotof2.com
@@ -606,7 +606,6 @@
 0.0.0.0 popmyads.com
 0.0.0.0 popupblockermax.app
 0.0.0.0 popupsblocker.org
-0.0.0.0 potsaglu.net
 0.0.0.0 ppcmate.com
 0.0.0.0 pretrackings.com
 0.0.0.0 prfwhite.com
@@ -622,7 +621,6 @@
 0.0.0.0 protection-suggestion.com
 0.0.0.0 provenpixel.com
 0.0.0.0 prwave.info
-0.0.0.0 psockapa.net
 0.0.0.0 pubadx.one
 0.0.0.0 pubtrky.com
 0.0.0.0 pupspu.com
@@ -644,7 +642,6 @@
 0.0.0.0 realsh.xyz
 0.0.0.0 realtime-bid.com
 0.0.0.0 recesstransport.icu
-0.0.0.0 redirecting.online
 0.0.0.0 reebr.com
 0.0.0.0 rel-s.com
 0.0.0.0 resentreaccotia.com
@@ -664,7 +661,6 @@
 0.0.0.0 roots.baby
 0.0.0.0 roundflow.net
 0.0.0.0 roupitpompier.cfd
-0.0.0.0 routes.name
 0.0.0.0 rovno.xyz
 0.0.0.0 rtbbhub.com
 0.0.0.0 rtbbpowaq.com
@@ -675,7 +671,6 @@
 0.0.0.0 sabasadara.com
 0.0.0.0 safeonlinetips.com
 0.0.0.0 savinist.com
-0.0.0.0 sawd.cloud
 0.0.0.0 schedulerationally.com
 0.0.0.0 searchresultsadblocker.com
 0.0.0.0 secretarypleasure.xyz

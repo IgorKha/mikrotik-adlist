@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.5
-! Last modified: 2026-05-03T07:01:44.701Z
+! Version: 1.0.17.10
+! Last modified: 2026-05-10T07:05:53.396Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -146,7 +146,6 @@
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wz.cz
 0.0.0.0 ad.xiaomi.com
-0.0.0.0 ad.xmovies8.si
 0.0.0.0 ad.xrea.com
 0.0.0.0 ad.ztylez.com
 0.0.0.0 ad0.bigmir.net
@@ -304,7 +303,6 @@
 0.0.0.0 adpepper.nl
 0.0.0.0 adperium.com
 0.0.0.0 adpia.vn
-0.0.0.0 adplxmd.com
 0.0.0.0 adprofits.ru
 0.0.0.0 adpushup.com
 0.0.0.0 adrazzi.com
@@ -554,7 +552,6 @@
 0.0.0.0 ads.townhall.com
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.trinitymirror.co.uk
-0.0.0.0 ads.tripod.com
 0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 ads.tripod.lycos.es
 0.0.0.0 ads.tripod.lycos.it
@@ -1137,6 +1134,7 @@
 0.0.0.0 bttrack.com
 0.0.0.0 bubblyaction.com
 0.0.0.0 buddycanvas.com
+0.0.0.0 bugpuk.ru
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
@@ -1197,6 +1195,7 @@
 0.0.0.0 cetrk.com
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chairscrack.com
+0.0.0.0 chalkdream.com
 0.0.0.0 channelintelligence.com
 0.0.0.0 chargecracker.com
 0.0.0.0 chart.dk
@@ -1247,7 +1246,6 @@
 0.0.0.0 click.i.southwesternrailway.com
 0.0.0.0 click.infoblox.com
 0.0.0.0 click.justwatch.com
-0.0.0.0 click.kmindex.ru
 0.0.0.0 click.liftoff.io
 0.0.0.0 click.mail.hotels.com
 0.0.0.0 click.mail.salesforce.com
@@ -1373,7 +1371,6 @@
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.snackly.co
-0.0.0.0 counting.kmindex.ru
 0.0.0.0 coupling-media.de
 0.0.0.0 cowbelltime.com
 0.0.0.0 coxmt.com
@@ -1472,6 +1469,7 @@
 0.0.0.0 disqusads.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
+0.0.0.0 distilltable.com
 0.0.0.0 districtm.ca
 0.0.0.0 districtm.io
 0.0.0.0 dmp.mall.tv
@@ -1751,7 +1749,6 @@
 0.0.0.0 go.first.org
 0.0.0.0 go.icann.org
 0.0.0.0 go.scmagazine.com
-0.0.0.0 go.usa.gov
 0.0.0.0 go.xlirdr.com
 0.0.0.0 go2affise.com
 0.0.0.0 godseedband.com
@@ -1805,7 +1802,6 @@
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 heap.com
-0.0.0.0 heimi-lwx.com
 0.0.0.0 hellobar.com
 0.0.0.0 helpcollar.com
 0.0.0.0 hentaicounter.com
@@ -2235,7 +2231,6 @@
 0.0.0.0 mintfunnel.co
 0.0.0.0 mittencattle.com
 0.0.0.0 mix2ads.com
-0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mkto-ab410147.com
 0.0.0.0 mktoresp.com
@@ -2617,7 +2612,6 @@
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
 0.0.0.0 pureclarity.net
-0.0.0.0 pushance.com
 0.0.0.0 pushengage.com
 0.0.0.0 pushno.com
 0.0.0.0 pushtrack.co
@@ -2655,7 +2649,6 @@
 0.0.0.0 r1.visualwebsiteoptimizer.com
 0.0.0.0 r2.visualwebsiteoptimizer.com
 0.0.0.0 r3.visualwebsiteoptimizer.com
-0.0.0.0 raac33.net
 0.0.0.0 rabbitrifle.com
 0.0.0.0 rackforstorage.com
 0.0.0.0 radar.cedexis.com
@@ -2829,6 +2822,7 @@
 0.0.0.0 securedopen-bp.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemetrics.apple.com.cn
+0.0.0.0 securityannex.net
 0.0.0.0 sedoparking.com
 0.0.0.0 sedotracker.com
 0.0.0.0 segment-cdn.producthunt.com
@@ -3507,7 +3501,6 @@
 0.0.0.0 zedo.com
 0.0.0.0 zemanta.com
 0.0.0.0 zencudo.co.uk
-0.0.0.0 zenkreka.com
 0.0.0.0 zenzuu.com
 0.0.0.0 zephyrlabyrinth.com
 0.0.0.0 zeus.developershed.com

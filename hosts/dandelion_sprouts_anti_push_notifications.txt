@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
-! Version: 1.0.14.64
-! Last modified: 2026-05-03T07:01:55.193Z
+! Version: 1.0.14.65
+! Last modified: 2026-05-10T07:06:06.380Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 potisni.me
 0.0.0.0 allownotification.com
@@ -21,10 +21,12 @@
 0.0.0.0 webpush.
 0.0.0.0 notif.generation-nt.com
 0.0.0.0 api-push.com
+0.0.0.0 bildirim.com.tr
 0.0.0.0 bildirimat.com
 0.0.0.0 bildirnet.com
 0.0.0.0 braze.com
 0.0.0.0 cappushino.com
+0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.qgr.ph
 0.0.0.0 cdn.qgraph.io
 0.0.0.0 centrnotify.com
@@ -145,7 +147,6 @@
 0.0.0.0 danorenius.com
 0.0.0.0 digitalpush.org
 0.0.0.0 edrone.me
-0.0.0.0 face-push.com
 0.0.0.0 feedify.net
 0.0.0.0 feraciumus.com
 0.0.0.0 fernomius.com
@@ -210,6 +211,13 @@
 0.0.0.0 pushme.magellanotech.it
 0.0.0.0 widget.push.forja.ma
 0.0.0.0 sdk.chirpyweb.com
+0.0.0.0 townrdwarfer.com
+0.0.0.0 wstpush-mobile.terra.com
+0.0.0.0 martabackrock.com
+0.0.0.0 pushkite.com
+0.0.0.0 smbtnupsh.com
+0.0.0.0 dashboard.bildircin.az
+0.0.0.0 connect.cdnsb.net
 0.0.0.0 hotbbawese.cc
 0.0.0.0 qepolax.com
 0.0.0.0 tel1mekar.com
@@ -218,7 +226,6 @@
 0.0.0.0 puhyjyf.com
 0.0.0.0 speraspace.com
 0.0.0.0 sendpush.net
-0.0.0.0 personaclick.com
 0.0.0.0 quickalert.org
 0.0.0.0 ziwelatum.com
 0.0.0.0 pushly.net
@@ -270,7 +277,6 @@
 0.0.0.0 cdn.hostpush.info
 0.0.0.0 cdn.letreach.com
 0.0.0.0 cdn.mxapis.com
-0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.siteswithcontent.com
 0.0.0.0 cdnt.netcoresmartech.com
 0.0.0.0 celesterium.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.62
-! Last modified: 2026-05-03T07:02:01.267Z
+! Version: 1.0.20.69
+! Last modified: 2026-05-10T07:06:15.839Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -29,7 +29,6 @@
 0.0.0.0 air-up-turkiye.com
 0.0.0.0 airteltower.com
 0.0.0.0 airtoff.com
-0.0.0.0 airup-nederland.com
 0.0.0.0 airup-romania.com
 0.0.0.0 airupbulgaria.com
 0.0.0.0 airupgreece.net
@@ -47,8 +46,6 @@
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
-0.0.0.0 anacondanz.com
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -58,6 +55,7 @@
 0.0.0.0 arthoodie.com
 0.0.0.0 arvetellefsen.no
 0.0.0.0 atlaspvs.com
+0.0.0.0 atrendsz.com
 0.0.0.0 audiosg.com.sg
 0.0.0.0 augusthenri.be
 0.0.0.0 aussiesportfashion.com
@@ -88,7 +86,6 @@
 0.0.0.0 binomo.app
 0.0.0.0 binomo.broker
 0.0.0.0 binomo.com
-0.0.0.0 binomo.in
 0.0.0.0 binomo.info
 0.0.0.0 binomo.vip
 0.0.0.0 binomo1.com
@@ -137,6 +134,7 @@
 0.0.0.0 canjaume.com
 0.0.0.0 caraci.it
 0.0.0.0 casualdating1.com
+0.0.0.0 cda-pl.pl
 0.0.0.0 cda-zalukaj.prv.pl
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
@@ -151,6 +149,7 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
+0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 cofdeal.com
 0.0.0.0 cognatesyringe.com
@@ -177,6 +176,7 @@
 0.0.0.0 cycle100percent.com
 0.0.0.0 czasnakino.pl
 0.0.0.0 czwcvfbc.page.link
+0.0.0.0 d.slowmitter.top
 0.0.0.0 danainstan.xyz
 0.0.0.0 danylevych.com
 0.0.0.0 dash.pocketuniverse.app
@@ -264,7 +264,6 @@
 0.0.0.0 faze47.com
 0.0.0.0 faze5.com
 0.0.0.0 faze77.com
-0.0.0.0 faze8.com
 0.0.0.0 faze9.com
 0.0.0.0 fazpowerdenet.tumblr.com
 0.0.0.0 fdrc-gov.org
@@ -274,6 +273,7 @@
 0.0.0.0 fili-cc.tv
 0.0.0.0 filman-hd.cc
 0.0.0.0 filmersi.pl
+0.0.0.0 filmhit.pl
 0.0.0.0 filmhunt.pl
 0.0.0.0 filmo.agency
 0.0.0.0 filmobaza.pl
@@ -286,6 +286,7 @@
 0.0.0.0 finnews7.wordpress.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
+0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
 0.0.0.0 flattee.com
@@ -294,6 +295,7 @@
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
+0.0.0.0 frostgoddess.com
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fullview.pl
 0.0.0.0 fundanemt.org
@@ -348,6 +350,7 @@
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
 0.0.0.0 hityvod.pl
+0.0.0.0 hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 hotbignews.com
 0.0.0.0 hotdebrid.com
@@ -404,6 +407,7 @@
 0.0.0.0 injustice.site
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
+0.0.0.0 iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
 0.0.0.0 itseasy.com
 0.0.0.0 ivisa.com
@@ -441,6 +445,7 @@
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 lds.xyz
 0.0.0.0 ledgerlivewallets.com
+0.0.0.0 lemstore.com
 0.0.0.0 leonoremanry.sa.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 lesliespracklen.sa.com
@@ -460,10 +465,8 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
-0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
 0.0.0.0 maebl.com
-0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
 0.0.0.0 malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
@@ -487,13 +490,16 @@
 0.0.0.0 ms-analytics.mywire.org
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
+0.0.0.0 muskai.net
 0.0.0.0 muskusa.com
 0.0.0.0 mybestautologin567.com
 0.0.0.0 myblogshop.top
 0.0.0.0 myfunfarm.com
 0.0.0.0 myhandshops.myshopify.com
 0.0.0.0 mypuregaming.com
+0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
+0.0.0.0 natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 natvisa.com
 0.0.0.0 navi1.com
@@ -664,6 +670,7 @@
 0.0.0.0 rjgriffith.com
 0.0.0.0 robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
+0.0.0.0 robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 rosateeshop.com
 0.0.0.0 royaldecorhome.store
@@ -903,7 +910,6 @@
 0.0.0.0 wpad.ru
 0.0.0.0 wpad.top
 0.0.0.0 wpad.xyz
-0.0.0.0 wpclick.cc
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
 0.0.0.0 xcartpro.com
@@ -912,7 +918,6 @@
 0.0.0.0 xvid.social-previews.top
 0.0.0.0 yahhhoo.com
 0.0.0.0 yasir252.com
-0.0.0.0 yeezysofficial.us.com
 0.0.0.0 yeswevibe.com
 0.0.0.0 yeyvibe.com
 0.0.0.0 ygtube.xyz

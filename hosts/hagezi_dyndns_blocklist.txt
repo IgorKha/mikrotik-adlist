@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.68
-! Last modified: 2026-05-03T07:02:09.133Z
+! Version: 1.0.16.71
+! Last modified: 2026-05-10T07:06:28.235Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0x.no
@@ -92,6 +92,7 @@
 0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
+0.0.0.0 awiki.org
 0.0.0.0 ax.lt
 0.0.0.0 b0tnet.com
 0.0.0.0 b33r.us
@@ -516,7 +517,6 @@
 0.0.0.0 freeddns.us
 0.0.0.0 freedynamicdns.net
 0.0.0.0 freedynamicdns.org
-0.0.0.0 freehost000.xyz
 0.0.0.0 freemyip.com
 0.0.0.0 freesa.org
 0.0.0.0 freetcp.com
@@ -1374,7 +1374,6 @@
 0.0.0.0 twsuser.com
 0.0.0.0 tzo.com
 0.0.0.0 ucvradio.cl
-0.0.0.0 udp64.de
 0.0.0.0 ufcfan.org
 0.0.0.0 ufodns.com
 0.0.0.0 ugo.si
