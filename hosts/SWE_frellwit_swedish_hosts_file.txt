@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.51
-! Last modified: 2026-05-10T08:50:50.127Z
+! Version: 1.0.15.52
+! Last modified: 2026-05-17T07:09:23.687Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -129,6 +129,7 @@
 0.0.0.0 analytics.nikkasystems.com
 0.0.0.0 analytics.recept.se
 0.0.0.0 analytics.residencemagazine.se
+0.0.0.0 analytics.samnytt.se
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sjf.se
 0.0.0.0 analytics.sleeknote.com

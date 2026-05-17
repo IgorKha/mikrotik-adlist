@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.69
-! Last modified: 2026-05-10T08:50:53.787Z
+! Version: 1.0.20.76
+! Last modified: 2026-05-17T07:09:27.327Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -42,10 +42,10 @@
 0.0.0.0 allergyfl.com
 0.0.0.0 allnewsready.com
 0.0.0.0 allstarshirt.com
-0.0.0.0 allupdatenow.com
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -86,6 +86,7 @@
 0.0.0.0 binomo.app
 0.0.0.0 binomo.broker
 0.0.0.0 binomo.com
+0.0.0.0 binomo.in
 0.0.0.0 binomo.info
 0.0.0.0 binomo.vip
 0.0.0.0 binomo1.com
@@ -118,7 +119,6 @@
 0.0.0.0 bsnltower.com
 0.0.0.0 bsnltowerinstallations.com
 0.0.0.0 bsntowoff.com
-0.0.0.0 btc9339.com
 0.0.0.0 buddhakind.com
 0.0.0.0 budm.shop
 0.0.0.0 burgershirt.com
@@ -149,9 +149,7 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
-0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
-0.0.0.0 cofdeal.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coiincmi.com
 0.0.0.0 coinaps.com
@@ -286,7 +284,6 @@
 0.0.0.0 finnews7.wordpress.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
-0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
 0.0.0.0 flattee.com
@@ -359,7 +356,6 @@
 0.0.0.0 hudson-bay.com
 0.0.0.0 hushlove.com
 0.0.0.0 hyndtren25.pages.dev
-0.0.0.0 i-grade.online
 0.0.0.0 i-visaindia.com
 0.0.0.0 iagadvanced.com
 0.0.0.0 iaqorwr.com
@@ -400,7 +396,6 @@
 0.0.0.0 indiavisa.com.sg
 0.0.0.0 indiavisa.my
 0.0.0.0 indiavisa.org
-0.0.0.0 indiavisaonline.org
 0.0.0.0 infinityto.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
@@ -422,6 +417,7 @@
 0.0.0.0 karanpcofficial.blogspot.com
 0.0.0.0 kesug.com
 0.0.0.0 kigurumi-usa.com
+0.0.0.0 killercharm.com
 0.0.0.0 kingcampoutdoors.co.jp
 0.0.0.0 kino-cda.pl
 0.0.0.0 kinomaniak.cc
@@ -465,7 +461,9 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
+0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
+0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 mail-cytanet.pages.dev
 0.0.0.0 malgorzataschlegel.click
@@ -488,6 +486,7 @@
 0.0.0.0 modmobile24.com
 0.0.0.0 monkstars.com
 0.0.0.0 ms-analytics.mywire.org
+0.0.0.0 msgclick.top
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 muskai.net
@@ -580,7 +579,6 @@
 0.0.0.0 nip9.com
 0.0.0.0 nip98.com
 0.0.0.0 nirvezal.com
-0.0.0.0 nobrerefino.com
 0.0.0.0 nofotballshop.com
 0.0.0.0 nonofy.com
 0.0.0.0 norfotball.com
@@ -670,7 +668,6 @@
 0.0.0.0 rjgriffith.com
 0.0.0.0 robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
-0.0.0.0 robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 rosateeshop.com
 0.0.0.0 royaldecorhome.store
@@ -845,7 +842,6 @@
 0.0.0.0 uniswaptoken.xyz
 0.0.0.0 uniswaptrading.xyz
 0.0.0.0 universityofqatarrectorate.godaddysites.com
-0.0.0.0 updatesnow.click
 0.0.0.0 uplevelreward.com
 0.0.0.0 uprising.kip.pro
 0.0.0.0 ureashi.com
@@ -893,12 +889,10 @@
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 wadahlapak.top
 0.0.0.0 wallpaperflare.com
-0.0.0.0 warriordecor.com
 0.0.0.0 watchmark.shop
 0.0.0.0 watchseniorfit.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 wazofurniture.com
-0.0.0.0 weathly.com
 0.0.0.0 webvod.pl
 0.0.0.0 whbinder.com
 0.0.0.0 wintexfashions.com

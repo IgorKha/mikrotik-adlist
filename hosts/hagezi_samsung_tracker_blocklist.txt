@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-! Version: 1.0.0.40
-! Last modified: 2026-05-10T08:50:49.227Z
+! Version: 1.0.0.41
+! Last modified: 2026-05-17T07:09:22.876Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -15,6 +15,7 @@
 0.0.0.0 smetrics.samsung.com.cn
 0.0.0.0 push.samsungosp.com.cn
 0.0.0.0 samsungott.sora.yoyi.com.cn
+0.0.0.0 fast.samsungsingapore.demdex.net
 0.0.0.0 samsung.demdex.net
 0.0.0.0 samsung-benelux.demdex.net
 0.0.0.0 samsung-france.demdex.net
@@ -42,7 +43,6 @@
 0.0.0.0 samsunglife.demdex.net
 0.0.0.0 samsungseao.demdex.net
 0.0.0.0 samsungsec.demdex.net
-0.0.0.0 fast.samsungsingapore.demdex.net
 0.0.0.0 samsungspain.demdex.net
 0.0.0.0 samsungthailand.demdex.net
 0.0.0.0 samsungturkey.demdex.net
@@ -53,10 +53,9 @@
 0.0.0.0 samsung.ecorebates.com
 0.0.0.0 samsung.telemetry.eyeo.com
 0.0.0.0 ehg-samsungusa.hitbox.com
-0.0.0.0 moai-dev-samsung.com
+0.0.0.0 samsung.com.ssl.sc.omtrdc.net
 0.0.0.0 samsungcard.sc.omtrdc.net
 0.0.0.0 samsungnorthamerica.sc.omtrdc.net
-0.0.0.0 samsung.com.ssl.sc.omtrdc.net
 0.0.0.0 samsungafrica.tt.omtrdc.net
 0.0.0.0 samsungbenelux.tt.omtrdc.net
 0.0.0.0 samsungcanada.tt.omtrdc.net
@@ -70,7 +69,6 @@
 0.0.0.0 samsungturkey.tt.omtrdc.net
 0.0.0.0 samsungus.tt.omtrdc.net
 0.0.0.0 samsungtv-d.openx.net
-0.0.0.0 qmds-dev-samsung.com
 0.0.0.0 zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com
 0.0.0.0 zn9xowqszdbqtbfwx-seasamsung.siteintercept.qualtrics.com
 0.0.0.0 znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com
@@ -90,30 +88,26 @@
 0.0.0.0 tracking.europe.business.samsung.com
 0.0.0.0 images.it.business.samsung.com
 0.0.0.0 seao.business.samsung.com
-0.0.0.0 channelusa.samsung.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls-udc.dqa.samsung.com
-0.0.0.0 event-tracking.samsung.com
 0.0.0.0 images.frbusiness.samsung.com
 0.0.0.0 bldr.mkt.samsung.com
 0.0.0.0 analytics.mpay.samsung.com
-0.0.0.0 nmetrics.samsung.com
 0.0.0.0 images.partnersupport.samsung.com
-0.0.0.0 plbusiness.samsung.com
 0.0.0.0 api.runestone.samsung.com
 0.0.0.0 di.runestone.samsung.com
-0.0.0.0 sca.samsung.com
 0.0.0.0 lp.smartbusiness.samsung.com
 0.0.0.0 tracking.smartbusiness.samsung.com
-0.0.0.0 smetrics.samsung.com
 0.0.0.0 images.ssbusiness.samsung.com
 0.0.0.0 bigdata.ssp.samsung.com
+0.0.0.0 channelusa.samsung.com
+0.0.0.0 event-tracking.samsung.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 plbusiness.samsung.com
+0.0.0.0 sca.samsung.com
+0.0.0.0 smetrics.samsung.com
 0.0.0.0 target-us.samsung.com
-0.0.0.0 samsungacr.com
-0.0.0.0 samsungadhub.com
-0.0.0.0 samsungads.com
-0.0.0.0 samsungallstore.com
 0.0.0.0 ureca.samsungapps.com
 0.0.0.0 acr-au-prd.samsungcloud.tv
 0.0.0.0 acr-br-prd.samsungcloud.tv
@@ -128,9 +122,9 @@
 0.0.0.0 devicelog.samsungcloudsolution.net
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 prderrordumpssm.samsungcloudsolution.net
+0.0.0.0 report.gras.samsungdm.com
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
-0.0.0.0 report.gras.samsungdm.com
 0.0.0.0 dev-apigw.samsungdmroute.com
 0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 analytics.samsungedo.com
@@ -143,9 +137,9 @@
 0.0.0.0 xpu.samsungelectronics.com
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 zpu.samsungelectronics.com
+0.0.0.0 analytics-dev-api.test.samsunghealth.com
 0.0.0.0 shealth-analytics-api.samsunghealth.com
 0.0.0.0 shealth-analytics-stg-api.samsunghealth.com
-0.0.0.0 analytics-dev-api.test.samsunghealth.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 analytics.samsungknox.com
@@ -157,14 +151,11 @@
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 osb-krsvc.samsungqbe.com
-0.0.0.0 samsungr.com
-0.0.0.0 samsungrm.com
 0.0.0.0 test.samsungrm.net
 0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 matomo.samsungsdibs.at
 0.0.0.0 lp.mkt-email.samsungsds.com
 0.0.0.0 tracking.mkt-email.samsungsds.com
-0.0.0.0 samsungtvads.com
 0.0.0.0 business.samsungusa.com
 0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 lbs-samsung.swypeconnect.com
@@ -199,3 +190,12 @@
 0.0.0.0 samsungusa.api.useinsider.com
 0.0.0.0 samsungvn.api.useinsider.com
 0.0.0.0 h4g3z1-native.samsung.web.app
+0.0.0.0 moai-dev-samsung.com
+0.0.0.0 qmds-dev-samsung.com
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsungallstore.com
+0.0.0.0 samsungr.com
+0.0.0.0 samsungrm.com
+0.0.0.0 samsungtvads.com

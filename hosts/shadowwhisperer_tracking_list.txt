@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.3.8
-! Last modified: 2026-05-10T08:50:42.977Z
+! Version: 1.0.3.14
+! Last modified: 2026-05-17T07:09:16.467Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -3660,6 +3660,7 @@
 0.0.0.0 algospark.com
 0.0.0.0 algqn2trk.com
 0.0.0.0 algt.us
+0.0.0.0 alia-prod.com
 0.0.0.0 aliasanvil.com
 0.0.0.0 alice.bodyandbrows.com
 0.0.0.0 alicrm.alibaba.com
@@ -31982,6 +31983,7 @@
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls-eu.amazon.com.tr
 0.0.0.0 fls-eu.amazon.co.uk
+0.0.0.0 fls-eu.amazon.co.za
 0.0.0.0 fls-eu.amazon.de
 0.0.0.0 fls-eu.amazon.eg
 0.0.0.0 fls-eu.amazon.es
@@ -32023,6 +32025,7 @@
 0.0.0.0 flytxt.com
 0.0.0.0 flywheelma.com
 0.0.0.0 f.majestically.nl
+0.0.0.0 fm-analytics.cloudbees.io
 0.0.0.0 fmbnfnb8trk.com
 0.0.0.0 fm.cnbc.com
 0.0.0.0 fmgbe.vktrygear.com
@@ -39342,6 +39345,7 @@
 0.0.0.0 ipcurl.xyz
 0.0.0.0 ip.cx
 0.0.0.0 ip.dago.ai
+0.0.0.0 ip.darklab.sh
 0.0.0.0 ipdata.co
 0.0.0.0 ip.davidsj.co.uk
 0.0.0.0 ip.ddnspod.com
@@ -59752,6 +59756,7 @@
 0.0.0.0 needyneedle.com
 0.0.0.0 need-your-approval-today.com
 0.0.0.0 nefnje8trk.com
+0.0.0.0 negate.io
 0.0.0.0 negotiatetime.com
 0.0.0.0 nehad.eclubbd.com
 0.0.0.0 nehcj.tryprodenta.com
@@ -68651,6 +68656,7 @@
 0.0.0.0 plausible.vega.dk
 0.0.0.0 plausible.verbose.faith
 0.0.0.0 plausible.vherkudara.id
+0.0.0.0 plausible.vidsonic.net
 0.0.0.0 plausible.vincentbean.com
 0.0.0.0 plausible.vipul.xyz
 0.0.0.0 plausible.vls.tech
@@ -72208,6 +72214,7 @@
 0.0.0.0 rtblab.net
 0.0.0.0 rtb.loopa.net.au
 0.0.0.0 rtb.mts.ru
+0.0.0.0 rtb.netaddiction.tech
 0.0.0.0 rtb.primis.tech
 0.0.0.0 rtbtrack.com
 0.0.0.0 rtb-trk4.linkedin.com
@@ -73369,10 +73376,8 @@
 0.0.0.0 sascdn.com
 0.0.0.0 sa.schneiderb.com
 0.0.0.0 sa.sciencechannel.com
-0.0.0.0 sas.com
 0.0.0.0 sa.scrippslifestylestudios.com
 0.0.0.0 sasc.solidworks.com
-0.0.0.0 sas.de
 0.0.0.0 sa.sento.io
 0.0.0.0 sa.seosamba.com
 0.0.0.0 sa.seotoaster.com
@@ -99333,6 +99338,7 @@
 0.0.0.0 stats.nuweb.fr
 0.0.0.0 stats.nvapple.it
 0.0.0.0 stats.nv.gs
+0.0.0.0 stats.nwe.io
 0.0.0.0 stats.nyb.one
 0.0.0.0 stats.nyteknik.se
 0.0.0.0 stats.nztim.com
