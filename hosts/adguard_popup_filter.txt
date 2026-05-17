@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.4
-! Last modified: 2026-05-10T08:50:42.405Z
+! Version: 1.0.18.7
+! Last modified: 2026-05-17T07:09:15.896Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 kdmupcsngkdoz.website
+0.0.0.0 edge.xtriks.com
 0.0.0.0 freebestgames2025.com
 0.0.0.0 b-short.link
 0.0.0.0 go.gsrv.dev
@@ -248,6 +250,7 @@
 0.0.0.0 ak-is2.net
 0.0.0.0 albonsa.com
 0.0.0.0 alexatracker.com
+0.0.0.0 algesismesse.cyou
 0.0.0.0 alpine-vpn.com
 0.0.0.0 amichi.info
 0.0.0.0 amusing-injury.com
@@ -260,6 +263,7 @@
 0.0.0.0 argrowlitheor.com
 0.0.0.0 asosub.org
 0.0.0.0 astjigglypuffchan.com
+0.0.0.0 atdxamakqo.in
 0.0.0.0 atp.revistamuchomas.com
 0.0.0.0 atsg.me
 0.0.0.0 atthhnv.com
@@ -302,6 +306,7 @@
 0.0.0.0 byethost41.net
 0.0.0.0 c3j7rk-rtbix.top
 0.0.0.0 camliveshow.xyz
+0.0.0.0 candellume.shop
 0.0.0.0 candyai.love
 0.0.0.0 cashgzb.com
 0.0.0.0 casinobonusdeals.io
@@ -393,12 +398,14 @@
 0.0.0.0 foflf.com
 0.0.0.0 freetrckr.com
 0.0.0.0 frequentjam.com
+0.0.0.0 fruityarbors.cfd
 0.0.0.0 fstsrv9.com
 0.0.0.0 fuck-ads.vercel.app
 0.0.0.0 fuse-cloud.com
 0.0.0.0 fuwin.sbs
 0.0.0.0 fzev75-rtbix.top
 0.0.0.0 galaxypush.com
+0.0.0.0 gamazi.com
 0.0.0.0 gamonalsmadevel.com
 0.0.0.0 gb1aff.com
 0.0.0.0 gemfowls.com
@@ -460,6 +467,7 @@
 0.0.0.0 jegiopad.top
 0.0.0.0 jeroud.com
 0.0.0.0 jiuwert.online
+0.0.0.0 jnbhi.com
 0.0.0.0 js-check.com
 0.0.0.0 junkyadexchange.com
 0.0.0.0 jwalkin.com
@@ -496,6 +504,7 @@
 0.0.0.0 making.party
 0.0.0.0 maquiags.com
 0.0.0.0 maredpt.com
+0.0.0.0 marketdeathly.com
 0.0.0.0 marketingthing.click
 0.0.0.0 masterreviews.org
 0.0.0.0 maxconvtrk.com
@@ -554,6 +563,7 @@
 0.0.0.0 northauthority.xyz
 0.0.0.0 novibet.partners
 0.0.0.0 nrs6ffl9w.com
+0.0.0.0 ntesgsght.com
 0.0.0.0 ntrftrksec.com
 0.0.0.0 numbertrck.com
 0.0.0.0 nutchaungong.com
@@ -599,6 +609,7 @@
 0.0.0.0 plinksplanet.com
 0.0.0.0 plorexdry.com
 0.0.0.0 podbex.com
+0.0.0.0 pomxd.com
 0.0.0.0 pooksys.site
 0.0.0.0 popblockergold.com
 0.0.0.0 popcash.net
@@ -631,12 +642,14 @@
 0.0.0.0 pushking.net
 0.0.0.0 pushtorm.net
 0.0.0.0 pushub.net
+0.0.0.0 pwrgamerz.com
 0.0.0.0 qnp16tstw.com
 0.0.0.0 qualiclicks.com
 0.0.0.0 quixoticzest.com
 0.0.0.0 qwikln.com
 0.0.0.0 r8bz.com
 0.0.0.0 racunn.com
+0.0.0.0 radiancerelaysacred.com
 0.0.0.0 rbtfit.com
 0.0.0.0 rcdn-web.com
 0.0.0.0 realsh.xyz
@@ -649,6 +662,7 @@
 0.0.0.0 rhinoaffiliates.com
 0.0.0.0 riflesurfing.xyz
 0.0.0.0 riftharp.com
+0.0.0.0 rm358.com
 0.0.0.0 rmhfrtnd.com
 0.0.0.0 rmzsglng.com
 0.0.0.0 rndskittytor.com
@@ -684,6 +698,7 @@
 0.0.0.0 sgben.com
 0.0.0.0 shakingtacklingunpeeled.com
 0.0.0.0 shauladubhe.top
+0.0.0.0 sheitelhamatum.shop
 0.0.0.0 shoppinglifestyle.biz
 0.0.0.0 shotgunchancecruel.com
 0.0.0.0 shulugoo.net
@@ -729,6 +744,7 @@
 0.0.0.0 theirbellstudio.co
 0.0.0.0 theonesstoodtheirground.com
 0.0.0.0 tigerbrluck.com
+0.0.0.0 tiktok-fly.com
 0.0.0.0 tjwsg.com
 0.0.0.0 toequiet.website
 0.0.0.0 toiletpaper.life
@@ -741,6 +757,7 @@
 0.0.0.0 tr-bouncer.com
 0.0.0.0 track.afrsportsbetting.com
 0.0.0.0 track.bwclk.com
+0.0.0.0 trackadspresent.com
 0.0.0.0 tracker-2.com
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracking-aws-5.com
@@ -752,6 +769,7 @@
 0.0.0.0 trasupr.com
 0.0.0.0 trckqq.com
 0.0.0.0 trckswrm.com
+0.0.0.0 trentbereal.com
 0.0.0.0 trkfomedia.eu
 0.0.0.0 trknovi.com
 0.0.0.0 trkpostback.com
@@ -776,6 +794,7 @@
 0.0.0.0 verdepromo.info
 0.0.0.0 veret-fqv.com
 0.0.0.0 vfgte.com
+0.0.0.0 vibrantscale.com
 0.0.0.0 viiadaof.com
 0.0.0.0 viibslav.com
 0.0.0.0 viiczfvm.com
@@ -811,6 +830,7 @@
 0.0.0.0 wheceelt.net
 0.0.0.0 wintrck.com
 0.0.0.0 wonderadblock.com
+0.0.0.0 wriestunvote.com
 0.0.0.0 wuujae.com
 0.0.0.0 x2tsa.com
 0.0.0.0 x3os.com

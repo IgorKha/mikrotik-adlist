@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.20
-! Last modified: 2026-05-10T08:50:49.453Z
+! Version: 1.0.0.21
+! Last modified: 2026-05-17T07:09:23.102Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -232,6 +232,7 @@
 0.0.0.0 ums-rum-cn.heytapimage.com
 0.0.0.0 ums-rum-global.heytapimage.com
 0.0.0.0 ads.heytapmobi.com
+0.0.0.0 adsbdfsiad-704007db1.heytapmobi.com
 0.0.0.0 logforward.browser.heytapmobi.com
 0.0.0.0 stat.browser.heytapmobi.com
 0.0.0.0 api-cn.cdo.heytapmobi.com

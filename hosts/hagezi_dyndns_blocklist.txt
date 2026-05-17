@@ -1,7 +1,23 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.71
-! Last modified: 2026-05-10T08:51:04.108Z
+! Version: 1.0.16.77
+! Last modified: 2026-05-17T07:09:36.890Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 dyn.addr.tools
+0.0.0.0 changeip.co.uk
+0.0.0.0 dynamicdns.co.uk
+0.0.0.0 no-ip.co.uk
+0.0.0.0 dyn.columbia.edu
+0.0.0.0 ddns.com.br
+0.0.0.0 ddns.com.co
+0.0.0.0 dynamicdns.com.co
+0.0.0.0 winco.com.br
+0.0.0.0 dyn.dns.he.net
+0.0.0.0 4040.idv.tw
+0.0.0.0 dynamicdns.me.uk
+0.0.0.0 d-n-s.org.uk
+0.0.0.0 dynamicdns.org.uk
+0.0.0.0 limit.org.uk
+0.0.0.0 h4g3z1-dyndns.web.app
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0x.no
 0.0.0.0 100mountain.com
@@ -45,11 +61,11 @@
 0.0.0.0 99tac.com
 0.0.0.0 abatek.com
 0.0.0.0 abmetalmecanica.com
+0.0.0.0 abrdns.com
 0.0.0.0 access.ly
 0.0.0.0 accesscam.org
 0.0.0.0 acmetoy.com
 0.0.0.0 adagio.tw
-0.0.0.0 dyn.addr.tools
 0.0.0.0 afraid.org
 0.0.0.0 agropeople.ru
 0.0.0.0 aintno.info
@@ -194,18 +210,10 @@
 0.0.0.0 cloudwatch.net
 0.0.0.0 cloudxns.net
 0.0.0.0 cnstefancelmare.ro
-0.0.0.0 changeip.co.uk
-0.0.0.0 dynamicdns.co.uk
-0.0.0.0 no-ip.co.uk
 0.0.0.0 coalnet.ru
 0.0.0.0 codns.com
 0.0.0.0 colegiotorrevilano.es
 0.0.0.0 collegefan.org
-0.0.0.0 dyn.columbia.edu
-0.0.0.0 ddns.com.br
-0.0.0.0 ddns.com.co
-0.0.0.0 dynamicdns.com.co
-0.0.0.0 winco.com.br
 0.0.0.0 compress.to
 0.0.0.0 compuinter.com
 0.0.0.0 computersforpeace.net
@@ -217,6 +225,7 @@
 0.0.0.0 coreytech.com
 0.0.0.0 couchpotatofries.org
 0.0.0.0 counterlight.com
+0.0.0.0 cpct.com
 0.0.0.0 cpsnet.cz
 0.0.0.0 crabdance.com
 0.0.0.0 crackedsidewalks.com
@@ -250,7 +259,6 @@
 0.0.0.0 ddnsking.com
 0.0.0.0 ddnslive.com
 0.0.0.0 ddnss.ch
-0.0.0.0 ddnss.de
 0.0.0.0 ddnss.eu
 0.0.0.0 ddnss.org
 0.0.0.0 ddnssec.de
@@ -372,6 +380,7 @@
 0.0.0.0 dynamai.com
 0.0.0.0 dynamic.domains
 0.0.0.0 dynamic-dns.net
+0.0.0.0 dynamic-dns.us
 0.0.0.0 dynamic-m.com
 0.0.0.0 dynamic-site.net
 0.0.0.0 dynamicdns.biz
@@ -627,7 +636,6 @@
 0.0.0.0 gw.lt
 0.0.0.0 gw1.org
 0.0.0.0 h-o-s-t.name
-0.0.0.0 h0stname.net
 0.0.0.0 h1x.com
 0.0.0.0 h4ck.me
 0.0.0.0 hackquest.com
@@ -638,7 +646,6 @@
 0.0.0.0 happyforever.com
 0.0.0.0 hatenboer.org
 0.0.0.0 hbmc.net
-0.0.0.0 dyn.dns.he.net
 0.0.0.0 health-carereform.com
 0.0.0.0 her.name
 0.0.0.0 here-for-more.info
@@ -648,6 +655,7 @@
 0.0.0.0 hiddencorner.org
 0.0.0.0 hijaxdesigns.com
 0.0.0.0 hin.tw
+0.0.0.0 hiprinter.com
 0.0.0.0 his.name
 0.0.0.0 hitremixes.com
 0.0.0.0 hldns.ru
@@ -658,7 +666,6 @@
 0.0.0.0 hokum-smack.com
 0.0.0.0 home.kg
 0.0.0.0 home-webserver.de
-0.0.0.0 home64.de
 0.0.0.0 homedns.org
 0.0.0.0 homeftp.net
 0.0.0.0 homeftp.org
@@ -694,7 +701,6 @@
 0.0.0.0 ideasciviles.com
 0.0.0.0 idigo.org
 0.0.0.0 idleplay.net
-0.0.0.0 4040.idv.tw
 0.0.0.0 ieserver.net
 0.0.0.0 ignorelist.com
 0.0.0.0 iiiii.info
@@ -906,8 +912,6 @@
 0.0.0.0 maurinfor.com
 0.0.0.0 mcsoft.org
 0.0.0.0 mcwrite.net
-0.0.0.0 ddns.me.uk
-0.0.0.0 dynamicdns.me.uk
 0.0.0.0 medbury.com
 0.0.0.0 medittech.com
 0.0.0.0 mefound.com
@@ -1096,9 +1100,6 @@
 0.0.0.0 ooguy.com
 0.0.0.0 opior.com
 0.0.0.0 oray.com
-0.0.0.0 d-n-s.org.uk
-0.0.0.0 dynamicdns.org.uk
-0.0.0.0 limit.org.uk
 0.0.0.0 organiccrap.com
 0.0.0.0 orskkino.ru
 0.0.0.0 otzo.com
@@ -1157,7 +1158,6 @@
 0.0.0.0 pudim.info
 0.0.0.0 qc.to
 0.0.0.0 qhigh.com
-0.0.0.0 qlbv.vn
 0.0.0.0 qpoe.com
 0.0.0.0 qthome.org
 0.0.0.0 quackerscomic.com
@@ -1184,6 +1184,7 @@
 0.0.0.0 root64.de
 0.0.0.0 roth.ca
 0.0.0.0 route64.de
+0.0.0.0 roxa.org
 0.0.0.0 rpz.su
 0.0.0.0 rtam.net
 0.0.0.0 rum.si
@@ -1322,6 +1323,7 @@
 0.0.0.0 synology-ds.de
 0.0.0.0 synoserver.com
 0.0.0.0 sysadminetworks.com
+0.0.0.0 system-ns.com
 0.0.0.0 systes.net
 0.0.0.0 sytes.net
 0.0.0.0 tallison.com
@@ -1351,7 +1353,6 @@
 0.0.0.0 thingsnewandused.com
 0.0.0.0 thruhere.net
 0.0.0.0 tinyrealm.com
-0.0.0.0 tobuy.us
 0.0.0.0 toh.info
 0.0.0.0 topdns.com
 0.0.0.0 topsddns.net
@@ -1374,6 +1375,7 @@
 0.0.0.0 twsuser.com
 0.0.0.0 tzo.com
 0.0.0.0 ucvradio.cl
+0.0.0.0 udp64.de
 0.0.0.0 ufcfan.org
 0.0.0.0 ufodns.com
 0.0.0.0 ugo.si
@@ -1418,7 +1420,6 @@
 0.0.0.0 wakingmoon.com
 0.0.0.0 wan64.de
 0.0.0.0 wanip.ch
-0.0.0.0 h4g3z1-dyndns.web.app
 0.0.0.0 webhop.biz
 0.0.0.0 webhop.info
 0.0.0.0 webhop.me
