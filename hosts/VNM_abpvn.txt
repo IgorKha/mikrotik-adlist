@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.14
-! Last modified: 2026-05-17T07:09:23.617Z
+! Version: 1.0.17.18
+! Last modified: 2026-05-24T07:18:21.766Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.14
+! Version: 1.0.17.18
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-05-13T05:25:01.935Z
+! Last modified: 2026-05-22T09:16:59.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11387,6 +11387,39 @@
 0.0.0.0 proxy.optoutadvertising.com
 0.0.0.0 ster.optoutadvertising.com
 0.0.0.0 www.optoutadvertising.com
+0.0.0.0 uuidksinc.net
+0.0.0.0 d.uuidksinc.net
+0.0.0.0 r.uuidksinc.net
+0.0.0.0 s.uuidksinc.net
+0.0.0.0 www.uuidksinc.net
+0.0.0.0 tapfiliate.com
+0.0.0.0 script.tapfiliate.com
+0.0.0.0 static.tapfiliate.com
+0.0.0.0 tapi.tapfiliate.com
+0.0.0.0 www.tapfiliate.com
+0.0.0.0 mainexclkdir.com
+0.0.0.0 click.mainexclkdir.com
+0.0.0.0 click-eu-v4.mainexclkdir.com
+0.0.0.0 click-v4.mainexclkdir.com
+0.0.0.0 www.mainexclkdir.com
+0.0.0.0 rttrk.com
+0.0.0.0 0iio9.rttrk.com
+0.0.0.0 ams.rttrk.com
+0.0.0.0 bra.rttrk.com
+0.0.0.0 sin.rttrk.com
+0.0.0.0 wdc.rttrk.com
+0.0.0.0 adstag0102.xyz
+0.0.0.0 r0.adstag0102.xyz
+0.0.0.0 r1.adstag0102.xyz
+0.0.0.0 r31.adstag0102.xyz
+0.0.0.0 r41.adstag0102.xyz
+0.0.0.0 r5.adstag0102.xyz
+0.0.0.0 r55.adstag0102.xyz
+0.0.0.0 r6.adstag0102.xyz
+0.0.0.0 r7.adstag0102.xyz
+0.0.0.0 r72.adstag0102.xyz
+0.0.0.0 r73.adstag0102.xyz
+0.0.0.0 www.adstag0102.xyz
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -14084,6 +14117,7 @@
 0.0.0.0 ashcdn.com
 0.0.0.0 ashoupsu.com
 0.0.0.0 asiacpx.com
+0.0.0.0 asifhclod.com
 0.0.0.0 aslau-cre.info
 0.0.0.0 asp.animelab.com
 0.0.0.0 aspiringtoy.com
@@ -14093,6 +14127,7 @@
 0.0.0.0 assuremath.com
 0.0.0.0 ast2ya4ee8wtnax.com
 0.0.0.0 astonishlandmassnervy.com
+0.0.0.0 astraon255.net
 0.0.0.0 aswpsdkeu.com
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at-adserver.alltop.com
@@ -14136,6 +14171,7 @@
 0.0.0.0 azkcqs.com
 0.0.0.0 azoaltou.com
 0.0.0.0 azrwwodreta.com
+0.0.0.0 azzadgasf.in
 0.0.0.0 b-1st.com
 0.0.0.0 b0oie4xjeb4ite.com
 0.0.0.0 b42rracj.com
@@ -14424,6 +14460,7 @@
 0.0.0.0 carambo.la
 0.0.0.0 carbonads.net
 0.0.0.0 caribedkurukh.com
+0.0.0.0 carveddoublebogeyhigh.com
 0.0.0.0 carvyre.com
 0.0.0.0 casalmedia.com
 0.0.0.0 cash4members.com
@@ -14543,7 +14580,6 @@
 0.0.0.0 click.hooligapps.com
 0.0.0.0 click.howdoesin.net
 0.0.0.0 click.kmindex.ru
-0.0.0.0 click.mainexclkdir.com
 0.0.0.0 click.revsharecash.com
 0.0.0.0 click.tecdo-ec.com
 0.0.0.0 click.tracksummer.com
@@ -14720,6 +14756,7 @@
 0.0.0.0 ctubhxbaew.com
 0.0.0.0 cubics.com
 0.0.0.0 cuddlethehyena.com
+0.0.0.0 culbhiaxntuh.in
 0.0.0.0 culmedpasses.cam
 0.0.0.0 culterwhether.com
 0.0.0.0 cupoabie.net
@@ -14909,6 +14946,7 @@
 0.0.0.0 dreadedrevisablevest.com
 0.0.0.0 dreamcatcherbnbcolorado.com
 0.0.0.0 dreamlikefostergala.com
+0.0.0.0 drenchedtidyarticle.com
 0.0.0.0 drubpainch.com
 0.0.0.0 drumcash.com
 0.0.0.0 drydrum.com
@@ -15157,6 +15195,7 @@
 0.0.0.0 fxstyle.net
 0.0.0.0 fxx5.com
 0.0.0.0 g0push.com
+0.0.0.0 g2288.com
 0.0.0.0 ga.looserokaying.shop
 0.0.0.0 gainsscarceshiny.com
 0.0.0.0 galaksion.com
@@ -15216,6 +15255,7 @@
 0.0.0.0 glufort.com
 0.0.0.0 glutenmuttsensuous.com
 0.0.0.0 gmads.net
+0.0.0.0 gmhyebojlimvqbc.com
 0.0.0.0 gmxvmvptfm.com
 0.0.0.0 gnenuelnn.com
 0.0.0.0 go-clicks.de
@@ -15404,6 +15444,7 @@
 0.0.0.0 ifa.tube8live.com
 0.0.0.0 ihhqwaurke.com
 0.0.0.0 iifvcfwiqi.com
+0.0.0.0 ij.cobolgammed.com
 0.0.0.0 ik.hatcheskoeri.shop
 0.0.0.0 ikahnruntx.com
 0.0.0.0 ilead.itrack.it
@@ -15491,6 +15532,7 @@
 0.0.0.0 irncdn.com
 0.0.0.0 ironsource.mobi
 0.0.0.0 isobeldrug.com
+0.0.0.0 isolatedfrom82.com
 0.0.0.0 isolatedovercomepasted.com
 0.0.0.0 istipaumophy.com
 0.0.0.0 itfarm.com
@@ -15520,6 +15562,7 @@
 0.0.0.0 jenonaw.com
 0.0.0.0 jerboasjourney.com
 0.0.0.0 jewgn8une.com
+0.0.0.0 jexrkdmiv.com
 0.0.0.0 jf71qh5v14.com
 0.0.0.0 jfan1.com
 0.0.0.0 jfjle4g5l.com
@@ -15545,6 +15588,7 @@
 0.0.0.0 js.wpnjs.com
 0.0.0.0 js.wpnsrv.com
 0.0.0.0 jscdn.greeter.me
+0.0.0.0 jsudwyjduktw.com
 0.0.0.0 jufbcunisak.com
 0.0.0.0 julysystems.com
 0.0.0.0 jumptap.com
@@ -15561,6 +15605,7 @@
 0.0.0.0 kamwaflmoacd.com
 0.0.0.0 kanoodle.com
 0.0.0.0 karnslawfirm.com
+0.0.0.0 kathyinformationwhether.com
 0.0.0.0 kdm8.com
 0.0.0.0 ke.minterhazes.com
 0.0.0.0 ketchapp.org
@@ -15718,6 +15763,7 @@
 0.0.0.0 maidthereuponblacken.com
 0.0.0.0 makafdsugxco.com
 0.0.0.0 malatiswirled.com
+0.0.0.0 malluktig.in
 0.0.0.0 maltunfaithfulpredominant.com
 0.0.0.0 malware-scan.com
 0.0.0.0 manage.com
@@ -15913,6 +15959,7 @@
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 myaffiliates.com
 0.0.0.0 mybettermb.com
+0.0.0.0 mybidad.com
 0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
 0.0.0.0 mycounter.ua
@@ -16206,6 +16253,7 @@
 0.0.0.0 parking.godaddy.com
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 partage-facile.com
+0.0.0.0 partitiveretinstitution.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.pelikan.cz
 0.0.0.0 partnercash.de
@@ -16561,6 +16609,7 @@
 0.0.0.0 regnow.com
 0.0.0.0 regulationprivilegescan.top
 0.0.0.0 rel-s.com
+0.0.0.0 relationshipcourseably.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 reluctancefleck.com
 0.0.0.0 remotepwn.com
@@ -16826,6 +16875,7 @@
 0.0.0.0 sombersurprise.com
 0.0.0.0 son-in-lawmorbid.com
 0.0.0.0 songdew.pushengage.com
+0.0.0.0 sophiaaccoladewest.com
 0.0.0.0 sorrowfultrouble.com
 0.0.0.0 sortable.com
 0.0.0.0 sotchoum.com
@@ -16984,7 +17034,6 @@
 0.0.0.0 tampedirenica.com
 0.0.0.0 tangibleteam.com
 0.0.0.0 tapas.net
-0.0.0.0 tapfiliate.com
 0.0.0.0 tapgen.com
 0.0.0.0 tapinfluence.com
 0.0.0.0 tapioni.com
@@ -17101,6 +17150,7 @@
 0.0.0.0 topstats.com
 0.0.0.0 toptrendyinc.com
 0.0.0.0 toqdizbfp.com
+0.0.0.0 torroclk.com
 0.0.0.0 tosfeed.com
 0.0.0.0 tospointor.com
 0.0.0.0 totemcash.com
@@ -17322,6 +17372,7 @@
 0.0.0.0 view4cash.de
 0.0.0.0 viewpoint.com
 0.0.0.0 viiadr.com
+0.0.0.0 viieuvkf.com
 0.0.0.0 vindicosuite.com
 0.0.0.0 vionito.com
 0.0.0.0 visariomedia.com
@@ -17570,6 +17621,7 @@
 0.0.0.0 xpihripcao.in
 0.0.0.0 xplosion.de
 0.0.0.0 xponsor.com
+0.0.0.0 xpwesthmfqphh.com
 0.0.0.0 xq1.net
 0.0.0.0 xr.staxisclivias.com
 0.0.0.0 xrea.com
@@ -17578,6 +17630,7 @@
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtremeserve.xyz
 0.0.0.0 xtremetop100.com
+0.0.0.0 xtuohnfwia.in
 0.0.0.0 xxxcounter.com
 0.0.0.0 xy7elite.com
 0.0.0.0 xydbpbnmo.com
@@ -17758,7 +17811,6 @@
 0.0.0.0 api.wipmania.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 apolloprogram.io
-0.0.0.0 app.posthog.com
 0.0.0.0 applog.camera360.com
 0.0.0.0 appres.camera360.com
 0.0.0.0 arc.io
@@ -17943,7 +17995,6 @@
 0.0.0.0 hypestat.com
 0.0.0.0 i-mar.com
 0.0.0.0 i.mxplayer.j2inter.com
-0.0.0.0 i.posthog.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 iabusprivacy.pmc.com
 0.0.0.0 iagtm.involve.asia

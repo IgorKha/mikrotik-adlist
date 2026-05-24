@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
-! Version: 1.0.15.74
-! Last modified: 2026-05-17T07:09:24.729Z
+! Version: 1.0.15.75
+! Last modified: 2026-05-24T07:18:23.012Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 adv.imadrep.co.kr
 0.0.0.0 delivery.pryzmads.com
 0.0.0.0 barohere.xyz
 0.0.0.0 ad.adwiser.kr
@@ -211,7 +212,6 @@
 0.0.0.0 tvetamovie.pstatic.net
 0.0.0.0 ad.adinc.kr
 0.0.0.0 ad.about.co.kr
-0.0.0.0 adv.imadrep.co.kr
 0.0.0.0 ad.reople.co.kr
 0.0.0.0 ad.daum.net
 0.0.0.0 adcr.naver.com

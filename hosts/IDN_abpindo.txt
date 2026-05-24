@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
 ! Version: 1.0.14.70
-! Last modified: 2026-05-17T07:09:24.654Z
+! Last modified: 2026-05-24T07:18:22.926Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 188affiliates.com
 0.0.0.0 accesstrade.co.id

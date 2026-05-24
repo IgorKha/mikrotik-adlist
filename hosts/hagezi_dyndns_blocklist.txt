@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.77
-! Last modified: 2026-05-17T07:09:36.890Z
+! Version: 1.0.16.80
+! Last modified: 2026-05-24T07:18:36.312Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -13,6 +13,7 @@
 0.0.0.0 winco.com.br
 0.0.0.0 dyn.dns.he.net
 0.0.0.0 4040.idv.tw
+0.0.0.0 ddns.me.uk
 0.0.0.0 dynamicdns.me.uk
 0.0.0.0 d-n-s.org.uk
 0.0.0.0 dynamicdns.org.uk
@@ -69,6 +70,7 @@
 0.0.0.0 afraid.org
 0.0.0.0 agropeople.ru
 0.0.0.0 aintno.info
+0.0.0.0 airdns.org
 0.0.0.0 airlinemeals.net
 0.0.0.0 albertn.ru
 0.0.0.0 allez.la
@@ -194,6 +196,7 @@
 0.0.0.0 cleansite.us
 0.0.0.0 clickip.de
 0.0.0.0 clienturl.net
+0.0.0.0 cloud-ip.biz
 0.0.0.0 cloudns.asia
 0.0.0.0 cloudns.be
 0.0.0.0 cloudns.biz
@@ -259,6 +262,7 @@
 0.0.0.0 ddnsking.com
 0.0.0.0 ddnslive.com
 0.0.0.0 ddnss.ch
+0.0.0.0 ddnss.de
 0.0.0.0 ddnss.eu
 0.0.0.0 ddnss.org
 0.0.0.0 ddnssec.de
@@ -335,7 +339,6 @@
 0.0.0.0 doomdns.com
 0.0.0.0 doomdns.org
 0.0.0.0 dougtreadwell.com
-0.0.0.0 doyleandprendergast.com
 0.0.0.0 dp76.com
 0.0.0.0 dpcube.com
 0.0.0.0 dray-dns.de
@@ -490,6 +493,7 @@
 0.0.0.0 ezxdev.org
 0.0.0.0 f-parts.net
 0.0.0.0 f3322.net
+0.0.0.0 f3322.org
 0.0.0.0 fairuse.org
 0.0.0.0 falcongreen.com
 0.0.0.0 familyds.com
@@ -506,6 +510,7 @@
 0.0.0.0 fin-tech.com
 0.0.0.0 fintech-llc.com
 0.0.0.0 fivepals.com
+0.0.0.0 flashhub.net
 0.0.0.0 flat4free.com
 0.0.0.0 flazzard.com
 0.0.0.0 flnet.org
@@ -524,6 +529,7 @@
 0.0.0.0 freeddns.org
 0.0.0.0 freeddns.uk
 0.0.0.0 freeddns.us
+0.0.0.0 freedns.tech
 0.0.0.0 freedynamicdns.net
 0.0.0.0 freedynamicdns.org
 0.0.0.0 freemyip.com
@@ -603,6 +609,7 @@
 0.0.0.0 gettrails.com
 0.0.0.0 gettrials.com
 0.0.0.0 ghostnation.org
+0.0.0.0 gicp.net
 0.0.0.0 gigaportal.pl
 0.0.0.0 giize.com
 0.0.0.0 glddns.com
@@ -636,6 +643,7 @@
 0.0.0.0 gw.lt
 0.0.0.0 gw1.org
 0.0.0.0 h-o-s-t.name
+0.0.0.0 h0stname.net
 0.0.0.0 h1x.com
 0.0.0.0 h4ck.me
 0.0.0.0 hackquest.com
@@ -666,6 +674,7 @@
 0.0.0.0 hokum-smack.com
 0.0.0.0 home.kg
 0.0.0.0 home-webserver.de
+0.0.0.0 home64.de
 0.0.0.0 homedns.org
 0.0.0.0 homeftp.net
 0.0.0.0 homeftp.org
@@ -1028,7 +1037,6 @@
 0.0.0.0 natrofa.com
 0.0.0.0 ndcg.com
 0.0.0.0 neat-url.com
-0.0.0.0 nedvighimost-sochi.ru
 0.0.0.0 nerdcamp.net
 0.0.0.0 nerdpol.ovh
 0.0.0.0 net-freaks.com
@@ -1110,13 +1118,13 @@
 0.0.0.0 partycenteronline.com
 0.0.0.0 patelmortgage.com
 0.0.0.0 paulkelly.org
+0.0.0.0 pdns.cz
 0.0.0.0 peachyweb.com
 0.0.0.0 pedie.info
 0.0.0.0 pendulumaudio.com
 0.0.0.0 peregrineair.com
 0.0.0.0 pgafan.net
 0.0.0.0 phenixs.org
-0.0.0.0 photo-cult.com
 0.0.0.0 photo-frame.com
 0.0.0.0 php-dev.net
 0.0.0.0 pics.mu
@@ -1158,6 +1166,7 @@
 0.0.0.0 pudim.info
 0.0.0.0 qc.to
 0.0.0.0 qhigh.com
+0.0.0.0 qlbv.vn
 0.0.0.0 qpoe.com
 0.0.0.0 qthome.org
 0.0.0.0 quackerscomic.com
@@ -1317,6 +1326,7 @@
 0.0.0.0 sundby.com
 0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
+0.0.0.0 suroot.com
 0.0.0.0 swtest.ru
 0.0.0.0 syno-ds.de
 0.0.0.0 synology-diskstation.de
@@ -1402,6 +1412,8 @@
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
 0.0.0.0 viamisoftware.com
+0.0.0.0 vicp.cc
+0.0.0.0 vicp.net
 0.0.0.0 vietnamddns.com
 0.0.0.0 viewdns.net
 0.0.0.0 viiic.net

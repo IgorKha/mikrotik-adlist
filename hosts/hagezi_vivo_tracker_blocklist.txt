@@ -1,11 +1,11 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
-! Version: 1.0.0.24
-! Last modified: 2026-05-17T07:09:23.019Z
+! Version: 1.0.0.26
+! Last modified: 2026-05-24T07:18:20.982Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
+0.0.0.0 az.appstore.vivo.com.cn
 0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
-0.0.0.0 az.appstore.vivo.com.cn
 0.0.0.0 appstore-trace-h5sdk.vivo.com.cn
 0.0.0.0 dsplog-adnet.vivo.com.cn
 0.0.0.0 trace-h5sdk.vivo.com.cn
@@ -16,6 +16,7 @@
 0.0.0.0 vhs.wwstat.com.eo.dnse0.com
 0.0.0.0 adlog.vivo.com
 0.0.0.0 ads-api.vivo.com
+0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 asia-abeacdataonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com
 0.0.0.0 asia-ad-mkt-vivofs.vivoglobal.com
@@ -51,24 +52,17 @@
 0.0.0.0 asia-vcode-or.vivoglobal.com
 0.0.0.0 asia-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-vpushort-stsdk.vivoglobal.com
-0.0.0.0 au-vcode-od.vivoglobal.com
 0.0.0.0 br-p.vivoglobal.com
-0.0.0.0 cl-vcode-od.vivoglobal.com
 0.0.0.0 cname-ali-asia-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-comonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
 0.0.0.0 cname-asia-stsdk09.vivoglobal.com
 0.0.0.0 cname-asia02-stsdk.vivoglobal.com
-0.0.0.0 cname-de-stsdk.vivoglobal.com
 0.0.0.0 cname-in-apport-stsdk.vivoglobal.com
 0.0.0.0 cname-in-bom01-nginxpool03.vivoglobal.com
 0.0.0.0 cname-in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
-0.0.0.0 co-cota.vivoglobal.com
 0.0.0.0 co-domaincfg.vivoglobal.com
-0.0.0.0 co-err-up.vivoglobal.com
-0.0.0.0 co-onrt-stsdk.vivoglobal.com
-0.0.0.0 co-ort-stsdk.vivoglobal.com
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
 0.0.0.0 co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 co-st-sl.vivoglobal.com
@@ -76,9 +70,7 @@
 0.0.0.0 co-timesync.vivoglobal.com
 0.0.0.0 co-vcode-api.vivoglobal.com
 0.0.0.0 co-vcode-od.vivoglobal.com
-0.0.0.0 co-vcode-or.vivoglobal.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
-0.0.0.0 de-gdpr-vcode-od.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
 0.0.0.0 eu-album-api.vivoglobal.com
 0.0.0.0 eu-cota.vivoglobal.com
@@ -100,7 +92,6 @@
 0.0.0.0 ex-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 id-analyzer-appstore.vivoglobal.com
 0.0.0.0 id-third-appstore.vivoglobal.com
-0.0.0.0 il-vcode-od.vivoglobal.com
 0.0.0.0 in-ad-mkt-vivofs.vivoglobal.com
 0.0.0.0 in-adlog.vivoglobal.com
 0.0.0.0 in-adreq.vivoglobal.com
@@ -140,13 +131,10 @@
 0.0.0.0 kz-ort-stsdk.vivoglobal.com
 0.0.0.0 kz-pnrt-stsdk.vivoglobal.com
 0.0.0.0 kz-prt-stsdk.vivoglobal.com
-0.0.0.0 kz-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 kz-st-exappupgrade.vivoglobal.com
 0.0.0.0 kz-st-sl.vivoglobal.com
 0.0.0.0 kz-st-sysupgrade.vivoglobal.com
 0.0.0.0 kz-stsdk.vivoglobal.com
-0.0.0.0 kz-timesync.vivoglobal.com
-0.0.0.0 kz-vcode-api.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com
 0.0.0.0 monitor-stsdk.vivoglobal.com
@@ -193,13 +181,11 @@
 0.0.0.0 ru-vcode-api.vivoglobal.com
 0.0.0.0 ru-vcode-od.vivoglobal.com
 0.0.0.0 ru-vcode-or.vivoglobal.com
-0.0.0.0 sca-cota.vivoglobal.com
 0.0.0.0 sca-domaincfg.vivoglobal.com
 0.0.0.0 sca-err-up.vivoglobal.com
 0.0.0.0 sca-onrt-stsdk.vivoglobal.com
 0.0.0.0 sca-ort-stsdk.vivoglobal.com
 0.0.0.0 sca-p.vivoglobal.com
-0.0.0.0 sca-pnrt-stsdk.vivoglobal.com
 0.0.0.0 sca-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 sca-st-sl.vivoglobal.com
 0.0.0.0 sca-stsdk.vivoglobal.com
@@ -229,7 +215,6 @@
 0.0.0.0 tr-vcode-or.vivoglobal.com
 0.0.0.0 tr-weather.vivoglobal.com
 0.0.0.0 uk-timesync.vivoglobal.com
-0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 xn--ex-adreq-asa-c5b.vivoglobal.com
 0.0.0.0 xn-ex-adreq-asa-c5b.vivoglobal.com
 0.0.0.0 za-p.vivoglobal.com

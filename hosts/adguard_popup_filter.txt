@@ -1,7 +1,9 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.7
-! Last modified: 2026-05-17T07:09:15.896Z
+! Version: 1.0.18.10
+! Last modified: 2026-05-24T07:18:13.236Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 frhiys.com
+0.0.0.0 trafficoza.com
 0.0.0.0 kdmupcsngkdoz.website
 0.0.0.0 edge.xtriks.com
 0.0.0.0 freebestgames2025.com
@@ -693,7 +695,6 @@
 0.0.0.0 securitycheckonline.com
 0.0.0.0 sentimentalflight.com
 0.0.0.0 servsserverz.com
-0.0.0.0 sessfetchio.com
 0.0.0.0 sexemulator.tube-sexs.com
 0.0.0.0 sgben.com
 0.0.0.0 shakingtacklingunpeeled.com
@@ -701,7 +702,6 @@
 0.0.0.0 sheitelhamatum.shop
 0.0.0.0 shoppinglifestyle.biz
 0.0.0.0 shotgunchancecruel.com
-0.0.0.0 shulugoo.net
 0.0.0.0 signamentswithd.com
 0.0.0.0 singledatetime.com
 0.0.0.0 sitepageflow.com
@@ -716,18 +716,14 @@
 0.0.0.0 spareforads.top
 0.0.0.0 spin83qr.com
 0.0.0.0 sprinlof.com
-0.0.0.0 spuppeh.net
 0.0.0.0 spygenix.xyz
 0.0.0.0 srowox.com
 0.0.0.0 srvpcn.com
 0.0.0.0 srvqck11.com
-0.0.0.0 srvqck15.com
-0.0.0.0 srvqck3.com
 0.0.0.0 srvtrck.com
 0.0.0.0 stableflowconnection.co.in
 0.0.0.0 staysafeonlinetoday.com
 0.0.0.0 steerensout.net
-0.0.0.0 stikroltiltoowi.net
 0.0.0.0 streamereasy.click
 0.0.0.0 strtgic.com
 0.0.0.0 stsbih.com.ba
@@ -764,7 +760,6 @@
 0.0.0.0 tracking-zy.com
 0.0.0.0 tracking.gusclicks.com
 0.0.0.0 trackingtraffo.com
-0.0.0.0 trakit20.com
 0.0.0.0 trakzon.com
 0.0.0.0 trasupr.com
 0.0.0.0 trckqq.com
@@ -798,8 +793,6 @@
 0.0.0.0 viiadaof.com
 0.0.0.0 viibslav.com
 0.0.0.0 viiczfvm.com
-0.0.0.0 viidccdn.com
-0.0.0.0 viifwfyo.com
 0.0.0.0 viigetxc.com
 0.0.0.0 viikuhhs.com
 0.0.0.0 viiyutty.com

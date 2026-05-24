@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.0
-! Last modified: 2026-05-17T07:09:22.946Z
+! Version: 1.0.1.3
+! Last modified: 2026-05-24T07:18:20.889Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -18,7 +18,6 @@
 0.0.0.0 dc.applicationinsights.azure.us
 0.0.0.0 in.applicationinsights.azure.cn
 0.0.0.0 in.applicationinsights.azure.us
-0.0.0.0 live.applicationinsights.azure.cn
 0.0.0.0 inference-app-gateway.eastus2.cloudapp.azure.com
 0.0.0.0 inference-app-gateway.koreacentral.cloudapp.azure.com
 0.0.0.0 inference-app-gateway.northeurope.cloudapp.azure.com
@@ -44,7 +43,6 @@
 0.0.0.0 insights.cloud.microsoft
 0.0.0.0 measure.office.net.edgesuite.net
 0.0.0.0 collector.azure.eaglex.ic.gov
-0.0.0.0 aec-visio-telemetry.officeapps.live.com
 0.0.0.0 auc-visio-telemetry.officeapps.live.com
 0.0.0.0 brc-visio-telemetry.officeapps.live.com
 0.0.0.0 cac-visio-telemetry.officeapps.live.com
@@ -187,7 +185,6 @@
 0.0.0.0 az667904.vo.msecnd.net
 0.0.0.0 a-ring.msedge.net
 0.0.0.0 a-ring-fallback.msedge.net
-0.0.0.0 a-ring-ipv6only.msedge.net
 0.0.0.0 b-ring.msedge.net
 0.0.0.0 b-ring-fallback.msedge.net
 0.0.0.0 c-ring.msedge.net
@@ -220,7 +217,6 @@
 0.0.0.0 c.cl.msn.com
 0.0.0.0 events.data.msn.cn
 0.0.0.0 events.data.msn.com
-0.0.0.0 events-sandbox.data.msn.cn
 0.0.0.0 events-sandbox.data.msn.com
 0.0.0.0 c.de.msn.com
 0.0.0.0 c.dk.msn.com
@@ -306,14 +302,12 @@
 0.0.0.0 ppc-powerpoint-telemetry.wac.trafficmanager.net
 0.0.0.0 ppc-word-telemetry.wac.trafficmanager.net
 0.0.0.0 word-telemetry.wac.trafficmanager.net
-0.0.0.0 ads-msn-com-profile.trafficmanager.net
 0.0.0.0 adsdk.trafficmanager.net
 0.0.0.0 agps-location-livenet.trafficmanager.net
 0.0.0.0 analytics.trafficmanager.net
 0.0.0.0 analytics-listener.trafficmanager.net
 0.0.0.0 beacons.trafficmanager.net
 0.0.0.0 bingads.trafficmanager.net
-0.0.0.0 ch-asimov-leafs-events-data.trafficmanager.net
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 dsp-ad-cache-tm.trafficmanager.net
 0.0.0.0 eventservice.trafficmanager.net
@@ -339,7 +333,6 @@
 0.0.0.0 tm-enrollment-telemetry-datacore.trafficmanager.net
 0.0.0.0 vstelemetry.trafficmanager.net
 0.0.0.0 win-global-asimov-leafs-events-data.trafficmanager.net
-0.0.0.0 wttwebsiteprodapi-liveevents.trafficmanager.net
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 h4g3z1-native.winoffice.web.app
 0.0.0.0 ceuswatcab01.blob.core.windows.net
@@ -352,13 +345,10 @@
 0.0.0.0 analytics-dev-lleap-events.servicebus.windows.net
 0.0.0.0 analytics-dev-simpad-events.servicebus.windows.net
 0.0.0.0 analyticsehnwe.servicebus.windows.net
-0.0.0.0 analyticsiot-prod-simpad-ehn.servicebus.windows.net
-0.0.0.0 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
-0.0.0.0 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 0.0.0.0 citrixanalyticseh.servicebus.windows.net
 0.0.0.0 citrixanalyticseh-alias.servicebus.windows.net
-0.0.0.0 citrixanalyticseh2.servicebus.windows.net
 0.0.0.0 citrixanalyticseh2-alias.servicebus.windows.net
+0.0.0.0 citrixanalyticseh3.servicebus.windows.net
 0.0.0.0 citrixanalyticseh3-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticsehaps.servicebus.windows.net
 0.0.0.0 citrixanalyticsehaps-alias.servicebus.windows.net
@@ -370,11 +360,10 @@
 0.0.0.0 citrixtelemetryeheu-alias.servicebus.windows.net
 0.0.0.0 ehtelemetrystaging-alias.servicebus.windows.net
 0.0.0.0 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
-0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 hme-uat-loganalytics-namespace.servicebus.windows.net
+0.0.0.0 licensingtelemetry-prod.servicebus.windows.net
 0.0.0.0 nexxtv-events.servicebus.windows.net
 0.0.0.0 ppm-licensingtelemetry.servicebus.windows.net
-0.0.0.0 prd-qlik-telemetry.servicebus.windows.net
 0.0.0.0 prod-eh-v1-analytics.servicebus.windows.net
 0.0.0.0 prod-eventhub-analytics.servicebus.windows.net
 0.0.0.0 production-jobactivity-analytics.servicebus.windows.net

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.76
-! Last modified: 2026-05-17T07:09:27.327Z
+! Version: 1.0.20.83
+! Last modified: 2026-05-24T07:18:25.948Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -36,6 +36,7 @@
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
 0.0.0.0 akulaku.me
+0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
@@ -78,6 +79,7 @@
 0.0.0.0 benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 best-torrents.com
+0.0.0.0 bestvod.pl
 0.0.0.0 billboardwring.com
 0.0.0.0 binom0-web.com
 0.0.0.0 binomo-brokers.com
@@ -149,6 +151,7 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
+0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coiincmi.com
@@ -158,6 +161,7 @@
 0.0.0.0 compoundexotics.com
 0.0.0.0 confira.io
 0.0.0.0 containably.com
+0.0.0.0 coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 corg.co
 0.0.0.0 couponxoo.com
@@ -167,6 +171,7 @@
 0.0.0.0 cracksway.com
 0.0.0.0 crocssalenz.com
 0.0.0.0 crypto030.online
+0.0.0.0 cryptolnvest.com
 0.0.0.0 cryptot.net
 0.0.0.0 customizerbox.com
 0.0.0.0 customurink.com
@@ -227,14 +232,12 @@
 0.0.0.0 envisiongear.com
 0.0.0.0 eset.co.il
 0.0.0.0 esl-gaming.com
-0.0.0.0 eslgrandscup.com
 0.0.0.0 estiloserena.com.br
 0.0.0.0 etaindia.org
 0.0.0.0 etaindiaonline.com
 0.0.0.0 etv-in.com
 0.0.0.0 eudoraz.com
 0.0.0.0 eudshop.shop
-0.0.0.0 eventmusk-x.com
 0.0.0.0 eviralstore.com
 0.0.0.0 evisa-india-online.com
 0.0.0.0 evisa-indian.com
@@ -287,6 +290,7 @@
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
 0.0.0.0 flattee.com
+0.0.0.0 flwzen.com
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 food-network.fwh.is
 0.0.0.0 freebitcoin.pages.dev
@@ -309,6 +313,7 @@
 0.0.0.0 gearanime.com
 0.0.0.0 gearhomies.com
 0.0.0.0 gearhuman.com
+0.0.0.0 gearstastic.com
 0.0.0.0 gearver.com
 0.0.0.0 geekupdates.notion.site
 0.0.0.0 geldencosmeticos.com
@@ -334,7 +339,6 @@
 0.0.0.0 govmedcareers.com
 0.0.0.0 gsport.com
 0.0.0.0 gtlinfrastructurelimited.com
-0.0.0.0 gunstee.com
 0.0.0.0 habtoorloyal.com
 0.0.0.0 hairyfy.com
 0.0.0.0 happymod.cloud
@@ -396,6 +400,7 @@
 0.0.0.0 indiavisa.com.sg
 0.0.0.0 indiavisa.my
 0.0.0.0 indiavisa.org
+0.0.0.0 industower.org
 0.0.0.0 infinityto.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
@@ -466,7 +471,6 @@
 0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 mail-cytanet.pages.dev
-0.0.0.0 malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 maxdebrid.com
 0.0.0.0 mayor4london.com
@@ -548,7 +552,6 @@
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
 0.0.0.0 navi90.com
-0.0.0.0 navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 nayatowerinstallation.in.net
@@ -596,6 +599,7 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 officialkmspico.com
 0.0.0.0 oflike.com
+0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
@@ -657,8 +661,8 @@
 0.0.0.0 punchonsol.top
 0.0.0.0 qq51f.short.gy
 0.0.0.0 quitasueno.com
-0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
+0.0.0.0 re-captha-version-3-277.buzz
 0.0.0.0 resources4gaming.com
 0.0.0.0 revanced-extended.com
 0.0.0.0 revancedmusic.com
@@ -668,6 +672,7 @@
 0.0.0.0 rjgriffith.com
 0.0.0.0 robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
+0.0.0.0 robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 rosateeshop.com
 0.0.0.0 royaldecorhome.store
@@ -758,6 +763,7 @@
 0.0.0.0 successglossary.com
 0.0.0.0 sugarandpearl.com
 0.0.0.0 suitablepartner.life
+0.0.0.0 summersale.co
 0.0.0.0 summersale.online
 0.0.0.0 supercutestuff.com
 0.0.0.0 superuniswap.xyz
@@ -859,7 +865,6 @@
 0.0.0.0 vessisdeutschland.com
 0.0.0.0 vider-cda.online
 0.0.0.0 vider-pl.pl
-0.0.0.0 vider.cc
 0.0.0.0 vider.com.pl
 0.0.0.0 vider.info.pl
 0.0.0.0 vider.online
@@ -889,10 +894,10 @@
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 wadahlapak.top
 0.0.0.0 wallpaperflare.com
+0.0.0.0 warriordecor.com
 0.0.0.0 watchmark.shop
-0.0.0.0 watchseniorfit.com
-0.0.0.0 wavetshirt.com
 0.0.0.0 wazofurniture.com
+0.0.0.0 weathly.com
 0.0.0.0 webvod.pl
 0.0.0.0 whbinder.com
 0.0.0.0 wintexfashions.com
@@ -943,6 +948,7 @@
 0.0.0.0 zedbubble.com
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com
+0.0.0.0 zerowasteinitiative.com
 0.0.0.0 zhongda.info
 0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com

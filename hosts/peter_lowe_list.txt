@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.16
-! Last modified: 2026-05-17T07:09:10.599Z
+! Version: 1.0.17.18
+! Last modified: 2026-05-24T07:18:07.009Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -1132,6 +1132,7 @@
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
+0.0.0.0 c.apple.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c1exchange.com
 0.0.0.0 c212.net
@@ -1240,7 +1241,6 @@
 0.0.0.0 click.i.southwesternrailway.com
 0.0.0.0 click.infoblox.com
 0.0.0.0 click.justwatch.com
-0.0.0.0 click.kmindex.ru
 0.0.0.0 click.liftoff.io
 0.0.0.0 click.mail.hotels.com
 0.0.0.0 click.mail.salesforce.com
@@ -1368,7 +1368,6 @@
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.snackly.co
-0.0.0.0 counting.kmindex.ru
 0.0.0.0 coupling-media.de
 0.0.0.0 cowbelltime.com
 0.0.0.0 coxmt.com
@@ -1996,7 +1995,6 @@
 0.0.0.0 kontera.com
 0.0.0.0 kost.tv
 0.0.0.0 kpu.samsungelectronics.com
-0.0.0.0 krxd.net
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kueezrtb.com
 0.0.0.0 kvsadman.com
@@ -2275,7 +2273,6 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mundanenail.com
 0.0.0.0 mushroomgods.com
-0.0.0.0 musiccounter.ru
 0.0.0.0 muteknife.com
 0.0.0.0 muwmedia.com
 0.0.0.0 mxptint.net
@@ -2701,6 +2698,7 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 rememberdiscussion.com
+0.0.0.0 remox.com
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-partners.appmetrica.yandex.net
@@ -3221,7 +3219,6 @@
 0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.orixa-media.com
-0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.wetter.at
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com
@@ -3246,7 +3243,6 @@
 0.0.0.0 trafficz.com
 0.0.0.0 traffiq.com
 0.0.0.0 trafic.ro
-0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilplume.com
 0.0.0.0 travis.bosscasinos.com
 0.0.0.0 trck.a8.net
