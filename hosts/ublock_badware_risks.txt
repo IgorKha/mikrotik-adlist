@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.21.83
-! Last modified: 2026-05-17T07:09:36.615Z
+! Version: 1.0.21.86
+! Last modified: 2026-05-24T07:18:35.934Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -1043,7 +1043,6 @@
 0.0.0.0 urara02032023.com
 0.0.0.0 gloria-divination.
 0.0.0.0 otomachi.jp
-0.0.0.0 amazonlogistics.jp
 0.0.0.0 fukusenkan.com
 0.0.0.0 koi-chat.net
 0.0.0.0 sachikru.com
@@ -3268,4 +3267,6 @@
 0.0.0.0 asionamedrafter.com
 0.0.0.0 labor-day-*.top
 0.0.0.0 16gift.com
+0.0.0.0 599cdn.com
 0.0.0.0 armour-inc-down.net
+0.0.0.0 mkvtoolnix.org

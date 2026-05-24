@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-! Version: 1.0.14.68
-! Last modified: 2026-05-17T07:09:21.158Z
+! Version: 1.0.14.70
+! Last modified: 2026-05-24T07:18:18.953Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 adgoogle.net
 0.0.0.0 crashlytics.com
@@ -292,6 +292,7 @@
 0.0.0.0 goolge.com
 0.0.0.0 gooogle.com
 0.0.0.0 gstatic.org
+0.0.0.0 healthapp.google
 0.0.0.0 id.google.in
 0.0.0.0 id.google.jp
 0.0.0.0 id.google.pk
@@ -632,7 +633,6 @@
 0.0.0.0 deliver-peak-performance.co.uk
 0.0.0.0 deliverpeakperformance.co.uk
 0.0.0.0 design.google
-0.0.0.0 DeSKtoP.google.com
 0.0.0.0 dh2yuuwr45.com
 0.0.0.0 dh5txcojmw.com
 0.0.0.0 dialogflow.com
@@ -774,7 +774,6 @@
 0.0.0.0 iga2k8wv8k.com
 0.0.0.0 ih275irlc0.com
 0.0.0.0 ikknil4o42.com
-0.0.0.0 IMAGEs.google.com
 0.0.0.0 img1.blogblog.com
 0.0.0.0 incentelligence.com
 0.0.0.0 incentivetargeting.com
