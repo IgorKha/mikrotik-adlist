@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.3
-! Last modified: 2026-05-24T07:18:20.889Z
+! Version: 1.0.1.8
+! Last modified: 2026-05-31T07:31:03.359Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -40,6 +40,12 @@
 0.0.0.0 g.bing.com
 0.0.0.0 raka.bing.com
 0.0.0.0 c.bingapis.com
+0.0.0.0 upload.fp.measure.office.com.corp.mmco.int.cardano.com
+0.0.0.0 exo.nel.measure.office.net.cardano.com
+0.0.0.0 identity.nel.measure.office.net.cardano.com
+0.0.0.0 m365cdn.nel.measure.office.net.cardano.com
+0.0.0.0 spo.nel.measure.office.net.cardano.com
+0.0.0.0 teams.nel.measure.office.net.cardano.com
 0.0.0.0 insights.cloud.microsoft
 0.0.0.0 measure.office.net.edgesuite.net
 0.0.0.0 collector.azure.eaglex.ic.gov
@@ -308,6 +314,7 @@
 0.0.0.0 analytics-listener.trafficmanager.net
 0.0.0.0 beacons.trafficmanager.net
 0.0.0.0 bingads.trafficmanager.net
+0.0.0.0 ch-asimov-leafs-events-data.trafficmanager.net
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 dsp-ad-cache-tm.trafficmanager.net
 0.0.0.0 eventservice.trafficmanager.net
@@ -348,7 +355,6 @@
 0.0.0.0 citrixanalyticseh.servicebus.windows.net
 0.0.0.0 citrixanalyticseh-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticseh2-alias.servicebus.windows.net
-0.0.0.0 citrixanalyticseh3.servicebus.windows.net
 0.0.0.0 citrixanalyticseh3-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticsehaps.servicebus.windows.net
 0.0.0.0 citrixanalyticsehaps-alias.servicebus.windows.net
@@ -360,6 +366,7 @@
 0.0.0.0 citrixtelemetryeheu-alias.servicebus.windows.net
 0.0.0.0 ehtelemetrystaging-alias.servicebus.windows.net
 0.0.0.0 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 hme-uat-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 licensingtelemetry-prod.servicebus.windows.net
 0.0.0.0 nexxtv-events.servicebus.windows.net

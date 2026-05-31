@@ -1,12 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.83
-! Last modified: 2026-05-24T07:18:25.948Z
+! Version: 1.0.20.90
+! Last modified: 2026-05-31T07:31:07.932Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
 0.0.0.0 1sttheworld.com
 0.0.0.0 270278609-2020004278-462904544-440202503325--570202500372x-usps.com
+0.0.0.0 2xtsla.io
 0.0.0.0 365analytics.xyz
 0.0.0.0 3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev
 0.0.0.0 3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net
@@ -30,13 +31,10 @@
 0.0.0.0 airteltower.com
 0.0.0.0 airtoff.com
 0.0.0.0 airup-romania.com
-0.0.0.0 airupbulgaria.com
 0.0.0.0 airupgreece.net
 0.0.0.0 airupnederlands.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
-0.0.0.0 akulaku.me
-0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
@@ -46,7 +44,6 @@
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -56,6 +53,7 @@
 0.0.0.0 arthoodie.com
 0.0.0.0 arvetellefsen.no
 0.0.0.0 atlaspvs.com
+0.0.0.0 atoins.com
 0.0.0.0 atrendsz.com
 0.0.0.0 audiosg.com.sg
 0.0.0.0 augusthenri.be
@@ -132,6 +130,7 @@
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 caly-film.cc
 0.0.0.0 campingsurfshop.com
+0.0.0.0 canadapost-service.info
 0.0.0.0 candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 caraci.it
@@ -151,7 +150,6 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
-0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coiincmi.com
@@ -192,12 +190,10 @@
 0.0.0.0 deergift.com
 0.0.0.0 dein-rundfunkbeitrag.de
 0.0.0.0 deluxdoll.com
-0.0.0.0 designbyus.online
 0.0.0.0 desiupload.in
 0.0.0.0 devifoodgrains.com
 0.0.0.0 dezpez.com
 0.0.0.0 dieserbenni.ru
-0.0.0.0 dischargebackhanded.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 dkfodboldstore.com
@@ -296,9 +292,11 @@
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 fullview.pl
+0.0.0.0 fumekart.com
 0.0.0.0 fundanemt.org
 0.0.0.0 funfilenow.com
 0.0.0.0 furnishmyhome.ca
@@ -356,11 +354,13 @@
 0.0.0.0 hotbignews.com
 0.0.0.0 hotdebrid.com
 0.0.0.0 hotmod.eu
+0.0.0.0 houselar.com.br
 0.0.0.0 hubfiles.ws
 0.0.0.0 hudson-bay.com
 0.0.0.0 hushlove.com
 0.0.0.0 hyndtren25.pages.dev
 0.0.0.0 i-visaindia.com
+0.0.0.0 i.fundatingquest.fun
 0.0.0.0 iagadvanced.com
 0.0.0.0 iaqorwr.com
 0.0.0.0 icelandclothing.myshopify.com
@@ -420,6 +420,7 @@
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
+0.0.0.0 keenfootwearsale.com
 0.0.0.0 kesug.com
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 killercharm.com
@@ -455,11 +456,11 @@
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 ligerking.com
 0.0.0.0 likenu.se
+0.0.0.0 linaromney.za.com
 0.0.0.0 linkshe.com
 0.0.0.0 linostee.com
 0.0.0.0 lisabuddy.com
 0.0.0.0 litcomplex.com
-0.0.0.0 liverepsae.adeftsolutions.com
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
@@ -478,7 +479,6 @@
 0.0.0.0 meaningift.com
 0.0.0.0 mega-heritage.com
 0.0.0.0 mega-kino.pl
-0.0.0.0 megoindonesia.com
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 microsoft.teams-live.com
@@ -493,6 +493,7 @@
 0.0.0.0 msgclick.top
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
+0.0.0.0 multifilmy.pl
 0.0.0.0 muskai.net
 0.0.0.0 muskusa.com
 0.0.0.0 mybestautologin567.com
@@ -532,7 +533,6 @@
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 navi42.ru
-0.0.0.0 navi44.com
 0.0.0.0 navi5.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
@@ -549,7 +549,6 @@
 0.0.0.0 navi8.com
 0.0.0.0 navi86.ru
 0.0.0.0 navi88.com
-0.0.0.0 navi89.com
 0.0.0.0 navi9.com
 0.0.0.0 navi90.com
 0.0.0.0 navi98.com
@@ -599,12 +598,10 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 officialkmspico.com
 0.0.0.0 oflike.com
-0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
 0.0.0.0 olymptrade-qid.com
-0.0.0.0 online-binomo.com
 0.0.0.0 online-eta.com
 0.0.0.0 onlinecda.pl
 0.0.0.0 onlinefilmy.pl
@@ -627,7 +624,6 @@
 0.0.0.0 pandzee.com
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
-0.0.0.0 paypays.shop
 0.0.0.0 peekpok.com
 0.0.0.0 penguinnow.com
 0.0.0.0 peppatees.com
@@ -636,6 +632,7 @@
 0.0.0.0 pharaohstore.com
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
+0.0.0.0 phpmyadmin.staging.demo.www1.transaction-processing.one
 0.0.0.0 pinjamanelit.top
 0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 pinjamteman.top
@@ -657,6 +654,7 @@
 0.0.0.0 promo-offer.com
 0.0.0.0 promoalfresco.com
 0.0.0.0 promotion40-form.com
+0.0.0.0 prpages.com
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 punchonsol.top
 0.0.0.0 qq51f.short.gy
@@ -672,7 +670,6 @@
 0.0.0.0 rjgriffith.com
 0.0.0.0 robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
-0.0.0.0 robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 rosateeshop.com
 0.0.0.0 royaldecorhome.store
@@ -784,7 +781,6 @@
 0.0.0.0 terverystaio.info
 0.0.0.0 teslatime.net
 0.0.0.0 the-north-face.gr
-0.0.0.0 thebayonline.shop
 0.0.0.0 theeaglebrand.company.site
 0.0.0.0 themountainwarehouse.com
 0.0.0.0 theneurobalancetherapy.org
@@ -792,6 +788,7 @@
 0.0.0.0 theshirtyouneed.com
 0.0.0.0 thevitic.com
 0.0.0.0 thevitic.onshopbase.com
+0.0.0.0 thewindowsactivator.com
 0.0.0.0 thuthuatxiaomi.com
 0.0.0.0 tikgeeker.com
 0.0.0.0 tinkleo.com
@@ -864,7 +861,6 @@
 0.0.0.0 verfun.com
 0.0.0.0 vessisdeutschland.com
 0.0.0.0 vider-cda.online
-0.0.0.0 vider-pl.pl
 0.0.0.0 vider.com.pl
 0.0.0.0 vider.info.pl
 0.0.0.0 vider.online
@@ -891,6 +887,7 @@
 0.0.0.0 vodfix.pl
 0.0.0.0 vodlist.com
 0.0.0.0 volcomofficial.com
+0.0.0.0 voucheras.com
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 wadahlapak.top
 0.0.0.0 wallpaperflare.com

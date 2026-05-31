@@ -1,15 +1,15 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.19.90
-! Last modified: 2026-05-24T07:18:36.403Z
+! Version: 1.0.20.1
+! Last modified: 2026-05-31T07:31:18.156Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
 0.0.0.0 24.co.at
 0.0.0.0 all.co.uk
 0.0.0.0 atpcf.co.uk
-0.0.0.0 qrgen.co.uk
 0.0.0.0 thamboli.co.za
 0.0.0.0 biolink.com.do
+0.0.0.0 blogspot.com.br
 0.0.0.0 blogspot.com.es
 0.0.0.0 kl.com.ua
 0.0.0.0 zzz.com.ua
@@ -28,6 +28,7 @@
 0.0.0.0 000.pe
 0.0.0.0 000a.de
 0.0.0.0 000free.us
+0.0.0.0 000nethost.com
 0.0.0.0 000webhost.com
 0.0.0.0 000webhost.fr
 0.0.0.0 000webhostapp.com
@@ -313,6 +314,7 @@
 0.0.0.0 cs-clan.org
 0.0.0.0 ct.ws
 0.0.0.0 ct8.pl
+0.0.0.0 ctempurl.com
 0.0.0.0 cul.ke
 0.0.0.0 curryfielddistribution.com
 0.0.0.0 cut.vin
@@ -507,7 +509,6 @@
 0.0.0.0 hellokity.xyz
 0.0.0.0 hexe.in
 0.0.0.0 hilfe24h.de
-0.0.0.0 hiurls.com
 0.0.0.0 hk6vdj4z.click
 0.0.0.0 home.lc
 0.0.0.0 homemarker.com
@@ -548,6 +549,7 @@
 0.0.0.0 inbox24.net
 0.0.0.0 inbox24.org
 0.0.0.0 inddrive.com
+0.0.0.0 infinityfree.me
 0.0.0.0 infinityfreeapp.com
 0.0.0.0 info.cm
 0.0.0.0 info.nu
@@ -568,6 +570,7 @@
 0.0.0.0 ir.gp
 0.0.0.0 is-alive.de
 0.0.0.0 is-best.net
+0.0.0.0 is-great.org
 0.0.0.0 ispot.cc
 0.0.0.0 ist-ok.de
 0.0.0.0 it.gp
@@ -618,6 +621,7 @@
 0.0.0.0 liftmyresume.com
 0.0.0.0 lined.cloud
 0.0.0.0 linkat.me
+0.0.0.0 linkfast.me
 0.0.0.0 linkk.ing
 0.0.0.0 linkme.vn
 0.0.0.0 links.lc
@@ -668,14 +672,17 @@
 0.0.0.0 musik.lc
 0.0.0.0 mx.gp
 0.0.0.0 my.gp
+0.0.0.0 my-board.org
 0.0.0.0 my-free.website
 0.0.0.0 my-place.us
+0.0.0.0 my5353.com
 0.0.0.0 myartsonline.com
 0.0.0.0 myblogvoice.com
 0.0.0.0 mybluehost.me
 0.0.0.0 mybluehostin.me
 0.0.0.0 myclickfunnels.com
 0.0.0.0 mycpanel.rs
+0.0.0.0 mydiscussion.net
 0.0.0.0 myeweb.net
 0.0.0.0 myfoolmoon.com
 0.0.0.0 myfreesites.net
@@ -721,13 +728,13 @@
 0.0.0.0 on.gp
 0.0.0.0 on.lc
 0.0.0.0 on-air.de
-0.0.0.0 onbit.pro
 0.0.0.0 online.cm
 0.0.0.0 online.cr
 0.0.0.0 online.gp
 0.0.0.0 online.ly
 0.0.0.0 online.tc
 0.0.0.0 online-net.de
+0.0.0.0 onlineweb.shop
 0.0.0.0 onlinewebshop.net
 0.0.0.0 only4u.eu
 0.0.0.0 onmbl.com
@@ -788,6 +795,7 @@
 0.0.0.0 qu.am
 0.0.0.0 r.gp
 0.0.0.0 r-e.kr
+0.0.0.0 rapidshare.se
 0.0.0.0 rbrandly.com
 0.0.0.0 rdrclk.com
 0.0.0.0 re2.de
@@ -811,6 +819,7 @@
 0.0.0.0 search.gp
 0.0.0.0 securebankinggroup.com
 0.0.0.0 securebankinggroup.org
+0.0.0.0 secureonline.store
 0.0.0.0 seite.com
 0.0.0.0 seite.info
 0.0.0.0 seite.ru
@@ -823,7 +832,6 @@
 0.0.0.0 server3.eu
 0.0.0.0 service.lc
 0.0.0.0 share.lc
-0.0.0.0 shareease.link
 0.0.0.0 sharkserve.com
 0.0.0.0 shoort.ch
 0.0.0.0 shop.fm
@@ -840,6 +848,7 @@
 0.0.0.0 sitepalace.com
 0.0.0.0 skul.de
 0.0.0.0 sms.cr
+0.0.0.0 smsu.io
 0.0.0.0 snapurl.to
 0.0.0.0 snifferip.com
 0.0.0.0 solidwebhost.com
@@ -869,6 +878,7 @@
 0.0.0.0 team.cx
 0.0.0.0 team.tl
 0.0.0.0 teamzonesports.com
+0.0.0.0 tehno-politen.ru
 0.0.0.0 tempisite.com
 0.0.0.0 temporary.site
 0.0.0.0 temporary-demo.site
@@ -895,6 +905,7 @@
 0.0.0.0 trackfinanceworld.com
 0.0.0.0 trend.in
 0.0.0.0 tribalpages.com
+0.0.0.0 trim.ac
 0.0.0.0 tripod.com
 0.0.0.0 tryurl.io
 0.0.0.0 turkish.lc
@@ -920,7 +931,6 @@
 0.0.0.0 url-short.me
 0.0.0.0 urlaub.lc
 0.0.0.0 urllink.live
-0.0.0.0 urlto.me
 0.0.0.0 urlz.gr
 0.0.0.0 us.nf
 0.0.0.0 us.st
