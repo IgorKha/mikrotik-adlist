@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.18
-! Last modified: 2026-05-24T07:18:21.766Z
+! Version: 1.0.17.24
+! Last modified: 2026-05-31T07:31:04.092Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.18
+! Version: 1.0.17.24
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-05-22T09:16:59.310Z
+! Last modified: 2026-05-29T07:34:04.445Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11420,6 +11420,35 @@
 0.0.0.0 r72.adstag0102.xyz
 0.0.0.0 r73.adstag0102.xyz
 0.0.0.0 www.adstag0102.xyz
+0.0.0.0 fpjs.io
+0.0.0.0 ap.api.fpjs.io
+0.0.0.0 api.fpjs.io
+0.0.0.0 aps1-turn.fpjs.io
+0.0.0.0 eu.api.fpjs.io
+0.0.0.0 euc1-turn.fpjs.io
+0.0.0.0 use1-turn.fpjs.io
+0.0.0.0 www.fpjs.io
+0.0.0.0 guoshipartners.com
+0.0.0.0 ad-specs.guoshipartners.com
+0.0.0.0 www.guoshipartners.com
+0.0.0.0 smadex.com
+0.0.0.0 bl-bm.smadex.com
+0.0.0.0 bm-ec1.smadex.com
+0.0.0.0 bm-use1.smadex.com
+0.0.0.0 br-trk.smadex.com
+0.0.0.0 bw-trk.smadex.com
+0.0.0.0 cm.smadex.com
+0.0.0.0 content.smadex.com
+0.0.0.0 cr-err.smadex.com
+0.0.0.0 creatives.smadex.com
+0.0.0.0 ee-trk.smadex.com
+0.0.0.0 geo-tracker.smadex.com
+0.0.0.0 pixel-ed.smadex.com
+0.0.0.0 static-content-1.smadex.com
+0.0.0.0 statics.prd.cdn.g.smadex.com
+0.0.0.0 statics.smadex.com
+0.0.0.0 va-trk.smadex.com
+0.0.0.0 www.smadex.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -13233,6 +13262,8 @@
 0.0.0.0 79xmz3lmss.com
 0.0.0.0 7ca78m3csgbrid7ge.com
 0.0.0.0 864feb57ruary.com
+0.0.0.0 940functions.net
+0.0.0.0 970vantage.net
 0.0.0.0 999.money
 0.0.0.0 9gg23.com
 0.0.0.0 a.mktw.net
@@ -13249,6 +13280,7 @@
 0.0.0.0 aanqylta.com
 0.0.0.0 abacho.net
 0.0.0.0 abc-ads.com
+0.0.0.0 abmkupxixavk.in
 0.0.0.0 aboardlevel.com
 0.0.0.0 above.com
 0.0.0.0 aboveredirect.top
@@ -13294,7 +13326,6 @@
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-server.unlimapps.com
 0.0.0.0 ad-space.net
-0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-static.qanda.ai
 0.0.0.0 ad-tech.com
@@ -14846,6 +14877,7 @@
 0.0.0.0 dead-put.com
 0.0.0.0 dealdotcom.com
 0.0.0.0 deanmediagroup.com
+0.0.0.0 decafeligiblyhad.com
 0.0.0.0 decidedrum.com
 0.0.0.0 decimalediblegoose.com
 0.0.0.0 decisivedrawer.com
@@ -14959,6 +14991,7 @@
 0.0.0.0 dulrihaungy.com
 0.0.0.0 dummieseardrum.com
 0.0.0.0 dustyhammer.com
+0.0.0.0 duvnihavrob.in
 0.0.0.0 dxgo95ahe73e8.cloudfront.net
 0.0.0.0 dxtnqglxrio.com
 0.0.0.0 dynamicadx.com
@@ -15164,6 +15197,7 @@
 0.0.0.0 fovcy1jg.pro
 0.0.0.0 foxpush.com
 0.0.0.0 foxtlytvs.com
+0.0.0.0 fqboclyjc.com
 0.0.0.0 fractionfridgejudiciary.com
 0.0.0.0 framestighterauthorize.com
 0.0.0.0 freckledoutsiderundaunted.com
@@ -15477,6 +15511,7 @@
 0.0.0.0 indieclick.com
 0.0.0.0 indignantinterim.com
 0.0.0.0 indratankman.com
+0.0.0.0 industries78.net
 0.0.0.0 industrybrains.com
 0.0.0.0 inetlog.ru
 0.0.0.0 infamousfine.com
@@ -15538,6 +15573,7 @@
 0.0.0.0 itfarm.com
 0.0.0.0 itgiblean.com
 0.0.0.0 itheatmoran.com
+0.0.0.0 itletroec.com
 0.0.0.0 itop.cz
 0.0.0.0 itstuffnews.com
 0.0.0.0 itweepinbelltor.com
@@ -16047,6 +16083,7 @@
 0.0.0.0 nipplelair.com
 0.0.0.0 nitroclicks.com
 0.0.0.0 niwooghu.com
+0.0.0.0 nmasyykbucqj.com
 0.0.0.0 no2veeamggaseber.com
 0.0.0.0 nobid.io
 0.0.0.0 noiselessplough.com
@@ -16080,6 +16117,7 @@
 0.0.0.0 nuggad.net
 0.0.0.0 nui.media
 0.0.0.0 nuseek.com
+0.0.0.0 nuzoqxlu.in
 0.0.0.0 nv.shunnerencinal.shop
 0.0.0.0 nv3tosjqd.com
 0.0.0.0 ny.damasseakamai.com
@@ -16187,6 +16225,7 @@
 0.0.0.0 oranegfodnd.com
 0.0.0.0 orangeads.fr
 0.0.0.0 orb92.com
+0.0.0.0 orbor700.com
 0.0.0.0 orest-vlv.com
 0.0.0.0 organizationwoundedvast.com
 0.0.0.0 origunix.com
@@ -16505,6 +16544,7 @@
 0.0.0.0 pwmctl.com
 0.0.0.0 pyicbcxvs.com
 0.0.0.0 pyxiscablese.com
+0.0.0.0 pz.mulchimbiber.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qa-ads.nobid.com
 0.0.0.0 qa.shboshbok.com
@@ -16683,6 +16723,7 @@
 0.0.0.0 routeserve.info
 0.0.0.0 roxr.net
 0.0.0.0 rqjcsnihsje.com
+0.0.0.0 rrejalojkc.in
 0.0.0.0 rsalcch.com
 0.0.0.0 rtb.gamoshi.io
 0.0.0.0 rtbidder.net
@@ -16822,6 +16863,7 @@
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 sitemeter.com
 0.0.0.0 siteoid.com
+0.0.0.0 siweieoyjl.com
 0.0.0.0 sixscissors.com
 0.0.0.0 sixsigmatraffic.com
 0.0.0.0 skimlinks.com
@@ -16832,7 +16874,6 @@
 0.0.0.0 slidbecauseemerald.com
 0.0.0.0 slipheirphysician.com
 0.0.0.0 slushhelmetmirth.com
-0.0.0.0 smadex.com
 0.0.0.0 smallfunnybears.com
 0.0.0.0 smart2cnjuh34jb.com
 0.0.0.0 smart4ads.com
@@ -17467,6 +17508,7 @@
 0.0.0.0 whairtoa.com
 0.0.0.0 whaleads.com
 0.0.0.0 whazugho.com
+0.0.0.0 wheatentricklecover.com
 0.0.0.0 whirlwealth.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whispa.com
@@ -17662,6 +17704,7 @@
 0.0.0.0 youradexchange.com
 0.0.0.0 yqmxfz.com
 0.0.0.0 yrhnw7h63.com
+0.0.0.0 yrocvgqilrmowj.com
 0.0.0.0 yu225.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
@@ -17792,6 +17835,7 @@
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.tuoitrau.com
 0.0.0.0 analytics.undrads.com
+0.0.0.0 analytics.wavelz.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.youronlinechoices.com
@@ -17854,6 +17898,8 @@
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clerrrep.com
 0.0.0.0 cleverpush.com
+0.0.0.0 clickguardian.app
+0.0.0.0 clickyab.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 cloudcollect.meitudata.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
@@ -18024,6 +18070,7 @@
 0.0.0.0 kameleoon.eu
 0.0.0.0 kissmetrics.com
 0.0.0.0 kitbit.net
+0.0.0.0 klangoo.com
 0.0.0.0 knotch-cdn.com
 0.0.0.0 largeer.com
 0.0.0.0 lcs.loginfra.com
@@ -18152,6 +18199,7 @@
 0.0.0.0 playtomic.com
 0.0.0.0 ponos.zeronaught.com
 0.0.0.0 popupmaker.com
+0.0.0.0 pphwrevr.com
 0.0.0.0 promotionengine.com
 0.0.0.0 prooffactor.com
 0.0.0.0 propeller-tracking.com
@@ -18170,6 +18218,7 @@
 0.0.0.0 r.wdfl.co
 0.0.0.0 r1.snnd.co
 0.0.0.0 rabbitbreath.com
+0.0.0.0 ravelin.net
 0.0.0.0 rclog.rcplatformhk.com
 0.0.0.0 reachmax.cn
 0.0.0.0 receive.wmcdp.io

@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.18.24
-! Last modified: 2026-05-24T07:18:11.307Z
+! Version: 1.0.18.31
+! Last modified: 2026-05-31T07:30:53.941Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.24
+! Version: 1.0.18.31
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-05-22T21:31:25.173Z
+! Last modified: 2026-05-29T17:18:56.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1929,6 +1929,7 @@
 0.0.0.0 fromru.su
 0.0.0.0 ftdownload.com
 0.0.0.0 fu.golikeus.net			# Facebook trojan
+0.0.0.0 funnysciencediscounts1.blogspot.com
 0.0.0.0 fuzzy-afternoon.surge.sh
 0.0.0.0 fwbdndyikloaxb68duujcfyudy.appwrite.network
 0.0.0.0 g2play.fr
@@ -3180,6 +3181,7 @@
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
+0.0.0.0 www.backingguitar.garden
 0.0.0.0 www.bahartonu.com
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.balassst.com
@@ -3212,6 +3214,7 @@
 0.0.0.0 www.bonuxsarrive.com
 0.0.0.0 www.bookstadium.com
 0.0.0.0 www.borocade.com
+0.0.0.0 www.boysstrongly.living
 0.0.0.0 www.brandsclothingco.com
 0.0.0.0 www.breakslavery.com
 0.0.0.0 www.brghterimagelab.com
@@ -3286,6 +3289,7 @@
 0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
+0.0.0.0 www.crystalbranchtw.blog
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
 0.0.0.0 www.dangdangflow.com
@@ -3581,8 +3585,10 @@
 0.0.0.0 www.nursse.com
 0.0.0.0 www.nwbidrtb.com
 0.0.0.0 www.nzgamingworld.com
+0.0.0.0 www.oakog.com
 0.0.0.0 www.oakridgeflows.uk
 0.0.0.0 www.objectopoly.info
+0.0.0.0 www.occoquananimalhospital.com
 0.0.0.0 www.officerreport.com
 0.0.0.0 www.ogopond.com
 0.0.0.0 www.oilbasics.com
@@ -3681,6 +3687,7 @@
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.ricontools.com
 0.0.0.0 www.rightchanges.com
+0.0.0.0 www.risedirectly.living
 0.0.0.0 www.riversidefr.com
 0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
@@ -3718,6 +3725,7 @@
 0.0.0.0 www.smokyshadecj.name
 0.0.0.0 www.snkido.com
 0.0.0.0 www.snowhandball.com
+0.0.0.0 www.snugbirdjq.blog
 0.0.0.0 www.snurrlyspin.com
 0.0.0.0 www.softcarp.com
 0.0.0.0 www.softmillon.com
@@ -3795,6 +3803,7 @@
 0.0.0.0 www.urldelivery.com
 0.0.0.0 www.vacnleefarpels.com
 0.0.0.0 www.vebprostopinup.com
+0.0.0.0 www.vecchiopools.com
 0.0.0.0 www.ventilationdirec.com
 0.0.0.0 www.venturead.com
 0.0.0.0 www.vetmanevi.com
@@ -3832,6 +3841,7 @@
 0.0.0.0 www.winecrazydesigns.com
 0.0.0.0 www.wingfoilmargarita.com
 0.0.0.0 www.winlottofrequently.com
+0.0.0.0 www.wiseknows.bond
 0.0.0.0 www.wjldfm.com
 0.0.0.0 www.woodycrystaljo.name
 0.0.0.0 www.workschat.com
