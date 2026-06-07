@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.3.20
-! Last modified: 2026-05-31T07:30:56.302Z
+! Version: 1.0.3.25
+! Last modified: 2026-06-07T07:37:02.865Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -13332,6 +13332,7 @@
 0.0.0.0 analytics.sielhorst-it.de
 0.0.0.0 analytics.sigasi.com
 0.0.0.0 analytics.sightkick.de
+0.0.0.0 analytics-siglbex2.on-forge.com
 0.0.0.0 analytics.sigmae-dev.fr
 0.0.0.0 analytics.signalorange.tech
 0.0.0.0 analytics.signalstuff.com
@@ -17918,11 +17919,13 @@
 0.0.0.0 b2metric.com
 0.0.0.0 b2p.institutulbrainmap.ro
 0.0.0.0 b347.pottsmerc.com
+0.0.0.0 b35jtlxp.com
 0.0.0.0 b3sucher.kulturhafen-dresden.de
 0.0.0.0 b442172e.b-cdn.net
 0.0.0.0 b4hhxtrk.com
 0.0.0.0 b5f000a8.b-cdn.net
 0.0.0.0 b5j6itccyluq.nofluffjobs.com
+0.0.0.0 b5trk.com
 0.0.0.0 b607.dailylocal.com
 0.0.0.0 b629.electronicdesign.com
 0.0.0.0 b668.record-bee.com
@@ -27726,6 +27729,7 @@
 0.0.0.0 dazzlingbook.com
 0.0.0.0 db4objects.com
 0.0.0.0 db4objects.org
+0.0.0.0 db6gbm9trk.com
 0.0.0.0 dback.work
 0.0.0.0 d.bakjegeluk.nl
 0.0.0.0 dbcru.ryka.com
@@ -31384,6 +31388,7 @@
 0.0.0.0 farmergoldfish.com
 0.0.0.0 farmhousestyle-extra.com
 0.0.0.0 farmhousestylemag-news.com
+0.0.0.0 faro-collector-prod-eu-west-2.grafana.net
 0.0.0.0 faro-collector-prod-us-central-0.grafana.net
 0.0.0.0 farshake.com
 0.0.0.0 farsnails.com
@@ -33087,6 +33092,7 @@
 0.0.0.0 geo-lookup.netlify.app
 0.0.0.0 geoloqi.com
 0.0.0.0 geo.lovely-app.com
+0.0.0.0 geo.mandatlyonline.net
 0.0.0.0 geomatrix-retail.com
 0.0.0.0 geo.mattel163.com
 0.0.0.0 geomium.com
@@ -37344,6 +37350,7 @@
 0.0.0.0 hiconversion.net
 0.0.0.0 hi.coronationgroup.net
 0.0.0.0 hiddenhealthtruths.com
+0.0.0.0 hidestats.online
 0.0.0.0 hidrogtm.imaginemarketingdigital.com
 0.0.0.0 hiemailanalytics.com
 0.0.0.0 hifisgtm.trysprinkle.com
@@ -40683,6 +40690,7 @@
 0.0.0.0 ksn-stat-install.kaspersky-labs.com
 0.0.0.0 ksn-url-geo.kaspersky-labs.com
 0.0.0.0 ksn-verdict-geo.kaspersky-labs.com
+0.0.0.0 ks-rnet-707.top
 0.0.0.0 kssld.nustone.co.uk
 0.0.0.0 kssst.intecular.com
 0.0.0.0 kstkgl.denkongeligesamling.dk
@@ -40736,6 +40744,7 @@
 0.0.0.0 kw.kanalytics.it
 0.0.0.0 kws.holdmybeerconsulting.com
 0.0.0.0 kwzm.uniformix.pl
+0.0.0.0 kx7rm2trk.com
 0.0.0.0 kxa1fo7h.com
 0.0.0.0 kx.com
 0.0.0.0 kxj6y.buvanha.com
@@ -40771,6 +40780,7 @@
 0.0.0.0 l4n2fytrk.com
 0.0.0.0 l522.essent.us
 0.0.0.0 l6y2ktrk.com
+0.0.0.0 l7gn0mn2r.com
 0.0.0.0 l936.expressnews.com
 0.0.0.0 l997.lmtonline.com
 0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
@@ -51281,6 +51291,7 @@
 0.0.0.0 me.saddherbazar.xyz
 0.0.0.0 me.saeedesmaili.com
 0.0.0.0 meshbio.com
+0.0.0.0 meshub.de
 0.0.0.0 mesmotronic.com
 0.0.0.0 me.sms2aim.com
 0.0.0.0 message.alldata.com
@@ -54177,6 +54188,7 @@
 0.0.0.0 mfmqk.redbubble.com
 0.0.0.0 mfour.com
 0.0.0.0 mfqdo.jpcycles.com
+0.0.0.0 mful9l2p.com
 0.0.0.0 mfunss.yopagomenos.co
 0.0.0.0 mfvoa.etrgovinca.hu
 0.0.0.0 mgagd.lacrawfish.com
@@ -69245,6 +69257,7 @@
 0.0.0.0 prism.app-us1.com
 0.0.0.0 prisma-tr.prismamedia.com
 0.0.0.0 prism.blackdog.ro
+0.0.0.0 prismex.co.uk
 0.0.0.0 pristinegale.com
 0.0.0.0 privacy.28degreescard.com.au
 0.0.0.0 privacy.2x45.de
@@ -69446,6 +69459,7 @@
 0.0.0.0 pro.gohinfood.com
 0.0.0.0 progressivedigitalmedia.com
 0.0.0.0 pro.holplus.co
+0.0.0.0 pro.ip-api.com
 0.0.0.0 projectmanagementmarketing.click
 0.0.0.0 pro.joycreativebibles.com
 0.0.0.0 prolibre.com
@@ -102893,6 +102907,7 @@
 0.0.0.0 st.viviansella.com
 0.0.0.0 s.tvn.pl
 0.0.0.0 stvrb.oakmontmortuary.com
+0.0.0.0 stw4c9hx.com
 0.0.0.0 st.wagen-eins.de
 0.0.0.0 st.wellmaxx-bodyforming.com
 0.0.0.0 stwg.wishup.gifts
@@ -103677,6 +103692,7 @@
 0.0.0.0 tagger.communitiesxp.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tag.gersonkawa.site
+0.0.0.0 tagging.care.com
 0.0.0.0 tagging.expand3.de
 0.0.0.0 tagging.gunsails.com
 0.0.0.0 tagging.hilodesign.co
@@ -107627,6 +107643,7 @@
 0.0.0.0 tracking.turbowinbet.com
 0.0.0.0 tracking.turkenburg-media.com
 0.0.0.0 tracking.tvet-vietnam.org
+0.0.0.0 tracking-two-beta.vercel.app
 0.0.0.0 tracking.u5wk4mu8dxmdfwbswz.com
 0.0.0.0 tracking.univtec.com
 0.0.0.0 tracking.unrealengine.com
@@ -108158,6 +108175,7 @@
 0.0.0.0 trackup99.com
 0.0.0.0 track.urbanbound.com
 0.0.0.0 trackurl-secure.com
+0.0.0.0 trackurlsecure.com
 0.0.0.0 track.usagranite.com
 0.0.0.0 track.usconcealedcarry.com
 0.0.0.0 track.usdataemailstats.com
@@ -108417,6 +108435,7 @@
 0.0.0.0 tr.dogizen.io
 0.0.0.0 tr.du-omnistore.de
 0.0.0.0 tr.dxmcdn.com
+0.0.0.0 tre5y9ba.com
 0.0.0.0 treadbun.com
 0.0.0.0 tread.firestonecompleteautocare.com
 0.0.0.0 treasuredata.com
@@ -108735,6 +108754,7 @@
 0.0.0.0 t.runway.team
 0.0.0.0 truoptik.com
 0.0.0.0 trustanalytica.com
+0.0.0.0 trusted01trk.com
 0.0.0.0 trusted44.com
 0.0.0.0 trustedglobal.com
 0.0.0.0 trusted-website.com
@@ -109144,6 +109164,7 @@
 0.0.0.0 tvpixel.com
 0.0.0.0 tv.rlcdn.com
 0.0.0.0 tvsbb.representclo.com
+0.0.0.0 tvscipixel.com
 0.0.0.0 tvspix.com
 0.0.0.0 tvstats.telvi.de
 0.0.0.0 tvtd.disapo.de
@@ -110569,6 +110590,7 @@
 0.0.0.0 vlitag.com
 0.0.0.0 vlkv7i8g.com
 0.0.0.0 vlmczg.primrose-awnings.co.uk
+0.0.0.0 vlnd3r8nqtrk.com
 0.0.0.0 vloicxuv.addictivetips.com
 0.0.0.0 vlplp.michaelstars.com
 0.0.0.0 vlquz.gasmonkeygarage.com
@@ -110723,6 +110745,7 @@
 0.0.0.0 vroktu.dahong.co.kr
 0.0.0.0 vrpiv.magnoliaboutique.com
 0.0.0.0 vrpmi.drmbernstein.com
+0.0.0.0 vrrbb.com
 0.0.0.0 vrruj.francosarto.com
 0.0.0.0 vrske.frenchbroadchocolates.com
 0.0.0.0 vrskf.clockcanvas.com
@@ -112150,6 +112173,7 @@
 0.0.0.0 wss.media
 0.0.0.0 ws-statistiche.tecnocasa.com
 0.0.0.0 wstats.ageverif.com
+0.0.0.0 wstats.click
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wstats.siemens-stiftung.org
 0.0.0.0 wsts.duit.de
@@ -112255,6 +112279,7 @@
 0.0.0.0 wwi.gosafari.de
 0.0.0.0 w.willowvoice.com
 0.0.0.0 w.wr1gateway.xyz
+0.0.0.0 wwsga.me
 0.0.0.0 wwthsalot.com
 0.0.0.0 wwu.jjill.com
 0.0.0.0 wwu.public-rosary.org
@@ -112971,6 +112996,7 @@
 0.0.0.0 zasdinbo.ems-urology.com
 0.0.0.0 zavy.co
 0.0.0.0 za.zalo.me
+0.0.0.0 zb6fd0trk.com
 0.0.0.0 zbdfg.littlebigplayroom.com
 0.0.0.0 zbekg.backinthesaddle.com
 0.0.0.0 z.betterhelp.com
@@ -113261,6 +113287,7 @@
 0.0.0.0 z.woopic.com
 0.0.0.0 zwosa.vcrp.de
 0.0.0.0 zwx7z6wv.com
+0.0.0.0 zx38upoh.com
 0.0.0.0 zxcv6iop2pl.com
 0.0.0.0 zxsdpyqa.3deksperten.dk
 0.0.0.0 zxtmqa.vivancoculturadevino.es

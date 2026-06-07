@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.24
-! Last modified: 2026-05-31T07:31:04.092Z
+! Version: 1.0.17.27
+! Last modified: 2026-06-07T07:37:10.422Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.24
+! Version: 1.0.17.27
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-05-29T07:34:04.445Z
+! Last modified: 2026-06-03T09:06:37.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7959,8 +7959,10 @@
 0.0.0.0 mouseflow.com
 0.0.0.0 www.mouseflow.com
 0.0.0.0 app.crazyegg.com
+0.0.0.0 assets-tracking.crazyegg.com
 0.0.0.0 crazyegg.com
 0.0.0.0 hud.crazyegg.com
+0.0.0.0 pagestates-tracking.crazyegg.com
 0.0.0.0 recording.crazyegg.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 tracking.crazyegg.com
@@ -11449,6 +11451,13 @@
 0.0.0.0 statics.smadex.com
 0.0.0.0 va-trk.smadex.com
 0.0.0.0 www.smadex.com
+0.0.0.0 adsterra.com
+0.0.0.0 ads.adsterra.com
+0.0.0.0 an.adsterra.com
+0.0.0.0 your.adsterra.com
+0.0.0.0 edge-hls.saawsedge.com
+0.0.0.0 saawsedge.com
+0.0.0.0 www.saawsedge.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -11469,6 +11478,7 @@
 0.0.0.0 cpm.j.eclick.vn
 0.0.0.0 d.eclick.vn
 0.0.0.0 dmp.eclick.vn
+0.0.0.0 ds.eclick.vn
 0.0.0.0 e.eclick.vn
 0.0.0.0 eclick.vn
 0.0.0.0 emarketing.eclick.vn
@@ -12695,6 +12705,10 @@
 0.0.0.0 www.engagelab.cc
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 webpushstat-sgp.engagelab.com
+0.0.0.0 smartads.tech
+0.0.0.0 p.smartads.tech
+0.0.0.0 st.smartads.tech
+0.0.0.0 t.smartads.tech
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-ndtv.3s.com.vn
@@ -13204,6 +13218,7 @@
 0.0.0.0 1fkx796mw.com
 0.0.0.0 1slms.com
 0.0.0.0 2-05.com
+0.0.0.0 2021group.com
 0.0.0.0 207.net
 0.0.0.0 22hgc.com
 0.0.0.0 2441march2024.com
@@ -13871,7 +13886,7 @@
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adstage.io
 0.0.0.0 adstat.4u.pl
-0.0.0.0 adsterra.com
+0.0.0.0 adsterra.rocks
 0.0.0.0 adstune.com
 0.0.0.0 adsup.togothermany.cn
 0.0.0.0 adsupply.com
@@ -13967,6 +13982,7 @@
 0.0.0.0 adz2you.net
 0.0.0.0 adzbazar.com
 0.0.0.0 aeffe3nhrua5hua.com
+0.0.0.0 aelwynvel.com
 0.0.0.0 aerodynomach.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 afcnuchxgo.com
@@ -14163,6 +14179,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 at.adtech.redventures.io
+0.0.0.0 at.deviletcolog.com
 0.0.0.0 atableofcup.com
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 atlassolutions.com
@@ -14191,6 +14208,7 @@
 0.0.0.0 awempire.com
 0.0.0.0 aweprt.com
 0.0.0.0 awhilediplomagloss.com
+0.0.0.0 awjojjrimaf.in
 0.0.0.0 awzbijw.com
 0.0.0.0 axdsz.pro
 0.0.0.0 axillovely.com
@@ -14435,6 +14453,7 @@
 0.0.0.0 brygella.com
 0.0.0.0 brynh-lei.com
 0.0.0.0 bt.teparytympan.qpon
+0.0.0.0 btguqecoelukltw.com
 0.0.0.0 btpnative.com
 0.0.0.0 bucksense.com
 0.0.0.0 buffooncountabletreble.com
@@ -14586,6 +14605,7 @@
 0.0.0.0 chl7rysobc3ol6xla.com
 0.0.0.0 choconart.com
 0.0.0.0 choupsee.com
+0.0.0.0 chubbyexemplaryhardiness.com
 0.0.0.0 chyjobopse.pro
 0.0.0.0 chytridaustral.com
 0.0.0.0 cibleclick.com
@@ -14601,6 +14621,7 @@
 0.0.0.0 cjxomyilmv.com
 0.0.0.0 claria.com
 0.0.0.0 claroads.com
+0.0.0.0 claroly75.com
 0.0.0.0 clckysudks.com
 0.0.0.0 clearadnetwork.com
 0.0.0.0 clenchedyouthmatching.com
@@ -14695,6 +14716,7 @@
 0.0.0.0 conjunctionrepresentativepowerless.com
 0.0.0.0 connection1safety.com
 0.0.0.0 connextra.com
+0.0.0.0 conopidlanai.qpon
 0.0.0.0 constructpreachystopper.com
 0.0.0.0 consumer.exacttargetapis.com
 0.0.0.0 contadores.miarroba.com
@@ -14715,6 +14737,7 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coremetrics.com
+0.0.0.0 cornrowbygone.shop
 0.0.0.0 correctdilutetrophy.com
 0.0.0.0 correlationcocktailinevitably.com
 0.0.0.0 count.rin.ru
@@ -14865,6 +14888,7 @@
 0.0.0.0 data.queryly.com
 0.0.0.0 datafront.co
 0.0.0.0 datatechonert.com
+0.0.0.0 datatoreplicas.com
 0.0.0.0 dataxu.com
 0.0.0.0 datemefast.com
 0.0.0.0 datingprudethimble.com
@@ -14945,6 +14969,7 @@
 0.0.0.0 divisiondrearilyunfiled.com
 0.0.0.0 dkre4lyk6a9bt.cloudfront.net
 0.0.0.0 dlrioxg1637dk.cloudfront.net
+0.0.0.0 dm.earnascape.com
 0.0.0.0 dmp.starbolt.io
 0.0.0.0 dmtracker.com
 0.0.0.0 dn.loupmismaze.com
@@ -15048,6 +15073,7 @@
 0.0.0.0 eh.feasedpharos.com
 0.0.0.0 ehealthcaresolutions.com
 0.0.0.0 ej.tincheldeluce.com
+0.0.0.0 ejnhhchykjfyyle.com
 0.0.0.0 elasticchange.com
 0.0.0.0 elaydark.com
 0.0.0.0 elderlybean.com
@@ -15294,6 +15320,7 @@
 0.0.0.0 gnenuelnn.com
 0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
+0.0.0.0 go.bigbang.solutions
 0.0.0.0 go.cuteab.com
 0.0.0.0 go.imkirh.com
 0.0.0.0 go.mavrtracktor.com
@@ -15349,6 +15376,7 @@
 0.0.0.0 gullyending.com
 0.0.0.0 gunggo.com
 0.0.0.0 guppymedia.com
+0.0.0.0 gv.habitanchowses.cyou
 0.0.0.0 gwallet.com
 0.0.0.0 gy.anaheimnonfat.com
 0.0.0.0 gzaqwebtipm.com
@@ -15879,6 +15907,7 @@
 0.0.0.0 megawerbung.de
 0.0.0.0 meltdsp.com
 0.0.0.0 memorizeneck.com
+0.0.0.0 mercurousswaddlesuggest.com
 0.0.0.0 merequartz.com
 0.0.0.0 messagenovice.com
 0.0.0.0 messenger-notify.digital
@@ -16005,6 +16034,7 @@
 0.0.0.0 myscreen.com
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
+0.0.0.0 mysticechohaven.com
 0.0.0.0 mytdsnet.com
 0.0.0.0 mythings.com
 0.0.0.0 mytop-in.net
@@ -16110,6 +16140,7 @@
 0.0.0.0 ntvpinp.com
 0.0.0.0 ntvpwpush.com
 0.0.0.0 ntvsw.com
+0.0.0.0 nu.subgumgutwise.com
 0.0.0.0 nuckinxuco.com
 0.0.0.0 nuclearads.com
 0.0.0.0 nucopzqt.in
@@ -16354,6 +16385,7 @@
 0.0.0.0 pgpartner.com
 0.0.0.0 phaimtoata.com
 0.0.0.0 pheedo.com
+0.0.0.0 phfzhmcuazx.com
 0.0.0.0 phicmune.net
 0.0.0.0 phizzle.com
 0.0.0.0 phluant.com
@@ -16402,6 +16434,7 @@
 0.0.0.0 pontiflex.com
 0.0.0.0 pop-under.ru
 0.0.0.0 pop5sjhspear.com
+0.0.0.0 popjoynorit.cfd
 0.0.0.0 popmansion.com
 0.0.0.0 popmonetizer.net
 0.0.0.0 popmyads.com
@@ -16908,6 +16941,7 @@
 0.0.0.0 sociomantic.com
 0.0.0.0 softaignidsoom.net
 0.0.0.0 softclick.com.br
+0.0.0.0 softestablishmentfill.com
 0.0.0.0 soggy-surround.com
 0.0.0.0 solarcyclonesky.com
 0.0.0.0 solutions2000.com
@@ -16955,6 +16989,7 @@
 0.0.0.0 spylog.com
 0.0.0.0 spywarenuker.com
 0.0.0.0 sq.exonerrotter.com
+0.0.0.0 squeegetirret.cyou
 0.0.0.0 srv.trafficgate.net
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 srv2.trafficgate.net
@@ -17021,6 +17056,7 @@
 0.0.0.0 succeedscene.com
 0.0.0.0 sueivypeg.com
 0.0.0.0 sugoicounter.com
+0.0.0.0 sujmazbul.in
 0.0.0.0 sumatoad.com
 0.0.0.0 sumbreta.com
 0.0.0.0 summerobject.com
@@ -17304,6 +17340,7 @@
 0.0.0.0 ufaexpert.com
 0.0.0.0 ufpcdn.com
 0.0.0.0 ugroocuw.net
+0.0.0.0 ugtflnqn.com
 0.0.0.0 uhealth.care
 0.0.0.0 uhland24.de
 0.0.0.0 uitopadxdy.com
@@ -17434,6 +17471,7 @@
 0.0.0.0 vmweb.net
 0.0.0.0 vncnu.com
 0.0.0.0 vnm.louisys.com
+0.0.0.0 vnumlkbuujd.com
 0.0.0.0 voicedstart.com
 0.0.0.0 voredi.com
 0.0.0.0 voupsauk.com
@@ -17644,6 +17682,7 @@
 0.0.0.0 xad.com
 0.0.0.0 xadsmart.com
 0.0.0.0 xchange.ro
+0.0.0.0 xcirtefata.in
 0.0.0.0 xclicks.net
 0.0.0.0 xdiwbc.com
 0.0.0.0 xertive.com
@@ -17687,6 +17726,8 @@
 0.0.0.0 yesadvertising.com
 0.0.0.0 yesgwyn.com
 0.0.0.0 yespetor.com
+0.0.0.0 yh.rostelshute.shop
+0.0.0.0 yi.polarichip.com
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com

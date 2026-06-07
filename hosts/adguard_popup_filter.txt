@@ -1,7 +1,10 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.13
-! Last modified: 2026-05-31T07:30:55.721Z
+! Version: 1.0.18.20
+! Last modified: 2026-06-07T07:37:02.294Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 lustygg.com
+0.0.0.0 betus.com.pa
+0.0.0.0 as-pet.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 lust-girls.com
 0.0.0.0 wizensbuphaga.sh
 0.0.0.0 happyleafmotion.com
@@ -17,7 +20,6 @@
 0.0.0.0 host69k.cfd
 0.0.0.0 druggedrat.com
 0.0.0.0 sv1291.space
-0.0.0.0 crn77.com
 0.0.0.0 ejretpiytkcna.website
 0.0.0.0 sparrowcanned.com
 0.0.0.0 dwlv.xyz
@@ -235,7 +237,6 @@
 0.0.0.0 adspredictiv.com
 0.0.0.0 adsquasher.com
 0.0.0.0 adsquasher.pro
-0.0.0.0 adstreampro.com
 0.0.0.0 adtelligent.com
 0.0.0.0 adtraction.com
 0.0.0.0 advertisoo.com
@@ -252,7 +253,6 @@
 0.0.0.0 aglobally.com
 0.0.0.0 aifolr.com
 0.0.0.0 aimging.com
-0.0.0.0 aiphotomania.com
 0.0.0.0 ak-is2.net
 0.0.0.0 albonsa.com
 0.0.0.0 alexatracker.com
@@ -263,7 +263,6 @@
 0.0.0.0 animeloundry.com
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 appointeeivyspongy.com
-0.0.0.0 approved.website
 0.0.0.0 appslime.com
 0.0.0.0 appthe.click
 0.0.0.0 argrowlitheor.com
@@ -273,12 +272,12 @@
 0.0.0.0 atp.revistamuchomas.com
 0.0.0.0 atsg.me
 0.0.0.0 atthhnv.com
+0.0.0.0 atzonebd.com
 0.0.0.0 auroraveil.bid
 0.0.0.0 auto-ads6.site
 0.0.0.0 avlmy.com
 0.0.0.0 avogex.com
 0.0.0.0 awecrptjmp.com
-0.0.0.0 basicflownetowork.co.in
 0.0.0.0 bayshorline.com
 0.0.0.0 bbmoe.com
 0.0.0.0 bboy1.com
@@ -314,6 +313,7 @@
 0.0.0.0 camliveshow.xyz
 0.0.0.0 candellume.shop
 0.0.0.0 candyai.love
+0.0.0.0 career-mesh.com
 0.0.0.0 cashgzb.com
 0.0.0.0 casinobonusdeals.io
 0.0.0.0 cauditcommernal.com
@@ -339,12 +339,12 @@
 0.0.0.0 colleem.com
 0.0.0.0 colossal-pathway.life
 0.0.0.0 conestreshow.com
-0.0.0.0 controlclickflow.com
 0.0.0.0 coolserving.com
 0.0.0.0 coosync.com
 0.0.0.0 coticoffee.com
 0.0.0.0 cpacrack.com
 0.0.0.0 cradaygo.com
+0.0.0.0 crn77.com
 0.0.0.0 crockadilla.com
 0.0.0.0 cryptomcw.com
 0.0.0.0 ctosrd.com
@@ -356,7 +356,6 @@
 0.0.0.0 date4sex.pro
 0.0.0.0 datedeskads.com
 0.0.0.0 dateyou2024.com
-0.0.0.0 datingforyour4.site
 0.0.0.0 debaucky.com
 0.0.0.0 deepsathegoh.com
 0.0.0.0 degreedistance.cfd
@@ -376,12 +375,10 @@
 0.0.0.0 dsb68d.com
 0.0.0.0 dsp5stero.com
 0.0.0.0 earlinessone.xyz
-0.0.0.0 earnbeginnerdocument.com
 0.0.0.0 easelegbike.com
 0.0.0.0 easyconverts.com
 0.0.0.0 eeco.xyz
 0.0.0.0 efficientorbit.co
-0.0.0.0 emancytal.com
 0.0.0.0 endlessloveonline.online
 0.0.0.0 enrtx.com
 0.0.0.0 escortlist.pro
@@ -396,12 +393,14 @@
 0.0.0.0 fantabro.com
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
+0.0.0.0 fhvfd.com
 0.0.0.0 finanvideos.com
-0.0.0.0 finder2024.com
 0.0.0.0 flowldsf.online
 0.0.0.0 flyingadvert.com
 0.0.0.0 foerpo.com
 0.0.0.0 foflf.com
+0.0.0.0 forgetnet.xyz
+0.0.0.0 foruftuiov.com
 0.0.0.0 freetrckr.com
 0.0.0.0 frequentjam.com
 0.0.0.0 fruityarbors.cfd
@@ -412,9 +411,9 @@
 0.0.0.0 fzev75-rtbix.top
 0.0.0.0 galaxypush.com
 0.0.0.0 gamazi.com
+0.0.0.0 gamerhit.co
 0.0.0.0 gamonalsmadevel.com
 0.0.0.0 gb1aff.com
-0.0.0.0 gemfowls.com
 0.0.0.0 gensonal.com
 0.0.0.0 get-gx.net
 0.0.0.0 getsthis.com
@@ -429,7 +428,6 @@
 0.0.0.0 goads.pro
 0.0.0.0 godkc.com
 0.0.0.0 gomsop.com
-0.0.0.0 gorclck.com
 0.0.0.0 gotrackier.com
 0.0.0.0 grfpr.com
 0.0.0.0 gtbdhr.com
@@ -447,7 +445,6 @@
 0.0.0.0 hnrgmc.com
 0.0.0.0 hoglinsu.com
 0.0.0.0 hoktrips.com
-0.0.0.0 holdhostel.space
 0.0.0.0 hooligs.app
 0.0.0.0 hooliredir.com
 0.0.0.0 horonstogly.com
@@ -460,6 +457,7 @@
 0.0.0.0 imkirh.com
 0.0.0.0 inbrowserplay.com
 0.0.0.0 indlyment-stuador.com
+0.0.0.0 inspoloji.com
 0.0.0.0 installupdate.online
 0.0.0.0 intellipopup.com
 0.0.0.0 internodeid.com
@@ -489,13 +487,10 @@
 0.0.0.0 landerhq.com
 0.0.0.0 leadgainz.com
 0.0.0.0 leakvideos.live
-0.0.0.0 lehemhavita.club
 0.0.0.0 leoyard.com
 0.0.0.0 lindychat.com
 0.0.0.0 linksprf.com
-0.0.0.0 litteracywing.pro
 0.0.0.0 livespacelivekeyrealclub.com
-0.0.0.0 loaditfile.com
 0.0.0.0 loadtime.org
 0.0.0.0 locooler-ageneral.com
 0.0.0.0 lorymo.online
@@ -508,14 +503,12 @@
 0.0.0.0 mainadcenter.com
 0.0.0.0 mainexclkdir.com
 0.0.0.0 making.party
-0.0.0.0 maquiags.com
 0.0.0.0 maredpt.com
 0.0.0.0 marketdeathly.com
 0.0.0.0 marketingthing.click
 0.0.0.0 masterreviews.org
 0.0.0.0 maxconvtrk.com
 0.0.0.0 maxickedpantents.com
-0.0.0.0 maxidownload.com
 0.0.0.0 mazefoam.com
 0.0.0.0 mbcm2.com
 0.0.0.0 mbjrkm2.com
@@ -549,7 +542,6 @@
 0.0.0.0 movie-tv-free.com
 0.0.0.0 mylot.com
 0.0.0.0 mynutraresearch.com
-0.0.0.0 mypopadpro.com
 0.0.0.0 mytdsnet.com
 0.0.0.0 n91hg.com
 0.0.0.0 nan0cns.com
@@ -558,7 +550,6 @@
 0.0.0.0 nersionitsumpute.com
 0.0.0.0 newmytrp.com
 0.0.0.0 next-lust.cfd
-0.0.0.0 nextpointkaynersave.com
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 nightbesties.com
 0.0.0.0 ninancukankin.org
@@ -575,7 +566,6 @@
 0.0.0.0 nutchaungong.com
 0.0.0.0 nwwrtbbit.com
 0.0.0.0 nxt-psh.com
-0.0.0.0 nylonnickel.xyz
 0.0.0.0 obtaintrout.com
 0.0.0.0 occasional-flow.com
 0.0.0.0 offergate-ecommerce-cdn5.com
@@ -584,6 +574,7 @@
 0.0.0.0 offergate-software6.com
 0.0.0.0 olopruy.com
 0.0.0.0 omegaadblock.net
+0.0.0.0 omg10.com
 0.0.0.0 omgt3.com
 0.0.0.0 omzal.com
 0.0.0.0 onclckpop.com
@@ -718,6 +709,7 @@
 0.0.0.0 sodefender.pro
 0.0.0.0 sp03k.sbs
 0.0.0.0 spareforads.top
+0.0.0.0 sparkpcgames.com
 0.0.0.0 spin83qr.com
 0.0.0.0 sprinlof.com
 0.0.0.0 spygenix.xyz
@@ -728,6 +720,7 @@
 0.0.0.0 stableflowconnection.co.in
 0.0.0.0 staysafeonlinetoday.com
 0.0.0.0 steerensout.net
+0.0.0.0 stortla.com
 0.0.0.0 streamereasy.click
 0.0.0.0 strtgic.com
 0.0.0.0 stsbih.com.ba
@@ -740,6 +733,7 @@
 0.0.0.0 tatrck.com
 0.0.0.0 tbao684tryo.com
 0.0.0.0 tbeiu658gftk.com
+0.0.0.0 tenlets.com
 0.0.0.0 tgel2ebtx.ru
 0.0.0.0 theirbellstudio.co
 0.0.0.0 theonesstoodtheirground.com
