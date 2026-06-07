@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt
-! Version: 1.0.15.0
-! Last modified: 2026-05-31T07:31:03.202Z
+! Version: 1.0.15.1
+! Last modified: 2026-06-07T07:37:09.311Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -160,8 +160,6 @@
 0.0.0.0 cdn.fds-ssl.api.xiaomi.com
 0.0.0.0 mibi.api.xiaomi.com
 0.0.0.0 o2o.api.xiaomi.com
-0.0.0.0 a0.app.xiaomi.com
-0.0.0.0 t.app.xiaomi.com
 0.0.0.0 shoes.app-xae.xiaomi.com
 0.0.0.0 mon.be.xiaomi.com
 0.0.0.0 sentry.be.xiaomi.com
@@ -191,7 +189,7 @@
 0.0.0.0 static.game.xiaomi.com
 0.0.0.0 wap.game.xiaomi.com
 0.0.0.0 idmb.app.chat.global.xiaomi.net
-0.0.0.0 fr.resolver.msg.global.xiaomi.net
+0.0.0.0 resolver.msg.global.xiaomi.net
 0.0.0.0 fr.feedback.xmpush.global.xiaomi.com
 0.0.0.0 idmb.feedback.xmpush.global.xiaomi.com
 0.0.0.0 ru.feedback.xmpush.global.xiaomi.com
@@ -243,10 +241,8 @@
 0.0.0.0 api.micloud.xiaomi.net
 0.0.0.0 findapi.micloud.xiaomi.net
 0.0.0.0 statusapi.micloud.xiaomi.net
-0.0.0.0 tv.app.migc.xiaomi.com
+0.0.0.0 app.migc.xiaomi.com
 0.0.0.0 invoice.netroam.mihome.xiaomi.net
-0.0.0.0 data.mistat.xiaomi.com
-0.0.0.0 storeconfig.mistat.xiaomi.com
 0.0.0.0 file.cdn.mvideo.xiaomi.com
 0.0.0.0 image.cdn.mvideo.xiaomi.com
 0.0.0.0 staging.appapi.n.xiaomi.com
@@ -329,16 +325,13 @@
 0.0.0.0 stat.www.xiaomi.com
 0.0.0.0 console.admin.xmpush.xiaomi.com
 0.0.0.0 test.admin.xmpush.xiaomi.com
-0.0.0.0 c3.api.xmpush.xiaomi.com
-0.0.0.0 i.api.xmpush.xiaomi.com
-0.0.0.0 lg.api.xmpush.xiaomi.com
-0.0.0.0 mob.api.xmpush.xiaomi.com
-0.0.0.0 vip.api.xmpush.xiaomi.com
+0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 callback.xmpush.xiaomi.com
 0.0.0.0 emq.xmpush.xiaomi.com
 0.0.0.0 sandbox.xmpush.xiaomi.com
 0.0.0.0 vip-api.xmpush.xiaomi.com
 0.0.0.0 ad.xiaomi.com
+0.0.0.0 app.xiaomi.com
 0.0.0.0 bugreport.xiaomi.net
 0.0.0.0 d.xiaomi.com
 0.0.0.0 hd.xiaomi.com
@@ -346,6 +339,7 @@
 0.0.0.0 huosai.xiaomi.com
 0.0.0.0 i.xiaomi.com
 0.0.0.0 mibi.xiaomi.com
+0.0.0.0 mistat.xiaomi.com
 0.0.0.0 preload.xiaomi.com
 0.0.0.0 qiye.xiaomi.com
 0.0.0.0 ssp.xiaomi.com

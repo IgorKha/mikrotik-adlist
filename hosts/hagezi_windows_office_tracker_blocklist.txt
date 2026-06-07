@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.8
-! Last modified: 2026-05-31T07:31:03.359Z
+! Version: 1.0.1.9
+! Last modified: 2026-06-07T07:37:09.474Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -355,6 +355,7 @@
 0.0.0.0 citrixanalyticseh.servicebus.windows.net
 0.0.0.0 citrixanalyticseh-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticseh2-alias.servicebus.windows.net
+0.0.0.0 citrixanalyticseh3.servicebus.windows.net
 0.0.0.0 citrixanalyticseh3-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticsehaps.servicebus.windows.net
 0.0.0.0 citrixanalyticsehaps-alias.servicebus.windows.net
@@ -366,7 +367,6 @@
 0.0.0.0 citrixtelemetryeheu-alias.servicebus.windows.net
 0.0.0.0 ehtelemetrystaging-alias.servicebus.windows.net
 0.0.0.0 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
-0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 hme-uat-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 licensingtelemetry-prod.servicebus.windows.net
 0.0.0.0 nexxtv-events.servicebus.windows.net

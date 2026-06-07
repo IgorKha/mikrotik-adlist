@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.53
-! Last modified: 2026-05-31T07:31:04.158Z
+! Version: 1.0.15.54
+! Last modified: 2026-06-07T07:37:10.524Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -798,7 +798,6 @@
 0.0.0.0 seonify.com
 0.0.0.0 serve.albacross.com
 0.0.0.0 servedby.flashtalking.com
-0.0.0.0 servedby.studads.com
 0.0.0.0 servedby.aqua-adserver.com
 0.0.0.0 servedby.revive-adserver.net
 0.0.0.0 serverbid.com
@@ -1130,7 +1129,6 @@
 0.0.0.0 www.awin1.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.blogtoplist.se
-0.0.0.0 www.championsverige.com.se
 0.0.0.0 www.clarity.ms
 0.0.0.0 www.creativeconsortiuminspired.com
 0.0.0.0 www.curemedia.se

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.21
-! Last modified: 2026-05-31T07:30:50.463Z
+! Version: 1.0.17.26
+! Last modified: 2026-06-07T07:36:57.804Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -1289,6 +1289,7 @@
 0.0.0.0 clickxchange.com
 0.0.0.0 clickyab.com
 0.0.0.0 clickz.com
+0.0.0.0 client-logs-a.wbx2.com
 0.0.0.0 clientgear.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clikerz.net
@@ -1309,10 +1310,10 @@
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cnvlink.com
 0.0.0.0 cny.yoyo.org
+0.0.0.0 code.etracker.com
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cointraffic.io
-0.0.0.0 coldbalance.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 colonize.com
@@ -1570,8 +1571,6 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
-0.0.0.0 etracker.com
-0.0.0.0 etracker.de
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eule1.pmu.fr
 0.0.0.0 eulerian.net
@@ -1584,6 +1583,7 @@
 0.0.0.0 eventexistence.com
 0.0.0.0 events-eu.freshsuccess.com
 0.0.0.0 events-us.freshsuccess.com
+0.0.0.0 events.hotjar.io
 0.0.0.0 everestads.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
@@ -2205,6 +2205,7 @@
 0.0.0.0 metajaws.com
 0.0.0.0 metanetwork.com
 0.0.0.0 methodcash.com
+0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.articulate.com
@@ -2432,7 +2433,6 @@
 0.0.0.0 ourdreamstaticpages.pages.dev
 0.0.0.0 outbrain.com
 0.0.0.0 overconfidentfood.com
-0.0.0.0 overkick.com
 0.0.0.0 overture.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owebmoney.ru
@@ -2664,7 +2664,6 @@
 0.0.0.0 rate.ru
 0.0.0.0 rayjump.com
 0.0.0.0 rcadserver.com
-0.0.0.0 re-direct.pl
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
 0.0.0.0 readingguilt.com
@@ -2962,7 +2961,6 @@
 0.0.0.0 stakingsmile.com
 0.0.0.0 stalesummer.com
 0.0.0.0 starffa.com
-0.0.0.0 starkscale.com
 0.0.0.0 starrynets.com
 0.0.0.0 starsmarter.com
 0.0.0.0 startapp.com
@@ -2978,6 +2976,7 @@
 0.0.0.0 statcounter.com
 0.0.0.0 statdynamic.com
 0.0.0.0 static-tracking.klaviyo.com
+0.0.0.0 static.etracker.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
 0.0.0.0 static.kameleoon.com
@@ -3167,7 +3166,6 @@
 0.0.0.0 toplista.mw.hu
 0.0.0.0 toplistcity.com
 0.0.0.0 topsir.com
-0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
 0.0.0.0 topstats.com
 0.0.0.0 totemcash.com
@@ -3278,6 +3276,7 @@
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trustx.org
+0.0.0.0 tsa.webex.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndicate.net
 0.0.0.0 tubemogul.com
@@ -3426,6 +3425,7 @@
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com
+0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 witch-counter.de
 0.0.0.0 wittypopcorn.com
