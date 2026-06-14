@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt
-! Version: 1.0.26.16
-! Last modified: 2026-06-07T07:37:23.980Z
+! Version: 1.0.26.31
+! Last modified: 2026-06-14T07:49:38.502Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ilovethiswebsite.001-lab.space
@@ -10,6 +10,7 @@
 0.0.0.0 www-666.020202.best
 0.0.0.0 dns.080590.xyz
 0.0.0.0 dns.0ooo.icu
+0.0.0.0 lmaozev.0rg.us
 0.0.0.0 1.0rz.space
 0.0.0.0 2.0rz.space
 0.0.0.0 auroraurweird.0x.no
@@ -130,6 +131,7 @@
 0.0.0.0 ayman-dns.731my.com
 0.0.0.0 dns.73zls.com
 0.0.0.0 ns.77ll.ru
+0.0.0.0 idk.7btech.com
 0.0.0.0 hopethishelps.7geo7.ru
 0.0.0.0 noad.800216.xyz
 0.0.0.0 ad.800801.xyz
@@ -142,6 +144,7 @@
 0.0.0.0 dns.890806.xyz
 0.0.0.0 rammerhead.8bit.ca
 0.0.0.0 tatakai001.8bit.ca
+0.0.0.0 arts.field.8tb.net
 0.0.0.0 arches-srv1.8ws.net
 0.0.0.0 arches-srv2.8ws.net
 0.0.0.0 outie.8ws.net
@@ -293,6 +296,7 @@
 0.0.0.0 totallyixlv10interstellar.accesscam.org
 0.0.0.0 totallyixlv10isthebest.accesscam.org
 0.0.0.0 vir.accesscam.org
+0.0.0.0 hsym5.acerhost.com
 0.0.0.0 login.achievementnetwork.cf
 0.0.0.0 r.achievementnetwork.gq
 0.0.0.0 adg.acrobyte.org
@@ -307,6 +311,7 @@
 0.0.0.0 adguard.adrianofrongillo.ovh
 0.0.0.0 drive.google.com.adultboss.pl
 0.0.0.0 y3suyx0cg2lewi2dmn.advaitghaisas.in
+0.0.0.0 builtlikearat.advanced-orchestra.site
 0.0.0.0 tetra.aeins.at
 0.0.0.0 subscribe.vcsa.aeroantenna.com
 0.0.0.0 buy.aeroantenna.com
@@ -467,6 +472,7 @@
 0.0.0.0 starvpn.app.link
 0.0.0.0 ds.appl.pk
 0.0.0.0 dns.apple.com
+0.0.0.0 mask-api.fe.apple-dns.net
 0.0.0.0 dns.applewebkit.dev
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 dot1.appliedprivacy.net
@@ -685,7 +691,9 @@
 0.0.0.0 archlinuxisthebestlol.baselinux.net
 0.0.0.0 dashboardd.baselinux.net
 0.0.0.0 agriculture.arts.bastaff.ru
+0.0.0.0 aphistorytutoring.bastaff.ru
 0.0.0.0 galaxy-glint.bastaff.ru
+0.0.0.0 leave-school.bastaff.ru
 0.0.0.0 smack.bastaff.ru
 0.0.0.0 tacobelljobs.bastaff.ru
 0.0.0.0 we-hate-school.bastaff.ru
@@ -2361,6 +2369,9 @@
 0.0.0.0 teaching944.cspcorp.com
 0.0.0.0 duck.csproject.org
 0.0.0.0 dns.csswg.org
+0.0.0.0 app.plugga-matte.ct.ws
+0.0.0.0 grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws
+0.0.0.0 helios-browser.ct.ws
 0.0.0.0 joinpd.ctx.cl
 0.0.0.0 webdav.cubecloud.win
 0.0.0.0 iux3-s.cuiy4trg8fmosya2iip3ci.name
@@ -2681,6 +2692,7 @@
 0.0.0.0 family.dns.doubleangels.com
 0.0.0.0 ieatfeet.dougtreadwell.com
 0.0.0.0 dotserver.douyucdn.cn
+0.0.0.0 school.dovereducation.org
 0.0.0.0 dns35.allone.dpdns.org
 0.0.0.0 adguard.llf520.dpdns.org
 0.0.0.0 parsa.dpdns.org
@@ -2718,6 +2730,7 @@
 0.0.0.0 4littleducks.duckdns.org
 0.0.0.0 adfreemb.duckdns.org
 0.0.0.0 adgrm.duckdns.org
+0.0.0.0 adguardcalpena.duckdns.org
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 andrykarcew.duckdns.org
 0.0.0.0 appleishealthy.duckdns.org
@@ -2794,6 +2807,7 @@
 0.0.0.0 adguard.duongphuckhanh.dev
 0.0.0.0 anything.dylix.org
 0.0.0.0 atlantic.dyn1.de
+0.0.0.0 dns.dyn1.de
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
@@ -2807,6 +2821,8 @@
 0.0.0.0 ccadguard.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
+0.0.0.0 gustamadh.dynv6.net
+0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
 0.0.0.0 vpn.dzarlax.dev
@@ -3113,6 +3129,7 @@
 0.0.0.0 clic.eu.org
 0.0.0.0 fgfw.eu.org
 0.0.0.0 frogiee1stoolbox.eu.org
+0.0.0.0 futuredns.eu.org
 0.0.0.0 glados.eu.org
 0.0.0.0 noproblem.eu.org
 0.0.0.0 r1bnc.eu.org
@@ -3497,6 +3514,12 @@
 0.0.0.0 adguard.glbd.fr
 0.0.0.0 fr33ze.gleeze.com
 0.0.0.0 kayleesickfern.gleeze.com
+0.0.0.0 alpha.y.glenwaverleychurches.org
+0.0.0.0 beta.y.glenwaverleychurches.org
+0.0.0.0 delta.y.glenwaverleychurches.org
+0.0.0.0 epsilon.y.glenwaverleychurches.org
+0.0.0.0 kappa.y.glenwaverleychurches.org
+0.0.0.0 lambda.y.glenwaverleychurches.org
 0.0.0.0 dns.glf.wtf
 0.0.0.0 dns.api.globus.org
 0.0.0.0 dns.api.preview.globus.org
@@ -3688,6 +3711,7 @@
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
 0.0.0.0 classroom.haoqiw.com
+0.0.0.0 dns.haoxuan.xyz
 0.0.0.0 cars.happyforever.com
 0.0.0.0 skibidiparkergoon.happyforever.com
 0.0.0.0 turtle.happyforever.com
@@ -4198,6 +4222,7 @@
 0.0.0.0 px.jarnus.xyz
 0.0.0.0 fvpn.jarvishome.ru
 0.0.0.0 hk.jason666.top
+0.0.0.0 edu-kko38.jawvinit.com
 0.0.0.0 adguard.jaydub.cloud
 0.0.0.0 vocab.clever.jaytex.org
 0.0.0.0 argus1.jcconnell.com
@@ -4408,6 +4433,7 @@
 0.0.0.0 dns.krol.cloud
 0.0.0.0 kryptovpn.kryptotel.net
 0.0.0.0 hdns.ksyun.com
+0.0.0.0 learnfrench.ktx.ro
 0.0.0.0 orbit.craft.kuede.info
 0.0.0.0 learn.kugya.com
 0.0.0.0 dns.kukal.cz
@@ -4495,6 +4521,7 @@
 0.0.0.0 dns.liberador.net
 0.0.0.0 dns.libost.xyz
 0.0.0.0 us.libost.xyz
+0.0.0.0 neon.lifepixeled.com
 0.0.0.0 dns.lifeym.xyz
 0.0.0.0 dns.lightmaster.pw
 0.0.0.0 dns.lihj.me
@@ -4624,6 +4651,7 @@
 0.0.0.0 media.level.mastergolfworld.com
 0.0.0.0 piano.login.mastergolfworld.hk
 0.0.0.0 dns.mateo.ovh
+0.0.0.0 dns.mathewakhil.online
 0.0.0.0 vm.mathfilm.dk
 0.0.0.0 aisd.mathforkids.buzz
 0.0.0.0 cfisd.mathforkids.buzz
@@ -4702,6 +4730,7 @@
 0.0.0.0 harvardsigmasonly.minetest.land
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 api.miningbest.com
+0.0.0.0 dns.mipauns.com
 0.0.0.0 guard.miracloud.fr
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 httpdns.browser.miui.com
@@ -4838,6 +4867,7 @@
 0.0.0.0 justfor.myasustor.com
 0.0.0.0 nas-scheiben34.myasustor.com
 0.0.0.0 zanty123456.myasustor.com
+0.0.0.0 1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com
 0.0.0.0 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 0.0.0.0 example.myclarevision.com
 0.0.0.0 freelearn.myclarevision.com
@@ -5013,6 +5043,7 @@
 0.0.0.0 dontblock.networkoutpost.com
 0.0.0.0 cube.neubsi.at
 0.0.0.0 dns.neubsi.at
+0.0.0.0 dns.neutopia.org
 0.0.0.0 itrsa.nevuer.com
 0.0.0.0 study-math.nevuer.com
 0.0.0.0 hours.newlifesanctuarychurch.com
@@ -5044,6 +5075,7 @@
 0.0.0.0 adguard.nielsenhost.dk
 0.0.0.0 dns.nieto.app
 0.0.0.0 dns.niffelen.com
+0.0.0.0 endis.niggersbigballs.xyz
 0.0.0.0 panel.mc.night-x.com
 0.0.0.0 useast1.vps.night-x.com
 0.0.0.0 staffsmp.night-x.com
@@ -5250,6 +5282,7 @@
 0.0.0.0 httpdns.ocloud.oppomobile.com
 0.0.0.0 httpdns.push.oppomobile.com
 0.0.0.0 learnaboutbillclinton.opt-inrewards.com
+0.0.0.0 clashroyale.opticalize.com
 0.0.0.0 hsd.malam.or.id
 0.0.0.0 jazz-band-goated.malam.or.id
 0.0.0.0 id.misem.or.id
@@ -5273,6 +5306,7 @@
 0.0.0.0 cn-kuailian.org.cn
 0.0.0.0 dnsprivacy.org.uk
 0.0.0.0 kuailianworld.org.cn
+0.0.0.0 mdpa.org.tw
 0.0.0.0 teslacoils.org.uk
 0.0.0.0 grammerhelper.organized-cloud.eu
 0.0.0.0 gov.orion-stella.com
@@ -5632,6 +5666,7 @@
 0.0.0.0 edu.ezlearning.qzz.io
 0.0.0.0 quasar.ezlearning.qzz.io
 0.0.0.0 kams.kii.qzz.io
+0.0.0.0 onthe.ksf.qzz.io
 0.0.0.0 zouter.zhang3118.qzz.io
 0.0.0.0 661.qzz.io
 0.0.0.0 beanweb.qzz.io
@@ -6051,6 +6086,7 @@
 0.0.0.0 vpn.snxi.de
 0.0.0.0 dove.soapagent.com
 0.0.0.0 petezahpizza.omega.social-networking.me
+0.0.0.0 cooldude123.sociedadelcubo.com
 0.0.0.0 www-proxy.sodemc.com
 0.0.0.0 adguardhome.softcloud.pe
 0.0.0.0 myprivityvpn.softether.net
@@ -6199,7 +6235,6 @@
 0.0.0.0 us-proxy.startpage.com
 0.0.0.0 us1-browse.startpage.com
 0.0.0.0 us2-browse.startpage.com
-0.0.0.0 us3-browse.startpage.com
 0.0.0.0 dns.startupstack.tech
 0.0.0.0 idea.graph.statboss.com
 0.0.0.0 adguard.stealbit.com
@@ -6335,14 +6370,6 @@
 0.0.0.0 frog.szvy.win
 0.0.0.0 dns.t-ipnet.de
 0.0.0.0 dns.t53.de
-0.0.0.0 domain.tablero-anmac.ar
-0.0.0.0 educational-sock.tablero-anmac.ar
-0.0.0.0 furryfemappreciationlgbtlove.tablero-anmac.ar
-0.0.0.0 junomyfurryprotogenbutcalculator.tablero-anmac.ar
-0.0.0.0 justiceforcosmopoliticiancellarspiderthatwascrushedbyjameson.tablero-anmac.ar
-0.0.0.0 nope.tablero-anmac.ar
-0.0.0.0 sneakersotoolefurryfanwiki.tablero-anmac.ar
-0.0.0.0 study.tablero-anmac.ar
 0.0.0.0 d0.tada.ly
 0.0.0.0 dn5.talesam.org
 0.0.0.0 www.iloveto.talk4fun.net
@@ -6359,10 +6386,19 @@
 0.0.0.0 dns0.tardishost.ru
 0.0.0.0 dns1.tardishost.ru
 0.0.0.0 adguard.taufner.net
-0.0.0.0 discussion.tawktawk.info
 0.0.0.0 dns.tb4.me
 0.0.0.0 httpdns.danuoyi.tbcache.com
 0.0.0.0 92.38.177.16.dyn.tcadmin.net
+0.0.0.0 galaxy.is.cool.tcloud.my
+0.0.0.0 dms.dms.dms.tcloud.my
+0.0.0.0 galaxy.tcloud.my
+0.0.0.0 galaxyisthebest.tcloud.my
+0.0.0.0 home.tcloud.my
+0.0.0.0 math1.tcloud.my
+0.0.0.0 math2.tcloud.my
+0.0.0.0 math3.tcloud.my
+0.0.0.0 math4.tcloud.my
+0.0.0.0 math5.tcloud.my
 0.0.0.0 babybee.tcogpcal.org
 0.0.0.0 khajujawegifwqaiugwa.tcp64.de
 0.0.0.0 tcpghe.tcp64.de
@@ -6380,7 +6416,6 @@
 0.0.0.0 llc.techmaxasia.com
 0.0.0.0 sainttech.techmaxasia.com
 0.0.0.0 dns1.techniverse.net
-0.0.0.0 vapor.techno.pics
 0.0.0.0 doh.technochat.in
 0.0.0.0 essay.gov.technologybriefingcenter.com
 0.0.0.0 dns.technologycage.com
@@ -6420,7 +6455,6 @@
 0.0.0.0 foil.thanatos.com
 0.0.0.0 math.thanatos.com
 0.0.0.0 voidnettty.thanatos.com
-0.0.0.0 typingpractice.theantzfarm.space
 0.0.0.0 unplatonicallydiybt.theantzfarm.space
 0.0.0.0 www.3.theartieschaffer.com
 0.0.0.0 www.94.theartieschaffer.com
@@ -6488,21 +6522,14 @@
 0.0.0.0 wg.thienhv.com
 0.0.0.0 graph.train.thinkgarden.com
 0.0.0.0 doh.thio.me
-0.0.0.0 67hub.thisoldrack.us
 0.0.0.0 dns.thiz.top
 0.0.0.0 dns.thore.cloud
-0.0.0.0 jus.tice-industries.com
 0.0.0.0 topic.know.ticpu.net
 0.0.0.0 fdfhgbv.ticsur.cl
 0.0.0.0 femboys.tierlistsforspotify.party
-0.0.0.0 adguard.tigrex.net
-0.0.0.0 education.timbalemail.com
 0.0.0.0 dns.timboeh.me
 0.0.0.0 ad.timefine.org
 0.0.0.0 httpsingsnode.timegear.site
-0.0.0.0 moremore.timekeeper.ro
-0.0.0.0 overload.timekeeper.ro
-0.0.0.0 resubmit.timekeeper.ro
 0.0.0.0 adb.timnichollsphotography.com
 0.0.0.0 dns1.timothy-dev.com
 0.0.0.0 adguard.timoz.fr
@@ -6551,15 +6578,64 @@
 0.0.0.0 jump.tr25.cn
 0.0.0.0 dns.tracker.ink
 0.0.0.0 access.traders-friend.com
+0.0.0.0 205.209.125.106.traefik.me
+0.0.0.0 158.69.222.114.traefik.me
+0.0.0.0 66.23.193.126.traefik.me
+0.0.0.0 5.188.124.13.traefik.me
+0.0.0.0 37.27.88.135.traefik.me
+0.0.0.0 92.38.177.16.traefik.me
+0.0.0.0 15.204.247.166.traefik.me
+0.0.0.0 92.38.177.17.traefik.me
+0.0.0.0 15.204.209.18.traefik.me
+0.0.0.0 104.243.38.18.traefik.me
+0.0.0.0 51.222.206.184.traefik.me
+0.0.0.0 51.222.141.2.traefik.me
+0.0.0.0 69.164.251.210.traefik.me
+0.0.0.0 65.109.112.222.traefik.me
+0.0.0.0 104.36.85.232.traefik.me
+0.0.0.0 129.153.136.235.traefik.me
+0.0.0.0 104.36.85.249.traefik.me
+0.0.0.0 152.53.170.32.traefik.me
+0.0.0.0 74.208.174.33.traefik.me
+0.0.0.0 51.222.141.36.traefik.me
+0.0.0.0 15.204.147.42.traefik.me
+0.0.0.0 159.195.59.55.traefik.me
+0.0.0.0 108.181.32.77.traefik.me
+0.0.0.0 74.208.64.80.traefik.me
+0.0.0.0 152.53.36.82.traefik.me
+0.0.0.0 144.217.77.9.traefik.me
+0.0.0.0 104-243-38-18.traefik.me
+0.0.0.0 104-36-85-249.traefik.me
+0.0.0.0 108-181-32-77.traefik.me
+0.0.0.0 129-153-136-235.traefik.me
+0.0.0.0 144-217-77-9.traefik.me
+0.0.0.0 15-204-147-42.traefik.me
+0.0.0.0 15-204-209-18.traefik.me
+0.0.0.0 15-204-247-166.traefik.me
+0.0.0.0 152-53-170-32.traefik.me
+0.0.0.0 152-53-36-82.traefik.me
+0.0.0.0 158-69-222-114.traefik.me
+0.0.0.0 159-195-59-55.traefik.me
+0.0.0.0 205-209-125-106.traefik.me
+0.0.0.0 37-27-88-135.traefik.me
+0.0.0.0 5-188-124-13.traefik.me
+0.0.0.0 51-222-141-2.traefik.me
+0.0.0.0 51-222-141-36.traefik.me
+0.0.0.0 51-222-206-184.traefik.me
+0.0.0.0 65-109-112-222.traefik.me
+0.0.0.0 66-23-193-126.traefik.me
+0.0.0.0 69-164-251-210.traefik.me
+0.0.0.0 74-208-174-33.traefik.me
+0.0.0.0 74-208-64-80.traefik.me
+0.0.0.0 92-38-177-16.traefik.me
+0.0.0.0 92-38-177-17.traefik.me
 0.0.0.0 edgex.trafficmanager.net
 0.0.0.0 bio.goal.trans.am
 0.0.0.0 resolv1.trash.net
 0.0.0.0 resolv2.trash.net
 0.0.0.0 resolv3.trash.net
-0.0.0.0 ffd.travelpage.biz
 0.0.0.0 ns.trcnet.fi
 0.0.0.0 adguard.treexhd.me
-0.0.0.0 myapps.classlink.trelease.net
 0.0.0.0 consumervpn.trendmicro.com
 0.0.0.0 geovpn.trendmicro.com
 0.0.0.0 adguard.trevorpease.me
@@ -6585,11 +6661,11 @@
 0.0.0.0 justdoit.tuquy.com
 0.0.0.0 vpn.turbofast.io
 0.0.0.0 xtbfsr.turbofast.io
+0.0.0.0 jrdn.tutoringservices.site
 0.0.0.0 nat64.tuxis.nl
 0.0.0.0 adguard.tver-tech.ru
 0.0.0.0 blackattacker.tvjumbleanswers.com
 0.0.0.0 dadinoissus.tvjumbleanswers.com
-0.0.0.0 fortunaissigma.tvjumbleanswers.com
 0.0.0.0 friedchimkensaurus.tvjumbleanswers.com
 0.0.0.0 itscauseiamblack.tvjumbleanswers.com
 0.0.0.0 littlepiggies571s.tvjumbleanswers.com
@@ -6604,15 +6680,11 @@
 0.0.0.0 230704953-learn-maths-starters.twilightparadox.com
 0.0.0.0 278765434574.twilightparadox.com
 0.0.0.0 alearluvsruby.twilightparadox.com
-0.0.0.0 betterthefrogiesarcade.twilightparadox.com
 0.0.0.0 dagsonbanana.twilightparadox.com
 0.0.0.0 djsnsnsnsnn.twilightparadox.com
-0.0.0.0 fireworksedu.twilightparadox.com
 0.0.0.0 goofygang.twilightparadox.com
 0.0.0.0 gtjschool.twilightparadox.com
-0.0.0.0 ifudontlikepoptartsugay.twilightparadox.com
 0.0.0.0 ifyournotfirstyourlast.twilightparadox.com
-0.0.0.0 ihavenextlevelgamerskills.twilightparadox.com
 0.0.0.0 iliasbetweaking.twilightparadox.com
 0.0.0.0 ismaelsstinkytimmytufknuckles.twilightparadox.com
 0.0.0.0 ismellywiththebigbelly.twilightparadox.com
@@ -6632,7 +6704,6 @@
 0.0.0.0 v1.ufamax.eu
 0.0.0.0 vless-service.ufodns.com
 0.0.0.0 study.howto.ugo.si
-0.0.0.0 mathhelp.ugo.si
 0.0.0.0 blokuj.ujwie.co
 0.0.0.0 nitter.ujwie.co
 0.0.0.0 webproxy.uk.com
@@ -6645,7 +6716,6 @@
 0.0.0.0 doh.umbrella.com
 0.0.0.0 anycast.uncensoreddns.dk
 0.0.0.0 unicast.uncensoreddns.dk
-0.0.0.0 lets.just.undo.it
 0.0.0.0 block.undo.cl
 0.0.0.0 cheesepizza.undo.it
 0.0.0.0 diddywasinnocent.undo.it
@@ -6676,7 +6746,6 @@
 0.0.0.0 mcore.us.to
 0.0.0.0 webproxy.us.com
 0.0.0.0 dns.usualposts.xyz
-0.0.0.0 multi.utilicell.com
 0.0.0.0 coolguy.uzhi.ru
 0.0.0.0 algebra-math.v119.com
 0.0.0.0 clever-math.v119.com
@@ -6690,22 +6759,11 @@
 0.0.0.0 www-proxy.valentiin.com
 0.0.0.0 doh.valscosmos.com
 0.0.0.0 dns.vancrafter.click
-0.0.0.0 altf4.vandrekalenderen.dk
-0.0.0.0 apple1.vandrekalenderen.dk
-0.0.0.0 fast.vandrekalenderen.dk
-0.0.0.0 frefe.vandrekalenderen.dk
-0.0.0.0 iukh.vandrekalenderen.dk
-0.0.0.0 nationalgeographgichistory.vandrekalenderen.dk
-0.0.0.0 plane.vandrekalenderen.dk
-0.0.0.0 ramen.vandrekalenderen.dk
-0.0.0.0 wasd.vandrekalenderen.dk
-0.0.0.0 whereisaplacetoseeingloridaearth.vandrekalenderen.dk
 0.0.0.0 adguard.vape.ong
 0.0.0.0 tor.vasi.li
 0.0.0.0 dns.vault81.de
 0.0.0.0 dontgoonyoufuckingdegenerates.vaultnoir.com
 0.0.0.0 ibribeillegals.vaultnoir.com
-0.0.0.0 waguri.vawars.com
 0.0.0.0 server01.vboekel.nl
 0.0.0.0 dns.vectorsigma.ru
 0.0.0.0 adguard.vegann.space
@@ -6778,9 +6836,7 @@
 0.0.0.0 sampanei.viar3d.com
 0.0.0.0 tubmledxeni.viar3d.com
 0.0.0.0 ad.viet.date
-0.0.0.0 dns.vietdns.net
 0.0.0.0 dns.vietdns.vn
-0.0.0.0 kids.vietdns.net
 0.0.0.0 kids.vietdns.vn
 0.0.0.0 tls.vietguards.cloud
 0.0.0.0 adsl.viettel.vn
@@ -6797,7 +6853,6 @@
 0.0.0.0 dns.vinokurov.tk
 0.0.0.0 dns.vip-kingstore.xyz
 0.0.0.0 z.vipit.one
-0.0.0.0 learningapp.virtopia.org
 0.0.0.0 alina.virttec.net
 0.0.0.0 dns.virtual-qr.ir
 0.0.0.0 graph.solve.virtualinhouselawyer.com
@@ -6805,12 +6860,9 @@
 0.0.0.0 adventurously.vitrinanorte.cl
 0.0.0.0 dns.vk09.ru
 0.0.0.0 hunger.vlad.md
-0.0.0.0 idontlikecookiesbrowniesarebettterngl.vlad.md
-0.0.0.0 theworldisfallingapartinmeteors.vlad.md
 0.0.0.0 dns.vlo.cc
 0.0.0.0 dns.vmisch.tech
 0.0.0.0 dns.vod11.xyz
-0.0.0.0 tutoring.services.voievodate.ro
 0.0.0.0 httpdns.volcengineapi.com
 0.0.0.0 dns.volsap.ovh
 0.0.0.0 vpn0109.voodonline.fr
@@ -6827,10 +6879,8 @@
 0.0.0.0 center.k12.mo.us.vr.lt
 0.0.0.0 web.vserver.app
 0.0.0.0 www.securly.com.vslui.net
-0.0.0.0 373737eueu7383jd.vulpes.pub
 0.0.0.0 45.32.17.58.vultrusercontent.com
 0.0.0.0 solution.w10.life
-0.0.0.0 www-proxy.w2mpu72.pro
 0.0.0.0 dns.w3ctag.org
 0.0.0.0 bh.wael.name
 0.0.0.0 dns.wael.name
@@ -6840,7 +6890,6 @@
 0.0.0.0 megumin.is.my.waifu.cz
 0.0.0.0 yunyun.is.my.waifu.cz
 0.0.0.0 44c.wakemeup.ru
-0.0.0.0 baldwinprepbyjerrydaniels.wakemeup.ru
 0.0.0.0 damianlikesjulie.wakemeup.ru
 0.0.0.0 kailovefurries.wakemeup.ru
 0.0.0.0 dns.walker.id
@@ -6873,15 +6922,9 @@
 0.0.0.0 skibidirizztoilet.hantulaut.web.id
 0.0.0.0 how.learn.harimurti.web.id
 0.0.0.0 dns.jsd.web.id
-0.0.0.0 server.padil.web.id
 0.0.0.0 endis1.railway.web.id
 0.0.0.0 fern1ifdst6sdgu345ewdfgdgy54esdrhty3cooperd.railway.web.id
 0.0.0.0 gavinnovercloaked.railway.web.id
-0.0.0.0 selenite10.railway.web.id
-0.0.0.0 selenite11.railway.web.id
-0.0.0.0 selenite12.railway.web.id
-0.0.0.0 selenite13.railway.web.id
-0.0.0.0 selenite14.railway.web.id
 0.0.0.0 ferniiiiiiiii1.rainbowcreative.web.id
 0.0.0.0 ferniiiiiiiii2.rainbowcreative.web.id
 0.0.0.0 ferniiiiiiiii3.rainbowcreative.web.id
@@ -6907,7 +6950,6 @@
 0.0.0.0 dns.webfork.in
 0.0.0.0 my9f7732e9a.webhop.me
 0.0.0.0 doh.webnmail.de
-0.0.0.0 google.webrathea.org
 0.0.0.0 justdoinghomework.webredirect.org
 0.0.0.0 scienceclasswork.webredirect.org
 0.0.0.0 scientist.webredirect.org
@@ -6924,7 +6966,6 @@
 0.0.0.0 ava.zael.king.wechchile.cl
 0.0.0.0 blooket-2026-happynewyears.wechchile.cl
 0.0.0.0 inthenight2077-2026.wechchile.cl
-0.0.0.0 securly-is-confusing.wechchile.cl
 0.0.0.0 1d02o93u1092d0.weebly.com
 0.0.0.0 resov.wehao.net
 0.0.0.0 dns.weibo.cn
@@ -7056,7 +7097,6 @@
 0.0.0.0 endis.ydns.eu
 0.0.0.0 poobungus.ydns.eu
 0.0.0.0 rammer3-haihu-bynyanko.ydns.eu
-0.0.0.0 sg.yepdns.com
 0.0.0.0 adguard.ygd.lol
 0.0.0.0 edge-intl.ygjs.org
 0.0.0.0 ns6.ygy.ru
@@ -7105,11 +7145,9 @@
 0.0.0.0 dns.zemows.industries
 0.0.0.0 doh.zephyrus.id
 0.0.0.0 brainpop.zeptoinitiative.org
-0.0.0.0 closetome.zeptoinitiative.org
 0.0.0.0 drive.zeptoinitiative.org
 0.0.0.0 education.zeptoinitiative.org
 0.0.0.0 imcrine.zeptoinitiative.org
-0.0.0.0 learn.zeptoinitiative.org
 0.0.0.0 madebynathan.zeptoinitiative.org
 0.0.0.0 madebynathan1.zeptoinitiative.org
 0.0.0.0 mastergotmeworkin.zeptoinitiative.org
@@ -7141,6 +7179,8 @@
 0.0.0.0 lumi.zone.id
 0.0.0.0 ripschool.zone.id
 0.0.0.0 tocoolforschoollol.zone.id
+0.0.0.0 calculus.zothow.com
+0.0.0.0 edu-3g6ib.zothow.com
 0.0.0.0 online.zotio.ru
 0.0.0.0 vpn.zotus.ru
 0.0.0.0 d.zscale.gq
@@ -7159,7 +7199,10 @@
 0.0.0.0 003153.xyz
 0.0.0.0 02akgaayi2fi3xkdi13s0jtxj.online
 0.0.0.0 041ad0cfb636.xyz
+0.0.0.0 048808e0c16e14d4a8a0b13a3e9d226299d2a4a1.com
 0.0.0.0 04a0f262f2f391ead91af1f0ecc6ef3a.top
+0.0.0.0 04df72fd51bbf22b7ad9b97354d5cf4bad819419.com
+0.0.0.0 0525e2dec3a618a29309a7ca27557dc65832cc6c.com
 0.0.0.0 0538c3060b94774da3ee011552255739.top
 0.0.0.0 06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com
 0.0.0.0 0815cloud.de
@@ -7169,6 +7212,7 @@
 0.0.0.0 0a7velfsvpgyy.online
 0.0.0.0 0ms.dev
 0.0.0.0 0x3d.lu
+0.0.0.0 100802e6778a29189f9aa2c0c3ce026d9a0a7005.com
 0.0.0.0 103prxy.com
 0.0.0.0 104prxy.com
 0.0.0.0 108023.xyz
@@ -7194,6 +7238,7 @@
 0.0.0.0 123music.app
 0.0.0.0 123proxy.app
 0.0.0.0 123proxy.biz
+0.0.0.0 123proxy.me
 0.0.0.0 123roms.com
 0.0.0.0 123rooms.net
 0.0.0.0 123sports.org
@@ -7206,6 +7251,7 @@
 0.0.0.0 12vpx.com
 0.0.0.0 1314159.xyz
 0.0.0.0 1323.world
+0.0.0.0 1334b71d15d22d1479651dd0773cf3cdf2a0abfd.com
 0.0.0.0 134744072.work
 0.0.0.0 13fwvc7ka.online
 0.0.0.0 147258.uk
@@ -7227,7 +7273,9 @@
 0.0.0.0 1clickvpn.help
 0.0.0.0 1clickvpn.net
 0.0.0.0 1ee.top
+0.0.0.0 1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com
 0.0.0.0 1f47epzt.online
+0.0.0.0 1f4832d80bf373568e78d5911735d041df4c617d.com
 0.0.0.0 1f76a2ba920d.space
 0.0.0.0 1proxy.de
 0.0.0.0 1svpn.biz
@@ -7251,6 +7299,7 @@
 0.0.0.0 2024y.club
 0.0.0.0 2024y.homes
 0.0.0.0 2025appdown.com
+0.0.0.0 20c2597ab50173c5d50332009b2d1dda28f77fdd.com
 0.0.0.0 22044.vip
 0.0.0.0 22044.xyz
 0.0.0.0 220913.xyz
@@ -7284,6 +7333,8 @@
 0.0.0.0 30t.online
 0.0.0.0 318341906.fun
 0.0.0.0 3245.uk
+0.0.0.0 32a4d72553ef312ef80776398f08515bac249ee5.com
+0.0.0.0 33253.com
 0.0.0.0 33laomao.com
 0.0.0.0 365ads9.com
 0.0.0.0 365ld250904.com
@@ -7292,6 +7343,10 @@
 0.0.0.0 365vpn.org
 0.0.0.0 365vpn.uk
 0.0.0.0 369.cyou
+0.0.0.0 36d275bc57ffbb02dc36d89816fa5be369d66113.com
+0.0.0.0 3870fed631d7dd50d1057b4f5415bdd916dca9f9.com
+0.0.0.0 3a0ef7502f6406decbec8ed5abf2aed35780234b.com
+0.0.0.0 3c9cb3d8220987079380c1eff68166716afea4e1.com
 0.0.0.0 3dcosas.xyz
 0.0.0.0 3dns.eu
 0.0.0.0 3dphototwitch.com
@@ -7307,11 +7362,17 @@
 0.0.0.0 3qguvtvrpyzkatp2.online
 0.0.0.0 3x.nz
 0.0.0.0 40920604.xyz
+0.0.0.0 40a9ae48588c080dfe207106c48baa8d805276fd.com
+0.0.0.0 418c31eb9e9155ef148bf64df4e9a004d7c0feac.com
 0.0.0.0 4218c2123ddbcad6b5adc0918d2e488f.top
 0.0.0.0 432321.xyz
 0.0.0.0 4398t9384ht873hq8.live
 0.0.0.0 443888.xyz
+0.0.0.0 445bc502a552ca3646f5505ac6b8f0cd6d2541de.com
 0.0.0.0 49032ur98u3892h84h8h243t.online
+0.0.0.0 4c2e8451c80c6d0aede01f60788f26caf0d2e5c2.com
+0.0.0.0 4d4e70396c036c3412a3ca3d33960d0978c2aa4f.com
+0.0.0.0 4d8a47a16b1a54ce4108c99b0eb3e5b148699c02.com
 0.0.0.0 4ebur.net
 0.0.0.0 4everproxy.com
 0.0.0.0 4j9echn8mdr.online
@@ -7328,6 +7389,7 @@
 0.0.0.0 517wszy.com
 0.0.0.0 51caiyun.com
 0.0.0.0 52lqvpn.com
+0.0.0.0 530e40d68a1f147a86c139427b64fac55ba83b87.com
 0.0.0.0 531274e80907f3a26c18dd8aabd4fca776d65870.com
 0.0.0.0 53r6z.cn
 0.0.0.0 54084db9b94f2fc62e22a2f4bf6cf17e.top
@@ -7357,10 +7419,13 @@
 0.0.0.0 69855138162823f6e7651301e440a8e7.top
 0.0.0.0 6bc.net
 0.0.0.0 6brothersimports.com
+0.0.0.0 6c1a6e17cf21cd0a39f93c52fc8125d90dbcfba9.com
+0.0.0.0 6d30b6be675f16d04e0b8d7e4ee8f15f208aefd0.com
 0.0.0.0 6ifodhb2vbm0jyf1fhcowag.online
 0.0.0.0 735ccd763ea591d7374902d8b1a39dd0f8f5eb39.com
 0.0.0.0 737fxvxfe6v3.online
 0.0.0.0 73dkt-vwrqs.xyz
+0.0.0.0 76d58ed8bc4a1b98a5b6247fcbb687f4607273ca.com
 0.0.0.0 7713.info
 0.0.0.0 774e8125b1288a33109e6996cc8e2a26.top
 0.0.0.0 7777112.xyz
@@ -7370,6 +7435,8 @@
 0.0.0.0 789jiasulinktools.com
 0.0.0.0 789vpnapp.com
 0.0.0.0 78e281a9.ru
+0.0.0.0 7ba6ed7c5fa3eab04881e1722f9a42e74d64e81f.com
+0.0.0.0 7c45b8ee2a19601f023836f7e22bae70ac80ca7f.com
 0.0.0.0 7f8a85466c4219fa725c511ec0a32b15707710b1.com
 0.0.0.0 7gain.com
 0.0.0.0 7qk7b79rs.online
@@ -7380,6 +7447,7 @@
 0.0.0.0 815moniquelane.cfd
 0.0.0.0 85la.com
 0.0.0.0 867732738.xyz
+0.0.0.0 86a92621565daca30de744165d15758699b37aa0.com
 0.0.0.0 87826100.xyz
 0.0.0.0 87d2524dc9e2482190b643306920dc32.top
 0.0.0.0 883188.xyz
@@ -7387,17 +7455,22 @@
 0.0.0.0 8888.google
 0.0.0.0 890634.xyz
 0.0.0.0 89yq10wlfdf.online
+0.0.0.0 8d4fac431a6657d7a3c2846f37b02c2e03719dc9.com
 0.0.0.0 8duc6yogvj.site
 0.0.0.0 8ebyz2sa2.online
+0.0.0.0 8f19246a8b2b8b9bf42d63d919f06bb0ece902da.com
 0.0.0.0 8locuezmc1dm219uo.online
 0.0.0.0 8mvnbml4uxmm.online
 0.0.0.0 8proxy.com
 0.0.0.0 8v9m.com
 0.0.0.0 8wgohwr.online
+0.0.0.0 9184e7e5d684dc56def4c6186122231660620807.com
 0.0.0.0 91ftq.com
 0.0.0.0 91vpn02.cfd
 0.0.0.0 91zfdao.com
+0.0.0.0 9249c7687ddbc42eb7167e0e9030ef06b9528c98.com
 0.0.0.0 935a0c6f55dc46d2dcf2522c4d8bd546.top
+0.0.0.0 93a072e45efecc43f4660d0022a9d78fb5267b27.com
 0.0.0.0 959818.xyz
 0.0.0.0 9827015.xyz
 0.0.0.0 98cjl.com
@@ -7547,6 +7620,7 @@
 0.0.0.0 aceshandian.com
 0.0.0.0 aceshandian.net
 0.0.0.0 aceshanyang.com
+0.0.0.0 aceshendeng.com
 0.0.0.0 aceshendeng.net
 0.0.0.0 aceskyblue.com
 0.0.0.0 aceskyline.net
@@ -7599,6 +7673,7 @@
 0.0.0.0 actfordeal.com
 0.0.0.0 actipw3.online
 0.0.0.0 activitysforscience.space
+0.0.0.0 activpn.com
 0.0.0.0 actmobile.com
 0.0.0.0 adampowell.pro
 0.0.0.0 adblockersite.com
@@ -7629,6 +7704,7 @@
 0.0.0.0 adultproxy.men
 0.0.0.0 advanced.name
 0.0.0.0 advanceddataanalysiscenter.com
+0.0.0.0 advancedvpn.com
 0.0.0.0 aecd74796f0ff8d20255d3286ec5cd89bf989b12.com
 0.0.0.0 aecoe.xyz
 0.0.0.0 aeeesjxk.cc
@@ -7639,6 +7715,7 @@
 0.0.0.0 agambizleeyleniglottery.com
 0.0.0.0 agentsless.org
 0.0.0.0 aghdns.com
+0.0.0.0 ahaan.xyz
 0.0.0.0 ahaapi.com
 0.0.0.0 ahadns.net
 0.0.0.0 ahagad.com
@@ -7653,6 +7730,7 @@
 0.0.0.0 ai-yuni.top
 0.0.0.0 aibuddytech.com
 0.0.0.0 aicx99.shop
+0.0.0.0 aihe.app
 0.0.0.0 aiiaguli.info
 0.0.0.0 ailivechatweb.com
 0.0.0.0 ailogogenerator.top
@@ -7720,6 +7798,7 @@
 0.0.0.0 alon93rus.ru
 0.0.0.0 alphabr.online
 0.0.0.0 alphagame.co
+0.0.0.0 alphavpn.info
 0.0.0.0 altovate.xyz
 0.0.0.0 altvpn.com
 0.0.0.0 altvpn.net
@@ -7751,6 +7830,7 @@
 0.0.0.0 an81dns.ru
 0.0.0.0 ananoos.com
 0.0.0.0 anchorfree.net
+0.0.0.0 anchorfree.us
 0.0.0.0 andrewnw.xyz
 0.0.0.0 andrey93rus.ru
 0.0.0.0 androidconnect.fyi
@@ -7831,7 +7911,6 @@
 0.0.0.0 aoxvpn666.com
 0.0.0.0 aoxvpnapp.com
 0.0.0.0 apache-iv.com
-0.0.0.0 apfgexfusion.com
 0.0.0.0 api-gogles.com
 0.0.0.0 api-tel.xyz
 0.0.0.0 api999.com
@@ -7871,6 +7950,7 @@
 0.0.0.0 aptvpn.org
 0.0.0.0 aqpov.xyz
 0.0.0.0 aracmtva.com
+0.0.0.0 arapurayil.com
 0.0.0.0 arashi.solutions
 0.0.0.0 arbvpesj.cc
 0.0.0.0 arbys-tacobelljobs.com
@@ -7879,6 +7959,7 @@
 0.0.0.0 archivebase.info
 0.0.0.0 archvpn.help
 0.0.0.0 arcticstorm.ru
+0.0.0.0 areas.fun
 0.0.0.0 aridia.ru
 0.0.0.0 arisaka.io
 0.0.0.0 ark.to
@@ -7924,6 +8005,7 @@
 0.0.0.0 astrovpn.co
 0.0.0.0 at5w361xq.online
 0.0.0.0 atejiasu.com
+0.0.0.0 atlasvpn.com
 0.0.0.0 atlasvpn.net
 0.0.0.0 atomapi.com
 0.0.0.0 atomicspike.art
@@ -7931,6 +8013,7 @@
 0.0.0.0 atris.cyou
 0.0.0.0 atsilva.link
 0.0.0.0 attractoverall.com
+0.0.0.0 atvsh.ir
 0.0.0.0 auberge78.site
 0.0.0.0 auraclient.com
 0.0.0.0 aurevia.ru
@@ -7953,6 +8036,7 @@
 0.0.0.0 avira-vpn.net
 0.0.0.0 aviravpn.help
 0.0.0.0 avo-vpn.com
+0.0.0.0 avo-vpn.help
 0.0.0.0 avo-vpn.ru
 0.0.0.0 avologin.com
 0.0.0.0 avopage.com
@@ -8002,8 +8086,12 @@
 0.0.0.0 azzico.pw
 0.0.0.0 b-dns.se
 0.0.0.0 b16c43b3a4aba893962ec9400015aea5.top
+0.0.0.0 b19d4bf166bb2647cfaa6133b12254c84819a074.com
 0.0.0.0 b2bwhitelabel.com
+0.0.0.0 b34a893d847abfcbe20ebde6fee02113afe680d4.com
+0.0.0.0 b54e52438af9dcc7eb3e4b4dd44e5545411a2779.com
 0.0.0.0 b78772063930e9c944132eff50bfa9cec07cf356.com
+0.0.0.0 b9b7099bb27a6ea166072732a91324d6a836ec39.com
 0.0.0.0 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 0.0.0.0 babelsnow.com
 0.0.0.0 badrsgpr.com
@@ -8023,6 +8111,7 @@
 0.0.0.0 bapplinks.com
 0.0.0.0 barintg.top
 0.0.0.0 barnabech.fr
+0.0.0.0 bartvpn.com
 0.0.0.0 base99.com
 0.0.0.0 basildo.beer
 0.0.0.0 bastlipv.com
@@ -8035,6 +8124,7 @@
 0.0.0.0 bazooki-infra.dev
 0.0.0.0 bbbbb.men
 0.0.0.0 bcloudv.com
+0.0.0.0 bcohqwqmvyioqg.xyz
 0.0.0.0 bd-assets.com
 0.0.0.0 bdns.im
 0.0.0.0 bdns.io
@@ -8086,6 +8176,7 @@
 0.0.0.0 bebravpn.app
 0.0.0.0 bebravpn.biz
 0.0.0.0 bebravpn.blog
+0.0.0.0 bebravpn.help
 0.0.0.0 bebravpn.lol
 0.0.0.0 bebravpn.mom
 0.0.0.0 bebravpn.online
@@ -8286,6 +8377,7 @@
 0.0.0.0 bestpartyanimals.com
 0.0.0.0 bestpojieban.com
 0.0.0.0 bestprivate.net
+0.0.0.0 bestproxy.ink
 0.0.0.0 bestproxy.xyz
 0.0.0.0 bestpubg.com
 0.0.0.0 bestpure.net
@@ -8363,6 +8455,8 @@
 0.0.0.0 bestyilian.com
 0.0.0.0 bestyinghu.com
 0.0.0.0 bestyingyan.com
+0.0.0.0 bestyouproxytube.com
+0.0.0.0 bestyoutubeproxy.info
 0.0.0.0 bestyouxi.net
 0.0.0.0 bestyouyou.net
 0.0.0.0 bestyunfan.com
@@ -8383,6 +8477,7 @@
 0.0.0.0 bhlzibih.cc
 0.0.0.0 bhpuvkri.com
 0.0.0.0 bhupygnj.com
+0.0.0.0 bi-tree.ru
 0.0.0.0 bichvpn.ru
 0.0.0.0 bienna.ru
 0.0.0.0 bigdih.shop
@@ -8509,6 +8604,7 @@
 0.0.0.0 bore.pub
 0.0.0.0 boredomarcade.xyz
 0.0.0.0 borisov.page
+0.0.0.0 botclassic.com
 0.0.0.0 botvpn.help
 0.0.0.0 botvpntype.com
 0.0.0.0 bouquetberlin.org
@@ -8642,6 +8738,7 @@
 0.0.0.0 bypassfw.com
 0.0.0.0 bypassip.com
 0.0.0.0 bypasskey.com
+0.0.0.0 bypasstunnel.com
 0.0.0.0 bytebenefit.io
 0.0.0.0 bytelixir.com
 0.0.0.0 bytzvpn.com
@@ -8649,8 +8746,11 @@
 0.0.0.0 c-dns.com
 0.0.0.0 c-kailian.com
 0.0.0.0 c-kuailian.com
+0.0.0.0 c48afdb0a50939a19a1eb477fa3da3be2aa67e1d.com
+0.0.0.0 c5325786f0985dd8d1844a9df52874195ecd2887.com
 0.0.0.0 c6gj-static.net
 0.0.0.0 c7484e359297.site
+0.0.0.0 c785b92d703d4ec0ad3f1c05bb54dac886f748e4.com
 0.0.0.0 cacheflow.cloud
 0.0.0.0 cacheflow.live
 0.0.0.0 cachequick.info
@@ -8700,6 +8800,8 @@
 0.0.0.0 careproxy.com
 0.0.0.0 carnegle.com
 0.0.0.0 carpetcouriers.com
+0.0.0.0 carphone92.com
+0.0.0.0 cartable92.com
 0.0.0.0 cashraven.io
 0.0.0.0 casinovpn.com
 0.0.0.0 casuary.beer
@@ -8726,6 +8828,7 @@
 0.0.0.0 caveofmythicalseals.xyz
 0.0.0.0 caxb1yr7zzggup07pzesgqr.online
 0.0.0.0 cb.gripe
+0.0.0.0 cbb8862eb15eea2cc6c1bad3f00a8fc7ef1dae17.com
 0.0.0.0 cbhb5kzmizfidrmjal.online
 0.0.0.0 cbr2ozbx.online
 0.0.0.0 ccave.com
@@ -8797,14 +8900,17 @@
 0.0.0.0 cepinggou.com
 0.0.0.0 cerun.click
 0.0.0.0 cevvienb.cc
+0.0.0.0 cf343b8b96364c015a23155b1e46ed1832b13796.com
 0.0.0.0 cfdjb.org
 0.0.0.0 cfigdthx.cc
 0.0.0.0 cfjldquf.com
 0.0.0.0 cgahwtlh3.online
 0.0.0.0 cguviacg.com
+0.0.0.0 cgwsvqpkllgjo.xyz
 0.0.0.0 ch-kuailian.com
 0.0.0.0 chairbook92.com
 0.0.0.0 chaircar92.com
+0.0.0.0 chairphone92.com
 0.0.0.0 chamvpn.com
 0.0.0.0 chandr1000.net
 0.0.0.0 changemyip.com
@@ -8836,10 +8942,12 @@
 0.0.0.0 chinacitybit.click
 0.0.0.0 chinagrows.com
 0.0.0.0 chinapeopleinfo.com
+0.0.0.0 chinapolymetallic.com
 0.0.0.0 chinastoryshop.com
 0.0.0.0 chinese-kl.com
 0.0.0.0 chinese-lets.com
 0.0.0.0 chips.run
+0.0.0.0 chjwhpcwibbsoz.xyz
 0.0.0.0 chkttzrt.com
 0.0.0.0 chlaebi.info
 0.0.0.0 chnroute.com
@@ -8875,12 +8983,14 @@
 0.0.0.0 cknzusrx.cc
 0.0.0.0 clash-mi.org
 0.0.0.0 clash-party.org
+0.0.0.0 clashappx.com
 0.0.0.0 clashforandroid.org
 0.0.0.0 clashforwindows.org
 0.0.0.0 clashgithub.com
 0.0.0.0 clashgui.com
 0.0.0.0 clashios.com
 0.0.0.0 clashnyanpasu.org
+0.0.0.0 clashrs.com
 0.0.0.0 clashsubs.com
 0.0.0.0 clashverge.org
 0.0.0.0 clashvergerev.org
@@ -8902,7 +9012,9 @@
 0.0.0.0 cliffschools.org
 0.0.0.0 clkcsxwl.cc
 0.0.0.0 clmvip.com
+0.0.0.0 cloaker.ca
 0.0.0.0 cloaker.us
+0.0.0.0 cloakpoint.com
 0.0.0.0 cloakvpn.com
 0.0.0.0 clorvan.ru
 0.0.0.0 closetruth.date
@@ -8933,6 +9045,7 @@
 0.0.0.0 cn-kailian.com
 0.0.0.0 cn-klvpn.com
 0.0.0.0 cn-kuailian.cn
+0.0.0.0 cn-kuailian.org
 0.0.0.0 cn-letsvpnapp.com
 0.0.0.0 cn-nord.info
 0.0.0.0 cn-pc-kuailian.com
@@ -8941,6 +9054,7 @@
 0.0.0.0 cns-kuailian.cn
 0.0.0.0 cns-kuailian.com
 0.0.0.0 cns-kuailian.net
+0.0.0.0 cnusxumyiiw.xyz
 0.0.0.0 cnwangluo.net
 0.0.0.0 co-kuailian.com
 0.0.0.0 co2wr.co
@@ -8975,6 +9089,7 @@
 0.0.0.0 compsci.college
 0.0.0.0 computercar92.com
 0.0.0.0 computerphone92.com
+0.0.0.0 computertable92.com
 0.0.0.0 comss.one
 0.0.0.0 conceptpride.com
 0.0.0.0 config-24.com
@@ -9014,6 +9129,7 @@
 0.0.0.0 covering.run
 0.0.0.0 coverproxy.com
 0.0.0.0 covertheorange.com
+0.0.0.0 covertproxy.com
 0.0.0.0 covpn.mom
 0.0.0.0 covwskpb.cc
 0.0.0.0 cppcoding.site
@@ -9035,6 +9151,7 @@
 0.0.0.0 crieewy.cn
 0.0.0.0 crimson-latch.com
 0.0.0.0 cristianocosta.me
+0.0.0.0 crossorigin.me
 0.0.0.0 crosswall.cc
 0.0.0.0 crownproxy.com
 0.0.0.0 crownrealty.org
@@ -9045,6 +9162,8 @@
 0.0.0.0 croxy.red
 0.0.0.0 croxy.rocks
 0.0.0.0 croxy-proxy.com
+0.0.0.0 croxyproxy.app
+0.0.0.0 croxyproxy.best
 0.0.0.0 croxyproxy.com
 0.0.0.0 croxyproxy.net
 0.0.0.0 croxyproxy.rocks
@@ -9059,6 +9178,7 @@
 0.0.0.0 crypto.sx
 0.0.0.0 crypto-college.cc
 0.0.0.0 crypto2049.store
+0.0.0.0 cryptohippie.com
 0.0.0.0 cryptostorm.is
 0.0.0.0 cryptovpn.com
 0.0.0.0 cryptroute.com
@@ -9124,6 +9244,7 @@
 0.0.0.0 d16.net
 0.0.0.0 d3vy.ru
 0.0.0.0 d4.re
+0.0.0.0 d4a6e688b23eaf8458fcc89ce6ec85199eb437bb.com
 0.0.0.0 d807c4.cn
 0.0.0.0 dabache.top
 0.0.0.0 dabai.in
@@ -9134,6 +9255,7 @@
 0.0.0.0 dageyun.net
 0.0.0.0 dageyunpro.com
 0.0.0.0 dagljcdy.com
+0.0.0.0 dailyvpn.io
 0.0.0.0 daishujiasu.club
 0.0.0.0 daishujiasuapp.com
 0.0.0.0 daneshvardost.com
@@ -9201,6 +9323,7 @@
 0.0.0.0 demy.name
 0.0.0.0 denstro.ru
 0.0.0.0 departlamb.com
+0.0.0.0 departsettle.com
 0.0.0.0 deproxyserver.com
 0.0.0.0 deqyutix.online
 0.0.0.0 der-lino.ru
@@ -9221,6 +9344,7 @@
 0.0.0.0 dgy02.com
 0.0.0.0 dgywzc.com
 0.0.0.0 dialertoserver.com
+0.0.0.0 dicebolsa.com
 0.0.0.0 dicefan.com
 0.0.0.0 dichvusocks.net
 0.0.0.0 difficultycrossing.org
@@ -9235,6 +9359,7 @@
 0.0.0.0 dinoo.org
 0.0.0.0 dinqul.com
 0.0.0.0 dinuxcloud.com
+0.0.0.0 dir-proxy.org
 0.0.0.0 directconnect.fyi
 0.0.0.0 dirproxy.biz
 0.0.0.0 dirproxy.net
@@ -9416,6 +9541,7 @@
 0.0.0.0 doorcar92.com
 0.0.0.0 doorigin.net
 0.0.0.0 doorphone92.com
+0.0.0.0 doortable92.com
 0.0.0.0 dopanda.net
 0.0.0.0 dopojieban.com
 0.0.0.0 doprivate.net
@@ -9465,6 +9591,7 @@
 0.0.0.0 douglaster.com
 0.0.0.0 douplay.net
 0.0.0.0 dousgame.com
+0.0.0.0 douyin-update.store
 0.0.0.0 dovanvu.top
 0.0.0.0 doveeeapp.com
 0.0.0.0 dovypr.com
@@ -9512,6 +9639,7 @@
 0.0.0.0 dreamoblige.com
 0.0.0.0 dreamscape.onl
 0.0.0.0 dreamvpn.us
+0.0.0.0 dress-codes.us
 0.0.0.0 dressnano.com
 0.0.0.0 driftvibe.cfd
 0.0.0.0 drinksnucleus.com
@@ -9548,12 +9676,18 @@
 0.0.0.0 dxszzgr.com
 0.0.0.0 dyadyavanya.com
 0.0.0.0 dyadyavanyavpn-ru.com
+0.0.0.0 dynanyx.com
 0.0.0.0 dytbtpsf.cc
 0.0.0.0 dzeron.com
 0.0.0.0 dzhot.us
 0.0.0.0 e-ix.com
 0.0.0.0 e-ix.org
 0.0.0.0 e0f.cx
+0.0.0.0 e1c3d12739b3a6a820bf63898f4bfcc393e30922.com
+0.0.0.0 e2210cb7c4c99f22c5b34994401f48d2cb0c8cf0.com
+0.0.0.0 e6cc37ec81b2dba2cf019464d53fdf1718868af8.com
+0.0.0.0 e85dba3b6cc1a69916a865932dca01b75f522b03.com
+0.0.0.0 ea915934c6496470ba3124cecb507097a25628a5.com
 0.0.0.0 earn.cc
 0.0.0.0 earnapp.com
 0.0.0.0 earth-vpn.net
@@ -9709,6 +9843,7 @@
 0.0.0.0 easyvalorant.com
 0.0.0.0 easyveee.com
 0.0.0.0 easyvpn.com
+0.0.0.0 easyvpn.zone
 0.0.0.0 easyvypr.com
 0.0.0.0 easywaiwang.com
 0.0.0.0 easywancheng.com
@@ -9731,6 +9866,8 @@
 0.0.0.0 easyyouxi.com
 0.0.0.0 easyyouyou.com
 0.0.0.0 eazy.wtf
+0.0.0.0 eb9bdfb416038836763c91e3b26b4aa40332a6dd.com
+0.0.0.0 eba8f4c68dace0ad07881914e28d0c7112dcd7a6.com
 0.0.0.0 ebiqjffn.cc
 0.0.0.0 ebookdz.com
 0.0.0.0 ebumna.net
@@ -9765,6 +9902,7 @@
 0.0.0.0 ednovas.xyz
 0.0.0.0 edpxzc8w5jqk.online
 0.0.0.0 edsqevwp.com
+0.0.0.0 edublue.org
 0.0.0.0 educationate.space
 0.0.0.0 educationdean.us
 0.0.0.0 educationforindia.com
@@ -9776,6 +9914,7 @@
 0.0.0.0 edwlrzyd.com
 0.0.0.0 eeaglevpn.com
 0.0.0.0 eeeb.loan
+0.0.0.0 eef62cfd612e33b5871850596955c76e42b4eaa9.com
 0.0.0.0 eepresearch.org
 0.0.0.0 effuz.cn
 0.0.0.0 efxyyjlf.cc
@@ -9802,6 +9941,7 @@
 0.0.0.0 emeraldeyex.dev
 0.0.0.0 emjay.cn
 0.0.0.0 emmmmm.me
+0.0.0.0 emuby.com
 0.0.0.0 en-proxy.com
 0.0.0.0 enaevym08dequf033jdvbr.online
 0.0.0.0 enclosr.co
@@ -9818,6 +9958,7 @@
 0.0.0.0 energys.ir
 0.0.0.0 englishtutoring.cfd
 0.0.0.0 enotvpn.net
+0.0.0.0 enproxy.com
 0.0.0.0 eofgame.app
 0.0.0.0 eofvpn.cc
 0.0.0.0 eofvpn.com
@@ -9828,6 +9969,7 @@
 0.0.0.0 erenta.ru
 0.0.0.0 erjysmdn.com
 0.0.0.0 erproxy.tk
+0.0.0.0 errwan65237.biz
 0.0.0.0 errwan65878.biz
 0.0.0.0 erwan.cc
 0.0.0.0 erwan59.pw
@@ -9899,12 +10041,15 @@
 0.0.0.0 f2fenglish.org
 0.0.0.0 f3-letsvpn.com
 0.0.0.0 f3556fm3o524m9.com
+0.0.0.0 f3vpn.help
 0.0.0.0 f3vpn.homes
 0.0.0.0 f3vpn.mom
 0.0.0.0 f3vpn.net
 0.0.0.0 f43f8e0a28eef7e7ff0abf8669dfa203f59a6776.com
 0.0.0.0 f4f.es
 0.0.0.0 f56eb41z.online
+0.0.0.0 f98f95d622c3a88f77cbfc0279298d8597b5c6c2.com
+0.0.0.0 f9b8e8aaa83a4c5916441a5c6f4ac229cf78e27b.com
 0.0.0.0 faceless.me
 0.0.0.0 fairfieldps.org
 0.0.0.0 fakeip.org
@@ -10070,6 +10215,7 @@
 0.0.0.0 fastp.org
 0.0.0.0 fastpandaapp.com
 0.0.0.0 fastpartyanimals.com
+0.0.0.0 fastpro.info
 0.0.0.0 fastproxy.nl
 0.0.0.0 fastproxy.org
 0.0.0.0 fastproxy.win
@@ -10247,7 +10393,9 @@
 0.0.0.0 fineproxy.org
 0.0.0.0 finevpn.org
 0.0.0.0 finishinstal.com
+0.0.0.0 finishthought.xyz
 0.0.0.0 finquest.work
+0.0.0.0 fireinspector.xyz
 0.0.0.0 fireprox.net
 0.0.0.0 firevpnapp.com
 0.0.0.0 firstcontact.site
@@ -10288,6 +10436,7 @@
 0.0.0.0 flipgrid.cf
 0.0.0.0 flipgrid.gq
 0.0.0.0 flipgrid.tk
+0.0.0.0 floating-rate.us
 0.0.0.0 flonira.ru
 0.0.0.0 floppydata.com
 0.0.0.0 flornavo.ru
@@ -10302,6 +10451,7 @@
 0.0.0.0 flyfishnwa.com
 0.0.0.0 flyingbird.pro
 0.0.0.0 flyingcat.work
+0.0.0.0 flyingsnow.site
 0.0.0.0 flyingsnow.store
 0.0.0.0 flymetothemoon.work
 0.0.0.0 flypork.com
@@ -10390,6 +10540,7 @@
 0.0.0.0 freecodecamp.gq
 0.0.0.0 freecodecamp.tk
 0.0.0.0 freeconnect.link
+0.0.0.0 freediddy.buzz
 0.0.0.0 freednet.org
 0.0.0.0 freedom.cx
 0.0.0.0 freedome-vpn.net
@@ -10411,14 +10562,18 @@
 0.0.0.0 freeplanetvpn-rus.com
 0.0.0.0 freeproxy.asia
 0.0.0.0 freeproxy.io
+0.0.0.0 freeproxy.me
 0.0.0.0 freeproxy.top
 0.0.0.0 freeproxy.win
 0.0.0.0 freeproxyaccess.com
 0.0.0.0 freeproxydb.com
 0.0.0.0 freeproxylist.ru
+0.0.0.0 freeproxyserver.co
+0.0.0.0 freeproxysites.co
 0.0.0.0 freeproxyunblockyoutube.com
 0.0.0.0 freeproxyupdate.com
 0.0.0.0 freeproxyweb.net
+0.0.0.0 freepuff.buzz
 0.0.0.0 freeruleonline.xyz
 0.0.0.0 freeruproxy.ink
 0.0.0.0 freesafeip.com
@@ -10494,6 +10649,7 @@
 0.0.0.0 fulcrumtheatreinc.com
 0.0.0.0 fumarkel.com
 0.0.0.0 fumatek.baby
+0.0.0.0 funknetwork.com
 0.0.0.0 funnyaisite.org
 0.0.0.0 funti.cc
 0.0.0.0 funtikspb.ru
@@ -10524,6 +10680,7 @@
 0.0.0.0 galaxyjiasu.com
 0.0.0.0 galaxyvipaff01.cc
 0.0.0.0 galtvpn.com
+0.0.0.0 galxy.autos
 0.0.0.0 gameproxy.org
 0.0.0.0 gamers-nor.com
 0.0.0.0 gamingssh.com
@@ -10569,10 +10726,12 @@
 0.0.0.0 genmirror.com
 0.0.0.0 genscorp.es
 0.0.0.0 geographyles.com
+0.0.0.0 geoguessr.lol
 0.0.0.0 geometrycalculatorhelprvhs.college
 0.0.0.0 geonix.com
 0.0.0.0 geonode.com
 0.0.0.0 geoplace.info
+0.0.0.0 geosurf.com
 0.0.0.0 geosurf.io
 0.0.0.0 german-proxy.de
 0.0.0.0 get-express-vpn.com
@@ -10716,6 +10875,7 @@
 0.0.0.0 goldenearsvccc.space
 0.0.0.0 goldenfrog.com
 0.0.0.0 goldview.in
+0.0.0.0 goldvpn.info
 0.0.0.0 golegana.de
 0.0.0.0 golfshotflick.com
 0.0.0.0 golink.com
@@ -10819,6 +10979,7 @@
 0.0.0.0 guardster.com
 0.0.0.0 guatizi.com
 0.0.0.0 guavi.com
+0.0.0.0 guesses.info
 0.0.0.0 guestappearance.us
 0.0.0.0 guidetoworld.link
 0.0.0.0 guildstashtracker.xyz
@@ -10833,6 +10994,7 @@
 0.0.0.0 guruvpn.com
 0.0.0.0 gusvpn.help
 0.0.0.0 guwieair.com
+0.0.0.0 guzesqdro.dev
 0.0.0.0 gvirabi.com
 0.0.0.0 gvkyvroi.cc
 0.0.0.0 gvvip1.xyz
@@ -10882,6 +11044,8 @@
 0.0.0.0 happydata.info
 0.0.0.0 happykuailian.com
 0.0.0.0 happykuailian.net
+0.0.0.0 hardenglish.buzz
+0.0.0.0 hardmath.buzz
 0.0.0.0 haringinsuranc.website
 0.0.0.0 hartfordps.org
 0.0.0.0 harvestinflate.com
@@ -11050,6 +11214,7 @@
 0.0.0.0 hideipvpn.com
 0.0.0.0 hidejustfor.fun
 0.0.0.0 hideman.net
+0.0.0.0 hideme.be
 0.0.0.0 hideme.ru
 0.0.0.0 hidemebro.com
 0.0.0.0 hidemefast.net
@@ -11170,6 +11335,7 @@
 0.0.0.0 hileihong.com
 0.0.0.0 hiliebao.com
 0.0.0.0 hilimao.com
+0.0.0.0 hiload.in
 0.0.0.0 hiload.org
 0.0.0.0 hilvhu.com
 0.0.0.0 himariokart.com
@@ -11377,6 +11543,7 @@
 0.0.0.0 hxwnkrnn.cc
 0.0.0.0 hxxxxx.name
 0.0.0.0 hxy.name
+0.0.0.0 hydroxide.wtf
 0.0.0.0 hyeeypad.cc
 0.0.0.0 hykdwzgw.online
 0.0.0.0 hyper0.xyz
@@ -11523,6 +11690,8 @@
 0.0.0.0 iportal.me
 0.0.0.0 ipprotectionauth.goog
 0.0.0.0 ipracevpn.com
+0.0.0.0 ipredator.se
+0.0.0.0 iprivatevpn.com
 0.0.0.0 iprovpn.com
 0.0.0.0 iprovpn.dev
 0.0.0.0 iproxy.blog
@@ -11608,6 +11777,7 @@
 0.0.0.0 jaltrix.ru
 0.0.0.0 jamesisbald.xyz
 0.0.0.0 janetvill.com
+0.0.0.0 javascriptproxy.com
 0.0.0.0 jaxpulse.com
 0.0.0.0 jbmcxmpx.cc
 0.0.0.0 jcbb.cc
@@ -11618,6 +11788,7 @@
 0.0.0.0 jegovpn.com
 0.0.0.0 jellypop.org
 0.0.0.0 jellyvpn.com
+0.0.0.0 jessehome.xyz
 0.0.0.0 jet-noria.ru
 0.0.0.0 jetbean.com
 0.0.0.0 jetnoria.ru
@@ -11674,6 +11845,7 @@
 0.0.0.0 jiying.xyz
 0.0.0.0 jiyygsat.com
 0.0.0.0 jj-speed.net
+0.0.0.0 jjcloud.xyz
 0.0.0.0 jjjj.loan
 0.0.0.0 jjjxgc.com
 0.0.0.0 jjs-bbq.space
@@ -11825,6 +11997,7 @@
 0.0.0.0 kanye-west.top
 0.0.0.0 kaomojiz.mom
 0.0.0.0 karnuvia.ru
+0.0.0.0 karo-vpn.xyz
 0.0.0.0 kastino.ru
 0.0.0.0 katakanachart.com
 0.0.0.0 kavkaz.monster
@@ -12157,6 +12330,7 @@
 0.0.0.0 kuailian-app-cn.com
 0.0.0.0 kuailian-apps.com
 0.0.0.0 kuailian-chine.com
+0.0.0.0 kuailian-cn.com
 0.0.0.0 kuailian-hk.com
 0.0.0.0 kuailian-inst.com
 0.0.0.0 kuailian-it.com
@@ -12357,6 +12531,7 @@
 0.0.0.0 letseaivpn.com
 0.0.0.0 letsejavpn.com
 0.0.0.0 letsiesvpn.com
+0.0.0.0 letsilvpn.com
 0.0.0.0 letslian.com
 0.0.0.0 letslvpn.com
 0.0.0.0 letsoifvpn.com
@@ -12408,6 +12583,7 @@
 0.0.0.0 letsyuivpn.com
 0.0.0.0 letvpn.net
 0.0.0.0 letvpna.com
+0.0.0.0 levsvpn.com
 0.0.0.0 lewsha.lol
 0.0.0.0 leyfxjlv.cc
 0.0.0.0 lfmreko.cn
@@ -12415,6 +12591,7 @@
 0.0.0.0 liangyuandian.club
 0.0.0.0 liberator.one
 0.0.0.0 libertyvpn.app
+0.0.0.0 libertyvpn.net
 0.0.0.0 libertyvpn.org
 0.0.0.0 libredns.gr
 0.0.0.0 librevpn.org
@@ -12503,6 +12680,7 @@
 0.0.0.0 longss.xyz
 0.0.0.0 lonmq6.xyz
 0.0.0.0 lookingglass.site
+0.0.0.0 looquae8.xyz
 0.0.0.0 looseforbid.com
 0.0.0.0 lopana.com
 0.0.0.0 lor-vino.ru
@@ -12560,9 +12738,11 @@
 0.0.0.0 lzarflbw.com
 0.0.0.0 m3mhtvbfy.online
 0.0.0.0 mad4todo.com
+0.0.0.0 madeinchile.io
 0.0.0.0 madonna.run
 0.0.0.0 magiccloak.net
 0.0.0.0 maherhost.uk
+0.0.0.0 maichongvpn.com
 0.0.0.0 maifot.com
 0.0.0.0 mailproxy.info
 0.0.0.0 maincloud.ir
@@ -12613,6 +12793,7 @@
 0.0.0.0 mathnotes.help
 0.0.0.0 mathnotes.icu
 0.0.0.0 mathpoop.com
+0.0.0.0 mathprofession.buzz
 0.0.0.0 mathquizzer.net
 0.0.0.0 mathrules.dev
 0.0.0.0 mathwonders.xyz
@@ -12721,6 +12902,7 @@
 0.0.0.0 miseryrecord.com
 0.0.0.0 missionjesus.net
 0.0.0.0 mistasinresolver.ru
+0.0.0.0 mixing.run
 0.0.0.0 mixturestab.com
 0.0.0.0 mizban-r.site
 0.0.0.0 mjiwzmck.com
@@ -13029,6 +13211,7 @@
 0.0.0.0 mzkxz.top
 0.0.0.0 mzkxz.us
 0.0.0.0 n-kuailian.com
+0.0.0.0 n0.eu
 0.0.0.0 n6j3iyl.online
 0.0.0.0 n8nmegapixar.online
 0.0.0.0 n8ogo8f3kjb.online
@@ -13044,6 +13227,7 @@
 0.0.0.0 naiyun.info
 0.0.0.0 naizi.vip
 0.0.0.0 najiakeji.top
+0.0.0.0 name-meaning.us
 0.0.0.0 nanoproxy.com
 0.0.0.0 naokdfxw.com
 0.0.0.0 napps-1.com
@@ -13058,6 +13242,7 @@
 0.0.0.0 nashvpn.app
 0.0.0.0 nashvpn.biz
 0.0.0.0 nashvpn.io
+0.0.0.0 nashvpn.mom
 0.0.0.0 nashvpn.net
 0.0.0.0 nashvpn.top
 0.0.0.0 natfrp.cloud
@@ -13374,6 +13559,7 @@
 0.0.0.0 okyuovkg.com
 0.0.0.0 oldmillschool.org
 0.0.0.0 oleg.loan
+0.0.0.0 olegofriend.ru
 0.0.0.0 olipa.ru
 0.0.0.0 olivaro.ru
 0.0.0.0 olviro.ru
@@ -13397,6 +13583,7 @@
 0.0.0.0 onesy.top
 0.0.0.0 onevpn.com
 0.0.0.0 onion.am
+0.0.0.0 onion.ca
 0.0.0.0 onion.cab
 0.0.0.0 onion.casa
 0.0.0.0 onion.city
@@ -13558,6 +13745,7 @@
 0.0.0.0 papervpn.top
 0.0.0.0 par-vino.ru
 0.0.0.0 paradise-human.shop
+0.0.0.0 parsazr.ir
 0.0.0.0 partmo5.xyz
 0.0.0.0 parvino.ru
 0.0.0.0 pasdfn.com
@@ -13601,6 +13789,7 @@
 0.0.0.0 peremen.app
 0.0.0.0 peremen.space
 0.0.0.0 peremen.website
+0.0.0.0 perfect-privacy.com
 0.0.0.0 perlproxy.com
 0.0.0.0 persianreserve.ir
 0.0.0.0 personal-config.ru
@@ -13632,6 +13821,7 @@
 0.0.0.0 phproxysite.com
 0.0.0.0 phyi.loan
 0.0.0.0 physicsbutfun.com
+0.0.0.0 pi-dns.com
 0.0.0.0 piaproxy.net
 0.0.0.0 piaservers.net
 0.0.0.0 picknife.org
@@ -14399,6 +14589,7 @@
 0.0.0.0 rusnet-android.click
 0.0.0.0 rustynailspace.com
 0.0.0.0 rusuojiasu.net
+0.0.0.0 rusvpn.com
 0.0.0.0 ruvexona.ru
 0.0.0.0 ruxelo.xyz
 0.0.0.0 rvpn.ws
@@ -15043,7 +15234,6 @@
 0.0.0.0 szvy.xyz
 0.0.0.0 szyrzyk.pl
 0.0.0.0 t-dz.com
-0.0.0.0 t2hd3gctgprggas.online
 0.0.0.0 taarique.shop
 0.0.0.0 tabijibiyori.org
 0.0.0.0 tablebook92.com
@@ -15137,16 +15327,13 @@
 0.0.0.0 theproxy.cc
 0.0.0.0 theproxy.club
 0.0.0.0 theproxy.dev
-0.0.0.0 theproxy.ink
 0.0.0.0 theproxy.io
 0.0.0.0 theproxy.lol
 0.0.0.0 theproxy.red
 0.0.0.0 theproxy.vip
-0.0.0.0 theproxy.work
 0.0.0.0 theproxy2.biz
 0.0.0.0 theproxy2.com
 0.0.0.0 theproxya.org
-0.0.0.0 theproxyer.com
 0.0.0.0 theproxyguide.com
 0.0.0.0 theproxyultra.com
 0.0.0.0 therabbitvpn.com
@@ -15192,7 +15379,6 @@
 0.0.0.0 timedns.net
 0.0.0.0 timeout8.uk
 0.0.0.0 timetohide.me
-0.0.0.0 timevip.ir
 0.0.0.0 timevpns.com
 0.0.0.0 timmes.nl
 0.0.0.0 timurpoyraz.com
@@ -15303,8 +15489,8 @@
 0.0.0.0 towervpn.com
 0.0.0.0 tproxy.ink
 0.0.0.0 tproxy.mom
+0.0.0.0 tproxy.monster
 0.0.0.0 tproxyru.live
-0.0.0.0 tpymainx01.ru
 0.0.0.0 tq8izzzrqtktkdoarptl3u.online
 0.0.0.0 tqqzrbjd.com
 0.0.0.0 tqwrf6t2g.space
@@ -15355,7 +15541,6 @@
 0.0.0.0 trutri.org
 0.0.0.0 truvexia.ru
 0.0.0.0 truvium.xyz
-0.0.0.0 trxnfor.com
 0.0.0.0 try-this.ru
 0.0.0.0 tryfairy.xyz
 0.0.0.0 trygoujiapp.com
@@ -15605,7 +15790,6 @@
 0.0.0.0 unifiedvpn.com
 0.0.0.0 unil.click
 0.0.0.0 uniqueduty.com
-0.0.0.0 unity4world.ir
 0.0.0.0 universitylookup.org
 0.0.0.0 universityproxy.net
 0.0.0.0 unknownproxy.com
@@ -15689,7 +15873,6 @@
 0.0.0.0 uuuuuuuuu.uk
 0.0.0.0 uvpn.me
 0.0.0.0 uwqjkirj.com
-0.0.0.0 uxbrftcf.com
 0.0.0.0 uymgg1.com
 0.0.0.0 uzrzhcyx.com
 0.0.0.0 v.recipes
@@ -16074,7 +16257,6 @@
 0.0.0.0 vpnkeys.me
 0.0.0.0 vpnkeys.mom
 0.0.0.0 vpnkeys.org
-0.0.0.0 vpnlabs.site
 0.0.0.0 vpnland.com
 0.0.0.0 vpnlaunch.com
 0.0.0.0 vpnliebao.com
@@ -16144,7 +16326,6 @@
 0.0.0.0 vpnpro.com
 0.0.0.0 vpnpro.quest
 0.0.0.0 vpnproxy.app
-0.0.0.0 vpnproxy.pw
 0.0.0.0 vpnproxy.site
 0.0.0.0 vpnproxymaster.app
 0.0.0.0 vpnproxymaster.com
@@ -16334,7 +16515,6 @@
 0.0.0.0 wevz3b.xyz
 0.0.0.0 wez.fr
 0.0.0.0 wfdfyjd.com
-0.0.0.0 wgcwwk1ksso0rb9kkn6.online
 0.0.0.0 wgetcloud.info
 0.0.0.0 wgetcloud.ltd
 0.0.0.0 wgetcloud.org
@@ -16473,7 +16653,6 @@
 0.0.0.0 xaykmfn.cn
 0.0.0.0 xbaxiba.org
 0.0.0.0 xbcpb668.com
-0.0.0.0 xbgkzcvnfjkjh7ccggvniet.online
 0.0.0.0 xbox-dns.ru
 0.0.0.0 xbsj5632.website
 0.0.0.0 xbsjssr.online
@@ -16580,7 +16759,6 @@
 0.0.0.0 xn--kbtz2zn3ab56c.com
 0.0.0.0 xn--mes358aby2apfg.com
 0.0.0.0 xn--mest5a943ag8x.com
-0.0.0.0 xn--mesz5hn9e3rh.com
 0.0.0.0 xn--nexitally-459pk42i.com
 0.0.0.0 xn--prome-h02iv96g.com
 0.0.0.0 xn--rss276g.net
@@ -16675,7 +16853,6 @@
 0.0.0.0 yaltro.ru
 0.0.0.0 yangfan73.net
 0.0.0.0 yangfanhome.com
-0.0.0.0 yangfanhome.net
 0.0.0.0 yangfanyun.homes
 0.0.0.0 yangfanyun.net
 0.0.0.0 yangfanyunbest.net
@@ -16708,7 +16885,6 @@
 0.0.0.0 yep.top
 0.0.0.0 yepfast.cc
 0.0.0.0 yeqavten.com
-0.0.0.0 yeralin.net
 0.0.0.0 yes-taro.ru
 0.0.0.0 yestaro.ru
 0.0.0.0 yexmorio.ru
@@ -16821,7 +16997,6 @@
 0.0.0.0 z2l8ae5mv83sgzkutimxp.online
 0.0.0.0 z3d9.com
 0.0.0.0 z4qczlf.online
-0.0.0.0 z4se8uea.online
 0.0.0.0 zabolotskikh.dev
 0.0.0.0 zaborona.help
 0.0.0.0 zadmin.dev
@@ -16899,7 +17074,6 @@
 0.0.0.0 zenxnet.com
 0.0.0.0 zeptirox.com
 0.0.0.0 zerava.ru
-0.0.0.0 zerfaucet.space
 0.0.0.0 zerivox.xyz
 0.0.0.0 zerlix.xyz
 0.0.0.0 zernavo.ru
@@ -16958,15 +17132,12 @@
 0.0.0.0 zorrovpn.io
 0.0.0.0 zorvian.com
 0.0.0.0 zougloub.eu
-0.0.0.0 zpath.net
 0.0.0.0 zproxy.de
 0.0.0.0 zproxy.org
 0.0.0.0 zqazgydo.cc
 0.0.0.0 zqntvkud.cc
 0.0.0.0 zqxgfbtj.com
 0.0.0.0 zrackrmr.com
-0.0.0.0 zscalertwo.net
-0.0.0.0 zskniqat.com
 0.0.0.0 zspeed-cdn.com
 0.0.0.0 zt.al
 0.0.0.0 ztpvqxcr.cc

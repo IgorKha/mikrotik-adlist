@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.18.43
-! Last modified: 2026-06-07T07:37:00.777Z
+! Version: 1.0.18.55
+! Last modified: 2026-06-14T07:49:14.192Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.43
+! Version: 1.0.18.55
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-06-05T23:33:22.845Z
+! Last modified: 2026-06-13T23:30:48.077Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1719,6 +1719,7 @@
 0.0.0.0 cures.ru.com
 0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
+0.0.0.0 cyber20.com
 0.0.0.0 cyberpanel.fr
 0.0.0.0 cyfe.fr
 0.0.0.0 czr.customzonereview.com
@@ -1807,6 +1808,7 @@
 0.0.0.0 elyses.fr
 0.0.0.0 emagicone.fr
 0.0.0.0 email.headers.digital
+0.0.0.0 emperors.bunkerhilltradingco.info
 0.0.0.0 emplpoi-store.fr
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.likefever.org			# Facebook trojan
@@ -2274,6 +2276,7 @@
 0.0.0.0 livreral.fr
 0.0.0.0 livrval.fr
 0.0.0.0 livsffer.sa.com
+0.0.0.0 livsfs.today
 0.0.0.0 localo.fr
 0.0.0.0 login.belladermaco.com
 0.0.0.0 login.creditals-email.space
@@ -2340,6 +2343,7 @@
 0.0.0.0 matcheendirect.fr
 0.0.0.0 matchendirectr.fr
 0.0.0.0 matchendiredt.fr
+0.0.0.0 matchwomanreal.com
 0.0.0.0 max-wangcai28.com
 0.0.0.0 mbi3.kuicr.kyoto-u.ac.jp
 0.0.0.0 mcleaks.fr
@@ -2693,6 +2697,7 @@
 0.0.0.0 quicksaledeal.su
 0.0.0.0 quirinale.fr
 0.0.0.0 qyh.co.ua
+0.0.0.0 racingfamilyvillage.com
 0.0.0.0 radio42.fr
 0.0.0.0 randki-sex.com
 0.0.0.0 rapid-glade-cde8.asoumare042024.workers.dev
@@ -2748,6 +2753,7 @@
 0.0.0.0 romdiscover.com
 0.0.0.0 rootbuzz.com
 0.0.0.0 rottentomatoes.fr
+0.0.0.0 rrg2mrb.matchwomanreal.com
 0.0.0.0 rrtougao.com
 0.0.0.0 rtag.fr
 0.0.0.0 rubgyrama.fr
@@ -2760,6 +2766,7 @@
 0.0.0.0 s3-ap-southeast-1-amazonaws.com
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 s4d.in
+0.0.0.0 safes.ru.com
 0.0.0.0 saicmotor.fr
 0.0.0.0 sajour.fr
 0.0.0.0 salebestever.su
@@ -2846,6 +2853,7 @@
 0.0.0.0 societegernerale.fr
 0.0.0.0 societergenerale.fr
 0.0.0.0 sofaglobal.best
+0.0.0.0 sofia.whatcaniseeinkiev.info
 0.0.0.0 software-updates.co
 0.0.0.0 software-wenc.co.cc
 0.0.0.0 soidog.fr
@@ -2928,6 +2936,7 @@
 0.0.0.0 telpay.fr
 0.0.0.0 tenispro.fr
 0.0.0.0 terricole.fr
+0.0.0.0 test.gutir.ru
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 testbook.fr
 0.0.0.0 textbrokr.fr
@@ -3201,6 +3210,7 @@
 0.0.0.0 www.bbyjgkkdihiyxy.com
 0.0.0.0 www.bcwars.net
 0.0.0.0 www.be4life.ru
+0.0.0.0 www.behdja.com
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bernoussiphone.com
 0.0.0.0 www.bestlabour.com
@@ -3287,6 +3297,7 @@
 0.0.0.0 www.commuteinfo.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.conclusioncompeting.bond
+0.0.0.0 www.conservativedeeper.garden
 0.0.0.0 www.consultingbyelevate.com
 0.0.0.0 www.continuedlincoln.bond
 0.0.0.0 www.controlpop.com
@@ -3318,6 +3329,7 @@
 0.0.0.0 www.desirymart.com
 0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
+0.0.0.0 www.diamondconnections.living
 0.0.0.0 www.dictadosonline.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.diffuselec.com
@@ -3333,6 +3345,7 @@
 0.0.0.0 www.dustinjonesgolfacademy.com
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.dynamictyres.com
+0.0.0.0 www.dzzzsc.com
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.eamazondigital.com
@@ -3426,6 +3439,7 @@
 0.0.0.0 www.gotorobeks.com
 0.0.0.0 www.gparted.fr
 0.0.0.0 www.gpolitico.com
+0.0.0.0 www.gracefulmeaduu.online
 0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.grandtables.com
 0.0.0.0 www.greatdeposit.com
@@ -3495,9 +3509,11 @@
 0.0.0.0 www.karazah.com
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
+0.0.0.0 www.kencorporation.property
 0.0.0.0 www.kesau.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.khanomtour.com
+0.0.0.0 www.kinderstampo.com
 0.0.0.0 www.kindnations.com
 0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.kittayaroyalbeauty.com
@@ -3535,6 +3551,7 @@
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.loveromantic.com
 0.0.0.0 www.lunargrovefx.com
+0.0.0.0 www.madnesscase.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.maiecaffe.com
 0.0.0.0 www.maillazy.com
@@ -3629,6 +3646,7 @@
 0.0.0.0 www.paidsecure.com
 0.0.0.0 www.paidtheme.com
 0.0.0.0 www.paintballpins.com
+0.0.0.0 www.paintingoccasion.living
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.palaceskateboard.com
@@ -3639,6 +3657,7 @@
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.pcfixguide.help
 0.0.0.0 www.pdrill.com
+0.0.0.0 www.pdxsenior.com
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 www.pearlyappss.pro
 0.0.0.0 www.peopleesbancorp.com
@@ -3666,6 +3685,7 @@
 0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portutopcas.com
 0.0.0.0 www.postsavings.com
+0.0.0.0 www.poukladanyswiat.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.premiumbrandszonalibre.com
 0.0.0.0 www.presidency.site
@@ -3759,6 +3779,7 @@
 0.0.0.0 www.softwarebeginner.com
 0.0.0.0 www.sohailpc.com
 0.0.0.0 www.spectrumhomehealthinc.com
+0.0.0.0 www.spiritentertainment.homes
 0.0.0.0 www.spojrzenia.com
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssdede.com
@@ -3777,6 +3798,7 @@
 0.0.0.0 www.stylistnet.com
 0.0.0.0 www.styxwise.com
 0.0.0.0 www.subwayfast.com
+0.0.0.0 www.suchnasty.skin
 0.0.0.0 www.sumgaydigital.com
 0.0.0.0 www.sunglassesfor.com
 0.0.0.0 www.supereeego.com
@@ -3823,6 +3845,7 @@
 0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 www.ultratemps.com
+0.0.0.0 www.underobviously.garden
 0.0.0.0 www.unetbootin.net
 0.0.0.0 www.unetbootin.org
 0.0.0.0 www.upgradebasic.com
@@ -3830,6 +3853,7 @@
 0.0.0.0 www.uqz.com
 0.0.0.0 www.urldelivery.com
 0.0.0.0 www.vacnleefarpels.com
+0.0.0.0 www.vbttech.com
 0.0.0.0 www.vebprostopinup.com
 0.0.0.0 www.vecchiopools.com
 0.0.0.0 www.ventilationdirec.com
@@ -3860,6 +3884,7 @@
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
 0.0.0.0 www.wezelco.com
+0.0.0.0 www.wgmarketingdigital.com
 0.0.0.0 www.whiskeyallys.com
 0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
@@ -3883,11 +3908,13 @@
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com
+0.0.0.0 www.yixiudn.com
 0.0.0.0 www.ylgj789.com
 0.0.0.0 www.yoolyes.com
 0.0.0.0 www.youfiletor.com
 0.0.0.0 www.yreta.com
 0.0.0.0 www.zenithvault.uk
+0.0.0.0 www.zephyrvineky.online
 0.0.0.0 www.zippylakeri.name
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr

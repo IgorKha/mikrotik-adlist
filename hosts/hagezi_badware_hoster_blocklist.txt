@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.20.12
-! Last modified: 2026-06-07T07:37:24.253Z
+! Version: 1.0.20.26
+! Last modified: 2026-06-14T07:49:38.793Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
+0.0.0.0 123freehost.co.uk
 0.0.0.0 24.co.at
 0.0.0.0 all.co.uk
 0.0.0.0 thamboli.co.za
-0.0.0.0 blogspot.com.br
 0.0.0.0 blogspot.com.es
 0.0.0.0 kl.com.ua
 0.0.0.0 zzz.com.ua
@@ -33,11 +33,13 @@
 0.0.0.0 028426.com
 0.0.0.0 0catch.com
 0.0.0.0 0fees.net
+0.0.0.0 0fees.us
 0.0.0.0 0hna.com
 0.0.0.0 0pe.kr
 0.0.0.0 1.vg
 0.0.0.0 10001mb.com
 0.0.0.0 100freemb.com
+0.0.0.0 100megsfree5.com
 0.0.0.0 100webspace.com
 0.0.0.0 10h.us
 0.0.0.0 110mb.com
@@ -123,6 +125,7 @@
 0.0.0.0 aa8.de
 0.0.0.0 aa9.de
 0.0.0.0 aba.ae
+0.0.0.0 aba.vg
 0.0.0.0 abbremsen.de
 0.0.0.0 abfertigen.de
 0.0.0.0 abgeblasen.de
@@ -153,6 +156,7 @@
 0.0.0.0 and-friends.de
 0.0.0.0 and-you.de
 0.0.0.0 anfliegen.de
+0.0.0.0 angelcities.com
 0.0.0.0 angelfire.com
 0.0.0.0 anschauen.in
 0.0.0.0 anschiessen.de
@@ -247,6 +251,7 @@
 0.0.0.0 bz.tc
 0.0.0.0 c.pl
 0.0.0.0 ca.gp
+0.0.0.0 cabanova.com
 0.0.0.0 center.tl
 0.0.0.0 ch.gp
 0.0.0.0 ch.kg
@@ -277,11 +282,18 @@
 0.0.0.0 com0.de
 0.0.0.0 com24.at
 0.0.0.0 comeze.com
+0.0.0.0 comli.com
+0.0.0.0 comlu.com
 0.0.0.0 community.lc
 0.0.0.0 community24.eu
+0.0.0.0 comoj.com
 0.0.0.0 company.site
+0.0.0.0 comuf.com
 0.0.0.0 comule.com
+0.0.0.0 comuv.com
 0.0.0.0 comxa.com
+0.0.0.0 comyr.com
+0.0.0.0 comze.com
 0.0.0.0 convertri.com
 0.0.0.0 cool.hn
 0.0.0.0 cool.lc
@@ -343,6 +355,7 @@
 0.0.0.0 edgeone.dev
 0.0.0.0 edoctransfer.com
 0.0.0.0 edu.eu
+0.0.0.0 educatorpage.com
 0.0.0.0 educatorpages.com
 0.0.0.0 efacturas.net
 0.0.0.0 eg.gp
@@ -390,6 +403,7 @@
 0.0.0.0 filesusr.com
 0.0.0.0 filme.lc
 0.0.0.0 financecryptoworld.com
+0.0.0.0 financial-offer.com
 0.0.0.0 firm.nu
 0.0.0.0 firstcloudit.com
 0.0.0.0 flashbuilder.net
@@ -414,6 +428,7 @@
 0.0.0.0 free.lc
 0.0.0.0 free.nf
 0.0.0.0 freecities.com
+0.0.0.0 freecyberzone.com
 0.0.0.0 freehomepage.com
 0.0.0.0 freehost.ag
 0.0.0.0 freehoster.ch
@@ -421,11 +436,13 @@
 0.0.0.0 freehostingcloud.com
 0.0.0.0 freehostingking.com
 0.0.0.0 freehostyou.com
+0.0.0.0 freeiz.com
 0.0.0.0 freeoda.com
 0.0.0.0 freeservers.com
 0.0.0.0 freesite.org
 0.0.0.0 freetzi.com
 0.0.0.0 freevar.com
+0.0.0.0 freewaywebhost.com
 0.0.0.0 freeweb.me
 0.0.0.0 freewebhosting4u.com
 0.0.0.0 freewebhostingarea.com
@@ -449,7 +466,7 @@
 0.0.0.0 game.lc
 0.0.0.0 gamer.gd
 0.0.0.0 gaming.lc
-0.0.0.0 gerentebr.com
+0.0.0.0 gearhostpreview.com
 0.0.0.0 getenjoyment.net
 0.0.0.0 gg123.vip
 0.0.0.0 gilde.in
@@ -473,6 +490,7 @@
 0.0.0.0 hanefra7bikiemta.com
 0.0.0.0 hase.in
 0.0.0.0 healthyemployee.me
+0.0.0.0 herobo.com
 0.0.0.0 hexe.in
 0.0.0.0 hilfe24h.de
 0.0.0.0 home.lc
@@ -480,15 +498,21 @@
 0.0.0.0 homepage.cx
 0.0.0.0 homepage.lc
 0.0.0.0 hop.ru
+0.0.0.0 host22.com
+0.0.0.0 host56.com
 0.0.0.0 hostedforfree.com
+0.0.0.0 hostei.com
 0.0.0.0 hostingersite.com
 0.0.0.0 hostingsiteforfree.com
 0.0.0.0 hostland.pro
+0.0.0.0 hostoi.com
+0.0.0.0 hostzi.com
 0.0.0.0 hot.lc
 0.0.0.0 hotshare.net
 0.0.0.0 hp.lc
 0.0.0.0 hpage.com
 0.0.0.0 hr-organization.com
+0.0.0.0 hr-rewards.com
 0.0.0.0 hst5.com
 0.0.0.0 html-5.me
 0.0.0.0 hu.gp
@@ -549,6 +573,8 @@
 0.0.0.0 jixx.net
 0.0.0.0 job.ec
 0.0.0.0 jp.gp
+0.0.0.0 just-allen.com
+0.0.0.0 justicewasgreen.com
 0.0.0.0 justns.ru
 0.0.0.0 k.gp
 0.0.0.0 k1.cx
@@ -603,6 +629,7 @@
 0.0.0.0 me-page.com
 0.0.0.0 medianewsonline.com
 0.0.0.0 merchats.com
+0.0.0.0 mindnmagick.com
 0.0.0.0 mit-wenig-geld.de
 0.0.0.0 mobi.ps
 0.0.0.0 mp3.cr
@@ -635,9 +662,17 @@
 0.0.0.0 name.vg
 0.0.0.0 narod.ru
 0.0.0.0 neocities.org
+0.0.0.0 net16.net
+0.0.0.0 net23.net
+0.0.0.0 net63.net
+0.0.0.0 net76.net
+0.0.0.0 net84.net
 0.0.0.0 netai.net
+0.0.0.0 netau.net
 0.0.0.0 netfast.org
 0.0.0.0 nethouse.ru
+0.0.0.0 netii.net
+0.0.0.0 netne.net
 0.0.0.0 netten.ru
 0.0.0.0 netz.tl
 0.0.0.0 newmail.ru
@@ -701,7 +736,6 @@
 0.0.0.0 pktriot.net
 0.0.0.0 pl.de
 0.0.0.0 pl.gp
-0.0.0.0 pl-oferta-id2387942371.top
 0.0.0.0 planet.tl
 0.0.0.0 portal.lc
 0.0.0.0 preview-domain.com
@@ -725,8 +759,6 @@
 0.0.0.0 rapidshare.se
 0.0.0.0 re2.de
 0.0.0.0 reco.ws
-0.0.0.0 regruhosting.ru
-0.0.0.0 reodev.com
 0.0.0.0 rf.gd
 0.0.0.0 ro.gp
 0.0.0.0 royal-host.com
@@ -762,14 +794,18 @@
 0.0.0.0 shopping.cr
 0.0.0.0 shopping.hn
 0.0.0.0 shortenerword.com
+0.0.0.0 site11.com
 0.0.0.0 site123.me
+0.0.0.0 site40.net
+0.0.0.0 site50.net
+0.0.0.0 site88.net
+0.0.0.0 site90.com
 0.0.0.0 site90.net
 0.0.0.0 sitepalace.com
 0.0.0.0 skul.de
 0.0.0.0 sms.cr
 0.0.0.0 smsu.io
 0.0.0.0 solidwebhost.com
-0.0.0.0 sophiashantidaniel.com
 0.0.0.0 space.lc
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
@@ -799,10 +835,10 @@
 0.0.0.0 tempisite.com
 0.0.0.0 temporary.site
 0.0.0.0 temporary-demo.site
-0.0.0.0 tentbuildingservices.eu
 0.0.0.0 test.lc
 0.0.0.0 tggame.xyz
 0.0.0.0 th.gp
+0.0.0.0 the-finance-world.com
 0.0.0.0 tiiny.host
 0.0.0.0 tiiny.io
 0.0.0.0 tiiny.site
@@ -846,6 +882,7 @@
 0.0.0.0 uz.gp
 0.0.0.0 v.gp
 0.0.0.0 v0r.org
+0.0.0.0 vacau.com
 0.0.0.0 ve.gp
 0.0.0.0 verifypass.pw
 0.0.0.0 verkniffen.de
@@ -872,9 +909,11 @@
 0.0.0.0 webblog24.de
 0.0.0.0 webboss.site
 0.0.0.0 webcindario.com
+0.0.0.0 webege.com
 0.0.0.0 webgarden.com
 0.0.0.0 webn.cc
 0.0.0.0 webnode.com
+0.0.0.0 webnode.page
 0.0.0.0 webpages.one
 0.0.0.0 webs.com
 0.0.0.0 website.at
@@ -891,6 +930,7 @@
 0.0.0.0 world.mu
 0.0.0.0 world-blog.de
 0.0.0.0 world-store.de
+0.0.0.0 worldsoffinance.com
 0.0.0.0 writes.de
 0.0.0.0 wstd.io
 0.0.0.0 wtcsites.com

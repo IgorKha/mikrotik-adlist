@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.9
-! Last modified: 2026-06-07T07:37:09.474Z
+! Version: 1.0.1.12
+! Last modified: 2026-06-14T07:49:23.588Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -40,7 +40,6 @@
 0.0.0.0 g.bing.com
 0.0.0.0 raka.bing.com
 0.0.0.0 c.bingapis.com
-0.0.0.0 upload.fp.measure.office.com.corp.mmco.int.cardano.com
 0.0.0.0 exo.nel.measure.office.net.cardano.com
 0.0.0.0 identity.nel.measure.office.net.cardano.com
 0.0.0.0 m365cdn.nel.measure.office.net.cardano.com
@@ -65,6 +64,7 @@
 0.0.0.0 excel-telemetry.officeapps.live.com
 0.0.0.0 ffc-excel-telemetry.officeapps.live.com
 0.0.0.0 ffc-word-telemetry.officeapps.live.com
+0.0.0.0 fgteu1-word-telemetry-vip.officeapps.live.com
 0.0.0.0 frc-visio-telemetry.officeapps.live.com
 0.0.0.0 inc-visio-telemetry.officeapps.live.com
 0.0.0.0 nexus.officeapps.live.com
@@ -146,7 +146,6 @@
 0.0.0.0 watson.live.com
 0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 collector.azure.microsoft.cloud
-0.0.0.0 collector.azure.microsoft.scloud
 0.0.0.0 track.notif.careersppe.microsoft.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 events-sandbox.data.microsoft.com
@@ -294,6 +293,7 @@
 0.0.0.0 diagnostics-eudb.office.com
 0.0.0.0 measure.office.com
 0.0.0.0 measure.office.net
+0.0.0.0 prod.editor.ads.trafficmanager.net
 0.0.0.0 tracker.flightview.com.trafficmanager.net
 0.0.0.0 events.data.trafficmanager.net
 0.0.0.0 vortex.data.trafficmanager.net
@@ -302,12 +302,14 @@
 0.0.0.0 euc-excel-telemetry.wac.trafficmanager.net
 0.0.0.0 euc-powerpoint-telemetry.wac.trafficmanager.net
 0.0.0.0 euc-word-telemetry.wac.trafficmanager.net
+0.0.0.0 eurffc-word-telemetry.wac.trafficmanager.net
 0.0.0.0 excel-telemetry.wac.trafficmanager.net
 0.0.0.0 powerpoint-telemetry.wac.trafficmanager.net
 0.0.0.0 ppc-excel-telemetry.wac.trafficmanager.net
 0.0.0.0 ppc-powerpoint-telemetry.wac.trafficmanager.net
 0.0.0.0 ppc-word-telemetry.wac.trafficmanager.net
 0.0.0.0 word-telemetry.wac.trafficmanager.net
+0.0.0.0 ads-msn-com-profile.trafficmanager.net
 0.0.0.0 adsdk.trafficmanager.net
 0.0.0.0 agps-location-livenet.trafficmanager.net
 0.0.0.0 analytics.trafficmanager.net
@@ -315,6 +317,7 @@
 0.0.0.0 beacons.trafficmanager.net
 0.0.0.0 bingads.trafficmanager.net
 0.0.0.0 ch-asimov-leafs-events-data.trafficmanager.net
+0.0.0.0 collection-location-livenet.trafficmanager.net
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 dsp-ad-cache-tm.trafficmanager.net
 0.0.0.0 eventservice.trafficmanager.net
@@ -338,6 +341,7 @@
 0.0.0.0 tenmax-ads.trafficmanager.net
 0.0.0.0 tm-analytics-pr.trafficmanager.net
 0.0.0.0 tm-enrollment-telemetry-datacore.trafficmanager.net
+0.0.0.0 us-mesh-events-data-leafs.trafficmanager.net
 0.0.0.0 vstelemetry.trafficmanager.net
 0.0.0.0 win-global-asimov-leafs-events-data.trafficmanager.net
 0.0.0.0 dc.services.visualstudio.com
@@ -367,6 +371,7 @@
 0.0.0.0 citrixtelemetryeheu-alias.servicebus.windows.net
 0.0.0.0 ehtelemetrystaging-alias.servicebus.windows.net
 0.0.0.0 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 hme-uat-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 licensingtelemetry-prod.servicebus.windows.net
 0.0.0.0 nexxtv-events.servicebus.windows.net

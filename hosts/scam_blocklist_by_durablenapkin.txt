@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.97
-! Last modified: 2026-06-07T07:37:14.257Z
+! Version: 1.0.21.4
+! Last modified: 2026-06-14T07:49:28.158Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -8,13 +8,11 @@
 0.0.0.0 1sttheworld.com
 0.0.0.0 270278609-2020004278-462904544-440202503325--570202500372x-usps.com
 0.0.0.0 365analytics.xyz
-0.0.0.0 365uniswap.xyz
 0.0.0.0 3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev
 0.0.0.0 3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
 0.0.0.0 47n78xprrvp1.top
-0.0.0.0 555sq.com.cn
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
@@ -35,6 +33,7 @@
 0.0.0.0 airupnederlands.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
+0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
@@ -74,7 +73,6 @@
 0.0.0.0 benecharm.com
 0.0.0.0 benxi.info
 0.0.0.0 bertasxt.com
-0.0.0.0 best-torrents.com
 0.0.0.0 bestvod.pl
 0.0.0.0 billboardwring.com
 0.0.0.0 binom0-web.com
@@ -94,6 +92,7 @@
 0.0.0.0 binomoweb.org
 0.0.0.0 binomoweblogin.com
 0.0.0.0 binorobot.com
+0.0.0.0 birkenstock-ca.com
 0.0.0.0 bisertravel.com.mk
 0.0.0.0 bite-life.com
 0.0.0.0 bitiiy.com
@@ -118,13 +117,11 @@
 0.0.0.0 bsnltowerinstallations.com
 0.0.0.0 bsntowoff.com
 0.0.0.0 buddhakind.com
-0.0.0.0 budm.shop
 0.0.0.0 burgershirt.com
 0.0.0.0 buydubuy.com
 0.0.0.0 buylikes.se
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 by-emmamuller.de
-0.0.0.0 c.dreamdating1.fun
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 campingsurfshop.com
 0.0.0.0 canadapost-service.info
@@ -147,6 +144,7 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
+0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coinaps.com
@@ -180,6 +178,7 @@
 0.0.0.0 dashracegear.net
 0.0.0.0 datempire.com
 0.0.0.0 dautee.com
+0.0.0.0 davidsmovingco.com
 0.0.0.0 ddzk513bd.com
 0.0.0.0 debridlink.com
 0.0.0.0 decoryourhome.store
@@ -214,6 +213,7 @@
 0.0.0.0 e-visaindia.com
 0.0.0.0 e-visaindiaonline.com
 0.0.0.0 e-visums.nl
+0.0.0.0 earnpets.com
 0.0.0.0 ecomicrolab.com
 0.0.0.0 ecs-online.ffm.to
 0.0.0.0 edgeupgrade.com
@@ -257,6 +257,7 @@
 0.0.0.0 faze47.com
 0.0.0.0 faze5.com
 0.0.0.0 faze77.com
+0.0.0.0 faze8.com
 0.0.0.0 faze9.com
 0.0.0.0 fazpowerdenet.tumblr.com
 0.0.0.0 fdrc-gov.org
@@ -442,7 +443,6 @@
 0.0.0.0 kuyhaa.cc
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 lds.xyz
-0.0.0.0 ledgerlivewallets.com
 0.0.0.0 lemstore.com
 0.0.0.0 leonoremanry.sa.com
 0.0.0.0 lericettedifrancy74.com
@@ -458,7 +458,6 @@
 0.0.0.0 lisabuddy.com
 0.0.0.0 litcomplex.com
 0.0.0.0 look-like-star.myshopify.com
-0.0.0.0 lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
@@ -466,6 +465,7 @@
 0.0.0.0 luxsgear.com
 0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
+0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 maxdebrid.com
@@ -487,6 +487,7 @@
 0.0.0.0 msgclick.top
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
+0.0.0.0 multifilmy.pl
 0.0.0.0 muskai.net
 0.0.0.0 muskusa.com
 0.0.0.0 mybestautologin567.com
@@ -511,7 +512,6 @@
 0.0.0.0 navi21.com
 0.0.0.0 navi21.ru
 0.0.0.0 navi22.com
-0.0.0.0 navi22.ru
 0.0.0.0 navi23.com
 0.0.0.0 navi23.ru
 0.0.0.0 navi24.com
@@ -655,7 +655,6 @@
 0.0.0.0 re-captha-version-3-277.buzz
 0.0.0.0 resources4gaming.com
 0.0.0.0 revanced-extended.com
-0.0.0.0 revancedmusic.com
 0.0.0.0 reviewshirts.com
 0.0.0.0 rewardsgiantca.com
 0.0.0.0 ringtoperfection.com
@@ -765,12 +764,10 @@
 0.0.0.0 tamed-exotics.com
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tbao684tryo.com
-0.0.0.0 tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
 0.0.0.0 tencheckit.org
-0.0.0.0 teodoroautopecas.com
 0.0.0.0 terverystaio.info
 0.0.0.0 teslatime.net
 0.0.0.0 the-north-face.gr
@@ -870,7 +867,6 @@
 0.0.0.0 visasimple.com
 0.0.0.0 visatoindia.org
 0.0.0.0 visumbuitenland.nl
-0.0.0.0 vizjer-pl.pl
 0.0.0.0 vizjer.com.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
@@ -890,7 +886,6 @@
 0.0.0.0 whbinder.com
 0.0.0.0 wikeb.com
 0.0.0.0 wintexfashions.com
-0.0.0.0 wisdomganga.com
 0.0.0.0 withyotta.com
 0.0.0.0 woadoodles.com
 0.0.0.0 wp3.xyz
@@ -906,13 +901,13 @@
 0.0.0.0 xvid.social-previews.top
 0.0.0.0 yahhhoo.com
 0.0.0.0 yasir252.com
+0.0.0.0 yeezysofficial.us.com
 0.0.0.0 yeswevibe.com
 0.0.0.0 yeyvibe.com
 0.0.0.0 ygtube.xyz
 0.0.0.0 yhdshop.com
 0.0.0.0 yofi-yofi.com
 0.0.0.0 youdebrid.com
-0.0.0.0 yourdatefind.com
 0.0.0.0 yoursecrethookup.com
 0.0.0.0 youtubee.com
 0.0.0.0 youtunbe.com
@@ -922,7 +917,6 @@
 0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
 0.0.0.0 zalukaj-film.pl
-0.0.0.0 zalukaj-pl.tv
 0.0.0.0 zalukaj-vip.pl
 0.0.0.0 zalukaj.app
 0.0.0.0 zalukaj.cc

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
-! Version: 1.0.0.9
-! Last modified: 2026-06-07T07:37:09.746Z
+! Version: 1.0.0.11
+! Last modified: 2026-06-14T07:49:23.829Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -14,6 +14,7 @@
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com
 0.0.0.0 prod-news-notification-events.v.aaplimg.com
 0.0.0.0 securemetrics.v.aaplimg.com
+0.0.0.0 securemetrics-cn.v.aaplimg.com
 0.0.0.0 securemvt.v.aaplimg.com
 0.0.0.0 smoot-feedback.v.aaplimg.com
 0.0.0.0 supportmetrics.v.aaplimg.com
@@ -27,11 +28,14 @@
 0.0.0.0 idiagnostics.apple.com.akadns.net
 0.0.0.0 iphonesubmissions.apple.com.akadns.net
 0.0.0.0 radarsubmissions.apple.com.akadns.net
-0.0.0.0 iad-apple.com.akadns.net
 0.0.0.0 partiality.itunes-apple.com.akadns.net
 0.0.0.0 xp.itunes-apple.com.akadns.net
 0.0.0.0 xp-cdn-lb.itunes-apple.com.akadns.net
 0.0.0.0 searchads.lb-apple.com.akadns.net
+0.0.0.0 iad-apple.com.akadns.net
+0.0.0.0 partiality.itunes.apple.com
+0.0.0.0 msc-dct-prod.msc.apple.com
+0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advp.apple.com
 0.0.0.0 api-adservices.apple.com
@@ -56,10 +60,8 @@
 0.0.0.0 internalcheck.apple.com
 0.0.0.0 iphonesubmissions.apple.com
 0.0.0.0 iphonesubmissions-old.apple.com
-0.0.0.0 partiality.itunes.apple.com
 0.0.0.0 launch.apple.com
 0.0.0.0 metrics.apple.com
-0.0.0.0 msc-dct-prod.msc.apple.com
 0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 news-notification-events.apple.com
@@ -74,27 +76,26 @@
 0.0.0.0 searchads.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemvt.apple.com
-0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 xp.apple.com
 0.0.0.0 xp-cdn.apple.com
 0.0.0.0 feedbackws.fe.apple-dns.cn
+0.0.0.0 feedbackws.fe.apple-dns.net
 0.0.0.0 feedbackws.fe2.apple-dns.net
-0.0.0.0 me.apple-dns.net
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 weather-analytics-events.news.apple-dns.net
-0.0.0.0 applemediaservices.com
+0.0.0.0 me.apple-dns.net
 0.0.0.0 cstat.cdn-apple.com
 0.0.0.0 securemetrics.apple.com.cn
 0.0.0.0 feedbackws.icloud.com.cn
 0.0.0.0 cdn-xp-ingest.edge.apple
+0.0.0.0 partiality.itunes.apple.com.edgekey.net
 0.0.0.0 experiments.apple.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
-0.0.0.0 partiality.itunes.apple.com.edgekey.net
 0.0.0.0 xp.apple.com.edgekey.net
 0.0.0.0 cstat.apple.com.edgesuite.net
 0.0.0.0 searchads.apple.com.edgesuite.net
@@ -102,7 +103,8 @@
 0.0.0.0 feedbackws.icloud.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
-0.0.0.0 qwapi.com
 0.0.0.0 marketing.services.apple
 0.0.0.0 beacon.shazam.com
 0.0.0.0 h4g3z1-native.apple.web.app
+0.0.0.0 applemediaservices.com
+0.0.0.0 qwapi.com
