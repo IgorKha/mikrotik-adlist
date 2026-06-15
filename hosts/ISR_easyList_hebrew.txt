@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
 ! Version: 1.0.14.78
-! Last modified: 2026-06-07T07:37:14.071Z
+! Last modified: 2026-06-14T07:49:27.990Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.81
-! Last modified: 2026-06-07T07:37:24.159Z
+! Version: 1.0.16.87
+! Last modified: 2026-06-14T07:49:38.702Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -19,7 +19,9 @@
 0.0.0.0 dynamicdns.org.uk
 0.0.0.0 limit.org.uk
 0.0.0.0 h4g3z1-dyndns.web.app
+0.0.0.0 dyndns.za.org
 0.0.0.0 0000000000000000000000.com
+0.0.0.0 0rg.us
 0.0.0.0 0x.no
 0.0.0.0 100mountain.com
 0.0.0.0 10dv.com
@@ -105,11 +107,13 @@
 0.0.0.0 ath.cx
 0.0.0.0 atlantatruckdrivingschool.us
 0.0.0.0 auraria.org
+0.0.0.0 australia.ai
 0.0.0.0 authorizeddns.net
 0.0.0.0 authorizeddns.org
 0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
+0.0.0.0 awiki.org
 0.0.0.0 ax.lt
 0.0.0.0 b0tnet.com
 0.0.0.0 b33r.us
@@ -177,6 +181,7 @@
 0.0.0.0 changeip.biz
 0.0.0.0 changeip.co
 0.0.0.0 changeip.com
+0.0.0.0 changeip.me
 0.0.0.0 changeip.name
 0.0.0.0 changeip.net
 0.0.0.0 changeip.org
@@ -211,6 +216,7 @@
 0.0.0.0 cloudns.pro
 0.0.0.0 cloudwatch.net
 0.0.0.0 cloudxns.net
+0.0.0.0 cmirg.com
 0.0.0.0 cnstefancelmare.ro
 0.0.0.0 coalnet.ru
 0.0.0.0 codns.com
@@ -255,6 +261,7 @@
 0.0.0.0 ddns-dvr.com
 0.0.0.0 ddns-ip.net
 0.0.0.0 ddns5.com
+0.0.0.0 ddnsapp.com
 0.0.0.0 ddnsfree.com
 0.0.0.0 ddnsgeek.com
 0.0.0.0 ddnsguru.com
@@ -276,6 +283,7 @@
 0.0.0.0 dhs.org
 0.0.0.0 digikabel.hu
 0.0.0.0 digitalgroupe.com
+0.0.0.0 dip.jp
 0.0.0.0 diskstation.eu
 0.0.0.0 diskstation.me
 0.0.0.0 diskstation.org
@@ -338,6 +346,7 @@
 0.0.0.0 doomdns.com
 0.0.0.0 doomdns.org
 0.0.0.0 dougtreadwell.com
+0.0.0.0 doyleandprendergast.com
 0.0.0.0 dp76.com
 0.0.0.0 dpcube.com
 0.0.0.0 dray-dns.de
@@ -351,6 +360,7 @@
 0.0.0.0 dsmynas.net
 0.0.0.0 dsmynas.org
 0.0.0.0 dtdns.com
+0.0.0.0 dtdns.net
 0.0.0.0 dtdns.org
 0.0.0.0 dubya.info
 0.0.0.0 dubya.net
@@ -429,6 +439,7 @@
 0.0.0.0 dynnamn.ru
 0.0.0.0 dynns.com
 0.0.0.0 dyns.be
+0.0.0.0 dyns.cx
 0.0.0.0 dyns.net
 0.0.0.0 dynserv.org
 0.0.0.0 dynssl.com
@@ -485,6 +496,7 @@
 0.0.0.0 eurotank.ro
 0.0.0.0 eva.hk
 0.0.0.0 everton.com
+0.0.0.0 evils.in
 0.0.0.0 expired-dns.com
 0.0.0.0 ez-dns.com
 0.0.0.0 ez-ip.net
@@ -524,6 +536,7 @@
 0.0.0.0 fortiddns.com
 0.0.0.0 forumz.info
 0.0.0.0 fragmentary.info
+0.0.0.0 free-ddns.com
 0.0.0.0 freeddns.com
 0.0.0.0 freeddns.org
 0.0.0.0 freeddns.uk
@@ -599,6 +612,7 @@
 0.0.0.0 game-host.org
 0.0.0.0 game-server.cc
 0.0.0.0 garmanage.com
+0.0.0.0 garypatel.com
 0.0.0.0 gastright.com
 0.0.0.0 geekgalaxy.com
 0.0.0.0 geobattery.com
@@ -738,6 +752,7 @@
 0.0.0.0 ipnodns.ru
 0.0.0.0 ipq.co
 0.0.0.0 iprowave.com
+0.0.0.0 ipupdater.com
 0.0.0.0 ipv64.de
 0.0.0.0 ipv64.net
 0.0.0.0 is-a-anarchist.com
@@ -1262,6 +1277,7 @@
 0.0.0.0 sexxxy.biz
 0.0.0.0 shacknet.biz
 0.0.0.0 shacknet.us
+0.0.0.0 shadir.com
 0.0.0.0 sharkltd.com
 0.0.0.0 sheatfish.org
 0.0.0.0 sheepindonesia.org
