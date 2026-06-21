@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.12
-! Last modified: 2026-06-14T07:49:23.588Z
+! Version: 1.0.1.13
+! Last modified: 2026-06-21T07:51:45.153Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -212,6 +212,7 @@
 0.0.0.0 t-ring-s2.msedge.net
 0.0.0.0 t-ring-trafficshield.msedge.net
 0.0.0.0 t-s1-ring.msedge.net
+0.0.0.0 t-s2-ring.msedge.net
 0.0.0.0 win10-trt.msedge.net
 0.0.0.0 metric.appex-rf.msn.com
 0.0.0.0 c.ar.msn.com

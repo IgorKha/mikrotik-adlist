@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.21.4
-! Last modified: 2026-06-14T07:49:28.158Z
+! Version: 1.0.21.10
+! Last modified: 2026-06-21T07:51:49.590Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -33,13 +33,13 @@
 0.0.0.0 airupnederlands.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
-0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
 0.0.0.0 allergyfl.com
 0.0.0.0 allnewsready.com
 0.0.0.0 allstarshirt.com
+0.0.0.0 allupdatenow.com
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
@@ -73,6 +73,7 @@
 0.0.0.0 benecharm.com
 0.0.0.0 benxi.info
 0.0.0.0 bertasxt.com
+0.0.0.0 best-torrents.com
 0.0.0.0 bestvod.pl
 0.0.0.0 billboardwring.com
 0.0.0.0 binom0-web.com
@@ -124,7 +125,6 @@
 0.0.0.0 by-emmamuller.de
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 campingsurfshop.com
-0.0.0.0 canadapost-service.info
 0.0.0.0 candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 caraci.it
@@ -135,6 +135,7 @@
 0.0.0.0 cheat-on.com
 0.0.0.0 check-update-today.me
 0.0.0.0 chesssorrydescend.com
+0.0.0.0 chiclife.co.uk
 0.0.0.0 chikepod.com
 0.0.0.0 chipcy.com
 0.0.0.0 chipteeamz.com
@@ -144,7 +145,6 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
-0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coinaps.com
@@ -294,7 +294,6 @@
 0.0.0.0 fullview.pl
 0.0.0.0 fumekart.com
 0.0.0.0 fundanemt.org
-0.0.0.0 funfilenow.com
 0.0.0.0 furnishmyhome.ca
 0.0.0.0 furoshop.com
 0.0.0.0 furykms.com
@@ -331,6 +330,7 @@
 0.0.0.0 gossvibe.com
 0.0.0.0 gotoperfection.com
 0.0.0.0 govmedcareers.com
+0.0.0.0 greatoffersnow.com
 0.0.0.0 gsport.com
 0.0.0.0 gtlinfrastructurelimited.com
 0.0.0.0 habtoorloyal.com
@@ -463,7 +463,6 @@
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
 0.0.0.0 luxsgear.com
-0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -495,7 +494,6 @@
 0.0.0.0 myfunfarm.com
 0.0.0.0 myhandshops.myshopify.com
 0.0.0.0 mypuregaming.com
-0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
 0.0.0.0 natilove.com
 0.0.0.0 nationaladvancegroup.com
@@ -554,6 +552,7 @@
 0.0.0.0 new.gdtot.me
 0.0.0.0 new2.gdtot.sbs
 0.0.0.0 newfootwearshop.com
+0.0.0.0 newgstore.com
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 newpipe.app
 0.0.0.0 nextstephire.net
@@ -592,6 +591,7 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 officialkmspico.com
 0.0.0.0 oflike.com
+0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
@@ -819,6 +819,7 @@
 0.0.0.0 uniswapagent.com
 0.0.0.0 uniswapai.xyz
 0.0.0.0 uniswapapp.xyz
+0.0.0.0 uniswapbot.xyz
 0.0.0.0 uniswapcapital.xyz
 0.0.0.0 uniswapdao.xyz
 0.0.0.0 uniswapdefi.xyz
@@ -867,7 +868,6 @@
 0.0.0.0 visasimple.com
 0.0.0.0 visatoindia.org
 0.0.0.0 visumbuitenland.nl
-0.0.0.0 vizjer.com.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film
@@ -878,7 +878,6 @@
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 wadahlapak.top
 0.0.0.0 wallpaperflare.com
-0.0.0.0 warriordecor.com
 0.0.0.0 watchmark.shop
 0.0.0.0 wazofurniture.com
 0.0.0.0 weathly.com
@@ -886,6 +885,7 @@
 0.0.0.0 whbinder.com
 0.0.0.0 wikeb.com
 0.0.0.0 wintexfashions.com
+0.0.0.0 wisdomganga.com
 0.0.0.0 withyotta.com
 0.0.0.0 woadoodles.com
 0.0.0.0 wp3.xyz
@@ -895,6 +895,7 @@
 0.0.0.0 wpad.xyz
 0.0.0.0 ww25.utilify.me
 0.0.0.0 base-vod.pl
+0.0.0.0 x2em.com
 0.0.0.0 xcartpro.com
 0.0.0.0 xn--airuptrkiye-yhb.com
 0.0.0.0 xunlei.it

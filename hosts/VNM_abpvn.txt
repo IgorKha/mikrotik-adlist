@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.32
-! Last modified: 2026-06-14T07:49:24.320Z
+! Version: 1.0.17.35
+! Last modified: 2026-06-21T07:51:45.892Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.32
+! Version: 1.0.17.35
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-06-11T05:44:19.196Z
+! Last modified: 2026-06-19T17:43:12.797Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11489,6 +11489,15 @@
 0.0.0.0 xml.xmlking.com
 0.0.0.0 xmlwolf.com
 0.0.0.0 xml.xmlwolf.com
+0.0.0.0 clickadu.com
+0.0.0.0 pub.clickadu.com
+0.0.0.0 www.clickadu.com
+0.0.0.0 clickadu.net
+0.0.0.0 adv.clickadu.net
+0.0.0.0 adv1.clickadu.net
+0.0.0.0 adv2.clickadu.net
+0.0.0.0 adv3.clickadu.net
+0.0.0.0 www.clickadu.net
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -13291,6 +13300,7 @@
 0.0.0.0 360playvid.com
 0.0.0.0 360playvid.info
 0.0.0.0 3pkf5m0gd.com
+0.0.0.0 44ye.com
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
 0.0.0.0 520click.com
@@ -13500,6 +13510,7 @@
 0.0.0.0 adexchangeclear.com
 0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeprediction.com
+0.0.0.0 adexchangerapid.com
 0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
 0.0.0.0 adflight.com
@@ -14015,6 +14026,7 @@
 0.0.0.0 adzbazar.com
 0.0.0.0 aeffe3nhrua5hua.com
 0.0.0.0 aelwynvel.com
+0.0.0.0 aerithvel.com
 0.0.0.0 aerodynomach.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 afcnuchxgo.com
@@ -14064,6 +14076,7 @@
 0.0.0.0 agqoshfujku.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
+0.0.0.0 ahdcrajmzbtvj.com
 0.0.0.0 aheadday.com
 0.0.0.0 ahkapsalz.com
 0.0.0.0 ahlcujguphr.com
@@ -14116,6 +14129,7 @@
 0.0.0.0 amhrzucur.com
 0.0.0.0 amillionads.com
 0.0.0.0 amobee.com
+0.0.0.0 ampmhcbehnapwt.com
 0.0.0.0 amuletgloom.com
 0.0.0.0 amunfezanttor.com
 0.0.0.0 ancotvpaxoz.com
@@ -14333,6 +14347,7 @@
 0.0.0.0 bannerwall.s3.appcnt.com
 0.0.0.0 bannery.cz
 0.0.0.0 bans.bride.ru
+0.0.0.0 barapolaran.shop
 0.0.0.0 baresi.xyz
 0.0.0.0 barometercorrodingunease.com
 0.0.0.0 basepush.com
@@ -14399,6 +14414,7 @@
 0.0.0.0 bitcoinsports.org
 0.0.0.0 bizrate.com
 0.0.0.0 bjads.bejbej.ca
+0.0.0.0 bk8sports.com
 0.0.0.0 blackbrake.com
 0.0.0.0 bladelikefreightwhat.com
 0.0.0.0 blahlivedsnowdrop.com
@@ -14473,6 +14489,7 @@
 0.0.0.0 brickandmobile.com
 0.0.0.0 bridesmaidspamimmortal.com
 0.0.0.0 bridgetrack.com
+0.0.0.0 brigadedelegatesandbox.com
 0.0.0.0 brightadnetwork.com
 0.0.0.0 brightcriticism.com
 0.0.0.0 brightinfo.com
@@ -14677,7 +14694,6 @@
 0.0.0.0 click.tecdo-ec.com
 0.0.0.0 click.tracksummer.com
 0.0.0.0 click2freemoney.com
-0.0.0.0 clickadu.com
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickblitzo.com
@@ -14731,6 +14747,7 @@
 0.0.0.0 cmdpeufwwou.com
 0.0.0.0 cml.sad.ukrd.com
 0.0.0.0 cn846.com
+0.0.0.0 cnawrtrimk.com
 0.0.0.0 cnomy.com
 0.0.0.0 cobalten.com
 0.0.0.0 codedexchange.com
@@ -14782,6 +14799,7 @@
 0.0.0.0 cornrowbygone.shop
 0.0.0.0 correctdilutetrophy.com
 0.0.0.0 correlationcocktailinevitably.com
+0.0.0.0 corypha.veluredcorveenikko.cfd
 0.0.0.0 count.rin.ru
 0.0.0.0 count.west263.com
 0.0.0.0 counted.com
@@ -14865,6 +14883,7 @@
 0.0.0.0 cwoamjkma.com
 0.0.0.0 cwqljsecvr.com
 0.0.0.0 cyberbounty.com
+0.0.0.0 czgxwtlqklaju.site
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d12czbu0tltgqq.cloudfront.net
 0.0.0.0 d13k7prax1yi04.cloudfront.net
@@ -14936,6 +14955,8 @@
 0.0.0.0 dataxu.com
 0.0.0.0 datemefast.com
 0.0.0.0 datingprudethimble.com
+0.0.0.0 db.peshitomohr.qpon
+0.0.0.0 dbancamd.com
 0.0.0.0 dbr9gtaf8.com
 0.0.0.0 dbtarget.com
 0.0.0.0 dc-storm.com
@@ -15292,6 +15313,7 @@
 0.0.0.0 frivolousdrinkloss.com
 0.0.0.0 frs2c.com
 0.0.0.0 fsxmidyo.com
+0.0.0.0 ft.budtawney.com
 0.0.0.0 ftte.xyz
 0.0.0.0 functionalcrown.com
 0.0.0.0 functionssubqueries.com
@@ -15421,6 +15443,7 @@
 0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
 0.0.0.0 gtsmobi.com
+0.0.0.0 gtuzanksz.com
 0.0.0.0 guardedschool.com
 0.0.0.0 guchihyfa.pro
 0.0.0.0 guidecent.com
@@ -15571,6 +15594,7 @@
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 ilyf4amifh.com
+0.0.0.0 im.bailbezetta.cfd
 0.0.0.0 imagecash.net
 0.0.0.0 images.footballaddicts.se
 0.0.0.0 img-ad-nex.com
@@ -15600,6 +15624,7 @@
 0.0.0.0 inetlog.ru
 0.0.0.0 infamousfine.com
 0.0.0.0 infinite-ads.com
+0.0.0.0 infinity13.com
 0.0.0.0 infinityads.com
 0.0.0.0 influencedsuited.com
 0.0.0.0 infopicked.com
@@ -15668,11 +15693,13 @@
 0.0.0.0 j93557g.com
 0.0.0.0 ja2n2u30a6rgyd.com
 0.0.0.0 jaavnacsdw.com
+0.0.0.0 jabobdfufaqt.in
 0.0.0.0 jackadamo.com
 0.0.0.0 jaduda.com
 0.0.0.0 jailbulb.com
 0.0.0.0 jailorscoman.cfd
 0.0.0.0 jaiporukodaisa.com
+0.0.0.0 jaixajhu.com
 0.0.0.0 janitorprecisiontrio.com
 0.0.0.0 jappkummodah.in
 0.0.0.0 jarvispopsu.com
@@ -15837,6 +15864,7 @@
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lizzworld.site
 0.0.0.0 llink.site
+0.0.0.0 llvpn.com
 0.0.0.0 lmajm.lbylqerzmzlzq.top
 0.0.0.0 loading321.com
 0.0.0.0 loazuptaice.net
@@ -15979,6 +16007,7 @@
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrilo.com
+0.0.0.0 mfmalergyol.com
 0.0.0.0 mgyccfrshz.com
 0.0.0.0 miarroba.com
 0.0.0.0 miayarus.com
@@ -16076,6 +16105,7 @@
 0.0.0.0 mxptint.net
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 my.toruftuiov.com
 0.0.0.0 myad.mitrade.com
 0.0.0.0 myadsystem.com
 0.0.0.0 myaffiliateprogram.com
@@ -16122,6 +16152,7 @@
 0.0.0.0 ndparking.com
 0.0.0.0 ndroip.com
 0.0.0.0 ndtnc.abimimojo2.com
+0.0.0.0 nectsideaments.com
 0.0.0.0 nedstatbasic.net
 0.0.0.0 needyneedle.com
 0.0.0.0 nefdcnmvbt.com
@@ -16163,6 +16194,7 @@
 0.0.0.0 nexac.com
 0.0.0.0 nextmillmedia.com
 0.0.0.0 ng3.ads.warnerbros.com
+0.0.0.0 nibaz.com
 0.0.0.0 nicksstevmark.com
 0.0.0.0 nightmareirene.com
 0.0.0.0 nimbusgrovelodge.com
@@ -16194,6 +16226,7 @@
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nrs6ffl9w.com
 0.0.0.0 nsfwadds.com
+0.0.0.0 nsfwinkuhzeo.com
 0.0.0.0 ntvk1.ru
 0.0.0.0 ntvpforever.com
 0.0.0.0 ntvpinp.com
@@ -16239,6 +16272,7 @@
 0.0.0.0 odnvkuocmow.in
 0.0.0.0 odqdkealzr.com
 0.0.0.0 oewa.at
+0.0.0.0 ofcgcdcvk.com
 0.0.0.0 offclaydolon.com
 0.0.0.0 offerforge.com
 0.0.0.0 offerfusion.com
@@ -16458,6 +16492,7 @@
 0.0.0.0 phumagrose.com
 0.0.0.0 phunware.com
 0.0.0.0 physicalblueberry.com
+0.0.0.0 pi.bogtrotdowning.shop
 0.0.0.0 pierisrapgae.com
 0.0.0.0 pietexture.com
 0.0.0.0 pigtre.com
@@ -16654,6 +16689,7 @@
 0.0.0.0 qnp16tstw.com
 0.0.0.0 qnsr.com
 0.0.0.0 qo.errorrespan.com
+0.0.0.0 qpbiyued.com
 0.0.0.0 qpizuvmta.com
 0.0.0.0 qquhzi4f3.com
 0.0.0.0 qs251.com
@@ -16726,6 +16762,7 @@
 0.0.0.0 record.mrwin.com
 0.0.0.0 recordedthereby.com
 0.0.0.0 recoverystabilizevarmint.com
+0.0.0.0 red-graybedevilother.com
 0.0.0.0 redebitapedom.com
 0.0.0.0 redirect2719.ws
 0.0.0.0 redirectingat.com
@@ -16808,6 +16845,7 @@
 0.0.0.0 rndskittytor.com
 0.0.0.0 rnofuxgaz.com
 0.0.0.0 roacheenazak.com
+0.0.0.0 roadster24.com
 0.0.0.0 roar.com
 0.0.0.0 rock.defybrick.com
 0.0.0.0 rocketfuel.com
@@ -16860,8 +16898,10 @@
 0.0.0.0 saggrowledetc.com
 0.0.0.0 saidairakas.com
 0.0.0.0 sailif.com
+0.0.0.0 sainwertapr.com
 0.0.0.0 saipsoan.net
 0.0.0.0 sancontr.com
+0.0.0.0 sanoslkut.in
 0.0.0.0 satisfactorymetalrub.com
 0.0.0.0 satisfycork.com
 0.0.0.0 sbx.pagesjaunes.fr
@@ -17430,6 +17470,7 @@
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unarmedlickpattern.com
 0.0.0.0 unclesnewspaper.com
+0.0.0.0 undesirablemountain.com
 0.0.0.0 unheadedsouptotal.com
 0.0.0.0 uninvitedenvious.com
 0.0.0.0 unkempt-hand.com
@@ -17560,6 +17601,7 @@
 0.0.0.0 vtwvtmsvpav.com
 0.0.0.0 vwahacrubri.com
 0.0.0.0 vww1.com
+0.0.0.0 w0wtrackex.com
 0.0.0.0 w3i.com
 0.0.0.0 w454n74qw.com
 0.0.0.0 wa.and.co.uk
@@ -17580,6 +17622,7 @@
 0.0.0.0 wbilvnmool.com
 0.0.0.0 wda.com
 0.0.0.0 wdads.sx.atl.publicus.com
+0.0.0.0 wdqhdqtlxu.com
 0.0.0.0 wearemiq.com
 0.0.0.0 weaveradrenaline.com
 0.0.0.0 web-stat.com
@@ -17666,11 +17709,13 @@
 0.0.0.0 wpush.org
 0.0.0.0 wr.amigojimbang.com
 0.0.0.0 wrapper.lemde.fr
+0.0.0.0 wrothenitent.cyou
 0.0.0.0 wt-eu02.net
 0.0.0.0 wtlive.com
 0.0.0.0 wucdrynukof.in
 0.0.0.0 wuzbhjpvsf.com
 0.0.0.0 wvhba6470p.com
+0.0.0.0 wwpvpbktgoets.space
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www.520click.com
 0.0.0.0 www.5advertise.com
@@ -17787,6 +17832,7 @@
 0.0.0.0 xtremeserve.xyz
 0.0.0.0 xtremetop100.com
 0.0.0.0 xtuohnfwia.in
+0.0.0.0 xubchynamm.in
 0.0.0.0 xxxcounter.com
 0.0.0.0 xy7elite.com
 0.0.0.0 xydbpbnmo.com
@@ -17868,6 +17914,7 @@
 0.0.0.0 zumrieth.com
 0.0.0.0 zunsoach.com
 0.0.0.0 zvetokr2hr8pcng09.com
+0.0.0.0 zwiweqftobuvd.space
 0.0.0.0 zwnoeqzsuz.com
 0.0.0.0 zxc.world
 0.0.0.0 2xclick.ru
