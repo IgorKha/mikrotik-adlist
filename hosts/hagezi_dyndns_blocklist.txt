@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.87
-! Last modified: 2026-06-14T07:49:38.702Z
+! Version: 1.0.16.92
+! Last modified: 2026-06-21T07:52:01.275Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -1139,6 +1139,7 @@
 0.0.0.0 peregrineair.com
 0.0.0.0 pgafan.net
 0.0.0.0 phenixs.org
+0.0.0.0 photo-cult.com
 0.0.0.0 photo-frame.com
 0.0.0.0 php-dev.net
 0.0.0.0 pics.mu
@@ -1158,6 +1159,7 @@
 0.0.0.0 port25.biz
 0.0.0.0 portfwd.com
 0.0.0.0 portmap.host
+0.0.0.0 portrelay.com
 0.0.0.0 possessed.us
 0.0.0.0 prettyweak.com
 0.0.0.0 priamaakcia.sk
@@ -1178,6 +1180,7 @@
 0.0.0.0 ptchat.net
 0.0.0.0 publicvm.com
 0.0.0.0 pudim.info
+0.0.0.0 punked.us
 0.0.0.0 qc.to
 0.0.0.0 qhigh.com
 0.0.0.0 qlbv.vn
@@ -1207,6 +1210,7 @@
 0.0.0.0 root64.de
 0.0.0.0 roth.ca
 0.0.0.0 route64.de
+0.0.0.0 routemehome.com
 0.0.0.0 roxa.org
 0.0.0.0 rpz.su
 0.0.0.0 rtam.net
@@ -1311,6 +1315,8 @@
 0.0.0.0 space-to-rent.com
 0.0.0.0 spacetechnology.net
 0.0.0.0 spdns.de
+0.0.0.0 spdns.eu
+0.0.0.0 spdns.org
 0.0.0.0 spdyn.de
 0.0.0.0 spectrumnet.bg
 0.0.0.0 spelar.se
@@ -1347,6 +1353,7 @@
 0.0.0.0 synology-diskstation.de
 0.0.0.0 synology-ds.de
 0.0.0.0 synoserver.com
+0.0.0.0 syntereo.com
 0.0.0.0 sysadminetworks.com
 0.0.0.0 system-ns.com
 0.0.0.0 systes.net
@@ -1378,6 +1385,7 @@
 0.0.0.0 thingsnewandused.com
 0.0.0.0 thruhere.net
 0.0.0.0 tinyrealm.com
+0.0.0.0 tobuy.us
 0.0.0.0 toh.info
 0.0.0.0 topdns.com
 0.0.0.0 topsddns.net
@@ -1427,6 +1435,7 @@
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
 0.0.0.0 viamisoftware.com
+0.0.0.0 vicinanza.org
 0.0.0.0 vicp.cc
 0.0.0.0 vicp.net
 0.0.0.0 vietnamddns.com
@@ -1447,6 +1456,7 @@
 0.0.0.0 wakingmoon.com
 0.0.0.0 wan64.de
 0.0.0.0 wanip.ch
+0.0.0.0 warp9computers.com
 0.0.0.0 webhop.biz
 0.0.0.0 webhop.info
 0.0.0.0 webhop.me
@@ -1475,6 +1485,7 @@
 0.0.0.0 writesthisblog.com
 0.0.0.0 www1.biz
 0.0.0.0 wwwhost.biz
+0.0.0.0 wwwhost.us
 0.0.0.0 x24hr.com
 0.0.0.0 x443.pw
 0.0.0.0 xddns.de

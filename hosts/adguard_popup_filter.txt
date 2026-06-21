@@ -1,7 +1,10 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.24
-! Last modified: 2026-06-14T07:49:15.936Z
+! Version: 1.0.18.27
+! Last modified: 2026-06-21T07:51:37.499Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 profitablecpmratenetwork.com
+0.0.0.0 dskcwz.com
+0.0.0.0 clk.ourdream.ai
 0.0.0.0 twimg.cash
 0.0.0.0 uproestup.sbs
 0.0.0.0 lustygg.com
@@ -95,6 +98,7 @@
 0.0.0.0 fdolspwa.my
 0.0.0.0 predictivadnetwork.com
 0.0.0.0 tracking.pretrackings.com
+0.0.0.0 eyewondermedia.com
 0.0.0.0 my.toruftuiov.com
 0.0.0.0 esvpnjdntgr.com
 0.0.0.0 countabledawdlerunaudited.com
@@ -329,7 +333,6 @@
 0.0.0.0 clickblitzo.com
 0.0.0.0 clickmintads.site
 0.0.0.0 clickpunch.icu
-0.0.0.0 clicksyncflow.com
 0.0.0.0 clixwells.com
 0.0.0.0 clladss.com
 0.0.0.0 cloudvideosa.com
@@ -390,7 +393,6 @@
 0.0.0.0 expdirclk.com
 0.0.0.0 extsoft.info
 0.0.0.0 exxtended-access.com
-0.0.0.0 eyewondermedia.com
 0.0.0.0 fantabro.com
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
@@ -546,13 +548,11 @@
 0.0.0.0 n91hg.com
 0.0.0.0 nan0cns.com
 0.0.0.0 navigatingnautical.xyz
-0.0.0.0 nbo-protect.pro
 0.0.0.0 nersionitsumpute.com
 0.0.0.0 newmytrp.com
 0.0.0.0 next-lust.cfd
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 nightbesties.com
-0.0.0.0 ninancukankin.org
 0.0.0.0 nithyshipsi.com
 0.0.0.0 noavoahevugrib.com
 0.0.0.0 noohapou.com
@@ -647,7 +647,6 @@
 0.0.0.0 rcdn-web.com
 0.0.0.0 realsh.xyz
 0.0.0.0 realtime-bid.com
-0.0.0.0 recesstransport.icu
 0.0.0.0 reebr.com
 0.0.0.0 rel-s.com
 0.0.0.0 resentreaccotia.com
@@ -739,7 +738,6 @@
 0.0.0.0 tr-bouncer.com
 0.0.0.0 track.afrsportsbetting.com
 0.0.0.0 track.bwclk.com
-0.0.0.0 trackadspresent.com
 0.0.0.0 tracker-2.com
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracking-aws-5.com
@@ -817,7 +815,6 @@
 0.0.0.0 zavirand.com
 0.0.0.0 zk1w.com
 0.0.0.0 zrlqm.com
-0.0.0.0 65035033.xyz
 0.0.0.0 ea6c0ac4.xyz
 0.0.0.0 img-load.com
 0.0.0.0 1lzz.com

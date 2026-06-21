@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.18.55
-! Last modified: 2026-06-14T07:49:14.192Z
+! Version: 1.0.18.68
+! Last modified: 2026-06-21T07:51:35.777Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.55
+! Version: 1.0.18.68
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-06-13T23:30:48.077Z
+! Last modified: 2026-06-20T20:35:42.706Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1531,6 +1531,7 @@
 0.0.0.0 brunga.at	# Facebook phishing attempt
 0.0.0.0 bsugars.sa.com
 0.0.0.0 bt.webwise.org
+0.0.0.0 build.waikatocycleways.info
 0.0.0.0 bulletwhiskey.sa.com
 0.0.0.0 bundesanzeiger.fr
 0.0.0.0 burley.fr
@@ -1664,6 +1665,7 @@
 0.0.0.0 coldcertainchannel.com
 0.0.0.0 coldpacific.com
 0.0.0.0 colisismo.fr
+0.0.0.0 collagenforwellnessandbeauty.com
 0.0.0.0 collline.fr
 0.0.0.0 coloradosoccerbuddies.acemlna.com
 0.0.0.0 colssimo.fr
@@ -1901,6 +1903,7 @@
 0.0.0.0 foiegras-groliere.fr
 0.0.0.0 foreverprintco.com
 0.0.0.0 formumactif.fr
+0.0.0.0 fortress.anhcs.info
 0.0.0.0 forumdread.com
 0.0.0.0 forurm-candaulisme.fr
 0.0.0.0 fourtuneo.fr
@@ -2335,6 +2338,7 @@
 0.0.0.0 mandialrelay.fr
 0.0.0.0 mappyt.fr
 0.0.0.0 marathondulacduder.fr
+0.0.0.0 marble.travelhealthreport.info
 0.0.0.0 marie-gerardmer.fr
 0.0.0.0 marigo.redbacksburger.info
 0.0.0.0 marinescence.fr
@@ -2433,6 +2437,7 @@
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 msssante.fr
 0.0.0.0 msx.lumena.cfd
+0.0.0.0 mughal.sobiratel.info
 0.0.0.0 mundilite.fr
 0.0.0.0 murcia-ban.es
 0.0.0.0 musculaation.fr
@@ -2540,6 +2545,7 @@
 0.0.0.0 orange.npix.net
 0.0.0.0 orangemali.fr
 0.0.0.0 orangf.fr
+0.0.0.0 orbit.benchmarx.info
 0.0.0.0 ordersildenafil.com
 0.0.0.0 ordremek.fr
 0.0.0.0 orientationpour-tous.fr
@@ -2727,6 +2733,7 @@
 0.0.0.0 rentacars.fr
 0.0.0.0 rentamotorcycle.fr
 0.0.0.0 resetcibc-logincibc.com
+0.0.0.0 residence.bunkerhilltradingco.info
 0.0.0.0 reskins.fr
 0.0.0.0 restriia.shop
 0.0.0.0 resulabi.fr
@@ -3177,6 +3184,7 @@
 0.0.0.0 www.amintart.com
 0.0.0.0 www.amomales.com
 0.0.0.0 www.anatol.com
+0.0.0.0 www.anyik.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.apkfuuny.com
 0.0.0.0 www.aqualakefy.name
@@ -3333,6 +3341,7 @@
 0.0.0.0 www.dictadosonline.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.diffuselec.com
+0.0.0.0 www.digimininggame.com
 0.0.0.0 www.digisubmission.com
 0.0.0.0 www.digitalbigger.garden
 0.0.0.0 www.digitalcoachpro.name
@@ -3411,6 +3420,7 @@
 0.0.0.0 www.futuredecide.com
 0.0.0.0 www.futureowned.com
 0.0.0.0 www.gadgetbonanzamarket.com
+0.0.0.0 www.gaicodon.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gamelthae.com
 0.0.0.0 www.gameltjae.com
@@ -3418,6 +3428,7 @@
 0.0.0.0 www.gameqnt.com
 0.0.0.0 www.gamersigns.com
 0.0.0.0 www.gandiatv.com
+0.0.0.0 www.gangtaylor.property
 0.0.0.0 www.gavelandcap.com
 0.0.0.0 www.gekkstoyou.com
 0.0.0.0 www.gekorn.com
@@ -3492,6 +3503,7 @@
 0.0.0.0 www.invitegame.com
 0.0.0.0 www.iovenesweb.com
 0.0.0.0 www.irony.world
+0.0.0.0 www.iwantclothing.com
 0.0.0.0 www.jackpotcasinojeux.com
 0.0.0.0 www.janushnderson.com
 0.0.0.0 www.jerseyoffers.com
@@ -3548,9 +3560,12 @@
 0.0.0.0 www.logoradar.com
 0.0.0.0 www.logoswitch.com
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
+0.0.0.0 www.lookimpression.beer
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.loveromantic.com
+0.0.0.0 www.lowestincreases.bond
 0.0.0.0 www.lunargrovefx.com
+0.0.0.0 www.luxeforher.com
 0.0.0.0 www.madnesscase.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.maiecaffe.com
@@ -3564,6 +3579,7 @@
 0.0.0.0 www.matifi.com
 0.0.0.0 www.meantvictim.lat
 0.0.0.0 www.mediamindpolska.com
+0.0.0.0 www.meeseger.com
 0.0.0.0 www.megapurchase.com
 0.0.0.0 www.memorieson.com
 0.0.0.0 www.mexdrugs.com
@@ -3574,6 +3590,7 @@
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
 0.0.0.0 www.miocardite.com
+0.0.0.0 www.mixsorts.garden
 0.0.0.0 www.miziko.com
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.moncasinoonline.com
@@ -3721,6 +3738,7 @@
 0.0.0.0 www.realdrjudy.com
 0.0.0.0 www.reandrogames.com
 0.0.0.0 www.recallblog.com
+0.0.0.0 www.regulationprofit.bond
 0.0.0.0 www.rekonsise.com
 0.0.0.0 www.relaxingcafe.com
 0.0.0.0 www.reliaslearrning.com
@@ -3749,6 +3767,7 @@
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
+0.0.0.0 www.seedschaos.garden
 0.0.0.0 www.sellpetrol.com
 0.0.0.0 www.sellrubber.com
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
@@ -3773,11 +3792,13 @@
 0.0.0.0 www.snowhandball.com
 0.0.0.0 www.snugbirdjq.blog
 0.0.0.0 www.snurrlyspin.com
+0.0.0.0 www.soctoni.com
 0.0.0.0 www.softcarp.com
 0.0.0.0 www.softmillon.com
 0.0.0.0 www.softpebble.com
 0.0.0.0 www.softwarebeginner.com
 0.0.0.0 www.sohailpc.com
+0.0.0.0 www.sonparks.skin
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.spiritentertainment.homes
 0.0.0.0 www.spojrzenia.com
@@ -3823,9 +3844,11 @@
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thefriday.net
+0.0.0.0 www.thelaferianews.com
 0.0.0.0 www.themesets.com
 0.0.0.0 www.theprimeindia.com
 0.0.0.0 www.thesecuredtrader.com
+0.0.0.0 www.theskinnyschool.com
 0.0.0.0 www.thisplanet.net
 0.0.0.0 www.thunderbird.es
 0.0.0.0 www.timelyworks.com
@@ -3840,6 +3863,7 @@
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
+0.0.0.0 www.ttcgg.com
 0.0.0.0 www.tuningcentar.com
 0.0.0.0 www.tvccpt.com
 0.0.0.0 www.tvrails.com
@@ -3885,6 +3909,7 @@
 0.0.0.0 www.wewillrocknow.com
 0.0.0.0 www.wezelco.com
 0.0.0.0 www.wgmarketingdigital.com
+0.0.0.0 www.whatsappvido.com
 0.0.0.0 www.whiskeyallys.com
 0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
@@ -3897,12 +3922,15 @@
 0.0.0.0 www.winlottofrequently.com
 0.0.0.0 www.wiseknows.bond
 0.0.0.0 www.wjldfm.com
+0.0.0.0 www.wontake.skin
 0.0.0.0 www.woodycrystaljo.name
 0.0.0.0 www.workschat.com
 0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.wwwhwgo.com
+0.0.0.0 www.wwwmyboostnow.com
 0.0.0.0 www.wwwpaipal.com
+0.0.0.0 www.wwwtsg.com
 0.0.0.0 www.xandermaker.com
 0.0.0.0 www.xdesimbi.com
 0.0.0.0 www.xtremetechcr.com

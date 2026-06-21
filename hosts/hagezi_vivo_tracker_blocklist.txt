@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
-! Version: 1.0.0.33
-! Last modified: 2026-06-14T07:49:23.667Z
+! Version: 1.0.0.34
+! Last modified: 2026-06-21T07:51:45.234Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -81,6 +81,7 @@
 0.0.0.0 co-vcode-od.vivoglobal.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
+0.0.0.0 eu-album-api.vivoglobal.com
 0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -193,6 +194,7 @@
 0.0.0.0 tr-album-api.vivoglobal.com
 0.0.0.0 tr-cota.vivoglobal.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
+0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-gdpr-vgc-datacenter.vivoglobal.com
 0.0.0.0 tr-onrt-stsdk.vivoglobal.com
 0.0.0.0 tr-ort-stsdk.vivoglobal.com
