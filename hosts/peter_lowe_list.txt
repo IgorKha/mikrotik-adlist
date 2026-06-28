@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.29
-! Last modified: 2026-06-21T07:51:32.529Z
+! Version: 1.0.17.36
+! Last modified: 2026-06-28T09:22:28.313Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -270,6 +270,7 @@
 0.0.0.0 admarvel.com
 0.0.0.0 admaster.com.cn
 0.0.0.0 admatchly.com
+0.0.0.0 adme2.click
 0.0.0.0 admedia.com
 0.0.0.0 admeld.com
 0.0.0.0 admeridianads.com
@@ -510,7 +511,6 @@
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
-0.0.0.0 ads.pof.com
 0.0.0.0 ads.printscr.com
 0.0.0.0 ads.prisacom.com
 0.0.0.0 ads.prod.webservices.mozgcp.net
@@ -965,7 +965,6 @@
 0.0.0.0 bagsurprise.com
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner.ambercoastcasino.com
-0.0.0.0 banner.buempliz-online.ch
 0.0.0.0 banner.cotedazurpalace.com
 0.0.0.0 banner.easyspace.com
 0.0.0.0 banner.elisa.net
@@ -992,7 +991,6 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.czi.cz
@@ -1181,6 +1179,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdn.segment.com
+0.0.0.0 cdn.smalk.ai
 0.0.0.0 cdnondemand.org
 0.0.0.0 cedato.com
 0.0.0.0 celtra.com
@@ -1277,7 +1276,6 @@
 0.0.0.0 clicks.njuskalo.hr
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clicksinfo.thefork.co.uk
-0.0.0.0 clicktag.de
 0.0.0.0 clickthruserver.com
 0.0.0.0 clickthrutraffic.com
 0.0.0.0 clicktrack.pubmatic.com
@@ -1312,6 +1310,7 @@
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cointraffic.io
+0.0.0.0 coldbalance.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 colonize.com
@@ -1354,6 +1353,7 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coremetrics.com
+0.0.0.0 correctedcode.com
 0.0.0.0 cosmosjackson.com
 0.0.0.0 count.rin.ru
 0.0.0.0 count.west263.com
@@ -1797,7 +1797,6 @@
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 heap.com
-0.0.0.0 heimi-lwx.com
 0.0.0.0 hellobar.com
 0.0.0.0 helpcollar.com
 0.0.0.0 hentaicounter.com
@@ -1932,7 +1931,6 @@
 0.0.0.0 interreklame.de
 0.0.0.0 ioam.de
 0.0.0.0 ip.ro
-0.0.0.0 ip193.cn
 0.0.0.0 iperceptions.com
 0.0.0.0 ipredictive.com
 0.0.0.0 ipstack.com
@@ -1941,6 +1939,7 @@
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 islandwebhelp.com
 0.0.0.0 itop.cz
+0.0.0.0 itrackly.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 iyfbodn.com
@@ -2430,6 +2429,7 @@
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 ourdreamstaticpages.pages.dev
 0.0.0.0 outbrain.com
+0.0.0.0 outerwords.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overkick.com
 0.0.0.0 overture.com
@@ -2696,6 +2696,7 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 rememberdiscussion.com
+0.0.0.0 remox.com
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-partners.appmetrica.yandex.net
@@ -3204,6 +3205,7 @@
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.mmdlv.it
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 tracking.cybertips.uk
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.ibxlink.com
@@ -3273,6 +3275,7 @@
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trustx.org
+0.0.0.0 tsa-f.webex.com
 0.0.0.0 tsa.webex.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndicate.net

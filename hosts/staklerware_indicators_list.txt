@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
-! Version: 1.0.14.62
-! Last modified: 2026-06-21T07:51:51.109Z
+! Version: 1.0.14.64
+! Last modified: 2026-06-28T09:22:47.909Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 12d60.appspot.com
 0.0.0.0 12d60.firebaseio.com
@@ -403,6 +403,7 @@
 0.0.0.0 mlite-app.thd.cc
 0.0.0.0 mlite-socket.thd.cc
 0.0.0.0 mliteapp.alter757.info
+0.0.0.0 mob-app-gw.spynger.net
 0.0.0.0 mob.eurotrans.kz
 0.0.0.0 mobi22.com
 0.0.0.0 mobiispy.com
@@ -748,6 +749,9 @@
 0.0.0.0 sse.chyldmonitor.com
 0.0.0.0 staging-all-tracker.appspot.com
 0.0.0.0 staging.smstracker.com
+0.0.0.0 strapi.msafely.com
+0.0.0.0 strapi.spyphone.cc
+0.0.0.0 strapi.spyx.com
 0.0.0.0 studio11-7e288.firebaseio.com
 0.0.0.0 support.mtoolapp.biz
 0.0.0.0 support.phoneparental.com
@@ -811,6 +815,7 @@
 0.0.0.0 ttspy.com
 0.0.0.0 ttspy.net
 0.0.0.0 ttspy.top
+0.0.0.0 tun-cos-1258344701.file.myqcloud.com
 0.0.0.0 u1.panspy.com
 0.0.0.0 ua.brunoespiao.com.br
 0.0.0.0 ua.evaspy.com

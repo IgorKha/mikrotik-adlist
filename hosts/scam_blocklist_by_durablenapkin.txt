@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.21.10
-! Last modified: 2026-06-21T07:51:49.590Z
+! Version: 1.0.21.18
+! Last modified: 2026-06-28T09:22:46.105Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -33,6 +33,7 @@
 0.0.0.0 airupnederlands.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
+0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
@@ -51,6 +52,7 @@
 0.0.0.0 arnoldgloverruss58.myshopify.com
 0.0.0.0 arthoodie.com
 0.0.0.0 arvetellefsen.no
+0.0.0.0 assassinfitness.com
 0.0.0.0 atlaspvs.com
 0.0.0.0 atoins.com
 0.0.0.0 atrendsz.com
@@ -246,6 +248,7 @@
 0.0.0.0 familybestgifts.com
 0.0.0.0 familygiftlove.myshopify.com
 0.0.0.0 familygiftville.com
+0.0.0.0 familyshark.com
 0.0.0.0 familystore.com
 0.0.0.0 fapst.com
 0.0.0.0 faunugraipt.com
@@ -264,7 +267,6 @@
 0.0.0.0 field-garnet-duckling.glitch.me
 0.0.0.0 filedenzu.com
 0.0.0.0 filexstorage.site
-0.0.0.0 fili-cc.tv
 0.0.0.0 filman-hd.cc
 0.0.0.0 filmersi.pl
 0.0.0.0 filmhit.pl
@@ -287,6 +289,7 @@
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 food-network.fwh.is
 0.0.0.0 freebitcoin.pages.dev
+0.0.0.0 freedom-5g.com
 0.0.0.0 friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 frostgoddess.com
@@ -352,9 +355,9 @@
 0.0.0.0 hotmod.eu
 0.0.0.0 houselar.com.br
 0.0.0.0 hubfiles.ws
-0.0.0.0 hudson-bay.com
 0.0.0.0 hushlove.com
 0.0.0.0 hyndtren25.pages.dev
+0.0.0.0 i-grade.online
 0.0.0.0 i-visaindia.com
 0.0.0.0 i.fundatingquest.fun
 0.0.0.0 iagadvanced.com
@@ -591,7 +594,6 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 officialkmspico.com
 0.0.0.0 oflike.com
-0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
@@ -606,9 +608,7 @@
 0.0.0.0 onrunningshop.com
 0.0.0.0 ontario-energy.com
 0.0.0.0 orderquilt.com
-0.0.0.0 outel.abmarketworks.com
 0.0.0.0 outlet-alfresco.com
-0.0.0.0 owlala.com
 0.0.0.0 own3d.tv
 0.0.0.0 p.arty2night.com
 0.0.0.0 p8ydfra.lvditoys.com
@@ -705,6 +705,7 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
 0.0.0.0 skinszone.net
+0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 slimsyrups.ca
@@ -764,6 +765,7 @@
 0.0.0.0 tamed-exotics.com
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
@@ -845,11 +847,11 @@
 0.0.0.0 validsteamkeys.com
 0.0.0.0 vanced-official.com
 0.0.0.0 vanced.to
-0.0.0.0 vencord.app
 0.0.0.0 venezuelabaseballjerseys.com
 0.0.0.0 verfun.com
 0.0.0.0 vessisdeutschland.com
 0.0.0.0 vider-cda.online
+0.0.0.0 vider-pl.pl
 0.0.0.0 vider.com.pl
 0.0.0.0 vider.info.pl
 0.0.0.0 vider.online
