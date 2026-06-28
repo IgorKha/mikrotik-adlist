@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.92
-! Last modified: 2026-06-21T07:52:01.275Z
+! Version: 1.0.16.93
+! Last modified: 2026-06-28T09:22:57.504Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -1511,6 +1511,7 @@
 0.0.0.0 zaibar.ro
 0.0.0.0 zanity.net
 0.0.0.0 zapto.org
+0.0.0.0 zeitr.ch
 0.0.0.0 zelslonik.info
 0.0.0.0 zneth.com
 0.0.0.0 zoneedit.com

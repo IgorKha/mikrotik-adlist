@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.27
-! Last modified: 2026-06-21T07:51:37.499Z
+! Version: 1.0.18.31
+! Last modified: 2026-06-28T09:22:33.462Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 profitablecpmratenetwork.com
 0.0.0.0 dskcwz.com
@@ -372,7 +372,6 @@
 0.0.0.0 dithodackee.com
 0.0.0.0 dlrectdates.com
 0.0.0.0 domainparkingmanager.it
-0.0.0.0 donkeyflower.xyz
 0.0.0.0 dpuppers.com
 0.0.0.0 dreamteamaffiliates.com
 0.0.0.0 drsmediaexchange.com
@@ -396,7 +395,6 @@
 0.0.0.0 fantabro.com
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
-0.0.0.0 fhvfd.com
 0.0.0.0 finanvideos.com
 0.0.0.0 flyingadvert.com
 0.0.0.0 foerpo.com
@@ -473,7 +471,6 @@
 0.0.0.0 jegiopad.top
 0.0.0.0 jeroud.com
 0.0.0.0 jiuwert.online
-0.0.0.0 jnbhi.com
 0.0.0.0 js-check.com
 0.0.0.0 junkyadexchange.com
 0.0.0.0 jwalkin.com
@@ -541,7 +538,6 @@
 0.0.0.0 momotrk.com
 0.0.0.0 moontrkr.com
 0.0.0.0 mosved.com
-0.0.0.0 movie-tv-free.com
 0.0.0.0 mylot.com
 0.0.0.0 mynutraresearch.com
 0.0.0.0 mytdsnet.com
@@ -890,6 +886,7 @@
 0.0.0.0 xxxjmp.com
 0.0.0.0 xxxmatch.com
 0.0.0.0 zononi.com
+0.0.0.0 pressms.ru
 0.0.0.0 sinehut.com
 0.0.0.0 paintejuke.com
 0.0.0.0 imaginarybad.com
@@ -986,6 +983,7 @@
 0.0.0.0 ergonomicparadeupstroke.com
 0.0.0.0 express-new.com
 0.0.0.0 familiarpyromaniasloping.com
+0.0.0.0 fhvfd.com
 0.0.0.0 finchoiluntainted.com
 0.0.0.0 firstclick.pro
 0.0.0.0 fkourazirop.shop
@@ -1011,6 +1009,7 @@
 0.0.0.0 islamiclyricallyvariable.com
 0.0.0.0 jetm-tech.net
 0.0.0.0 jewhouca.net
+0.0.0.0 jnbhi.com
 0.0.0.0 karissavip.com
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 lenzmx.com

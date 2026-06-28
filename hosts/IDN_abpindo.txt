@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
-! Version: 1.0.14.70
-! Last modified: 2026-06-21T07:51:46.931Z
+! Version: 1.0.14.72
+! Last modified: 2026-06-28T09:22:42.841Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 188affiliates.com
 0.0.0.0 accesstrade.co.id
@@ -75,6 +75,7 @@
 0.0.0.0 serbada.com
 0.0.0.0 shiokambing2.com
 0.0.0.0 sitti.co.id
+0.0.0.0 tadex.id
 0.0.0.0 teliad.com
 0.0.0.0 thapi.aedi.ai
 0.0.0.0 theclickers.net
@@ -99,6 +100,7 @@
 0.0.0.0 doathair.com
 0.0.0.0 edomz.com
 0.0.0.0 filebanner.com
+0.0.0.0 fj.fatsoeslandmil.com
 0.0.0.0 flexterkita.com
 0.0.0.0 fnasmpygwa.com
 0.0.0.0 gaslah.my.id
@@ -114,6 +116,7 @@
 0.0.0.0 shqbsdjatunl.com
 0.0.0.0 sumberiklan.com
 0.0.0.0 vkwaeo.com
+0.0.0.0 wk.locatiocorms.com
 0.0.0.0 yllix.com
 0.0.0.0 c-stat.eu
 0.0.0.0 moneyfree.co

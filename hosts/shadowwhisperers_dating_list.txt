@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.34
-! Last modified: 2026-06-21T07:51:44.906Z
+! Version: 1.0.15.38
+! Last modified: 2026-06-28T09:22:40.616Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -68,6 +68,7 @@
 0.0.0.0 amiouplus.com
 0.0.0.0 amirru.com
 0.0.0.0 amistarium.com
+0.0.0.0 amoredate.com
 0.0.0.0 amour.dk
 0.0.0.0 amourfactory.com
 0.0.0.0 amourland.com
@@ -171,6 +172,7 @@
 0.0.0.0 buzzarab.com
 0.0.0.0 californiaflirt.com
 0.0.0.0 campus.co.za
+0.0.0.0 caribsingles.com
 0.0.0.0 casual-date.com.ar
 0.0.0.0 casualdating4u.com
 0.0.0.0 casualdating69.com
@@ -321,13 +323,17 @@
 0.0.0.0 dating-guides.com
 0.0.0.0 datinghaven.com
 0.0.0.0 dating-in-california.com
+0.0.0.0 datinginqatar.com
 0.0.0.0 datinginterracialsingles.com
 0.0.0.0 dating-italy.com
 0.0.0.0 dating-jedi.com
+0.0.0.0 datinglargewomen.com
+0.0.0.0 dating.lekgay.no
 0.0.0.0 datingline.co.za
 0.0.0.0 datingme.org
 0.0.0.0 datingoman.com
 0.0.0.0 datingonline.com
+0.0.0.0 datingplanetnetwork.com
 0.0.0.0 datingplanet.org
 0.0.0.0 datingpro.com
 0.0.0.0 datingrichgirls.com
@@ -463,6 +469,7 @@
 0.0.0.0 divorcedpeoplemeet.com
 0.0.0.0 divorcedsingles.club
 0.0.0.0 dmpet.imgix.net
+0.0.0.0 dnaromance.com
 0.0.0.0 dogdatingplanet.com
 0.0.0.0 dogging.com.au
 0.0.0.0 domerencontre.com
@@ -487,6 +494,7 @@
 0.0.0.0 elitesingles.co.za
 0.0.0.0 elovedates.com
 0.0.0.0 encount.com
+0.0.0.0 encounters.uk
 0.0.0.0 encuentroadulto.es
 0.0.0.0 encuentroadulto.net
 0.0.0.0 encuentrosparagays.com
@@ -620,10 +628,12 @@
 0.0.0.0 ima-dating.com
 0.0.0.0 images.prod.boo.dating
 0.0.0.0 incontramilf.com
+0.0.0.0 incontriadult.communityincontri.com
 0.0.0.0 incontri-adulti.it
 0.0.0.0 incontri.biz
 0.0.0.0 incontricasual.com
 0.0.0.0 incontricasual.net
+0.0.0.0 incontricatanzaro.net
 0.0.0.0 incontrilatex.it
 0.0.0.0 incontriromantici.it
 0.0.0.0 incontrisugardaddy.it
@@ -1063,6 +1073,7 @@
 0.0.0.0 roastdating.com
 0.0.0.0 rollosfaciles.com
 0.0.0.0 romancedubai.com
+0.0.0.0 romancelinker.com
 0.0.0.0 romancium.com
 0.0.0.0 romanticrelay.com
 0.0.0.0 ropebondagemeetups.com
@@ -1226,6 +1237,7 @@
 0.0.0.0 thunderboltcity.com
 0.0.0.0 tiilt.fr
 0.0.0.0 tinder.com
+0.0.0.0 tinder.co.nz
 0.0.0.0 tinderoplus.com
 0.0.0.0 tinderphotos-d1-ue1.s3.amazonaws.com
 0.0.0.0 tinderphotos.s3.amazonaws.com
@@ -1283,6 +1295,7 @@
 0.0.0.0 violetdates.com
 0.0.0.0 virginiaonlinepersonals.com
 0.0.0.0 virtumatch.com
+0.0.0.0 voksenkontakt.com
 0.0.0.0 volosdate.com
 0.0.0.0 wantubad.com
 0.0.0.0 waplog.com
