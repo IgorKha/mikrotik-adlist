@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.3.52
-! Last modified: 2026-06-28T09:22:34.078Z
+! Version: 1.0.3.55
+! Last modified: 2026-07-05T07:15:57.288Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -31,6 +31,7 @@
 0.0.0.0 11antsanalytics.com
 0.0.0.0 11ants.com
 0.0.0.0 11b6n4ty2x3.taxliencode.com
+0.0.0.0 11ctch.com
 0.0.0.0 11d3b762.b-cdn.net
 0.0.0.0 1201588661.platinum.com
 0.0.0.0 1218655806.creamyfabrics.com
@@ -19522,10 +19523,12 @@
 0.0.0.0 bxbtbf.msccruises.no
 0.0.0.0 bx.eiyanlens.com
 0.0.0.0 bxnjdj.spinneys.com
+0.0.0.0 bxtag.com
 0.0.0.0 by4b2trk.com
 0.0.0.0 bydata.com
 0.0.0.0 byerley.ch
 0.0.0.0 bymtrackinglive.azurewebsites.net
+0.0.0.0 byoviral.com
 0.0.0.0 bypassone.com
 0.0.0.0 bysgp10.com
 0.0.0.0 bysgp13.com
@@ -19751,6 +19754,7 @@
 0.0.0.0 capi.aspiresmiles.co.uk
 0.0.0.0 capi.atrium-kirchenau.ch
 0.0.0.0 capi.autocoach.nl
+0.0.0.0 capi-automation.s3.us-east-2.amazonaws.com
 0.0.0.0 capi.autosender.shop
 0.0.0.0 capi.babycarebangladesh.com
 0.0.0.0 capi.babycentricbd.store
@@ -24609,6 +24613,7 @@
 0.0.0.0 d2u9nuq84jlbj2.cloudfront.net
 0.0.0.0 d2uglmb8pm5fx2.cloudfront.net
 0.0.0.0 d2uhnetoehh304.cloudfront.net
+0.0.0.0 d2uum8dec56mmi.cloudfront.net
 0.0.0.0 d2v1eccllptgg1.cloudfront.net
 0.0.0.0 d2vm9nxdt27gdz.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
@@ -29230,6 +29235,7 @@
 0.0.0.0 d.palplast.de
 0.0.0.0 d.parkett-schliff.de
 0.0.0.0 d.patogupirkti.lt
+0.0.0.0 d.paypal.com
 0.0.0.0 dp.barclaycardus.com
 0.0.0.0 dp.barclaysus.com
 0.0.0.0 d.p.bareminerals.com
@@ -33580,6 +33586,7 @@
 0.0.0.0 g.grupos.passageirodeprimeira.com
 0.0.0.0 ggsst.gravity-global.com
 0.0.0.0 ggveg.creatinegummies.com
+0.0.0.0 gg.vevor.com
 0.0.0.0 ggvjk.beginhealth.com
 0.0.0.0 g.gwpro.io
 0.0.0.0 ggyaxis.com
@@ -45732,6 +45739,7 @@
 0.0.0.0 m-4.eu
 0.0.0.0 m4zoxtrcea1k.controlconceptsusa.com
 0.0.0.0 m5gfm7trk.com
+0.0.0.0 m6-211026f8a25b42c08fc190458268b30e.ecs.us-east-2.on.aws
 0.0.0.0 m6d.com
 0.0.0.0 m6jklqw4as.com
 0.0.0.0 m6r.eu
@@ -72677,6 +72685,7 @@
 0.0.0.0 r.tevasamorir.co
 0.0.0.0 rtf-40-netred.top
 0.0.0.0 rtg2trk.com
+0.0.0.0 rtgs.aimroas.com
 0.0.0.0 rtg.wewomedia.com
 0.0.0.0 r.thailandmail.aptinet.com
 0.0.0.0 rtlog.byteoversea.com
@@ -78582,6 +78591,7 @@
 0.0.0.0 sgtm.fix-pv.com
 0.0.0.0 sgtm.fixshop.at
 0.0.0.0 sgtm.fix-shop.fr
+0.0.0.0 sgtm.flagandbanner.com
 0.0.0.0 sgtm.flagstang.dk
 0.0.0.0 sgtm.flewd.com
 0.0.0.0 sgtm.flipitfactory.com
@@ -104590,6 +104600,7 @@
 0.0.0.0 t.aircompressorsdirect.com
 0.0.0.0 tajsq.fairmont-sonoma.com
 0.0.0.0 takeaction.animalleague.org
+0.0.0.0 takehyip.com
 0.0.0.0 takin.cors.digital
 0.0.0.0 takin.revolana.fr
 0.0.0.0 taktit.com
@@ -108096,6 +108107,7 @@
 0.0.0.0 tracking.smartconnect-sg.net
 0.0.0.0 tracking.smartdataprocessor.com
 0.0.0.0 tracking.smartemailing.cz
+0.0.0.0 tracking.smartestlifestyletrends.com
 0.0.0.0 tracking.smilefoundationindia.org
 0.0.0.0 tracking.smp.se
 0.0.0.0 tracking.smt.se
@@ -109247,6 +109259,7 @@
 0.0.0.0 trk.upte-cwa.org
 0.0.0.0 trk.us1.leadfwd.app
 0.0.0.0 trk.visioncard.com.br
+0.0.0.0 trkwwtarget.com
 0.0.0.0 trk.yworks.com
 0.0.0.0 tr.line.me
 0.0.0.0 trljnk.frankandeileen.com

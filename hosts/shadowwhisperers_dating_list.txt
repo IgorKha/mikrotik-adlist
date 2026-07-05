@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.38
-! Last modified: 2026-06-28T09:22:40.616Z
+! Version: 1.0.15.39
+! Last modified: 2026-07-05T07:16:04.918Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -1214,6 +1214,7 @@
 0.0.0.0 tchatche.com
 0.0.0.0 teamo.ru
 0.0.0.0 teendatingplanet.com
+0.0.0.0 teendatingsite.net
 0.0.0.0 tennesseeflirt.com
 0.0.0.0 tennisdating.org
 0.0.0.0 thaicupid.com

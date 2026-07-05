@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
-! Version: 1.0.0.13
-! Last modified: 2026-06-28T09:22:41.126Z
+! Version: 1.0.0.14
+! Last modified: 2026-07-05T07:16:05.939Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -20,7 +20,6 @@
 0.0.0.0 supportmetrics.v.aaplimg.com
 0.0.0.0 xp.v.aaplimg.com
 0.0.0.0 ab.apple.com.akadns.net
-0.0.0.0 cstat-lb.apple.com.akadns.net
 0.0.0.0 diagassets-lb.apple.com.akadns.net
 0.0.0.0 diagnostics.apple.com.akadns.net
 0.0.0.0 iadcontent-lb.apple.com.akadns.net
@@ -29,8 +28,6 @@
 0.0.0.0 iphonesubmissions.apple.com.akadns.net
 0.0.0.0 radarsubmissions.apple.com.akadns.net
 0.0.0.0 partiality.itunes-apple.com.akadns.net
-0.0.0.0 xp.itunes-apple.com.akadns.net
-0.0.0.0 xp-cdn-lb.itunes-apple.com.akadns.net
 0.0.0.0 searchads.lb-apple.com.akadns.net
 0.0.0.0 iad-apple.com.akadns.net
 0.0.0.0 partiality.itunes.apple.com
@@ -38,6 +35,7 @@
 0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advp.apple.com
+0.0.0.0 analytics-events.apple.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 cstat.apple.com
@@ -62,6 +60,7 @@
 0.0.0.0 iphonesubmissions-old.apple.com
 0.0.0.0 launch.apple.com
 0.0.0.0 metrics.apple.com
+0.0.0.0 news-analytics-events.apple.com
 0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 news-notification-events.apple.com
@@ -70,6 +69,7 @@
 0.0.0.0 odin-signals.apple.com
 0.0.0.0 performance-partners.apple.com
 0.0.0.0 phonesubmissions.apple.com
+0.0.0.0 podcasts-analytics-events.apple.com
 0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 proxy-skadnetwork.apple.com
 0.0.0.0 radarsubmissions.apple.com
@@ -78,6 +78,7 @@
 0.0.0.0 securemvt.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 tv-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 xp.apple.com
 0.0.0.0 xp-cdn.apple.com

@@ -1,8 +1,7 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.21.18
-! Last modified: 2026-06-28T09:22:46.105Z
+! Version: 1.0.21.25
+! Last modified: 2026-07-05T07:16:12.840Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
-0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
 0.0.0.0 1sttheworld.com
@@ -30,10 +29,8 @@
 0.0.0.0 airtoff.com
 0.0.0.0 airup-romania.com
 0.0.0.0 airupgreece.net
-0.0.0.0 airupnederlands.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
-0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
@@ -44,6 +41,7 @@
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -74,7 +72,6 @@
 0.0.0.0 beecrave.com
 0.0.0.0 benecharm.com
 0.0.0.0 benxi.info
-0.0.0.0 bertasxt.com
 0.0.0.0 best-torrents.com
 0.0.0.0 bestvod.pl
 0.0.0.0 billboardwring.com
@@ -122,7 +119,6 @@
 0.0.0.0 buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 buydubuy.com
-0.0.0.0 buylikes.se
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 by-emmamuller.de
 0.0.0.0 c0nt4ct-me.pages.dev
@@ -156,7 +152,6 @@
 0.0.0.0 confira.io
 0.0.0.0 containably.com
 0.0.0.0 coolest3d.com
-0.0.0.0 coolestpod.com
 0.0.0.0 corg.co
 0.0.0.0 couponxoo.com
 0.0.0.0 courier-tracking.com
@@ -191,11 +186,11 @@
 0.0.0.0 devifoodgrains.com
 0.0.0.0 dezpez.com
 0.0.0.0 dieserbenni.ru
+0.0.0.0 dischargebackhanded.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 dkfodboldstore.com
 0.0.0.0 dleggere.com
-0.0.0.0 dogparadiseshop.com
 0.0.0.0 dogparadisestore.com
 0.0.0.0 doh-gov.ph
 0.0.0.0 dohealths.com
@@ -214,7 +209,6 @@
 0.0.0.0 e-visa.ie
 0.0.0.0 e-visaindia.com
 0.0.0.0 e-visaindiaonline.com
-0.0.0.0 e-visums.nl
 0.0.0.0 earnpets.com
 0.0.0.0 ecomicrolab.com
 0.0.0.0 ecs-online.ffm.to
@@ -233,7 +227,6 @@
 0.0.0.0 eudoraz.com
 0.0.0.0 eudshop.shop
 0.0.0.0 eviralstore.com
-0.0.0.0 evisa-india-online.com
 0.0.0.0 evisa-indian.com
 0.0.0.0 evisa.express
 0.0.0.0 evisaindia.com
@@ -310,7 +303,6 @@
 0.0.0.0 gearhomies.com
 0.0.0.0 gearhuman.com
 0.0.0.0 gearstastic.com
-0.0.0.0 gearver.com
 0.0.0.0 geekupdates.notion.site
 0.0.0.0 geldencosmeticos.com
 0.0.0.0 gemlis.com
@@ -365,7 +357,6 @@
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 igloaptopto.net
 0.0.0.0 ikiha.com
-0.0.0.0 iklrge.com
 0.0.0.0 ikoee.com
 0.0.0.0 imagemotorcycles.co.nz
 0.0.0.0 imlb2c.com
@@ -465,7 +456,9 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
+0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
+0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -506,7 +499,6 @@
 0.0.0.0 navi100.com
 0.0.0.0 navi11.com
 0.0.0.0 navi12.com
-0.0.0.0 navi18.com
 0.0.0.0 navi2.com
 0.0.0.0 navi20.com
 0.0.0.0 navi20.ru
@@ -526,8 +518,6 @@
 0.0.0.0 navi36.ru
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
-0.0.0.0 navi4.com
-0.0.0.0 navi42.ru
 0.0.0.0 navi5.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
@@ -626,6 +616,7 @@
 0.0.0.0 pharaohstore.com
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
+0.0.0.0 phirussacmush.net
 0.0.0.0 pinjamanelit.top
 0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 pinjamteman.top
@@ -645,7 +636,6 @@
 0.0.0.0 primeleech.com
 0.0.0.0 primevod.pl
 0.0.0.0 promo-offer.com
-0.0.0.0 promoalfresco.com
 0.0.0.0 promotion40-form.com
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 punchonsol.top
@@ -667,7 +657,6 @@
 0.0.0.0 royalhedgies.com
 0.0.0.0 rozomii.info
 0.0.0.0 rsaonlinenow.com.au
-0.0.0.0 rupiahsaku.com
 0.0.0.0 rustdesk.co.nz
 0.0.0.0 rustdesk.io
 0.0.0.0 rustdesk.pl
@@ -705,7 +694,6 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
 0.0.0.0 skinszone.net
-0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 slimsyrups.ca
@@ -714,6 +702,7 @@
 0.0.0.0 smartproduct.site
 0.0.0.0 smartuniswap.xyz
 0.0.0.0 smtpget.com
+0.0.0.0 smtpwire.com
 0.0.0.0 smvisa.co.il
 0.0.0.0 sodipi.com
 0.0.0.0 softgetpc.com
@@ -765,7 +754,6 @@
 0.0.0.0 tamed-exotics.com
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tbao684tryo.com
-0.0.0.0 tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
@@ -788,11 +776,11 @@
 0.0.0.0 tlstoreonline.com
 0.0.0.0 toko999.net
 0.0.0.0 tomadamsenergy.com
+0.0.0.0 torrenty-pl.cc
 0.0.0.0 touristvisaonline.com
 0.0.0.0 toweragency.in
 0.0.0.0 toyrube.com
 0.0.0.0 tpqcywcx.page.link
-0.0.0.0 trade-skins.net
 0.0.0.0 traveldocs.com
 0.0.0.0 travelexpress.us.com
 0.0.0.0 travelvisabookings.com
@@ -915,7 +903,6 @@
 0.0.0.0 youtubee.com
 0.0.0.0 youtunbe.com
 0.0.0.0 youutube.com
-0.0.0.0 ytvancedpro.com
 0.0.0.0 yuaonew.com
 0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
@@ -940,7 +927,6 @@
 0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com
 0.0.0.0 zolrqw.palatlaldate.com
-0.0.0.0 zooger.space
 0.0.0.0 avito.avito.avito.
 0.0.0.0 yandex.avito.sber*
 0.0.0.0 yandex.avito.www.
