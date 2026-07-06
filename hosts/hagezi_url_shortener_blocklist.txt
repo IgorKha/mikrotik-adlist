@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.5.37
-! Last modified: 2026-06-28T09:22:57.850Z
+! Version: 1.0.5.45
+! Last modified: 2026-07-05T07:16:26.506Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 a.189.cn
 0.0.0.0 t.2merkato.com
@@ -204,7 +204,6 @@
 0.0.0.0 natura.com.vc
 0.0.0.0 onelink.com.do
 0.0.0.0 readystart.com.au
-0.0.0.0 red1.com.br
 0.0.0.0 rocketlink.com.br
 0.0.0.0 short.com.vn
 0.0.0.0 shortlink.com.au
@@ -405,6 +404,7 @@
 0.0.0.0 videytwo.isuaceh.com
 0.0.0.0 clubhouse.it.com
 0.0.0.0 linkbio.it.com
+0.0.0.0 yewfjsdi.it.com
 0.0.0.0 go.itanea.fr
 0.0.0.0 kutt.itarian.com
 0.0.0.0 qr.itservicebd.com
@@ -919,6 +919,7 @@
 0.0.0.0 0bs.de
 0.0.0.0 0i.is
 0.0.0.0 0ln.eu
+0.0.0.0 0mjgn0m.site
 0.0.0.0 0o.lv
 0.0.0.0 0rl.cc
 0.0.0.0 0rz.tw
@@ -1639,7 +1640,6 @@
 0.0.0.0 appp.fyi
 0.0.0.0 appscross.com
 0.0.0.0 appsfly.co
-0.0.0.0 appsko.ca
 0.0.0.0 appurl.io
 0.0.0.0 appwhats.in
 0.0.0.0 apsense.cc
@@ -1691,6 +1691,7 @@
 0.0.0.0 aspen.li
 0.0.0.0 aspireinstallations.live
 0.0.0.0 asq.kr
+0.0.0.0 asset-cdn.dev
 0.0.0.0 assinar.io
 0.0.0.0 asso.in
 0.0.0.0 astag.top
@@ -1753,7 +1754,6 @@
 0.0.0.0 aww.al
 0.0.0.0 awwurl.com
 0.0.0.0 awy.to
-0.0.0.0 axees.ir
 0.0.0.0 axiom.link
 0.0.0.0 axios.link
 0.0.0.0 axo.li
@@ -2151,7 +2151,6 @@
 0.0.0.0 bridg.ee
 0.0.0.0 bridge.dev
 0.0.0.0 brief.ly
-0.0.0.0 briefbyte.online
 0.0.0.0 briefen.me
 0.0.0.0 brightestbeginning.me
 0.0.0.0 brightscanr.com
@@ -2746,7 +2745,6 @@
 0.0.0.0 cuturl.com
 0.0.0.0 cuturl.net
 0.0.0.0 cutwin.com
-0.0.0.0 cutx.me
 0.0.0.0 cutx.to
 0.0.0.0 cutxly.com
 0.0.0.0 cuty.io
@@ -2784,7 +2782,6 @@
 0.0.0.0 dafire.cloud
 0.0.0.0 daftar.mx
 0.0.0.0 daftar.to
-0.0.0.0 daftar.tokyo
 0.0.0.0 daftarhoki.live
 0.0.0.0 dai.ly
 0.0.0.0 dailym.ai
@@ -2957,7 +2954,6 @@
 0.0.0.0 domixox.com
 0.0.0.0 domlink.ink
 0.0.0.0 doods.sbs
-0.0.0.0 doodsty.fun
 0.0.0.0 doonor.com
 0.0.0.0 dopice.sk
 0.0.0.0 dopt.us
@@ -3290,7 +3286,6 @@
 0.0.0.0 fa.gd
 0.0.0.0 fa-st.co
 0.0.0.0 facebookid.live
-0.0.0.0 facebookprofiles.com
 0.0.0.0 faceboook-app.com
 0.0.0.0 fadurl.com
 0.0.0.0 fal.cn
@@ -3312,7 +3307,6 @@
 0.0.0.0 fastserp.com
 0.0.0.0 fastslinks.site
 0.0.0.0 fasttory.com
-0.0.0.0 fasturl.link
 0.0.0.0 fattoincasadabenedetta.link
 0.0.0.0 faturl.com
 0.0.0.0 fav.me
@@ -3370,7 +3364,6 @@
 0.0.0.0 finy.me
 0.0.0.0 fire.to
 0.0.0.0 firefone.com
-0.0.0.0 firelinks.site
 0.0.0.0 firsturl.de
 0.0.0.0 firsturl.net
 0.0.0.0 fitnur.com
@@ -3841,7 +3834,6 @@
 0.0.0.0 gurl.pro
 0.0.0.0 gurl.to
 0.0.0.0 gw.ie
-0.0.0.0 gxh1yqz2v.xyz
 0.0.0.0 gyanilinks.com
 0.0.0.0 gym.sh
 0.0.0.0 gyntekbusiness.com
@@ -5313,6 +5305,7 @@
 0.0.0.0 lukeo.link
 0.0.0.0 lukes.cloud
 0.0.0.0 lulusin.io
+0.0.0.0 luma.link
 0.0.0.0 lumar.is
 0.0.0.0 luminary.link
 0.0.0.0 luna.rip

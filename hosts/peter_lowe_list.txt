@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.36
-! Last modified: 2026-06-28T09:22:28.313Z
+! Version: 1.0.17.39
+! Last modified: 2026-07-05T07:15:50.071Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -746,6 +746,7 @@
 0.0.0.0 adtrack.voicestar.com
 0.0.0.0 adtraction.com
 0.0.0.0 adtrade.net
+0.0.0.0 adtrk1.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv.donejty.pl
@@ -774,6 +775,7 @@
 0.0.0.0 advertmarket.com
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.ya.com
+0.0.0.0 advertracker.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertwizard.com
 0.0.0.0 advideo.uimserv.net
@@ -829,7 +831,6 @@
 0.0.0.0 airpush.com
 0.0.0.0 aistat.net
 0.0.0.0 ak0gsh40.com
-0.0.0.0 alchemist.go2cloud.org
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
@@ -847,6 +848,7 @@
 0.0.0.0 americash.com
 0.0.0.0 amidsttruly.com
 0.0.0.0 amung.us
+0.0.0.0 analytics-fe.digital-cloud-prem.medallia.eu
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.algoepico.net
@@ -991,6 +993,7 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.czi.cz
@@ -1300,6 +1303,7 @@
 0.0.0.0 cloudguppy.com
 0.0.0.0 clrstm.com
 0.0.0.0 cluster.adultworld.com
+0.0.0.0 clustrmaps.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmvrclicks000.com
 0.0.0.0 cnomy.com
@@ -1310,7 +1314,6 @@
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cointraffic.io
-0.0.0.0 coldbalance.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 colonize.com
@@ -1746,6 +1749,7 @@
 0.0.0.0 go.scmagazine.com
 0.0.0.0 go.xlirdr.com
 0.0.0.0 go2affise.com
+0.0.0.0 go2cloud.org
 0.0.0.0 godseedband.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
@@ -2431,7 +2435,6 @@
 0.0.0.0 outbrain.com
 0.0.0.0 outerwords.com
 0.0.0.0 overconfidentfood.com
-0.0.0.0 overkick.com
 0.0.0.0 overture.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owebmoney.ru
@@ -2585,7 +2588,6 @@
 0.0.0.0 protraffic.com
 0.0.0.0 provenpixel.com
 0.0.0.0 prpops.com
-0.0.0.0 prsitecheck.com
 0.0.0.0 prufenzo.xyz
 0.0.0.0 pstmrk.it
 0.0.0.0 pub.chez.com
@@ -2662,6 +2664,7 @@
 0.0.0.0 rate.ru
 0.0.0.0 rayjump.com
 0.0.0.0 rcadserver.com
+0.0.0.0 re-direct.pl
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
 0.0.0.0 readingguilt.com
@@ -2679,7 +2682,6 @@
 0.0.0.0 recapture.io
 0.0.0.0 receptivereaction.com
 0.0.0.0 recoco.it
-0.0.0.0 reconditerake.com
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
 0.0.0.0 redirectingat.com
@@ -2696,7 +2698,6 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 rememberdiscussion.com
-0.0.0.0 remox.com
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-partners.appmetrica.yandex.net
@@ -2959,7 +2960,6 @@
 0.0.0.0 stakingsmile.com
 0.0.0.0 stalesummer.com
 0.0.0.0 starffa.com
-0.0.0.0 starkscale.com
 0.0.0.0 starrynets.com
 0.0.0.0 starsmarter.com
 0.0.0.0 startapp.com
@@ -3195,6 +3195,7 @@
 0.0.0.0 track.unear.net
 0.0.0.0 track.vcdc.com
 0.0.0.0 track.viewdeos.com
+0.0.0.0 track.wewilltrcku.com
 0.0.0.0 track1.viewdeos.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackedlink.net
@@ -3204,7 +3205,10 @@
 0.0.0.0 tracker.colatv88xb.cc
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.mmdlv.it
+0.0.0.0 tracker.optin-lead.com
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 tracking.adstrategysites.com
+0.0.0.0 tracking.casheddy.com
 0.0.0.0 tracking.cybertips.uk
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.hyros.com
@@ -3217,6 +3221,7 @@
 0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.orixa-media.com
+0.0.0.0 tracking.p-l-m.com
 0.0.0.0 tracking.wetter.at
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com
@@ -3424,7 +3429,6 @@
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com
-0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 witch-counter.de
 0.0.0.0 wittypopcorn.com
