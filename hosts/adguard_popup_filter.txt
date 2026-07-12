@@ -1,10 +1,11 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.37
-! Last modified: 2026-07-05T07:15:56.161Z
+! Version: 1.0.18.41
+! Last modified: 2026-07-12T07:02:01.976Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dskcwz.com
 0.0.0.0 clk.ourdream.ai
 0.0.0.0 twimg.cash
+0.0.0.0 aboveboardcomplicate.com
 0.0.0.0 uproestup.sbs
 0.0.0.0 lustygg.com
 0.0.0.0 betus.com.pa
@@ -208,7 +209,6 @@
 0.0.0.0 getintopc.today
 0.0.0.0 d3t3bxixsojwre.cloudfront.net
 0.0.0.0 0i0i0i0.com
-0.0.0.0 123-stream.org
 0.0.0.0 1asb.com
 0.0.0.0 30dcf.com
 0.0.0.0 367p.com
@@ -305,6 +305,7 @@
 0.0.0.0 boskodating.com
 0.0.0.0 brainberries.co
 0.0.0.0 brationalfilarded.com
+0.0.0.0 broadlyjukeboxunrevised.com
 0.0.0.0 bucksmein.com
 0.0.0.0 bunth.net
 0.0.0.0 byethost41.net
@@ -336,7 +337,6 @@
 0.0.0.0 cntrealize.com
 0.0.0.0 coastalbloom.xyz
 0.0.0.0 colleem.com
-0.0.0.0 colossal-pathway.life
 0.0.0.0 conestreshow.com
 0.0.0.0 coolserving.com
 0.0.0.0 coosync.com
@@ -442,6 +442,7 @@
 0.0.0.0 icubeswire.co
 0.0.0.0 imkirh.com
 0.0.0.0 indlyment-stuador.com
+0.0.0.0 inseparalled.com
 0.0.0.0 inspoloji.com
 0.0.0.0 installupdate.online
 0.0.0.0 intellipopup.com
@@ -474,7 +475,6 @@
 0.0.0.0 leoyard.com
 0.0.0.0 lindychat.com
 0.0.0.0 linksprf.com
-0.0.0.0 livespacelivekeyrealclub.com
 0.0.0.0 loadtime.org
 0.0.0.0 locooler-ageneral.com
 0.0.0.0 locopar.com
@@ -565,7 +565,6 @@
 0.0.0.0 ovret.com
 0.0.0.0 pacha-wui.com
 0.0.0.0 paehceman.com
-0.0.0.0 pagelivekeylearnbestz.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 paulastroid.com
 0.0.0.0 peaktrck.uno
@@ -654,7 +653,6 @@
 0.0.0.0 safeonlinetips.com
 0.0.0.0 savinist.com
 0.0.0.0 schedulerationally.com
-0.0.0.0 searchresultsadblocker.com
 0.0.0.0 security-suggestion.com
 0.0.0.0 security-u.com
 0.0.0.0 securitycheckonline.com
@@ -689,6 +687,7 @@
 0.0.0.0 stortla.com
 0.0.0.0 strtgic.com
 0.0.0.0 stsbih.com.ba
+0.0.0.0 studiotrackmusic.com
 0.0.0.0 superfasti.co
 0.0.0.0 suptraf.com
 0.0.0.0 sxlflt.com
@@ -727,6 +726,7 @@
 0.0.0.0 trknovi.com
 0.0.0.0 trkpostback.com
 0.0.0.0 trksmorestreacking.com
+0.0.0.0 tropixel.online
 0.0.0.0 trpool.org
 0.0.0.0 try.opera.com
 0.0.0.0 tsyndicate.com
@@ -778,7 +778,6 @@
 0.0.0.0 x2tsa.com
 0.0.0.0 xadsmart.com
 0.0.0.0 xlivrdr.com
-0.0.0.0 xoilactv123.gdn
 0.0.0.0 xszpuvwr7.com
 0.0.0.0 youradexchange.com
 0.0.0.0 yourprotection-suggestion.com

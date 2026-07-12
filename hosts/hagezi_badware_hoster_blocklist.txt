@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.20.71
-! Last modified: 2026-07-05T07:16:26.130Z
+! Version: 1.0.20.73
+! Last modified: 2026-07-12T07:02:26.947Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -441,6 +441,7 @@
 0.0.0.0 ehaitao.com
 0.0.0.0 electronicfiles.net
 0.0.0.0 elementfx.com
+0.0.0.0 emochila.com
 0.0.0.0 emyspot.com
 0.0.0.0 english.lc
 0.0.0.0 entekpartners.com
@@ -984,7 +985,6 @@
 0.0.0.0 shopping.hn
 0.0.0.0 shortcm.li
 0.0.0.0 shorten.so
-0.0.0.0 shortenerword.com
 0.0.0.0 shorter.me
 0.0.0.0 shortest.link
 0.0.0.0 shortu.be

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.15
-! Last modified: 2026-07-05T07:16:05.440Z
+! Version: 1.0.1.17
+! Last modified: 2026-07-12T07:02:09.883Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -51,6 +51,7 @@
 0.0.0.0 auc-visio-telemetry.officeapps.live.com
 0.0.0.0 brc-visio-telemetry.officeapps.live.com
 0.0.0.0 cac-visio-telemetry.officeapps.live.com
+0.0.0.0 chc-visio-telemetry.officeapps.live.com
 0.0.0.0 dec-visio-telemetry.officeapps.live.com
 0.0.0.0 euc-excel-telemetry.officeapps.live.com
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
@@ -337,7 +338,6 @@
 0.0.0.0 stats-partner.trafficmanager.net
 0.0.0.0 teams-events-data.trafficmanager.net
 0.0.0.0 telemetry-lcp.trafficmanager.net
-0.0.0.0 tenmax-ads.trafficmanager.net
 0.0.0.0 tm-analytics-pr.trafficmanager.net
 0.0.0.0 tm-enrollment-telemetry-datacore.trafficmanager.net
 0.0.0.0 us-mesh-events-data-leafs.trafficmanager.net

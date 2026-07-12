@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
-! Version: 1.0.14.79
-! Last modified: 2026-07-05T07:16:12.482Z
+! Version: 1.0.14.80
+! Last modified: 2026-07-12T07:02:14.005Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com
@@ -137,6 +137,7 @@
 0.0.0.0 rateonclick.com
 0.0.0.0 regi.tech
 0.0.0.0 reimageplus.com
+0.0.0.0 rome-il.com
 0.0.0.0 sdarot-il.org
 0.0.0.0 sdarot-tv.org
 0.0.0.0 sdarot.cc

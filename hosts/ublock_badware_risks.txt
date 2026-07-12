@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.22.12
-! Last modified: 2026-07-05T07:16:25.455Z
+! Version: 1.0.22.21
+! Last modified: 2026-07-12T07:02:26.563Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -470,6 +470,7 @@
 0.0.0.0 fanbox.help
 0.0.0.0 meetu.usd1.party
 0.0.0.0 fanbox.autos
+0.0.0.0 luxoriahub.shop
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -1785,6 +1786,12 @@
 0.0.0.0 girlsmakeithard.monster
 0.0.0.0 grootcam.shop
 0.0.0.0 viruswarning*.web.core.windows.net
+0.0.0.0 authorization-cdn-press-enter.info
+0.0.0.0 idverification-cdn.info
+0.0.0.0 great-fade.sbs
+0.0.0.0 re-captcha.xyz
+0.0.0.0 gtm-tools.xyz
+0.0.0.0 low-house.com
 0.0.0.0 cracksway.com
 0.0.0.0 gamingdebates.com
 0.0.0.0 bonzi.link
@@ -2038,7 +2045,6 @@
 0.0.0.0 amxprd.com
 0.0.0.0 hystove.com
 0.0.0.0 recompensaszurichsantander.com.mx
-0.0.0.0 santander.*.fino.digital
 0.0.0.0 santander.cf.sandbox.motrada.ch
 0.0.0.0 santanderpod.*.co.uk
 0.0.0.0 dhl.*.potabox.com
@@ -2490,6 +2496,8 @@
 0.0.0.0 sharedrop.io
 0.0.0.0 snapdrop.net
 0.0.0.0 usadeepseek.com
+0.0.0.0 deepseek.app
+0.0.0.0 deepseek.top
 0.0.0.0 irs.gov.*.com
 0.0.0.0 govuk.*.top
 0.0.0.0 e-navy*.weebly.com
@@ -2842,7 +2850,6 @@
 0.0.0.0 infinitetweet.com
 0.0.0.0 redirecttoplace.online
 0.0.0.0 crimsonmods.cc
-0.0.0.0 low-house.com
 0.0.0.0 cloudfenceai.com
 0.0.0.0 7zip.com
 0.0.0.0 7zip.cloud
@@ -3006,13 +3013,12 @@
 0.0.0.0 invite-track.click
 0.0.0.0 ledger-lives-desktop.io
 0.0.0.0 legder.*.us.com
-0.0.0.0 idverification-cdn.info
 0.0.0.0 microsoft-update.support
 0.0.0.0 flavamovie.com
-0.0.0.0 great-fade.sbs
-0.0.0.0 re-captcha.xyz
-0.0.0.0 gtm-tools.xyz
 0.0.0.0 e261.net
 0.0.0.0 imtolenplex.com
 0.0.0.0 immanitys.com
 0.0.0.0 tagesschau.tech
+0.0.0.0 shuru-baidu.com.cn
+0.0.0.0 lumennix.xyz
+0.0.0.0 omgexplolts.com
