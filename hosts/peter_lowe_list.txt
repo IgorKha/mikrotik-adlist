@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.39
-! Last modified: 2026-07-05T07:15:50.071Z
+! Version: 1.0.17.45
+! Last modified: 2026-07-12T07:01:56.843Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -769,6 +769,7 @@
 0.0.0.0 advertise.com
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertiserurl.com
+0.0.0.0 advertising.amazon.de
 0.0.0.0 advertising.com
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbox.com
@@ -887,6 +888,7 @@
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anstrex.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 api-ext.bixbitemarketing.com
 0.0.0.0 api.affiliations.site
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.appmetrica.yandex.ru
@@ -973,7 +975,6 @@
 0.0.0.0 banner.finzoom.ro
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.inyourpocket.com
-0.0.0.0 banner.linux.se
 0.0.0.0 banner.media-system.de
 0.0.0.0 banner.nixnet.cz
 0.0.0.0 banner.noblepoker.com
@@ -1145,6 +1146,7 @@
 0.0.0.0 calypsocapsule.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
+0.0.0.0 capitalopera.com
 0.0.0.0 capriciouscorn.com
 0.0.0.0 captainbicycle.com
 0.0.0.0 captainstick.com
@@ -1314,6 +1316,7 @@
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cointraffic.io
+0.0.0.0 coldbalance.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 colonize.com
@@ -2435,6 +2438,7 @@
 0.0.0.0 outbrain.com
 0.0.0.0 outerwords.com
 0.0.0.0 overconfidentfood.com
+0.0.0.0 overkick.com
 0.0.0.0 overture.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 owebmoney.ru
@@ -2495,6 +2499,7 @@
 0.0.0.0 pgpartner.com
 0.0.0.0 pheedo.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
+0.0.0.0 pi.pdfjs.express
 0.0.0.0 piano.io
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
@@ -2682,6 +2687,7 @@
 0.0.0.0 recapture.io
 0.0.0.0 receptivereaction.com
 0.0.0.0 recoco.it
+0.0.0.0 reconditerake.com
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
 0.0.0.0 redirectingat.com
@@ -2706,6 +2712,7 @@
 0.0.0.0 republika.onet.pl
 0.0.0.0 resalag.com
 0.0.0.0 rescuerhino.com
+0.0.0.0 researchlog.dbresearch.com
 0.0.0.0 resonantbrush.com
 0.0.0.0 resonate.com
 0.0.0.0 responsiveads.com
@@ -2739,6 +2746,7 @@
 0.0.0.0 rmedia.boston.com
 0.0.0.0 roaddynamics.com
 0.0.0.0 roar.com
+0.0.0.0 robotrefinery.com
 0.0.0.0 robotreplay.com
 0.0.0.0 rockabox.co
 0.0.0.0 rockagainst.com
@@ -2960,6 +2968,7 @@
 0.0.0.0 stakingsmile.com
 0.0.0.0 stalesummer.com
 0.0.0.0 starffa.com
+0.0.0.0 starkscale.com
 0.0.0.0 starrynets.com
 0.0.0.0 starsmarter.com
 0.0.0.0 startapp.com
@@ -3272,6 +3281,7 @@
 0.0.0.0 trkn.us
 0.0.0.0 trkoptimizer.com
 0.0.0.0 trkpnt.ongage.net
+0.0.0.0 trkweb.clinch.co
 0.0.0.0 trmit.com
 0.0.0.0 truckstomatoes.com
 0.0.0.0 truculentrate.com
@@ -3368,7 +3378,6 @@
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
 0.0.0.0 vivads.net
-0.0.0.0 vivtracking.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 voicefive.com
 0.0.0.0 volatilevessel.com
@@ -3429,6 +3438,7 @@
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com
+0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 witch-counter.de
 0.0.0.0 wittypopcorn.com

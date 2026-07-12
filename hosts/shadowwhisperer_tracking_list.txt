@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.3.55
-! Last modified: 2026-07-05T07:15:57.288Z
+! Version: 1.0.3.60
+! Last modified: 2026-07-12T07:02:02.537Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -5781,6 +5781,7 @@
 0.0.0.0 analytics.bnaucler.se
 0.0.0.0 analytics.bnbhosting.de
 0.0.0.0 analytics.bnj.ch
+0.0.0.0 analytics.bobman.dev
 0.0.0.0 analytics.bodendesign-warnken.de
 0.0.0.0 analytics.bodgingbear.dev
 0.0.0.0 analytics.bodygraph.com
@@ -13437,6 +13438,7 @@
 0.0.0.0 analytics.si21.com
 0.0.0.0 analytics.si5m.me
 0.0.0.0 analytics.sia-france.fr
+0.0.0.0 analytics.siamrington.com
 0.0.0.0 analytics.siapicha.pro
 0.0.0.0 analytics.siap.id
 0.0.0.0 analytics.sibelkekilli.com
@@ -15055,6 +15057,7 @@
 0.0.0.0 analytics.vfsd.de
 0.0.0.0 analytics.vgiscience.org
 0.0.0.0 analytics.vgl.org
+0.0.0.0 analytics.vgtimes.com
 0.0.0.0 analytics.vhs-nrw.de
 0.0.0.0 analytics.viadelweb.cloud
 0.0.0.0 analytics.via-les-herbes.com
@@ -15385,6 +15388,7 @@
 0.0.0.0 analytics.weebdigital.com
 0.0.0.0 analytics.weeblr.net
 0.0.0.0 analytics.weeby.studio
+0.0.0.0 analytics.weed.hk
 0.0.0.0 analytics.weelo.fit
 0.0.0.0 analytics.weexjob.com
 0.0.0.0 analytics.wefnexus.org
@@ -15670,6 +15674,7 @@
 0.0.0.0 analytics.xpressify.com
 0.0.0.0 analytics.xrdgraphite.com
 0.0.0.0 analytics.xritaly.it
+0.0.0.0 analytics.xronos.ch
 0.0.0.0 analytics.xscreenattribution.com
 0.0.0.0 analytics.x-serv24.de
 0.0.0.0 analytics.xseu.net
@@ -15726,6 +15731,7 @@
 0.0.0.0 analytics.yorhost.eu
 0.0.0.0 analytics.yorkstatebank.com
 0.0.0.0 analytics.yorktondigital.ca
+0.0.0.0 analytics.youall.com.ua
 0.0.0.0 analytics.youandmedigital.net
 0.0.0.0 analytics.youji.pro
 0.0.0.0 analytics.youlife.rocks
@@ -21179,6 +21185,7 @@
 0.0.0.0 clickam.es
 0.0.0.0 clickanalytic.com
 0.0.0.0 clickapis.com
+0.0.0.0 click.appwonders.org
 0.0.0.0 click.avenuehomes.net
 0.0.0.0 clickbrainiacs.com
 0.0.0.0 click.brand.klarna.com
@@ -26242,6 +26249,7 @@
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datadoghq.com
 0.0.0.0 datadoghq.eu
+0.0.0.0 datadog.pool.ntp.org
 0.0.0.0 datadogsux.com
 0.0.0.0 datadogsux.net
 0.0.0.0 data.doktorselz-shop.de
@@ -30689,6 +30697,7 @@
 0.0.0.0 enterprise.rosettastone.com
 0.0.0.0 entertainingeyes.com
 0.0.0.0 entertainskin.com
+0.0.0.0 ent.fox.com
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 enthusiasticring.com
 0.0.0.0 enthusiastictemper.com
@@ -31139,6 +31148,7 @@
 0.0.0.0 events.betterwild.com
 0.0.0.0 events.bettsrecruiting.com
 0.0.0.0 events.blservaudio.com
+0.0.0.0 events.bsky.app
 0.0.0.0 events.carolinacool.com
 0.0.0.0 events.carolinaheating.com
 0.0.0.0 events.character.ai
@@ -39557,6 +39567,7 @@
 0.0.0.0 ip.bjango.com
 0.0.0.0 ipbot.net
 0.0.0.0 ip.breitbart.com
+0.0.0.0 ip.bsky.app
 0.0.0.0 ipcalf.com
 0.0.0.0 ip.cc
 0.0.0.0 ipc-global.com
@@ -41550,6 +41561,7 @@
 0.0.0.0 live.comunicaciones.jetstereo.com
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 live-detector.svc.transifex.net
+0.0.0.0 live-events.workers.bsky.app
 0.0.0.0 live.guerrillaradio.ro
 0.0.0.0 liveintent.com
 0.0.0.0 live.lifesherpa.com.au
@@ -46542,6 +46554,7 @@
 0.0.0.0 marketing.wbresearch.com
 0.0.0.0 marketingwebanalytics.com
 0.0.0.0 marketing.webgruppen.no
+0.0.0.0 marketing.whitewallsolutions.com
 0.0.0.0 marketing.whysymphony.com
 0.0.0.0 marketing.willamettewines.com
 0.0.0.0 marketing.wilmingtonandbeaches.com
@@ -60658,6 +60671,7 @@
 0.0.0.0 nodbledp.com
 0.0.0.0 nod.caracda.de
 0.0.0.0 node41.aizhantj.com
+0.0.0.0 node93.aizhantj.com
 0.0.0.0 node.cciesecurity.net
 0.0.0.0 node.ccie.store
 0.0.0.0 nodetime.com
@@ -69918,6 +69932,7 @@
 0.0.0.0 pro.wildpacificwhalewatch.com
 0.0.0.0 proxcactus.com
 0.0.0.0 proxem.com
+0.0.0.0 proxima.ai
 0.0.0.0 proximic.com
 0.0.0.0 proxnodded.com
 0.0.0.0 proxomnibusborn.com
@@ -77648,6 +77663,7 @@
 0.0.0.0 serv.matchaao.com
 0.0.0.0 servmetric.com
 0.0.0.0 serv.oakwell.com
+0.0.0.0 servo-report.dvdfab.cn
 0.0.0.0 servo-report.keepstreams.com
 0.0.0.0 servo-report.streamfab.com
 0.0.0.0 serv.paulacunha.com.br
@@ -95231,6 +95247,7 @@
 0.0.0.0 stats.07131.net
 0.0.0.0 stats0.mydevil.net
 0.0.0.0 stats.0n.ro
+0.0.0.0 stats.0ut3r.space
 0.0.0.0 stats.0x00.fi
 0.0.0.0 stats.0x010c.fr
 0.0.0.0 stats.0xbadc0de.be
@@ -102148,6 +102165,7 @@
 0.0.0.0 stats.webefox.fr
 0.0.0.0 stats.webetdesign.com
 0.0.0.0 stats.webfederatie.nl
+0.0.0.0 stats.webfrequent.de
 0.0.0.0 stats.webful.uk
 0.0.0.0 stats.webgames.io
 0.0.0.0 stats-web.gresille.org
@@ -106529,7 +106547,6 @@
 0.0.0.0 tofu-ssl.dmcdn.net
 0.0.0.0 together.caringcomm.org
 0.0.0.0 together.westtytherley.com
-0.0.0.0 toggl.com
 0.0.0.0 toifeeds.indiatimes.com
 0.0.0.0 tojdz.sillysanta.nl
 0.0.0.0 token.boh.com
@@ -106768,6 +106785,7 @@
 0.0.0.0 trace.qq.com
 0.0.0.0 tracer51.h-cast.jp
 0.0.0.0 tracerequest.designerapp.officeapps.live.com
+0.0.0.0 tracer.q-pri.com
 0.0.0.0 traces.ai
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 trace.svc.ui.com
@@ -106778,6 +106796,7 @@
 0.0.0.0 tracingsampler-events.g.ebay.com
 0.0.0.0 tracing.yelp.com
 0.0.0.0 track.01icon.hk
+0.0.0.0 track19.libracams.com
 0.0.0.0 track1.avplayer.com
 0.0.0.0 track1.jijyun.cn
 0.0.0.0 track1.relationshop.net
@@ -109868,6 +109887,7 @@
 0.0.0.0 u4.unit4.com
 0.0.0.0 u542.dailycamera.com
 0.0.0.0 u566.chron.com
+0.0.0.0 u5g-api.svc.ui.com
 0.0.0.0 u5.investingchannel.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u654.santacruzsentinel.com
@@ -110215,6 +110235,7 @@
 0.0.0.0 umami.miaopu.xyz
 0.0.0.0 umami.mmcwilliams.com
 0.0.0.0 umami.mobilemarkup.com
+0.0.0.0 umami.molodetz.nl
 0.0.0.0 umami.monitoring.yanzi.cloud
 0.0.0.0 umami.munozhouse.com
 0.0.0.0 umami.murphdevane.com
@@ -110226,15 +110247,18 @@
 0.0.0.0 umami.nilni.com
 0.0.0.0 umami.nils.moe
 0.0.0.0 umami-nine-olive.vercel.app
+0.0.0.0 umami.ninerealmlabs.com
 0.0.0.0 umami.no404.tk
 0.0.0.0 umami.nordiskehandel.cloud
 0.0.0.0 umami.oc-digital.de
 0.0.0.0 umami.odcrawler.xyz
+0.0.0.0 umami.oiste.ro
 0.0.0.0 umami.on.wpdock.de
 0.0.0.0 umami.orangc.net
 0.0.0.0 umami.orzgk.com
 0.0.0.0 umami.oyo.cool
 0.0.0.0 umami.paradigma.education
+0.0.0.0 umami.parkshare.net
 0.0.0.0 umami.parthpatel.net
 0.0.0.0 umami.paulwicke.com
 0.0.0.0 umami.pdserver.de
@@ -110258,6 +110282,7 @@
 0.0.0.0 umami-prod.up.railway.app
 0.0.0.0 umami.progettodighe.it
 0.0.0.0 umami.psaux.io
+0.0.0.0 umami.purplebros.net
 0.0.0.0 umami.pyry.me
 0.0.0.0 umami.pythonunited.com
 0.0.0.0 umami.qiekub.org
@@ -110269,11 +110294,13 @@
 0.0.0.0 umami.s4ku.com
 0.0.0.0 umami.sages.pl
 0.0.0.0 umami.seeyue.top
+0.0.0.0 umami.seindigital.com
 0.0.0.0 umami.selectcode.dev
 0.0.0.0 umami.shy.cz
 0.0.0.0 umami.silviacanelon.com
 0.0.0.0 umami.sleevenote.com
 0.0.0.0 umami.smartz.cloud
+0.0.0.0 umami.smthdiff.com
 0.0.0.0 umami.sp-codes.de
 0.0.0.0 umami.speakup.nl
 0.0.0.0 umami.stealthagents.us
@@ -110297,6 +110324,7 @@
 0.0.0.0 umami.thomasbnt.dev
 0.0.0.0 umami.thomasrosen.me
 0.0.0.0 umami.torrtle.co
+0.0.0.0 umami.trsh.im
 0.0.0.0 umami.tteld.com
 0.0.0.0 umami.tucmi.de
 0.0.0.0 umami.tweetmonk.com
@@ -110323,6 +110351,7 @@
 0.0.0.0 umami.zeitgeist-info.com
 0.0.0.0 umami.zhanxw.com
 0.0.0.0 umami.zonecraft.es
+0.0.0.0 umami.zrf.me
 0.0.0.0 umami.zz.hubs.vn
 0.0.0.0 umani.api.route.run
 0.0.0.0 um.aquevix.com

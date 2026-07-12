@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
 ! Version: 1.0.15.78
-! Last modified: 2026-07-05T07:16:09.201Z
+! Last modified: 2026-07-12T07:02:11.609Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 api-external.adsvani.com
 0.0.0.0 cdn.adsvani.com

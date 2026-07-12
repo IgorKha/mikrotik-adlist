@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.93
-! Last modified: 2026-07-05T07:16:25.957Z
+! Version: 1.0.16.94
+! Last modified: 2026-07-12T07:02:26.852Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -927,7 +927,6 @@
 0.0.0.0 lostgumball.com
 0.0.0.0 lovethosetrains.com
 0.0.0.0 lozan.com
-0.0.0.0 luckyweaving.com
 0.0.0.0 macrofox.org
 0.0.0.0 madhacker.biz
 0.0.0.0 mao.fi

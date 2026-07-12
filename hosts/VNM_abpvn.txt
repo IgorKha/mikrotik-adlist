@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.45
-! Last modified: 2026-07-05T07:16:07.054Z
+! Version: 1.0.17.47
+! Last modified: 2026-07-12T07:02:10.545Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.45
+! Version: 1.0.17.47
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-07-03T10:59:39.917Z
+! Last modified: 2026-07-09T09:14:50.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1940,10 +1940,13 @@
 0.0.0.0 alog-default.umeng.com
 0.0.0.0 alog.umeng.com
 0.0.0.0 alogs.umeng.com
+0.0.0.0 alogsus.umeng.com
+0.0.0.0 alogus.umeng.com
 0.0.0.0 api.umeng.com
 0.0.0.0 ar.umeng.com
 0.0.0.0 at.umeng.com
 0.0.0.0 errlog.umeng.com
+0.0.0.0 errnewlogos.umeng.com
 0.0.0.0 oc.umeng.com
 0.0.0.0 ocx.umeng.com
 0.0.0.0 plbslog.umeng.com
@@ -11588,6 +11591,47 @@
 0.0.0.0 telemetry.business.githubcopilot.com
 0.0.0.0 telemetry.enterprise.githubcopilot.com
 0.0.0.0 telemetry.individual.githubcopilot.com
+0.0.0.0 wbamedia.com
+0.0.0.0 track.wbamedia.com
+0.0.0.0 www.wbamedia.com
+0.0.0.0 parklogic.com
+0.0.0.0 hickory02.parklogic.com
+0.0.0.0 parking.parklogic.com
+0.0.0.0 parking3.parklogic.com
+0.0.0.0 rd.parklogic.com
+0.0.0.0 router.parklogic.com
+0.0.0.0 www.parklogic.com
+0.0.0.0 cfgc.zztfly.com
+0.0.0.0 log-auth.zztfly.com
+0.0.0.0 upc.zztfly.com
+0.0.0.0 cfgc.flysleep.cn
+0.0.0.0 log-auth.flysleep.cn
+0.0.0.0 upc.flysleep.cn
+0.0.0.0 maticooads.com
+0.0.0.0 sdk-api.maticooads.com
+0.0.0.0 sdk-api-linode1.maticooads.com
+0.0.0.0 sdk-api-usa.maticooads.com
+0.0.0.0 sdk-api-v3.maticooads.com
+0.0.0.0 tracker.maticooads.com
+0.0.0.0 trackerus.maticooads.com
+0.0.0.0 www.maticooads.com
+0.0.0.0 hiaiabc.com
+0.0.0.0 abroad-sdk-push.hiaiabc.com
+0.0.0.0 api-c.hiaiabc.com
+0.0.0.0 api-d.hiaiabc.com
+0.0.0.0 api-df.hiaiabc.com
+0.0.0.0 api-exc.hiaiabc.com
+0.0.0.0 api-gd.hiaiabc.com
+0.0.0.0 devs-data.hiaiabc.com
+0.0.0.0 log-verify.hiaiabc.com
+0.0.0.0 m-adnet.hiaiabc.com
+0.0.0.0 m-mpl.hiaiabc.com
+0.0.0.0 sdk-push.hiaiabc.com
+0.0.0.0 www.hiaiabc.com
+0.0.0.0 dutils.com
+0.0.0.0 abroad-sdk-push.dutils.com
+0.0.0.0 m-adnet.dutils.com
+0.0.0.0 sdk-push.dutils.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -14448,6 +14492,7 @@
 0.0.0.0 bannery.cz
 0.0.0.0 bans.bride.ru
 0.0.0.0 barapolaran.shop
+0.0.0.0 bareleggedhelmhim.com
 0.0.0.0 baresi.xyz
 0.0.0.0 barometercorrodingunease.com
 0.0.0.0 basepush.com
@@ -15002,6 +15047,7 @@
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
 0.0.0.0 d1nssfq3xl2t6b.cloudfront.net
 0.0.0.0 d1pn3cn3ri604k.cloudfront.net
+0.0.0.0 d1tru86qrby720.cloudfront.net
 0.0.0.0 d1u5ibtsigyagv.cloudfront.net
 0.0.0.0 d1ugiptma3cglb.cloudfront.net
 0.0.0.0 d1uzjiv6zzdlbc.cloudfront.net
@@ -15482,6 +15528,7 @@
 0.0.0.0 gimoqwmikakv.com
 0.0.0.0 ginchoirblessed.com
 0.0.0.0 ginpithed.live
+0.0.0.0 giuwikxlkna.com
 0.0.0.0 gkemujoccwin.com
 0.0.0.0 gketcakpeh.com
 0.0.0.0 gkpohvff.com
@@ -15641,6 +15688,7 @@
 0.0.0.0 hittail.com
 0.0.0.0 hixwwert.in
 0.0.0.0 hj.combusteschel.shop
+0.0.0.0 hnzjxjfepbpr.com
 0.0.0.0 hockeyhavoc.com
 0.0.0.0 holahupa.com
 0.0.0.0 homepageking.de
@@ -15828,6 +15876,7 @@
 0.0.0.0 jarvispopsu.com
 0.0.0.0 jatxt.com
 0.0.0.0 jcount.com
+0.0.0.0 jdxkcews.com
 0.0.0.0 jenicdntc.com
 0.0.0.0 jenonaw.com
 0.0.0.0 jerboasjourney.com
@@ -16215,6 +16264,7 @@
 0.0.0.0 mr-rank.de
 0.0.0.0 mrskincash.com
 0.0.0.0 mrycibqutoz.com
+0.0.0.0 ms.butylicrinsing.qpon
 0.0.0.0 mscoldness.com
 0.0.0.0 msgose.com
 0.0.0.0 mt.binmanoboles.com
@@ -16263,6 +16313,7 @@
 0.0.0.0 nagoverpayreimburse.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 naj.sk
+0.0.0.0 nakedaccused.com
 0.0.0.0 namimedia.com
 0.0.0.0 nan46ysangt28eec.com
 0.0.0.0 nappyattack.com
@@ -16818,6 +16869,7 @@
 0.0.0.0 qa.shboshbok.com
 0.0.0.0 qahntenkyf.com
 0.0.0.0 qakcceob.com
+0.0.0.0 qayuwjcpfxusg.website
 0.0.0.0 qctop.com
 0.0.0.0 qgxbluhsgad.com
 0.0.0.0 qingolor.com
@@ -16832,6 +16884,7 @@
 0.0.0.0 qpbiyued.com
 0.0.0.0 qpizuvmta.com
 0.0.0.0 qquhzi4f3.com
+0.0.0.0 qrafhypxswp.com
 0.0.0.0 qs251.com
 0.0.0.0 qsocxhfdopwj.com
 0.0.0.0 quakemarketing.com
@@ -17000,6 +17053,7 @@
 0.0.0.0 rounddescribe.com
 0.0.0.0 rounuatedanximum.com
 0.0.0.0 routeserve.info
+0.0.0.0 rowvmqqqk.com
 0.0.0.0 roxr.net
 0.0.0.0 rqjcsnihsje.com
 0.0.0.0 rrejalojkc.in
@@ -17156,6 +17210,7 @@
 0.0.0.0 skimlinks.com
 0.0.0.0 skullhalfway.com
 0.0.0.0 skylink.vn
+0.0.0.0 sl.maundysinon.cyou
 0.0.0.0 sleeknote.com
 0.0.0.0 slicktext.com
 0.0.0.0 slidbecauseemerald.com
@@ -17428,6 +17483,7 @@
 0.0.0.0 thirdrespect.com
 0.0.0.0 thoorest.com
 0.0.0.0 thripelbertie.website
+0.0.0.0 throbbingvagueforms.com
 0.0.0.0 thruport.com
 0.0.0.0 thubanoa.com
 0.0.0.0 tibacta.com
@@ -17496,6 +17552,8 @@
 0.0.0.0 touchclarity.com
 0.0.0.0 tour.brazzers.com
 0.0.0.0 tpnads.com
+0.0.0.0 tqgyzwquwu.com
+0.0.0.0 tqvnfnotrhyfl.site
 0.0.0.0 trac.mediaiqdigital.com
 0.0.0.0 track.acqvoluum.com
 0.0.0.0 track.admitdftb.com
@@ -17746,6 +17804,7 @@
 0.0.0.0 vr.ringentkenlore.com
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
+0.0.0.0 vsgdodqfjpdws.space
 0.0.0.0 vsgpxqdqk.com
 0.0.0.0 vtacibqzopiw.com
 0.0.0.0 vteskyombq.com
@@ -17753,6 +17812,7 @@
 0.0.0.0 vtwvtmsvpav.com
 0.0.0.0 vwahacrubri.com
 0.0.0.0 vww1.com
+0.0.0.0 w.1igzn4xcl7fne6b.cfd
 0.0.0.0 w0we.com
 0.0.0.0 w0wtrackex.com
 0.0.0.0 w3i.com
@@ -18077,6 +18137,7 @@
 0.0.0.0 zwiweqftobuvd.space
 0.0.0.0 zwnoeqzsuz.com
 0.0.0.0 zxc.world
+0.0.0.0 zxgkuhqwwtcvc.website
 0.0.0.0 2xclick.ru
 0.0.0.0 3gl.net
 0.0.0.0 a.apkpure.com
@@ -18403,7 +18464,6 @@
 0.0.0.0 litix.io
 0.0.0.0 live-tv.top
 0.0.0.0 lngtd.com
-0.0.0.0 log-auth.zztfly.com
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 log-upload-eur.mihoyo.com
 0.0.0.0 log-upload-os.mihoyo.com
