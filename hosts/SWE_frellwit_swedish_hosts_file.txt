@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.58
-! Last modified: 2026-07-12T07:02:10.604Z
+! Version: 1.0.15.59
+! Last modified: 2026-07-19T07:00:21.558Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -1108,6 +1108,7 @@
 0.0.0.0 widgets.getsitecontrol.com
 0.0.0.0 widgets.spklw.com
 0.0.0.0 widgets.sprinklecontent.com
+0.0.0.0 widget.monocular-agency.com
 0.0.0.0 wix-engage-visitors-prod-16.firebaseio.com
 0.0.0.0 wlcoolbet.adsrv.eacdn.com
 0.0.0.0 wleuroearners.adsrv.eacdn.com

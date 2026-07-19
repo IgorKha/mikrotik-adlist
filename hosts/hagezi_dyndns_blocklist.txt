@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.94
-! Last modified: 2026-07-12T07:02:26.852Z
+! Version: 1.0.16.98
+! Last modified: 2026-07-19T07:00:39.556Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -243,6 +243,7 @@
 0.0.0.0 cupddns.net
 0.0.0.0 custom-gaming.net
 0.0.0.0 cw03.ru
+0.0.0.0 cybertv.tv
 0.0.0.0 d-n-s.name
 0.0.0.0 d2g.biz
 0.0.0.0 dagz.ru
@@ -340,6 +341,7 @@
 0.0.0.0 doesntexist.com
 0.0.0.0 doesntexist.org
 0.0.0.0 donhoo.com
+0.0.0.0 donkeyhot.net
 0.0.0.0 dontexist.com
 0.0.0.0 dontexist.net
 0.0.0.0 dontexist.org
@@ -922,6 +924,7 @@
 0.0.0.0 logisoft-cy.com
 0.0.0.0 logular.com
 0.0.0.0 longmusic.com
+0.0.0.0 loophole.site
 0.0.0.0 loseyourip.com
 0.0.0.0 lospenitentes.com
 0.0.0.0 lostgumball.com
@@ -949,6 +952,7 @@
 0.0.0.0 midjava.com
 0.0.0.0 migibts.net
 0.0.0.0 mikata.ru
+0.0.0.0 mikecartwright.net
 0.0.0.0 mil.nf
 0.0.0.0 mindhackers.org
 0.0.0.0 mine.bz
@@ -1222,6 +1226,7 @@
 0.0.0.0 ryointernational.com
 0.0.0.0 sandmeiers.ch
 0.0.0.0 sannon-stamm.com
+0.0.0.0 sarah-lai.com
 0.0.0.0 saves-the-whales.com
 0.0.0.0 scay.net
 0.0.0.0 scottlewisonline.com
