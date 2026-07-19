@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.22.21
-! Last modified: 2026-07-12T07:02:26.563Z
+! Version: 1.0.22.25
+! Last modified: 2026-07-19T07:00:39.266Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -1787,11 +1787,18 @@
 0.0.0.0 grootcam.shop
 0.0.0.0 viruswarning*.web.core.windows.net
 0.0.0.0 authorization-cdn-press-enter.info
+0.0.0.0 auth-code-verif.beer
 0.0.0.0 idverification-cdn.info
 0.0.0.0 great-fade.sbs
 0.0.0.0 re-captcha.xyz
 0.0.0.0 gtm-tools.xyz
 0.0.0.0 low-house.com
+0.0.0.0 ajvcu.cn
+0.0.0.0 vpu.baby
+0.0.0.0 232323.eu.org
+0.0.0.0 docs163.com
+0.0.0.0 playcomla.com.ar
+0.0.0.0 jarretelvankortrijk.be
 0.0.0.0 cracksway.com
 0.0.0.0 gamingdebates.com
 0.0.0.0 bonzi.link
@@ -3011,8 +3018,10 @@
 0.0.0.0 karedeutschland.com
 0.0.0.0 invites-tracker-app.com
 0.0.0.0 invite-track.click
-0.0.0.0 ledger-lives-desktop.io
+0.0.0.0 com-softwares.com
+0.0.0.0 ledger-live*-*.io
 0.0.0.0 legder.*.us.com
+0.0.0.0 ledgertp.com
 0.0.0.0 microsoft-update.support
 0.0.0.0 flavamovie.com
 0.0.0.0 e261.net
@@ -3022,3 +3031,4 @@
 0.0.0.0 shuru-baidu.com.cn
 0.0.0.0 lumennix.xyz
 0.0.0.0 omgexplolts.com
+0.0.0.0 mon-mrlay-suivi.com

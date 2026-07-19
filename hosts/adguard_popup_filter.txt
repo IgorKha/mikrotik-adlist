@@ -1,7 +1,10 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.41
-! Last modified: 2026-07-12T07:02:01.976Z
+! Version: 1.0.18.46
+! Last modified: 2026-07-19T07:00:13.079Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 dzqxwy.com
+0.0.0.0 ormatenqron.com
+0.0.0.0 pulse.neurostreamlink10.cfd
 0.0.0.0 dskcwz.com
 0.0.0.0 clk.ourdream.ai
 0.0.0.0 twimg.cash
@@ -319,6 +322,7 @@
 0.0.0.0 casinobonusdeals.io
 0.0.0.0 cauditcommernal.com
 0.0.0.0 cautommityring.com
+0.0.0.0 cawsg.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 ceramicturtleremnant.com
 0.0.0.0 checkcdn.net
@@ -329,6 +333,7 @@
 0.0.0.0 clickblitzo.com
 0.0.0.0 clickmintads.site
 0.0.0.0 clickpunch.icu
+0.0.0.0 cliphotbokep.xyz
 0.0.0.0 clixwells.com
 0.0.0.0 clladss.com
 0.0.0.0 cloudvideosa.com
@@ -338,6 +343,7 @@
 0.0.0.0 coastalbloom.xyz
 0.0.0.0 colleem.com
 0.0.0.0 conestreshow.com
+0.0.0.0 consultflow.click
 0.0.0.0 coolserving.com
 0.0.0.0 coosync.com
 0.0.0.0 coticoffee.com
@@ -382,6 +388,7 @@
 0.0.0.0 extsoft.info
 0.0.0.0 exxtended-access.com
 0.0.0.0 fantabro.com
+0.0.0.0 fantovix.shop
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
 0.0.0.0 finanvideos.com
@@ -464,6 +471,7 @@
 0.0.0.0 kagonst.com
 0.0.0.0 kaminari.systems
 0.0.0.0 ker2clk.com
+0.0.0.0 kinetiksoft.com
 0.0.0.0 kstrk.com
 0.0.0.0 ku42hjr2e.com
 0.0.0.0 lamplynx.com
@@ -489,6 +497,7 @@
 0.0.0.0 making.party
 0.0.0.0 maredpt.com
 0.0.0.0 marketingthing.click
+0.0.0.0 marovia.cc
 0.0.0.0 masterreviews.org
 0.0.0.0 maxconvtrk.com
 0.0.0.0 maxickedpantents.com
@@ -620,6 +629,7 @@
 0.0.0.0 racunn.com
 0.0.0.0 radiancerelaysacred.com
 0.0.0.0 ragan-qdr.com
+0.0.0.0 rak8s.com
 0.0.0.0 rbtfit.com
 0.0.0.0 rcdn-web.com
 0.0.0.0 realsh.xyz
@@ -652,6 +662,7 @@
 0.0.0.0 sabasadara.com
 0.0.0.0 safeonlinetips.com
 0.0.0.0 savinist.com
+0.0.0.0 scarfstartpickle.com
 0.0.0.0 schedulerationally.com
 0.0.0.0 security-suggestion.com
 0.0.0.0 security-u.com
@@ -896,7 +907,6 @@
 0.0.0.0 5movies.live
 0.0.0.0 741.net
 0.0.0.0 absurdbatchconfess.com
-0.0.0.0 adhoc4.net
 0.0.0.0 adme-net.com
 0.0.0.0 adpointbreakrtb.com
 0.0.0.0 adsrv.me
@@ -910,7 +920,6 @@
 0.0.0.0 amazing-dates.com
 0.0.0.0 angrilyanimatorcuddle.com
 0.0.0.0 antfa.link
-0.0.0.0 antivirusfit.co
 0.0.0.0 antj.link
 0.0.0.0 appendixwarmingauthors.com
 0.0.0.0 arthygeo.info
@@ -930,7 +939,6 @@
 0.0.0.0 cleardexchange.com
 0.0.0.0 click2m.org
 0.0.0.0 clickadilla.com
-0.0.0.0 clickcdn.co
 0.0.0.0 cloudgallery.net
 0.0.0.0 cloudtransfer.store
 0.0.0.0 cmvrclicks000.com
@@ -940,17 +948,14 @@
 0.0.0.0 daftsex.com
 0.0.0.0 dailyreports.info
 0.0.0.0 dalyai.com
-0.0.0.0 denetsuk.com
 0.0.0.0 diffusionsubletunnamed.com
 0.0.0.0 digital2cloud.com
 0.0.0.0 dimmerlingowashable.com
 0.0.0.0 directr.xyz
 0.0.0.0 dirlink.net
 0.0.0.0 dmsik.com
-0.0.0.0 dorogokupimnoutbuk.online
 0.0.0.0 dosya-indirici.online
 0.0.0.0 dpuplet.net
-0.0.0.0 dsfffmb.mobi
 0.0.0.0 e2ertt.com
 0.0.0.0 ecpms.net
 0.0.0.0 eemgl.com
@@ -959,8 +964,6 @@
 0.0.0.0 familiarpyromaniasloping.com
 0.0.0.0 fhvfd.com
 0.0.0.0 finchoiluntainted.com
-0.0.0.0 firstclick.pro
-0.0.0.0 fkourazirop.shop
 0.0.0.0 flixtab.com
 0.0.0.0 fr-dustreaming.com
 0.0.0.0 freelovehere.com
@@ -973,9 +976,6 @@
 0.0.0.0 gsurl.in
 0.0.0.0 gsurl.me
 0.0.0.0 hhsp2.com
-0.0.0.0 hipnoticrec.biz
-0.0.0.0 hk6vdj4z.click
-0.0.0.0 hop.boutique
 0.0.0.0 hotboys.biz
 0.0.0.0 incontro-veloce.com
 0.0.0.0 infokz.com
@@ -990,9 +990,7 @@
 0.0.0.0 localsnapsext.com
 0.0.0.0 lucky-bet.site
 0.0.0.0 madamecam.com
-0.0.0.0 minently.com
 0.0.0.0 monetizer.co
-0.0.0.0 morinavotarius.top
 0.0.0.0 mozime.com
 0.0.0.0 o000oo.com
 0.0.0.0 oclasrv.com
@@ -1020,7 +1018,6 @@
 0.0.0.0 slabshookwasted.com
 0.0.0.0 slext2.com
 0.0.0.0 smapp.work
-0.0.0.0 sokrostream.tv
 0.0.0.0 sportstreams.xyz
 0.0.0.0 starsx.fr
 0.0.0.0 streamall-search.com
@@ -1034,10 +1031,7 @@
 0.0.0.0 timesroadmapwed.com
 0.0.0.0 tlootas.org
 0.0.0.0 toponclick.com
-0.0.0.0 torrent09.uno
 0.0.0.0 torrent9.cm
-0.0.0.0 tourpowouro.shop
-0.0.0.0 trbx-l1.online
 0.0.0.0 trmzum.com
 0.0.0.0 unltdentertainment.co
 0.0.0.0 urbanproxy.eu
@@ -1049,7 +1043,6 @@
 0.0.0.0 webpushdirect.biz
 0.0.0.0 wgoto.xyz
 0.0.0.0 wmober.com
-0.0.0.0 x.porn.fr
 0.0.0.0 xtraserp.com
 0.0.0.0 xu2.com
 0.0.0.0 xxxviijmp.com

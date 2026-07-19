@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.21.32
-! Last modified: 2026-07-12T07:02:14.158Z
+! Version: 1.0.21.39
+! Last modified: 2026-07-19T07:00:24.944Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
@@ -25,16 +25,18 @@
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 afiletoget.click
 0.0.0.0 air-up-turkiye.com
-0.0.0.0 aircgd.shop
 0.0.0.0 airteltower.com
 0.0.0.0 airtoff.com
 0.0.0.0 airup-romania.com
 0.0.0.0 airupgreece.net
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
+0.0.0.0 akjamv.shop
+0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
+0.0.0.0 allcars.cn
 0.0.0.0 allergyfl.com
 0.0.0.0 allnewsready.com
 0.0.0.0 allstarshirt.com
@@ -42,7 +44,6 @@
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -114,13 +115,13 @@
 0.0.0.0 boutiqueondemand.com
 0.0.0.0 bradcroninnapo82.myshopify.com
 0.0.0.0 breakshirts.com
-0.0.0.0 brttre.com
 0.0.0.0 bsnltower.com
 0.0.0.0 bsnltowerinstallations.com
 0.0.0.0 bsntowoff.com
 0.0.0.0 buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 buydubuy.com
+0.0.0.0 buzzazone.com
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 by-emmamuller.de
 0.0.0.0 c0nt4ct-me.pages.dev
@@ -129,7 +130,6 @@
 0.0.0.0 canjaume.com
 0.0.0.0 caraci.it
 0.0.0.0 casualdating1.com
-0.0.0.0 cda-pl.pl
 0.0.0.0 cda-zalukaj.prv.pl
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
@@ -145,6 +145,7 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
+0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coinaps.com
@@ -203,6 +204,7 @@
 0.0.0.0 draxu.com
 0.0.0.0 dreamgreenshoe.com
 0.0.0.0 dreamstee.com
+0.0.0.0 dreamstees.com
 0.0.0.0 dresseloves.com
 0.0.0.0 dressesloves.com
 0.0.0.0 dresseslovesootd.com
@@ -364,6 +366,7 @@
 0.0.0.0 imagemotorcycles.co.nz
 0.0.0.0 imlb2c.com
 0.0.0.0 improtants.space
+0.0.0.0 inboxtext.com
 0.0.0.0 india-e-visa.com
 0.0.0.0 india-visa-online.com
 0.0.0.0 india-visa-online.org
@@ -431,6 +434,7 @@
 0.0.0.0 kmspi.co
 0.0.0.0 kmspico-official.org
 0.0.0.0 kmspico.io
+0.0.0.0 kmspicoofficial.com
 0.0.0.0 knightmods.com
 0.0.0.0 koinprime.com
 0.0.0.0 kongpixel.com
@@ -462,7 +466,6 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
-0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
@@ -524,7 +527,6 @@
 0.0.0.0 navi36.ru
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
-0.0.0.0 navi42.ru
 0.0.0.0 navi5.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
@@ -651,6 +653,7 @@
 0.0.0.0 quitasueno.com
 0.0.0.0 quotex.com.in
 0.0.0.0 re-captha-version-3-277.buzz
+0.0.0.0 reanimando.org
 0.0.0.0 resources4gaming.com
 0.0.0.0 revanced-extended.com
 0.0.0.0 reviewshirts.com
@@ -870,6 +873,7 @@
 0.0.0.0 visatoindia.org
 0.0.0.0 visumbuitenland.nl
 0.0.0.0 vizjer-pl.pl
+0.0.0.0 vizjer.com.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film

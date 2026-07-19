@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.40
-! Last modified: 2026-07-12T07:02:09.661Z
+! Version: 1.0.15.41
+! Last modified: 2026-07-19T07:00:20.763Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -116,9 +116,13 @@
 0.0.0.0 baltic-women.com
 0.0.0.0 bangatrans.com
 0.0.0.0 baseballovers.com
+0.0.0.0 bbdiva.com
 0.0.0.0 bbpeoplemeet.biz
 0.0.0.0 bbpeoplemeet.com
+0.0.0.0 bbwbbm.com
 0.0.0.0 bbwcupid.com
+0.0.0.0 bbwdate.net
+0.0.0.0 bbw.net
 0.0.0.0 be2.at
 0.0.0.0 be2.ch
 0.0.0.0 be2.com
@@ -184,6 +188,7 @@
 0.0.0.0 casualxhookups.com
 0.0.0.0 catholicmates.com
 0.0.0.0 catholicpeoplemeet.com
+0.0.0.0 cazavo.sk
 0.0.0.0 c-date.com
 0.0.0.0 c-date.es
 0.0.0.0 c-dating.fr
@@ -514,6 +519,7 @@
 0.0.0.0 farmersonly.com
 0.0.0.0 fastmatch.com.au
 0.0.0.0 fdating.com
+0.0.0.0 femmemure.ch
 0.0.0.0 fetishcontacts.co.uk
 0.0.0.0 filipinadatingsites.net
 0.0.0.0 filipinawife.com
@@ -595,6 +601,7 @@
 0.0.0.0 guayu.com
 0.0.0.0 guidedenuit.com
 0.0.0.0 hallokoko.com
+0.0.0.0 handilove.fr
 0.0.0.0 happn.com
 0.0.0.0 happysingles.fr
 0.0.0.0 harmonylove.com
@@ -743,11 +750,13 @@
 0.0.0.0 loveawake.com
 0.0.0.0 love.cz
 0.0.0.0 lovedating.be
+0.0.0.0 lovedesir.fr
 0.0.0.0 loveismatch.com
 0.0.0.0 lovelife.ca
 0.0.0.0 lovely.co.il
 0.0.0.0 lovemage.com
 0.0.0.0 loveme.com
+0.0.0.0 loveplace.ch
 0.0.0.0 loveplanet.ru
 0.0.0.0 lover2cu.com
 0.0.0.0 lovespiritually.com
@@ -1278,6 +1287,7 @@
 0.0.0.0 urbansocial.com
 0.0.0.0 u-rencontres.com
 0.0.0.0 usadatingplanet.com
+0.0.0.0 usgay.org
 0.0.0.0 valentimatchmaking.com
 0.0.0.0 vanessa69.com
 0.0.0.0 veemance.com.au

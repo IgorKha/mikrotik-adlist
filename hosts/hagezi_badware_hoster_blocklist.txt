@@ -1,16 +1,20 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.20.73
-! Last modified: 2026-07-12T07:02:26.947Z
+! Version: 1.0.20.78
+! Last modified: 2026-07-19T07:00:39.639Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
 0.0.0.0 123freehost.co.uk
 0.0.0.0 24.co.at
 0.0.0.0 all.co.uk
+0.0.0.0 blogspot.co.at
+0.0.0.0 blogspot.co.uk
 0.0.0.0 surfblocked.co.cc
 0.0.0.0 thamboli.co.za
+0.0.0.0 blogspot.com.au
 0.0.0.0 blogspot.com.br
 0.0.0.0 blogspot.com.es
+0.0.0.0 cableonline.com.mx
 0.0.0.0 encurtador.com.br
 0.0.0.0 kl.com.ua
 0.0.0.0 webnode.com.pt
@@ -260,6 +264,7 @@
 0.0.0.0 blogspot.bg
 0.0.0.0 blogspot.ca
 0.0.0.0 blogspot.ch
+0.0.0.0 blogspot.cl
 0.0.0.0 blogspot.cz
 0.0.0.0 blogspot.de
 0.0.0.0 blogspot.dk
@@ -267,20 +272,28 @@
 0.0.0.0 blogspot.fr
 0.0.0.0 blogspot.gr
 0.0.0.0 blogspot.hk
+0.0.0.0 blogspot.hr
+0.0.0.0 blogspot.hu
 0.0.0.0 blogspot.in
 0.0.0.0 blogspot.it
 0.0.0.0 blogspot.jp
+0.0.0.0 blogspot.kr
 0.0.0.0 blogspot.li
+0.0.0.0 blogspot.lt
 0.0.0.0 blogspot.lu
+0.0.0.0 blogspot.md
 0.0.0.0 blogspot.mx
+0.0.0.0 blogspot.my
 0.0.0.0 blogspot.nl
 0.0.0.0 blogspot.no
 0.0.0.0 blogspot.org
+0.0.0.0 blogspot.pe
 0.0.0.0 blogspot.pl
 0.0.0.0 blogspot.pt
 0.0.0.0 blogspot.rs
 0.0.0.0 blogspot.ru
 0.0.0.0 blogspot.se
+0.0.0.0 blogspot.sg
 0.0.0.0 blogspot.sk
 0.0.0.0 blogspot.sn
 0.0.0.0 blogspot.tw
@@ -294,6 +307,7 @@
 0.0.0.0 builderall.net
 0.0.0.0 builtfree.org
 0.0.0.0 bulkurlshortener.com
+0.0.0.0 business.site
 0.0.0.0 business-minagne.com
 0.0.0.0 bx5.de
 0.0.0.0 byethost.com
@@ -567,7 +581,6 @@
 0.0.0.0 genblogger.com
 0.0.0.0 gerentebr.com
 0.0.0.0 getenjoyment.net
-0.0.0.0 getfile.biz
 0.0.0.0 getresponsesite.com
 0.0.0.0 gg123.vip
 0.0.0.0 gilde.in
@@ -745,7 +758,6 @@
 0.0.0.0 lnkz.at
 0.0.0.0 logomebel.ru
 0.0.0.0 look.in
-0.0.0.0 loophole.site
 0.0.0.0 lovelocals.us
 0.0.0.0 loveslife.biz
 0.0.0.0 lovestoblog.com
@@ -935,6 +947,7 @@
 0.0.0.0 quiztionnaire.uk
 0.0.0.0 r.gp
 0.0.0.0 r-e.kr
+0.0.0.0 radiola.club
 0.0.0.0 rapidshare.com
 0.0.0.0 rapidshare.de
 0.0.0.0 rapidshare.se
@@ -1007,7 +1020,6 @@
 0.0.0.0 solidwebhost.com
 0.0.0.0 sophiashantidaniel.com
 0.0.0.0 space.lc
-0.0.0.0 speed4up.net
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
 0.0.0.0 spruz.com
@@ -1072,6 +1084,7 @@
 0.0.0.0 tripod.com
 0.0.0.0 turbo.site
 0.0.0.0 turkish.lc
+0.0.0.0 tutorial-blog.net
 0.0.0.0 tw.gp
 0.0.0.0 tw1.ru
 0.0.0.0 twilight.ws

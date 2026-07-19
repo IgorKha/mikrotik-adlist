@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.18.98
-! Last modified: 2026-07-12T07:02:00.228Z
+! Version: 1.0.19.6
+! Last modified: 2026-07-19T07:00:11.208Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.98
+! Version: 1.0.19.6
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-10T23:24:33.472Z
+! Last modified: 2026-07-17T23:20:59.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1956,6 +1956,7 @@
 0.0.0.0 gcn-1nterc.com
 0.0.0.0 gdudh473-chersfeye483.landmarksfeed.su
 0.0.0.0 gekowex.com
+0.0.0.0 genuinepeople.cc
 0.0.0.0 geolantis.fr
 0.0.0.0 geopostcodes.fr
 0.0.0.0 get-answers-fast.com
@@ -2964,6 +2965,7 @@
 0.0.0.0 thedatesafe.com			# Facebook trojan
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thenewswire.fr
+0.0.0.0 thesciencequest.info
 0.0.0.0 thesimsresource.fr
 0.0.0.0 thetorrentz.fr
 0.0.0.0 thickporter.sa.com
@@ -3184,6 +3186,7 @@
 0.0.0.0 www.alexyastro.com
 0.0.0.0 www.alittlelewd.com
 0.0.0.0 www.allhqpics.com			# Facebook trojan
+0.0.0.0 www.allinvideo.com
 0.0.0.0 www.allscrabble.com
 0.0.0.0 www.allstateproteectionplans.com
 0.0.0.0 www.allusermanual.com
@@ -3201,6 +3204,7 @@
 0.0.0.0 www.arfrepuestos.com
 0.0.0.0 www.arknasasbluecross.com
 0.0.0.0 www.artdualdesign.com
+0.0.0.0 www.artssets.com
 0.0.0.0 www.asianread.com
 0.0.0.0 www.assistdocklane.uk
 0.0.0.0 www.atightschedule.com
@@ -3298,6 +3302,7 @@
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.cidersunjt.com
 0.0.0.0 www.cjkassociates.co.in
+0.0.0.0 www.cjtest.com
 0.0.0.0 www.claimedmoney.com
 0.0.0.0 www.cleanvvlife.com
 0.0.0.0 www.cleanvvmagic.com
@@ -3315,6 +3320,7 @@
 0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.commuteinfo.com
+0.0.0.0 www.compacfurniture.com
 0.0.0.0 www.complien.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.conclusioncompeting.bond
@@ -3328,6 +3334,7 @@
 0.0.0.0 www.corvettiortho.com
 0.0.0.0 www.courtneydowns.com
 0.0.0.0 www.cpatglobal.com
+0.0.0.0 www.cpension.com
 0.0.0.0 www.cprcar.com
 0.0.0.0 www.cqwallpaper.com
 0.0.0.0 www.creativesaftysupply.com
@@ -3341,6 +3348,7 @@
 0.0.0.0 www.dartya.com
 0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.daytonjaxx.com
+0.0.0.0 www.dbcorporation.com
 0.0.0.0 www.dealresponse.com
 0.0.0.0 www.dealshaat.com
 0.0.0.0 www.dealsrate.com
@@ -3379,6 +3387,7 @@
 0.0.0.0 www.ekkekkocapital.com
 0.0.0.0 www.elanactivewear.com
 0.0.0.0 www.electrobell.com
+0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eljaleomedellin.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.energiazoque.com
@@ -3483,6 +3492,7 @@
 0.0.0.0 www.grouphappy.com
 0.0.0.0 www.growthbuilder.name
 0.0.0.0 www.guaranteeservice.lat
+0.0.0.0 www.guashastone.com
 0.0.0.0 www.haikuservices.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
@@ -3532,6 +3542,7 @@
 0.0.0.0 www.irlandalk.com
 0.0.0.0 www.irony.world
 0.0.0.0 www.isavs.com
+0.0.0.0 www.itemtools.com
 0.0.0.0 www.iwantclothing.com
 0.0.0.0 www.jackpotcasinojeux.com
 0.0.0.0 www.jacqueruth.com
@@ -3543,6 +3554,7 @@
 0.0.0.0 www.jewishgame.com
 0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jnhjf.com
+0.0.0.0 www.joinclap.com
 0.0.0.0 www.joinfx.net
 0.0.0.0 www.jovareo.com
 0.0.0.0 www.justdebug.com
