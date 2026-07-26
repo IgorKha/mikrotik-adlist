@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.51
-! Last modified: 2026-07-19T07:00:21.509Z
+! Version: 1.0.17.54
+! Last modified: 2026-07-26T07:04:17.737Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.51
+! Version: 1.0.17.54
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-07-17T08:50:38.470Z
+! Last modified: 2026-07-23T08:59:51.560Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1921,11 +1921,19 @@
 0.0.0.0 v2.gdt.qq.com
 0.0.0.0 wxadliteapp.gdt.qq.com
 0.0.0.0 tdid.m.qq.com
+0.0.0.0 oth.bls.mdt.qq.com
+0.0.0.0 sg.bls.mdt.qq.com
+0.0.0.0 sq.bls.mdt.qq.com
+0.0.0.0 vi.bls.mdt.qq.com
+0.0.0.0 game.eve.mdt.qq.com
 0.0.0.0 mtt.eve.mdt.qq.com
 0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 yyb.eve.mdt.qq.com
+0.0.0.0 game.str.mdt.qq.com
 0.0.0.0 mig.str.mdt.qq.com
 0.0.0.0 mtt.str.mdt.qq.com
 0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 yyb.str.mdt.qq.com
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
@@ -7277,7 +7285,6 @@
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 abtest.alibaba.com
-0.0.0.0 cmap.alibaba.com
 0.0.0.0 dmtracking.alibaba.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 fourier.alibaba.com
@@ -9166,6 +9173,7 @@
 0.0.0.0 adright.xml-v6.ak-is2.net
 0.0.0.0 adscompute.xml.ak-is2.net
 0.0.0.0 adventurefeeds.xml-eu.ak-is2.net
+0.0.0.0 adventurefeeds.xml-v4.ak-is2.net
 0.0.0.0 adventurefeeds.xml-v6.ak-is2.net
 0.0.0.0 adventurefeeds.xml.ak-is2.net
 0.0.0.0 adwooo.fs.ak-is2.net
@@ -10755,9 +10763,11 @@
 0.0.0.0 popup.popupsmart.com
 0.0.0.0 appmontize.gotrackier.com
 0.0.0.0 gotrackier.com
+0.0.0.0 info.gotrackier.com
 0.0.0.0 masteraffiliates.gotrackier.com
 0.0.0.0 mmads.gotrackier.com
 0.0.0.0 optimidea.gotrackier.com
+0.0.0.0 sbm49.gotrackier.com
 0.0.0.0 dmpxs.com
 0.0.0.0 bob.dmpxs.com
 0.0.0.0 confiant-integrations.net
@@ -15294,6 +15304,7 @@
 0.0.0.0 dummieseardrum.com
 0.0.0.0 dustyhammer.com
 0.0.0.0 duvnihavrob.in
+0.0.0.0 dvmbarfzhhuyq.com
 0.0.0.0 dxgo95ahe73e8.cloudfront.net
 0.0.0.0 dxtnqglxrio.com
 0.0.0.0 dynamicadx.com
@@ -15451,6 +15462,7 @@
 0.0.0.0 facesnotebook.com
 0.0.0.0 factsheetgrievancekeg.com
 0.0.0.0 fadzudvracat.com
+0.0.0.0 fafeyrfqyxwivk.com
 0.0.0.0 familiarpyromaniasloping.com
 0.0.0.0 faqirsgoliard.top
 0.0.0.0 faqlikbid.com
@@ -15635,6 +15647,7 @@
 0.0.0.0 gocxnnxiy.com
 0.0.0.0 godpvqnszo.com
 0.0.0.0 goingplatinum.com
+0.0.0.0 goingsimmerfear.com
 0.0.0.0 goldbach.com
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goldstats.com
@@ -15808,6 +15821,7 @@
 0.0.0.0 identinsp.pro
 0.0.0.0 idot.cz
 0.0.0.0 idregie.com
+0.0.0.0 ie.purauwede.qpon
 0.0.0.0 ientrymail.com
 0.0.0.0 ietyofedinj89yewtburgh.com
 0.0.0.0 ieyipznx.art
@@ -15927,6 +15941,7 @@
 0.0.0.0 ivdjs.com
 0.0.0.0 ivykiosk.com
 0.0.0.0 iwanttodeliver.com
+0.0.0.0 iy.agynarysyun.cyou
 0.0.0.0 iyfbodn.com
 0.0.0.0 j93557g.com
 0.0.0.0 ja2n2u30a6rgyd.com
@@ -15970,6 +15985,7 @@
 0.0.0.0 joudauhee.com
 0.0.0.0 jouteetu.net
 0.0.0.0 jouwaikekaivep.net
+0.0.0.0 jpcrtqakzrlqy.space
 0.0.0.0 jpwrashuzfstxc.com
 0.0.0.0 jqvhnbxtwze.com
 0.0.0.0 jqyryzrbuqpfp.space
@@ -16282,6 +16298,7 @@
 0.0.0.0 misstrends.com
 0.0.0.0 miva.com
 0.0.0.0 mixedreading.com
+0.0.0.0 mizckufx.com
 0.0.0.0 mjdvamevlrsxv.site
 0.0.0.0 mkaragqzeov.com
 0.0.0.0 mkejunomqar.com
@@ -16369,6 +16386,7 @@
 0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
 0.0.0.0 mycounter.ua
+0.0.0.0 myesutdnuyddu.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypopups.com
 0.0.0.0 mypowermall.com
@@ -16450,6 +16468,7 @@
 0.0.0.0 nexac.com
 0.0.0.0 nextmillmedia.com
 0.0.0.0 ng3.ads.warnerbros.com
+0.0.0.0 nhttvqorwq.com
 0.0.0.0 nibaz.com
 0.0.0.0 nicksstevmark.com
 0.0.0.0 nightmareirene.com
@@ -16588,6 +16607,7 @@
 0.0.0.0 onmobile.com
 0.0.0.0 onstunkyr.com
 0.0.0.0 onwardperishvaluables.com
+0.0.0.0 oofmhbmqdn.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 openad.tf1.fr
 0.0.0.0 openad.travelnow.com
@@ -17016,6 +17036,7 @@
 0.0.0.0 rbergego.com
 0.0.0.0 rcvlink.com
 0.0.0.0 rcyopmpfef.in
+0.0.0.0 rdipmrbwgvk.com
 0.0.0.0 rdr.wargaming.net
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
@@ -17382,6 +17403,7 @@
 0.0.0.0 spuriousstranger.com
 0.0.0.0 spylog.com
 0.0.0.0 spywarenuker.com
+0.0.0.0 spzzsykjwgplod.com
 0.0.0.0 sq.exonerrotter.com
 0.0.0.0 squeegetirret.cyou
 0.0.0.0 srv.trafficgate.net
@@ -17446,6 +17468,7 @@
 0.0.0.0 studyunharmedupscale.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 stylish-knife.com
+0.0.0.0 sub.api-rfr.com
 0.0.0.0 sub2tech.com
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 succeedscene.com
@@ -17595,6 +17618,7 @@
 0.0.0.0 todopick.com
 0.0.0.0 toeapesob.com
 0.0.0.0 toglooman.com
+0.0.0.0 tommytransportbeetroot.com
 0.0.0.0 tomoll.com
 0.0.0.0 tomorroweducated.com
 0.0.0.0 top-casting-termine.de
@@ -17650,6 +17674,7 @@
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.getmydeals.net
 0.0.0.0 track.involvkgfr.com
+0.0.0.0 track.ipricegroup.com
 0.0.0.0 track.mddsp.info
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackedlink.net
@@ -17726,6 +17751,7 @@
 0.0.0.0 twinrdsyn.com
 0.0.0.0 twinrdsyte.com
 0.0.0.0 twistconcept.com
+0.0.0.0 twitchegotistical.com
 0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 txtimpact.com
@@ -17829,6 +17855,8 @@
 0.0.0.0 variousformatscontent.com
 0.0.0.0 vast.vstserv.com
 0.0.0.0 vaugroar.com
+0.0.0.0 vcqclbetewdnq.website
+0.0.0.0 vd.bundthoecake.cyou
 0.0.0.0 vdkdxarnqiaedw.com
 0.0.0.0 vebadu.com
 0.0.0.0 vebo-vast.pages.dev
@@ -18155,6 +18183,7 @@
 0.0.0.0 yesadvertising.com
 0.0.0.0 yesgwyn.com
 0.0.0.0 yespetor.com
+0.0.0.0 ygdragebdimw.com
 0.0.0.0 yh.rostelshute.shop
 0.0.0.0 yi.polarichip.com
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
@@ -18361,6 +18390,7 @@
 0.0.0.0 blue.thehill.com
 0.0.0.0 blueconic.net
 0.0.0.0 blueoyster.click
+0.0.0.0 business.yingliangads.com
 0.0.0.0 c.riskified.com
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 cadmus.script.ac

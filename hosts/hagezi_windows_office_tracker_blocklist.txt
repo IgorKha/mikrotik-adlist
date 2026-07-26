@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.18
-! Last modified: 2026-07-19T07:00:20.950Z
+! Version: 1.0.1.19
+! Last modified: 2026-07-26T07:04:16.041Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -123,7 +123,6 @@
 0.0.0.0 sgtus1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 sgtus1-word-telemetry-vip.officeapps.live.com
-0.0.0.0 telemetry.officeapps.live.com
 0.0.0.0 tgtus1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 tgtus1-word-telemetry-vip.officeapps.live.com
@@ -209,7 +208,6 @@
 0.0.0.0 t-ring-s2.msedge.net
 0.0.0.0 t-ring-trafficshield.msedge.net
 0.0.0.0 t-s1-ring.msedge.net
-0.0.0.0 t-s2-ring.msedge.net
 0.0.0.0 win10-trt.msedge.net
 0.0.0.0 metric.appex-rf.msn.com
 0.0.0.0 c.ar.msn.com
@@ -341,6 +339,7 @@
 0.0.0.0 us-mesh-events-data-leafs.trafficmanager.net
 0.0.0.0 vstelemetry.trafficmanager.net
 0.0.0.0 win-global-asimov-leafs-events-data.trafficmanager.net
+0.0.0.0 wttwebsiteprodapi-liveevents.trafficmanager.net
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 h4g3z1-native.winoffice.web.app
 0.0.0.0 ceuswatcab01.blob.core.windows.net

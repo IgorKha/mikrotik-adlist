@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.5.67
-! Last modified: 2026-07-19T07:00:39.804Z
+! Version: 1.0.5.71
+! Last modified: 2026-07-26T07:04:40.261Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 a.189.cn
 0.0.0.0 t.2merkato.com
@@ -1072,6 +1072,7 @@
 0.0.0.0 2no.co
 0.0.0.0 2nu.gs
 0.0.0.0 2one.in
+0.0.0.0 2osb.com
 0.0.0.0 2pl.us
 0.0.0.0 2pu.sh
 0.0.0.0 2qr.bz
@@ -3018,6 +3019,7 @@
 0.0.0.0 dropl.link
 0.0.0.0 droplr.net
 0.0.0.0 dropmylinks.com
+0.0.0.0 drrop.cc
 0.0.0.0 drte.co
 0.0.0.0 druuz.com
 0.0.0.0 drw.sh
@@ -3768,6 +3770,7 @@
 0.0.0.0 goo2.pro
 0.0.0.0 goo2url.com
 0.0.0.0 goodmoejo.art
+0.0.0.0 goodpics.net
 0.0.0.0 goodwinlink.com
 0.0.0.0 google-url.com
 0.0.0.0 googleidmaps.live
@@ -4358,6 +4361,7 @@
 0.0.0.0 jagoan-hosting.online
 0.0.0.0 jalanku.me
 0.0.0.0 jalanpintas4d.com
+0.0.0.0 jali.me
 0.0.0.0 jalurvip.co
 0.0.0.0 jalurwild.win
 0.0.0.0 jame.sn
@@ -4410,6 +4414,7 @@
 0.0.0.0 jkf.lv
 0.0.0.0 jks.bio
 0.0.0.0 jktc.pro
+0.0.0.0 jm-88.cc
 0.0.0.0 jmal.top
 0.0.0.0 jmeet.io
 0.0.0.0 jmp.ad
@@ -4858,6 +4863,7 @@
 0.0.0.0 link4.net
 0.0.0.0 link4earn.com
 0.0.0.0 link4u.uk
+0.0.0.0 link64xx.com
 0.0.0.0 link888.me
 0.0.0.0 linka.li
 0.0.0.0 linkabc.net
@@ -6151,6 +6157,7 @@
 0.0.0.0 onlybiolinks.com
 0.0.0.0 onmeto.net
 0.0.0.0 onn.to
+0.0.0.0 onne.link
 0.0.0.0 onon.in
 0.0.0.0 onschool.io
 0.0.0.0 ontwig.com
@@ -9479,6 +9486,7 @@
 0.0.0.0 webi.li
 0.0.0.0 webinfos.info
 0.0.0.0 weblink.biz
+0.0.0.0 webls.net
 0.0.0.0 webmienphi.net
 0.0.0.0 webn.in
 0.0.0.0 webproject.pt
@@ -9653,6 +9661,7 @@
 0.0.0.0 x89.us
 0.0.0.0 xaddr.com
 0.0.0.0 xailr.com
+0.0.0.0 xavo.wtf
 0.0.0.0 xb5.com
 0.0.0.0 xbig.info
 0.0.0.0 xbitly.com

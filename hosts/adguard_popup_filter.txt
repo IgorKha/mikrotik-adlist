@@ -1,7 +1,11 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.46
-! Last modified: 2026-07-19T07:00:13.079Z
+! Version: 1.0.18.50
+! Last modified: 2026-07-26T07:04:05.231Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 gamengirls.com
+0.0.0.0 cno.jerkmate.net
+0.0.0.0 arx8x.net
+0.0.0.0 mercu-wgp.com
 0.0.0.0 dzqxwy.com
 0.0.0.0 ormatenqron.com
 0.0.0.0 pulse.neurostreamlink10.cfd
@@ -1077,3 +1081,6 @@
 0.0.0.0 promo.vador.com
 0.0.0.0 bondeddarkenedswerve.com
 0.0.0.0 villainoussession.com
+0.0.0.0 klik4.me
+0.0.0.0 shortbioo.com
+0.0.0.0 klik.zeus.fun

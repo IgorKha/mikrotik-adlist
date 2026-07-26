@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
 ! Version: 1.0.14.56
-! Last modified: 2026-07-19T07:00:39.991Z
+! Last modified: 2026-07-26T07:04:40.664Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: NoCoin Filter List
