@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.20.78
-! Last modified: 2026-07-19T07:00:39.639Z
+! Version: 1.0.20.82
+! Last modified: 2026-07-26T07:04:39.781Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -265,6 +265,7 @@
 0.0.0.0 blogspot.ca
 0.0.0.0 blogspot.ch
 0.0.0.0 blogspot.cl
+0.0.0.0 blogspot.com
 0.0.0.0 blogspot.cz
 0.0.0.0 blogspot.de
 0.0.0.0 blogspot.dk
@@ -290,10 +291,12 @@
 0.0.0.0 blogspot.pe
 0.0.0.0 blogspot.pl
 0.0.0.0 blogspot.pt
+0.0.0.0 blogspot.qa
 0.0.0.0 blogspot.rs
 0.0.0.0 blogspot.ru
 0.0.0.0 blogspot.se
 0.0.0.0 blogspot.sg
+0.0.0.0 blogspot.si
 0.0.0.0 blogspot.sk
 0.0.0.0 blogspot.sn
 0.0.0.0 blogspot.tw
@@ -307,7 +310,6 @@
 0.0.0.0 builderall.net
 0.0.0.0 builtfree.org
 0.0.0.0 bulkurlshortener.com
-0.0.0.0 business.site
 0.0.0.0 business-minagne.com
 0.0.0.0 bx5.de
 0.0.0.0 byethost.com

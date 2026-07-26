@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.6
-! Last modified: 2026-07-19T07:00:11.208Z
+! Version: 1.0.19.16
+! Last modified: 2026-07-26T07:04:02.937Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.6
+! Version: 1.0.19.16
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-17T23:20:59.421Z
+! Last modified: 2026-07-24T20:34:14.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1674,6 +1674,7 @@
 0.0.0.0 commax.fr
 0.0.0.0 commdev.fr
 0.0.0.0 compe-nickel.fr
+0.0.0.0 completelove22.cc
 0.0.0.0 compufixshop.com
 0.0.0.0 comsss-56.com
 0.0.0.0 con-trnroayl.online
@@ -3251,6 +3252,7 @@
 0.0.0.0 www.blueridgecpp.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
+0.0.0.0 www.bocastyle.com
 0.0.0.0 www.bonuxsarrive.com
 0.0.0.0 www.bookstadium.com
 0.0.0.0 www.borocade.com
@@ -3340,6 +3342,7 @@
 0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
+0.0.0.0 www.cruzresorts.com
 0.0.0.0 www.crystalbranchtw.blog
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
@@ -3376,6 +3379,7 @@
 0.0.0.0 www.dualeotruyenno.com
 0.0.0.0 www.duotrader.com
 0.0.0.0 www.dustinjonesgolfacademy.com
+0.0.0.0 www.dutchoutlet.com
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.dynamictyres.com
 0.0.0.0 www.dzzzsc.com
@@ -3451,6 +3455,7 @@
 0.0.0.0 www.futureowned.com
 0.0.0.0 www.gadgetbonanzamarket.com
 0.0.0.0 www.gaicodon.com
+0.0.0.0 www.gaiis.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gamelthae.com
 0.0.0.0 www.gameltjae.com
@@ -3510,6 +3515,7 @@
 0.0.0.0 www.hindudirectory.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
+0.0.0.0 www.hoabridal.com
 0.0.0.0 www.hocxaydung.com
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
@@ -3520,12 +3526,14 @@
 0.0.0.0 www.hunterspeed.com
 0.0.0.0 www.hypeprop.com
 0.0.0.0 www.hypetrust.com
+0.0.0.0 www.ibenefi.com
 0.0.0.0 www.icecars.com
 0.0.0.0 www.iconatsbs.com
 0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.iepelnazareno.com
+0.0.0.0 www.iesaber.com
 0.0.0.0 www.igameup.com
 0.0.0.0 www.improvingthe.com
 0.0.0.0 www.indexprofile.com
@@ -3584,6 +3592,7 @@
 0.0.0.0 www.langleyantiques.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.learngears.com
+0.0.0.0 www.learningfound.com
 0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learntechno.com
 0.0.0.0 www.ledfaucetlight.com
@@ -3677,6 +3686,7 @@
 0.0.0.0 www.nobetsjustfun.com
 0.0.0.0 www.noithatphanthinh.com
 0.0.0.0 www.northvalesgrids.uk
+0.0.0.0 www.nostalgicroses.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.novosantiago.com
@@ -3718,6 +3728,7 @@
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paseyourself.com
+0.0.0.0 www.patelshop.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.payasyougocert.com
 0.0.0.0 www.pcfixguide.help
@@ -3778,6 +3789,7 @@
 0.0.0.0 www.quartersnorth.lat
 0.0.0.0 www.quarvions.com
 0.0.0.0 www.quintingwatches.com
+0.0.0.0 www.quipla.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
@@ -3807,6 +3819,7 @@
 0.0.0.0 www.robkellysurf.com
 0.0.0.0 www.romanticdemands.bond
 0.0.0.0 www.roofcoins.com
+0.0.0.0 www.roundtopbooks.com
 0.0.0.0 www.rplconnect.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.rtpbolaslotjago.com
@@ -3961,6 +3974,7 @@
 0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.webassembly.stream
+0.0.0.0 www.webdesignmetric.com
 0.0.0.0 www.webdevotee.com
 0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webontwerp.com

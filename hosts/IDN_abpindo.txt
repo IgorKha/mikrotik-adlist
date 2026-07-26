@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
-! Version: 1.0.14.77
-! Last modified: 2026-07-19T07:00:22.423Z
+! Version: 1.0.14.81
+! Last modified: 2026-07-26T07:04:19.202Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 188affiliates.com
 0.0.0.0 accesstrade.co.id
@@ -119,30 +119,43 @@
 0.0.0.0 villainoussession.com
 0.0.0.0 vkwaeo.com
 0.0.0.0 yllix.com
-0.0.0.0 a.magsrv.com
-0.0.0.0 a.pemsrv.com
+0.0.0.0 388hero.bio
 0.0.0.0 akseskaiko.cam
 0.0.0.0 archivehub.com.ng
+0.0.0.0 bandarxl.bio
 0.0.0.0 bergurukecina.fun
+0.0.0.0 bisnis4d.bio
 0.0.0.0 c-stat.eu
 0.0.0.0 cdnfgo.xyz
+0.0.0.0 enakslot.bio
+0.0.0.0 gaza-88.com
 0.0.0.0 goid.space
 0.0.0.0 goratu.site
 0.0.0.0 injd.site
 0.0.0.0 inshorturl.com
 0.0.0.0 kegz.site
-0.0.0.0 mascarapersonality.com
+0.0.0.0 klik.zeus.fun
+0.0.0.0 klik4.me
+0.0.0.0 luxury111.bio
 0.0.0.0 menujupenta.site
 0.0.0.0 moneyfree.co
 0.0.0.0 nf.diamberproetid.com
 0.0.0.0 orangarab.fun
 0.0.0.0 ransplay-io.com
+0.0.0.0 ratu89.news
+0.0.0.0 redirect388herosafest.com
+0.0.0.0 redirectbandarxlsafest.com
+0.0.0.0 redirectbisnis4dsafest.com
 0.0.0.0 refpa3665.com
+0.0.0.0 rts.gdn
 0.0.0.0 safelinkearn.com
 0.0.0.0 sbobet.host
+0.0.0.0 shortbioo.com
+0.0.0.0 statics1.tceru134gsur.ru
 0.0.0.0 sv.sleeklyyallaer.com
 0.0.0.0 tambakbet.vip
 0.0.0.0 tantegacor88.link
+0.0.0.0 terbit21.gdn
 0.0.0.0 track.aptitudemedia.co
 0.0.0.0 track.zerofriend.com
 0.0.0.0 tracker.lazada.co.id

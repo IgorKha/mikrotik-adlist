@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
-! Version: 1.0.14.80
-! Last modified: 2026-07-19T07:00:24.803Z
+! Version: 1.0.14.81
+! Last modified: 2026-07-26T07:04:22.585Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com
@@ -81,6 +81,7 @@
 0.0.0.0 iastrology.net
 0.0.0.0 ihct.mx
 0.0.0.0 imitrk.com
+0.0.0.0 imri-jewelry.co.il
 0.0.0.0 ineed2fuck.com
 0.0.0.0 isdarot.com
 0.0.0.0 israeljobstoday.com
