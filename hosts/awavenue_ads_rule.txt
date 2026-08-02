@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.75
-! Last modified: 2026-07-26T07:04:05.030Z
+! Version: 1.0.15.76
+! Last modified: 2026-08-02T07:02:14.813Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -78,6 +78,7 @@
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
+0.0.0.0 ads.adfunlink.com
 0.0.0.0 ads.auctions.yahoo.com
 0.0.0.0 ads.cup.com.cn
 0.0.0.0 ads.google.cn
@@ -134,6 +135,7 @@
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
+0.0.0.0 adtracker.adfunlink.com
 0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adv-api.shenshiads.com
 0.0.0.0 adv.sec.intl.miui.com
@@ -417,7 +419,6 @@
 0.0.0.0 image-ad.sm.cn
 0.0.0.0 image.hpplay.cn
 0.0.0.0 images.outbrainimg.com
-0.0.0.0 images.pinduoduo.com
 0.0.0.0 imdns.hpplay.cn
 0.0.0.0 img-c.heytapimage.com
 0.0.0.0 img-x.jd.com
@@ -834,7 +835,6 @@
 0.0.0.0 ykad-data.cp31.ott.cibntv.net
 0.0.0.0 ykad-data.youku.com
 0.0.0.0 ykad-gateway.youku.com
-0.0.0.0 youku-acs.m.taobao.com
 0.0.0.0 ytx-file.110route.cn
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
