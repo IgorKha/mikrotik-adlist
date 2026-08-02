@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.54
-! Last modified: 2026-07-26T07:04:17.737Z
+! Version: 1.0.17.57
+! Last modified: 2026-08-02T07:02:23.955Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.54
+! Version: 1.0.17.57
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-07-23T08:59:51.560Z
+! Last modified: 2026-07-30T09:01:17.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -38,7 +38,7 @@
 0.0.0.0 bom.baomoi.com
 0.0.0.0 go.pub2srv.com
 0.0.0.0 pub2srv.com
-127.0.1.1 stc.nas.nixcdn.com 
+0.0.0.0 stc.nas.nixcdn.com 
 0.0.0.0 qc.yan.vn
 0.0.0.0 api.appfireworks.com
 0.0.0.0 rtb.nexage.com
@@ -11693,6 +11693,10 @@
 0.0.0.0 trackhup.com
 0.0.0.0 befjajh.trackhup.com
 0.0.0.0 dghecae.trackhup.com
+0.0.0.0 enticecreep.com
+0.0.0.0 ac.enticecreep.com
+0.0.0.0 api.enticecreep.com
+0.0.0.0 tr.enticecreep.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -15728,6 +15732,7 @@
 0.0.0.0 hfc195b.com
 0.0.0.0 hgads.com
 0.0.0.0 hh788.com
+0.0.0.0 hhbwhgtciqe.com
 0.0.0.0 hhbypdoecp.com
 0.0.0.0 hidden.gogoceleb.com
 0.0.0.0 highcpmcreativeformat.com
@@ -15811,6 +15816,7 @@
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iapclick.gowadogo.com
 0.0.0.0 ib-ibi.com
+0.0.0.0 iccku.com
 0.0.0.0 ichachoakiglop.com
 0.0.0.0 iclickcdn.com
 0.0.0.0 iconcardinal.com
@@ -15887,6 +15893,7 @@
 0.0.0.0 insideoftech.com
 0.0.0.0 insightexpress.com
 0.0.0.0 inskinmedia.com
+0.0.0.0 insolubledoomedbenignity.com
 0.0.0.0 inspirationstarednope.com
 0.0.0.0 instantmadness.com
 0.0.0.0 instinctiveads.com
@@ -16016,6 +16023,7 @@
 0.0.0.0 kdm8.com
 0.0.0.0 ke.minterhazes.com
 0.0.0.0 ketchapp.org
+0.0.0.0 kettledroopingcontinuation.com
 0.0.0.0 kgdvs9ov3l2aasw4nuts.com
 0.0.0.0 kgfjrb711.com
 0.0.0.0 kighoadouk.net
@@ -16065,6 +16073,7 @@
 0.0.0.0 lammasbananas.com
 0.0.0.0 landsideresendtrousers.com
 0.0.0.0 langretsahibah.com
+0.0.0.0 late-bloomingwalluphospital.com
 0.0.0.0 laughcloth.com
 0.0.0.0 launchbit.com
 0.0.0.0 laxativestuckunclog.com
@@ -16142,6 +16151,7 @@
 0.0.0.0 loopme.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lpuodgmca.com
+0.0.0.0 lu.hymenicshi.qpon
 0.0.0.0 lucidlykidney.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucrinearraign.com
@@ -17173,6 +17183,7 @@
 0.0.0.0 ru4.com
 0.0.0.0 rumadel.com
 0.0.0.0 runads.com
+0.0.0.0 rupmnmephml.com
 0.0.0.0 rusenov.com
 0.0.0.0 rutseasickmunch.com
 0.0.0.0 ruvsraaklrih.com
@@ -17412,10 +17423,12 @@
 0.0.0.0 srv224.com
 0.0.0.0 srvd2204.com
 0.0.0.0 srwww1.com
+0.0.0.0 st.afoundeprouder.com
 0.0.0.0 stagepopkek.com
 0.0.0.0 stageseshoals.com
 0.0.0.0 stakingsmile.com
 0.0.0.0 star-advertising.com
+0.0.0.0 stareobjectedcipher.com
 0.0.0.0 starffa.com
 0.0.0.0 startapp.com
 0.0.0.0 stat.cliche.se
@@ -17516,6 +17529,7 @@
 0.0.0.0 sz.pyrulaupstage.qpon
 0.0.0.0 t.easyads28.mobi
 0.0.0.0 t.insigit.com
+0.0.0.0 t.javhd-trk.com
 0.0.0.0 t.lumupu.xyz
 0.0.0.0 t.wayfair.com
 0.0.0.0 t7cp4fldl.com
@@ -17855,6 +17869,7 @@
 0.0.0.0 variousformatscontent.com
 0.0.0.0 vast.vstserv.com
 0.0.0.0 vaugroar.com
+0.0.0.0 vc.colpwoofell.qpon
 0.0.0.0 vcqclbetewdnq.website
 0.0.0.0 vd.bundthoecake.cyou
 0.0.0.0 vdkdxarnqiaedw.com
@@ -18001,10 +18016,12 @@
 0.0.0.0 whispa.com
 0.0.0.0 whisperingcrib.com
 0.0.0.0 whisperofisaak.com
+0.0.0.0 whitetrafsa.com
 0.0.0.0 whoeverpensivepaternity.com
 0.0.0.0 whoisonline.net
 0.0.0.0 whoursie.com
 0.0.0.0 whuwoawain.com
+0.0.0.0 wi.spleniidizzy.com
 0.0.0.0 widdit.com
 0.0.0.0 widget.privy.com
 0.0.0.0 widgetbucks.com
@@ -18032,6 +18049,7 @@
 0.0.0.0 wonderhsjnsd.com
 0.0.0.0 wondoads.de
 0.0.0.0 woovoree.net
+0.0.0.0 workdeadlinededicate.com
 0.0.0.0 workervanewalk.com
 0.0.0.0 worldoffersdaily.com
 0.0.0.0 worldwide-cash.net
@@ -18149,6 +18167,7 @@
 0.0.0.0 xlviiirdr.com
 0.0.0.0 xlx1.com
 0.0.0.0 xm.geslingclime.shop
+0.0.0.0 xm.liquorssquab.com
 0.0.0.0 xmafrihkua.in
 0.0.0.0 xnhhzlkr.com
 0.0.0.0 xnocffar.com
@@ -18178,6 +18197,7 @@
 0.0.0.0 yb26b.com
 0.0.0.0 ybrantdigital.com
 0.0.0.0 ybs2ffs7v.com
+0.0.0.0 yd.yowleytapeta.shop
 0.0.0.0 ydworld.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com

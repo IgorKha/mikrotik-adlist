@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.16
-! Last modified: 2026-07-26T07:04:02.937Z
+! Version: 1.0.19.21
+! Last modified: 2026-08-02T07:02:13.162Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.16
+! Version: 1.0.19.21
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-24T20:34:14.119Z
+! Last modified: 2026-08-02T00:50:16.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1278,6 +1278,7 @@
 0.0.0.0 2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com
 0.0.0.0 2roueselectrique.fr
 0.0.0.0 2x1gratis.com
+0.0.0.0 33.merivonview33.cc
 0.0.0.0 3mfrances.fr
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 602.lazulya.com
@@ -2133,6 +2134,7 @@
 0.0.0.0 jeu-jeux.fr
 0.0.0.0 jeupicard.fr
 0.0.0.0 jobfreelance.fr
+0.0.0.0 joincpd.com
 0.0.0.0 joomlaworks.fr
 0.0.0.0 joshan.fun
 0.0.0.0 juegosdechicas.fr
@@ -3007,6 +3009,7 @@
 0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trouveunfilm.fr
 0.0.0.0 trovi.com
+0.0.0.0 trstwcard.icu
 0.0.0.0 truecrypt.fr
 0.0.0.0 trusturl.top
 0.0.0.0 tubero.ellystegge.info
@@ -3133,6 +3136,7 @@
 0.0.0.0 wetter24.fr
 0.0.0.0 wewillrocknow.com
 0.0.0.0 wfflxx.com
+0.0.0.0 wgdcjd8kxd.olijfgent.be
 0.0.0.0 whiscas.fr
 0.0.0.0 whiteenamel.fr
 0.0.0.0 whqxzx.com
@@ -3321,6 +3325,7 @@
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
+0.0.0.0 www.commitlacrossecamps.com
 0.0.0.0 www.commuteinfo.com
 0.0.0.0 www.compacfurniture.com
 0.0.0.0 www.complien.com
@@ -3347,6 +3352,7 @@
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
 0.0.0.0 www.dangdangflow.com
+0.0.0.0 www.danispiritualtherapist.com
 0.0.0.0 www.darkrro.com
 0.0.0.0 www.dartya.com
 0.0.0.0 www.dayanitastore.com
@@ -3373,6 +3379,7 @@
 0.0.0.0 www.digitalcoachpro.name
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dlinktour.com
+0.0.0.0 www.doblectv.com
 0.0.0.0 www.dorminvaders.com
 0.0.0.0 www.downmass.com
 0.0.0.0 www.drivegoals.com
@@ -3442,6 +3449,7 @@
 0.0.0.0 www.forexwood.com
 0.0.0.0 www.formalcenter.com
 0.0.0.0 www.fortunoxx.com
+0.0.0.0 www.framermotionplayground.com
 0.0.0.0 www.francesportisas-fr.com
 0.0.0.0 www.frbonusjeux.com
 0.0.0.0 www.freeaquarium.com
@@ -3473,6 +3481,7 @@
 0.0.0.0 www.gezinti.com
 0.0.0.0 www.ggdark.net
 0.0.0.0 www.giadungnguyennhat.com
+0.0.0.0 www.gifttifyagency.com
 0.0.0.0 www.gildedrosens.name
 0.0.0.0 www.gimp.es
 0.0.0.0 www.glassygrovefy.pro
@@ -3483,6 +3492,7 @@
 0.0.0.0 www.gooddeserve.skin
 0.0.0.0 www.googdiy.com
 0.0.0.0 www.gotorobeks.com
+0.0.0.0 www.governmentaution.com
 0.0.0.0 www.gparted.fr
 0.0.0.0 www.gpolitico.com
 0.0.0.0 www.gracefulmeaduu.online
@@ -3498,6 +3508,7 @@
 0.0.0.0 www.growthbuilder.name
 0.0.0.0 www.guaranteeservice.lat
 0.0.0.0 www.guashastone.com
+0.0.0.0 www.gwizacademy.com
 0.0.0.0 www.haikuservices.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
@@ -3675,6 +3686,7 @@
 0.0.0.0 www.naturalmovementz.com
 0.0.0.0 www.nearestsalon.com
 0.0.0.0 www.necklaceu.com
+0.0.0.0 www.negativesphere.com
 0.0.0.0 www.neonpack.com
 0.0.0.0 www.neonracketpro.com
 0.0.0.0 www.new2crypto.com

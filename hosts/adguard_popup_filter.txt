@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.50
-! Last modified: 2026-07-26T07:04:05.231Z
+! Version: 1.0.18.51
+! Last modified: 2026-08-02T07:02:14.894Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 gamengirls.com
 0.0.0.0 cno.jerkmate.net
@@ -440,6 +440,7 @@
 0.0.0.0 hiasor.com
 0.0.0.0 highcpmgate.com
 0.0.0.0 hiiona.com
+0.0.0.0 hilltopads.net
 0.0.0.0 hnrgmc.com
 0.0.0.0 hoktrips.com
 0.0.0.0 hooligs.app
