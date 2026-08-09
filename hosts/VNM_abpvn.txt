@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.57
-! Last modified: 2026-08-02T07:02:23.955Z
+! Version: 1.0.17.61
+! Last modified: 2026-08-09T06:22:34.537Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.57
+! Version: 1.0.17.61
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-07-30T09:01:17.127Z
+! Last modified: 2026-08-07T08:04:21.205Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -9352,9 +9352,12 @@
 0.0.0.0 req.appads.in
 0.0.0.0 sg-tracker.appads.in
 0.0.0.0 www.appads.in
+0.0.0.0 bidmachine.io
 0.0.0.0 api-apac.bidmachine.io
+0.0.0.0 api-eu-a.bidmachine.io.
 0.0.0.0 api-eu.bidmachine.io
 0.0.0.0 api-us.bidmachine.io
+0.0.0.0 api.bidmachine.io
 0.0.0.0 deltadna.net
 0.0.0.0 balanced-collect.deltadna.net
 0.0.0.0 balanced-engage.deltadna.net
@@ -10516,12 +10519,29 @@
 0.0.0.0 scripts.attributionapp.com
 0.0.0.0 track.attributionapp.com
 0.0.0.0 everestop.io
+0.0.0.0 am.everestop.io
 0.0.0.0 d.everestop.io
 0.0.0.0 f.everestop.io
 0.0.0.0 s.everestop.io
-0.0.0.0 t.everestop.io
 0.0.0.0 w.everestop.io
+0.0.0.0 www.everestop.io
 0.0.0.0 x.everestop.io
+0.0.0.0 thecatmachine.com
+0.0.0.0 am.thecatmachine.com
+0.0.0.0 d.thecatmachine.com
+0.0.0.0 f.thecatmachine.com
+0.0.0.0 s.thecatmachine.com
+0.0.0.0 w.thecatmachine.com
+0.0.0.0 www.thecatmachine.com
+0.0.0.0 x.thecatmachine.com
+0.0.0.0 blueduckredapple.com
+0.0.0.0 am.blueduckredapple.com
+0.0.0.0 d.blueduckredapple.com
+0.0.0.0 f.blueduckredapple.com
+0.0.0.0 s.blueduckredapple.com
+0.0.0.0 w.blueduckredapple.com
+0.0.0.0 www.blueduckredapple.com
+0.0.0.0 x.blueduckredapple.com
 0.0.0.0 logs.insight.rapid7.com
 0.0.0.0 eu.data.logs.insight.rapid7.com
 0.0.0.0 eu.webhook.logs.insight.rapid7.com
@@ -11697,6 +11717,13 @@
 0.0.0.0 ac.enticecreep.com
 0.0.0.0 api.enticecreep.com
 0.0.0.0 tr.enticecreep.com
+0.0.0.0 consent.easybrain.com
+0.0.0.0 cross-promo-provider.easybrain.com
+0.0.0.0 ets.easybrain.com
+0.0.0.0 gamestats.easybrain.com
+0.0.0.0 s3-analytics-events.easybrain.com
+0.0.0.0 s3-ca-liveops.easybrain.com
+0.0.0.0 s3-playable-ads.easybrain.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -14032,6 +14059,7 @@
 0.0.0.0 ads.xtra.co.nz
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yldmgrimg.net
+0.0.0.0 ads.zorvec.name
 0.0.0.0 ads.zorvec.top
 0.0.0.0 ads04.tapsense.com
 0.0.0.0 ads1.mediacapital.pt
@@ -14903,6 +14931,7 @@
 0.0.0.0 clckysudks.com
 0.0.0.0 clearadnetwork.com
 0.0.0.0 clenchedyouthmatching.com
+0.0.0.0 cleverwebserver.com
 0.0.0.0 clicadu.com
 0.0.0.0 click-cdn.com
 0.0.0.0 click-clicker.com
@@ -15458,6 +15487,7 @@
 0.0.0.0 eyeviewads.com
 0.0.0.0 eyewonder.com
 0.0.0.0 ezcgojaamg.com
+0.0.0.0 ezdkixzdkr.com
 0.0.0.0 ezojs.com
 0.0.0.0 eztexting.com
 0.0.0.0 ezula.com
@@ -15477,6 +15507,7 @@
 0.0.0.0 fatcoil.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 fbcdn2.com
+0.0.0.0 fbgbskzvbvzokr.com
 0.0.0.0 februarybogus.com
 0.0.0.0 februaryexclusion.com
 0.0.0.0 feed-xml.com
@@ -15596,6 +15627,7 @@
 0.0.0.0 ggreatstuff.com
 0.0.0.0 ggz48pxys.com
 0.0.0.0 ghochv3eng.trafficmanager.net
+0.0.0.0 gi.bagwashhabeas.qpon
 0.0.0.0 giddycoat.com
 0.0.0.0 giggedguddle.com
 0.0.0.0 gigglemagnetismunaired.com
@@ -15610,6 +15642,7 @@
 0.0.0.0 glassesoftruth.com
 0.0.0.0 glassmilheart.com
 0.0.0.0 glazingretentionupcoming.com
+0.0.0.0 gldmel.com
 0.0.0.0 gleetresis.com
 0.0.0.0 glersakr.com
 0.0.0.0 glimtors.net
@@ -15807,6 +15840,7 @@
 0.0.0.0 hypermusk.com
 0.0.0.0 hypertracker.com
 0.0.0.0 hypertusk.com
+0.0.0.0 hypnagogicsoundsuddenly.com
 0.0.0.0 i-lookup.com
 0.0.0.0 i.cdnkimg.com
 0.0.0.0 i2ad.jp
@@ -16159,6 +16193,7 @@
 0.0.0.0 lumupu.xyz
 0.0.0.0 lunarads.com
 0.0.0.0 luxope.com
+0.0.0.0 lvesfrucnt.com
 0.0.0.0 lwgadm.com
 0.0.0.0 lwonclbench.com
 0.0.0.0 lwxoothcoq.com
@@ -16659,6 +16694,7 @@
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 othabqmag.com
 0.0.0.0 otieu.com
+0.0.0.0 otqmunvibzp.in
 0.0.0.0 oustoope.com
 0.0.0.0 out-there-media.com
 0.0.0.0 outbidplacardshowman.com
@@ -16942,6 +16978,7 @@
 0.0.0.0 publicidees.com
 0.0.0.0 publpush.com
 0.0.0.0 pubmatic.bbvms.com
+0.0.0.0 pubnation.com
 0.0.0.0 pubtrky.com
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
@@ -16974,6 +17011,7 @@
 0.0.0.0 pyicbcxvs.com
 0.0.0.0 pyxiscablese.com
 0.0.0.0 pz.mulchimbiber.com
+0.0.0.0 pzaovfjaja.in
 0.0.0.0 pzpvweoxjm.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qa-ads.nobid.com
@@ -17029,6 +17067,7 @@
 0.0.0.0 ramp.purch.com
 0.0.0.0 rampanel.com
 0.0.0.0 rampidads.com
+0.0.0.0 randxogc.com
 0.0.0.0 rank-master.com
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
@@ -17091,6 +17130,7 @@
 0.0.0.0 refraintsarcoma.com
 0.0.0.0 regnow.com
 0.0.0.0 regulationprivilegescan.top
+0.0.0.0 reinscreendecompose.com
 0.0.0.0 rel-s.com
 0.0.0.0 relationshipcourseably.com
 0.0.0.0 relmaxtop.com
@@ -17204,6 +17244,7 @@
 0.0.0.0 sabergood.com
 0.0.0.0 sablesong.com
 0.0.0.0 sacwumsf.com
+0.0.0.0 sads.adsboosters.xyz
 0.0.0.0 safebrowsdv.com
 0.0.0.0 safestgatetocontent.com
 0.0.0.0 sageanalyst.net
@@ -17303,6 +17344,7 @@
 0.0.0.0 shopzilla.com
 0.0.0.0 shpee.eco
 0.0.0.0 si.hikerfaquirs.com
+0.0.0.0 si.humatesmyiosis.com
 0.0.0.0 sibautomation.com
 0.0.0.0 siccash.com
 0.0.0.0 sicksmash.com
@@ -17752,6 +17794,7 @@
 0.0.0.0 tubecorp.com
 0.0.0.0 tubecup.net
 0.0.0.0 tubemogul.com
+0.0.0.0 tuckerclassesjackal.com
 0.0.0.0 tuesdayfetidlit.com
 0.0.0.0 tuffoonincaged.com
 0.0.0.0 tumblebit.com
@@ -17968,6 +18011,7 @@
 0.0.0.0 wd.macherabemaim.shop
 0.0.0.0 wda.com
 0.0.0.0 wdads.sx.atl.publicus.com
+0.0.0.0 wdlyhnddxm.com
 0.0.0.0 wdqhdqtlxu.com
 0.0.0.0 wearadmiration.com
 0.0.0.0 wearemiq.com
@@ -18146,8 +18190,6 @@
 0.0.0.0 wyhifdpatl.com
 0.0.0.0 wynvalur.com
 0.0.0.0 x-traceur.com
-0.0.0.0 x.blueduckredapple.com
-0.0.0.0 x.thecatmachine.com
 0.0.0.0 x2sfa.javgg.eu
 0.0.0.0 x7i0.com
 0.0.0.0 x7r3mk6ldr.com
@@ -18215,6 +18257,7 @@
 0.0.0.0 yldbt.com
 0.0.0.0 yllaris.com
 0.0.0.0 ymetrica1.com
+0.0.0.0 yo.hostalpitylus.shop
 0.0.0.0 yoc-adserver.com
 0.0.0.0 yoc-performance.com
 0.0.0.0 yoggrt.com
@@ -18231,6 +18274,7 @@
 0.0.0.0 yvcchjdiqzpog.rocks
 0.0.0.0 yx.mousesprepuce.shop
 0.0.0.0 yyselrqpyu.com
+0.0.0.0 yzwtz.com
 0.0.0.0 z5x.net
 0.0.0.0 zangocash.com
 0.0.0.0 zanox-affiliate.de
@@ -18780,7 +18824,6 @@
 0.0.0.0 s.media-imdb.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.yjtag.jp
-0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 safegraph.com
 0.0.0.0 salecycle.com
 0.0.0.0 salesiq.zoho.com

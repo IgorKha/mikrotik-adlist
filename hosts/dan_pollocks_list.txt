@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.21
-! Last modified: 2026-08-02T07:02:13.162Z
+! Version: 1.0.19.30
+! Last modified: 2026-08-09T06:22:17.937Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.21
+! Version: 1.0.19.30
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-08-02T00:50:16.786Z
+! Last modified: 2026-08-08T19:14:24.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1580,6 +1580,7 @@
 0.0.0.0 canadapost.helpdag.top
 0.0.0.0 canadapost.postescanadad.xyz
 0.0.0.0 canadapostarticle.com
+0.0.0.0 canadaposteb.eu.cc
 0.0.0.0 capital-invest-can.cropvita.sbs
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
@@ -1739,6 +1740,7 @@
 0.0.0.0 davidhuynh.fr
 0.0.0.0 db-z.fr
 0.0.0.0 dbios.org
+0.0.0.0 dd.l146.com
 0.0.0.0 dealerconnection.fr
 0.0.0.0 dealiveroo.fr
 0.0.0.0 declarateenquiebra.cl
@@ -3200,6 +3202,7 @@
 0.0.0.0 www.americanresortresolutions.com
 0.0.0.0 www.amintart.com
 0.0.0.0 www.amomales.com
+0.0.0.0 www.ampervid.com
 0.0.0.0 www.anatol.com
 0.0.0.0 www.anyik.com
 0.0.0.0 www.apcort.com
@@ -3207,6 +3210,7 @@
 0.0.0.0 www.aqualakefy.name
 0.0.0.0 www.aramcom.space
 0.0.0.0 www.arfrepuestos.com
+0.0.0.0 www.argesmedia.com
 0.0.0.0 www.arknasasbluecross.com
 0.0.0.0 www.artdualdesign.com
 0.0.0.0 www.artssets.com
@@ -3401,6 +3405,7 @@
 0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eljaleomedellin.com
 0.0.0.0 www.emailspend.com
+0.0.0.0 www.emprenderimportaperu.com
 0.0.0.0 www.energiazoque.com
 0.0.0.0 www.eqarati.com
 0.0.0.0 www.eremplacementparts.com
@@ -3546,6 +3551,7 @@
 0.0.0.0 www.iepelnazareno.com
 0.0.0.0 www.iesaber.com
 0.0.0.0 www.igameup.com
+0.0.0.0 www.ilyasasseban.com
 0.0.0.0 www.improvingthe.com
 0.0.0.0 www.indexprofile.com
 0.0.0.0 www.infopaypal.com
@@ -3595,10 +3601,13 @@
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.knoxmenus.com
 0.0.0.0 www.kobotausa.com
+0.0.0.0 www.konceptseven.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.kryzantor.uk
+0.0.0.0 www.ksiargentina.com
 0.0.0.0 www.lacocinany.com
 0.0.0.0 www.lahoreautismcentre.com
+0.0.0.0 www.lamaisonhind.com
 0.0.0.0 www.lanaita.com
 0.0.0.0 www.langleyantiques.com
 0.0.0.0 www.launchbuffer.com
@@ -3639,6 +3648,7 @@
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.markethelper.name
 0.0.0.0 www.marketinghwy.com
+0.0.0.0 www.massagetherapybyjuli.com
 0.0.0.0 www.match3quests.com
 0.0.0.0 www.matifi.com
 0.0.0.0 www.meantvictim.lat
@@ -3856,6 +3866,7 @@
 0.0.0.0 www.shinyechogz.name
 0.0.0.0 www.shootingeffectively.skin
 0.0.0.0 www.shopvisitors.com
+0.0.0.0 www.shrimahaveercollege.com
 0.0.0.0 www.sidneyman.com
 0.0.0.0 www.silebah.com
 0.0.0.0 www.silentgateck.site
@@ -3892,6 +3903,7 @@
 0.0.0.0 www.statsff.com
 0.0.0.0 www.steelbucks.com
 0.0.0.0 www.stellarium.fr
+0.0.0.0 www.stelop.com
 0.0.0.0 www.stihil.com
 0.0.0.0 www.stocksrate.com
 0.0.0.0 www.stopphoulplay.com
@@ -3908,6 +3920,7 @@
 0.0.0.0 www.supereeego.com
 0.0.0.0 www.supportnestframe.uk
 0.0.0.0 www.supportwindowlane.uk
+0.0.0.0 www.susanhaggarphotography.com
 0.0.0.0 www.svipfulishipin.com
 0.0.0.0 www.swallowwire.sa.com
 0.0.0.0 www.sweetdominique.com
@@ -3973,6 +3986,7 @@
 0.0.0.0 www.videonhadat.com
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.vipnac.com
+0.0.0.0 www.visitigangels.com
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.vnailssanclemente.com
 0.0.0.0 www.volvce.com
@@ -4025,6 +4039,7 @@
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com
+0.0.0.0 www.yesyouvan.com
 0.0.0.0 www.yixiudn.com
 0.0.0.0 www.ylgj789.com
 0.0.0.0 www.yoolyes.com
@@ -9059,6 +9074,7 @@
 0.0.0.0 mjxads.internet.com
 0.0.0.0 mk.limonshel.de
 0.0.0.0 mklik.gazeta.pl
+0.0.0.0 mks98.com
 0.0.0.0 ml314.com
 0.0.0.0 mlntracker.com
 0.0.0.0 mm.chitika.net
