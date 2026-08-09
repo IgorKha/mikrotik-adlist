@@ -1,11 +1,7 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.23
-! Last modified: 2026-08-02T07:02:23.491Z
+! Version: 1.0.0.24
+! Last modified: 2026-08-09T06:22:32.982Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
-0.0.0.0 calculator-api-fr.allawnos.com
-0.0.0.0 calculator-api-in.allawnos.com
-0.0.0.0 calculator-api-sg.allawnos.com
-0.0.0.0 calculator-api-us.allawnos.com
 0.0.0.0 classify-app-eu.allawnos.com
 0.0.0.0 classify-app-in.allawnos.com
 0.0.0.0 classify-app-sg.allawnos.com
@@ -48,8 +44,17 @@
 0.0.0.0 gui-server-sg.allawnos.com
 0.0.0.0 gui-server-us.allawnos.com
 0.0.0.0 icosa-service-eu.allawnos.com
+0.0.0.0 icosa-service-fr-01.allawnos.com
+0.0.0.0 icosa-service-fr-02.allawnos.com
+0.0.0.0 icosa-service-fr-03.allawnos.com
 0.0.0.0 icosa-service-in.allawnos.com
+0.0.0.0 icosa-service-in-01.allawnos.com
+0.0.0.0 icosa-service-in-02.allawnos.com
+0.0.0.0 icosa-service-in-03.allawnos.com
 0.0.0.0 icosa-service-sg.allawnos.com
+0.0.0.0 icosa-service-sg-01.allawnos.com
+0.0.0.0 icosa-service-sg-02.allawnos.com
+0.0.0.0 icosa-service-sg-03.allawnos.com
 0.0.0.0 icosa-service-us.allawnos.com
 0.0.0.0 icota-service-eu.allawnos.com
 0.0.0.0 icota-service-in.allawnos.com
@@ -76,7 +81,6 @@
 0.0.0.0 smartcard-apps-sg.allawnos.com
 0.0.0.0 smartcard-apps-us.allawnos.com
 0.0.0.0 sticker-service-in.allawnos.com
-0.0.0.0 wallpaper-service-sg.allawnos.com
 0.0.0.0 zen-core-fr.allawnos.com
 0.0.0.0 zen-core-in.allawnos.com
 0.0.0.0 zen-core-sg.allawnos.com
@@ -125,6 +129,7 @@
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 conf-in-dc.heytapdl.com
 0.0.0.0 conf-sg-dc.heytapdl.com
+0.0.0.0 file-intl-push.heytapdl.com
 0.0.0.0 mdp-appconf-ae.heytapdl.com
 0.0.0.0 mdp-appconf-af.heytapdl.com
 0.0.0.0 mdp-appconf-apc.heytapdl.com
@@ -428,10 +433,15 @@
 0.0.0.0 cloudconf-app-za.heytapmobile.com
 0.0.0.0 conf-in-dc.heytapmobile.com
 0.0.0.0 dc.heytapmobile.com
+0.0.0.0 dc-dragate-sg.heytapmobile.com
 0.0.0.0 dc-stat-in.heytapmobile.com
 0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 mdp-usertrace-in.heytapmobile.com
 0.0.0.0 mdp-usertrace-sg.heytapmobile.com
+0.0.0.0 obus-conf-fr.heytapmobile.com
+0.0.0.0 obus-conf-in.heytapmobile.com
+0.0.0.0 obus-conf-sg.heytapmobile.com
+0.0.0.0 obus-conf-us.heytapmobile.com
 0.0.0.0 obus-dc-eu.heytapmobile.com
 0.0.0.0 obus-dc-ru.heytapmobile.com
 0.0.0.0 obus-dc-us.heytapmobile.com
@@ -445,6 +455,7 @@
 0.0.0.0 obus-dc20305-sg.heytapmobile.com
 0.0.0.0 obus-dctech-in.heytapmobile.com
 0.0.0.0 obus-dctech-sg.heytapmobile.com
+0.0.0.0 obus-dcyitai-sg.heytapmobile.com
 0.0.0.0 obus-jssdk-fr.heytapmobile.com
 0.0.0.0 obus-jssdk-in.heytapmobile.com
 0.0.0.0 obus-jssdk-sg.heytapmobile.com
@@ -456,6 +467,10 @@
 0.0.0.0 sms-ads-in.heytapmobile.com
 0.0.0.0 sms-ads-ru.heytapmobile.com
 0.0.0.0 stgdata-ads-fr.heytapmobile.com
+0.0.0.0 video-api-fr.heytapmobile.com
+0.0.0.0 video-api-gl.heytapmobile.com
+0.0.0.0 video-api-in.heytapmobile.com
+0.0.0.0 video-api-ru.heytapmobile.com
 0.0.0.0 dragate.dc.oppomobile.com
 0.0.0.0 dragate-br.dc.oppomobile.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
@@ -467,6 +482,7 @@
 0.0.0.0 dhfs-th.oppomobile.com
 0.0.0.0 dhfs-vn.oppomobile.com
 0.0.0.0 dhfsf.oppomobile.com
+0.0.0.0 sea-log-rcv.vansound.com
 0.0.0.0 h4g3z1-native.oppo-realme.web.app
 0.0.0.0 finosfin.com
 0.0.0.0 hizonetech.com

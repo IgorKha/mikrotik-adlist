@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.0
-! Last modified: 2026-08-02T07:02:42.217Z
+! Version: 1.0.17.3
+! Last modified: 2026-08-09T06:22:56.905Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -62,6 +62,7 @@
 0.0.0.0 88uan.com
 0.0.0.0 88zkt.com
 0.0.0.0 99tac.com
+0.0.0.0 aa.am
 0.0.0.0 abatek.com
 0.0.0.0 abmetalmecanica.com
 0.0.0.0 abrdns.com

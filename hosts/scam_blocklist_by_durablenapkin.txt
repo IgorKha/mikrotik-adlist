@@ -1,9 +1,7 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.21.53
-! Last modified: 2026-08-02T07:02:27.511Z
+! Version: 1.0.21.60
+! Last modified: 2026-08-09T06:22:40.484Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
-0.0.0.0 1000fapvids.online
-0.0.0.0 1bmo-reactivemyaccount0.com
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
 0.0.0.0 1sttheworld.com
@@ -14,6 +12,7 @@
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
 0.0.0.0 47n78xprrvp1.top
+0.0.0.0 5g-update.com
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
@@ -21,10 +20,9 @@
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 accbing.com
+0.0.0.0 account-cfe.mx
 0.0.0.0 adflowtube.com
-0.0.0.0 adidasko.com
 0.0.0.0 adminicesm.life
-0.0.0.0 adzfree-watch.net
 0.0.0.0 affixwallet.net
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 afiletoget.click
@@ -43,7 +41,6 @@
 0.0.0.0 allupdatenow.com
 0.0.0.0 altruetech.com
 0.0.0.0 amorpulse.com
-0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -73,7 +70,6 @@
 0.0.0.0 beeaar.com
 0.0.0.0 beecrave.com
 0.0.0.0 benecharm.com
-0.0.0.0 benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 best-torrents.com
 0.0.0.0 bestvod.pl
@@ -199,13 +195,13 @@
 0.0.0.0 dleggere.com
 0.0.0.0 dogparadisestore.com
 0.0.0.0 doh-gov.ph
-0.0.0.0 dohealths.com
 0.0.0.0 dolystore.com
 0.0.0.0 dopestore.pl
 0.0.0.0 drama-queen.cc
 0.0.0.0 draxu.com
 0.0.0.0 dreamgreenshoe.com
 0.0.0.0 dreamstee.com
+0.0.0.0 dreamstees.com
 0.0.0.0 dresseloves.com
 0.0.0.0 dressesloves.com
 0.0.0.0 dresseslovesootd.com
@@ -213,7 +209,6 @@
 0.0.0.0 e-indianvisa.com
 0.0.0.0 e-touristvisa.com
 0.0.0.0 e-touristvisaindia.com
-0.0.0.0 e-visa.ie
 0.0.0.0 e-visaindia.com
 0.0.0.0 e-visaindiaonline.com
 0.0.0.0 earnpets.com
@@ -249,6 +244,7 @@
 0.0.0.0 familygiftville.com
 0.0.0.0 familyshark.com
 0.0.0.0 familystore.com
+0.0.0.0 famoury.com
 0.0.0.0 fapst.com
 0.0.0.0 faunugraipt.com
 0.0.0.0 faze1.com
@@ -349,7 +345,6 @@
 0.0.0.0 hityvod.pl
 0.0.0.0 hookahheroes.com
 0.0.0.0 hostpoco.com
-0.0.0.0 hotbignews.com
 0.0.0.0 hotdebrid.com
 0.0.0.0 houselar.com.br
 0.0.0.0 hubfiles.ws
@@ -389,7 +384,6 @@
 0.0.0.0 indianvisagov.com
 0.0.0.0 indianvisaonline.org
 0.0.0.0 indianvisaonlinegov.com
-0.0.0.0 indianvisaservice.org.in
 0.0.0.0 indiaonlinevisa.org
 0.0.0.0 indiavisa-online.org
 0.0.0.0 indiavisa.co.uk
@@ -401,6 +395,7 @@
 0.0.0.0 infinityto.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
+0.0.0.0 infosystemsllc.com
 0.0.0.0 injustice.site
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 iphone.quiztionnaire.biz
@@ -418,7 +413,6 @@
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
-0.0.0.0 keenfootwearsale.com
 0.0.0.0 kesug.com
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 killercharm.com
@@ -444,7 +438,6 @@
 0.0.0.0 kuyhaa.cc
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 lds.xyz
-0.0.0.0 ledgers.network
 0.0.0.0 lemstore.com
 0.0.0.0 leonoremanry.sa.com
 0.0.0.0 lericettedifrancy74.com
@@ -466,9 +459,7 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
-0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
-0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -488,6 +479,7 @@
 0.0.0.0 modalsaya.xyz
 0.0.0.0 moddetail.com
 0.0.0.0 modmobile24.com
+0.0.0.0 moneymm1688.shop
 0.0.0.0 monkstars.com
 0.0.0.0 ms-analytics.mywire.org
 0.0.0.0 msgclick.top
@@ -511,7 +503,6 @@
 0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi18.com
-0.0.0.0 navi19.ru
 0.0.0.0 navi2.com
 0.0.0.0 navi20.com
 0.0.0.0 navi20.ru
@@ -533,7 +524,6 @@
 0.0.0.0 navi39.ru
 0.0.0.0 navi42.ru
 0.0.0.0 navi5.com
-0.0.0.0 navi5.ru
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
 0.0.0.0 navi56.com
@@ -586,6 +576,7 @@
 0.0.0.0 nofotballshop.com
 0.0.0.0 nonofy.com
 0.0.0.0 norfotball.com
+0.0.0.0 norgefotball.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 notify-user-adjustments.vercel.app
@@ -600,12 +591,12 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 officialkmspico.com
 0.0.0.0 oflike.com
+0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
 0.0.0.0 olymptrade-qid.com
 0.0.0.0 online-binomo.com
-0.0.0.0 online-eta.com
 0.0.0.0 onlinecda.pl
 0.0.0.0 onlinefilmy.pl
 0.0.0.0 onlinekino.pl
@@ -614,6 +605,7 @@
 0.0.0.0 onlyfanstake.pro
 0.0.0.0 ontario-energy.com
 0.0.0.0 orderquilt.com
+0.0.0.0 outel.abmarketworks.com
 0.0.0.0 outlet-alfresco.com
 0.0.0.0 own3d.tv
 0.0.0.0 p.arty2night.com
@@ -653,6 +645,7 @@
 0.0.0.0 prpages.com
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 punchonsol.top
+0.0.0.0 q3i5q2r6.stackpathcdn.com
 0.0.0.0 qq51f.short.gy
 0.0.0.0 quitasueno.com
 0.0.0.0 quotex.com.in
@@ -711,6 +704,7 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
 0.0.0.0 skinszone.net
+0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 slimsyrups.ca
@@ -720,6 +714,7 @@
 0.0.0.0 smartpurchase.website
 0.0.0.0 smartuniswap.xyz
 0.0.0.0 smtpget.com
+0.0.0.0 smtpwire.com
 0.0.0.0 smvisa.co.il
 0.0.0.0 sodipi.com
 0.0.0.0 softgetpc.com
@@ -729,6 +724,7 @@
 0.0.0.0 souhoney.com
 0.0.0.0 southernlife.net
 0.0.0.0 sportfanlab.com
+0.0.0.0 sportfirestore.com
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 sportsbrooks.com
 0.0.0.0 sportswearfanatics.com
@@ -866,7 +862,6 @@
 0.0.0.0 vindhuisdieren.com
 0.0.0.0 vinisay.com
 0.0.0.0 vip100.cc
-0.0.0.0 vipdeit.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 virustoal.com
 0.0.0.0 visa-to-india.com
@@ -915,7 +910,6 @@
 0.0.0.0 yasir252.com
 0.0.0.0 yeezysofficial.us.com
 0.0.0.0 yeswevibe.com
-0.0.0.0 yeyvibe.com
 0.0.0.0 ygtube.xyz
 0.0.0.0 yhdshop.com
 0.0.0.0 yofi-yofi.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.52
-! Last modified: 2026-08-02T07:02:09.935Z
+! Version: 1.0.17.57
+! Last modified: 2026-08-09T06:22:14.243Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -764,6 +764,7 @@
 0.0.0.0 advert.dyna.ultraweb.hu
 0.0.0.0 adverticum.com
 0.0.0.0 adverticum.net
+0.0.0.0 advertipros.com
 0.0.0.0 advertise.com
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertiserurl.com
@@ -843,8 +844,10 @@
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 amcnreil.pro
 0.0.0.0 americash.com
 0.0.0.0 amidsttruly.com
+0.0.0.0 ampscamp.net
 0.0.0.0 amung.us
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.eu
 0.0.0.0 analytics-production.hapyak.com
@@ -872,6 +875,7 @@
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.santander.co.uk
 0.0.0.0 analytics.swiggy.com
+0.0.0.0 analytics.tempy.email
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.yahoo.com
@@ -1131,6 +1135,7 @@
 0.0.0.0 bwp.download.com
 0.0.0.0 c.apple.com
 0.0.0.0 c.bigmir.net
+0.0.0.0 c.trkn.it
 0.0.0.0 c1exchange.com
 0.0.0.0 c212.net
 0.0.0.0 cakesdrum.com
@@ -1837,6 +1842,7 @@
 0.0.0.0 hollowafterthought.com
 0.0.0.0 homelycrown.com
 0.0.0.0 homepageking.de
+0.0.0.0 honeybutterbliss.com
 0.0.0.0 honorableland.com
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hotjar.com
@@ -1893,7 +1899,6 @@
 0.0.0.0 imp.i312864.net
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 imprese.cz
-0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionmonster.com
 0.0.0.0 improvedigital.com
 0.0.0.0 imrworldwide.com
@@ -2052,7 +2057,6 @@
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 lijit.com
 0.0.0.0 limecodesign.com
-0.0.0.0 link-booster.de
 0.0.0.0 link.axios.com
 0.0.0.0 link.beelivery.com
 0.0.0.0 link.email.davidlloydclubs.co.uk
@@ -2442,7 +2446,6 @@
 0.0.0.0 owneriq.net
 0.0.0.0 oxado.com
 0.0.0.0 oxcash.com
-0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 p-n.io
 0.0.0.0 p7cloud.net
 0.0.0.0 paa-reporting-advertising.amazon
@@ -2521,6 +2524,7 @@
 0.0.0.0 pluckypocket.com
 0.0.0.0 plugrush.com
 0.0.0.0 pocketfaucet.com
+0.0.0.0 pocustrack.com
 0.0.0.0 poemprompt.com
 0.0.0.0 pointlessprofit.com
 0.0.0.0 pointroll.com
@@ -2588,6 +2592,7 @@
 0.0.0.0 protraffic.com
 0.0.0.0 provenpixel.com
 0.0.0.0 prpops.com
+0.0.0.0 prsitecheck.com
 0.0.0.0 prufenzo.xyz
 0.0.0.0 pstmrk.it
 0.0.0.0 pub.chez.com
@@ -2605,6 +2610,7 @@
 0.0.0.0 puffypaste.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
+0.0.0.0 pulse.genki.world
 0.0.0.0 pureclarity.net
 0.0.0.0 pushengage.com
 0.0.0.0 pushno.com
@@ -2698,7 +2704,6 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 rememberdiscussion.com
-0.0.0.0 remox.com
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-partners.appmetrica.yandex.net
@@ -2777,6 +2782,7 @@
 0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
+0.0.0.0 sadloaf.com
 0.0.0.0 safeoffers.pro
 0.0.0.0 sail-horizon.com
 0.0.0.0 samplesamba.com
@@ -3055,6 +3061,7 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyd.com
 0.0.0.0 t.leady.com
+0.0.0.0 t.marketing.goindigo.in
 0.0.0.0 t.mmtrkr.com
 0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.notif-colissimo-laposte.info
