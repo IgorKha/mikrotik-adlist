@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.30
-! Last modified: 2026-08-09T06:22:17.937Z
+! Version: 1.0.19.39
+! Last modified: 2026-08-16T06:13:47.083Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.30
+! Version: 1.0.19.39
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-08-08T19:14:24.459Z
+! Last modified: 2026-08-14T19:22:50.483Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3217,6 +3217,7 @@
 0.0.0.0 www.asianread.com
 0.0.0.0 www.assistdocklane.uk
 0.0.0.0 www.atightschedule.com
+0.0.0.0 www.atoztechnotricks.com
 0.0.0.0 www.audacity.es
 0.0.0.0 www.audacity.fr
 0.0.0.0 www.audionoisereducer.com
@@ -3231,9 +3232,11 @@
 0.0.0.0 www.bahartonu.com
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.balassst.com
+0.0.0.0 www.ballarddesighs.com
 0.0.0.0 www.bandexperts.com
 0.0.0.0 www.banghra.com
 0.0.0.0 www.bankofcounty.com
+0.0.0.0 www.banyotoptansatis.com
 0.0.0.0 www.barjacity.com
 0.0.0.0 www.basealloys.com
 0.0.0.0 www.baseequip.com
@@ -3292,6 +3295,7 @@
 0.0.0.0 www.careertake.com
 0.0.0.0 www.carehigher.com
 0.0.0.0 www.carolmassoterapia.com
+0.0.0.0 www.casamaticoecu.com
 0.0.0.0 www.casinorankerhub.com
 0.0.0.0 www.casinostarluck.net
 0.0.0.0 www.cassink.com
@@ -3327,6 +3331,7 @@
 0.0.0.0 www.clubplanning.com
 0.0.0.0 www.coconutsport.com
 0.0.0.0 www.coinimp.com
+0.0.0.0 www.colleyvillepapershredding.com
 0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.commitlacrossecamps.com
@@ -3691,6 +3696,7 @@
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.myrosinase.com
+0.0.0.0 www.myupstox.com
 0.0.0.0 www.nabtapharma.com
 0.0.0.0 www.nanohistory.com
 0.0.0.0 www.naturalmovementz.com
@@ -3758,6 +3764,7 @@
 0.0.0.0 www.pdxsenior.com
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 www.pearlyappss.pro
+0.0.0.0 www.pelistvseries.com
 0.0.0.0 www.peopleesbancorp.com
 0.0.0.0 www.pepernity.com
 0.0.0.0 www.perimentu.com
@@ -3788,6 +3795,7 @@
 0.0.0.0 www.postsavings.com
 0.0.0.0 www.poukladanyswiat.com
 0.0.0.0 www.ppoi.org
+0.0.0.0 www.prabvisa.com
 0.0.0.0 www.premiumbrandszonalibre.com
 0.0.0.0 www.presidency.site
 0.0.0.0 www.prgwbn.cfd
@@ -3822,11 +3830,13 @@
 0.0.0.0 www.readyviews.com
 0.0.0.0 www.realdrjudy.com
 0.0.0.0 www.reandrogames.com
+0.0.0.0 www.reasearchverified.com
 0.0.0.0 www.recallblog.com
 0.0.0.0 www.regulationprofit.bond
 0.0.0.0 www.rekonsise.com
 0.0.0.0 www.relaxingcafe.com
 0.0.0.0 www.reliaslearrning.com
+0.0.0.0 www.reltar.com
 0.0.0.0 www.renderfoest.com
 0.0.0.0 www.rerminix.com
 0.0.0.0 www.revivemore.com
@@ -3877,11 +3887,14 @@
 0.0.0.0 www.sizecart.com
 0.0.0.0 www.skibidihotel.com
 0.0.0.0 www.skillmatchgame.com
+0.0.0.0 www.skincareds.com
 0.0.0.0 www.skyonlinegratis.com
+0.0.0.0 www.slawdhaka.com
 0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
 0.0.0.0 www.smokyshadecj.name
+0.0.0.0 www.smtnaraynicollege.com
 0.0.0.0 www.snkido.com
 0.0.0.0 www.snowhandball.com
 0.0.0.0 www.snugbirdjq.blog
@@ -3894,6 +3907,7 @@
 0.0.0.0 www.sohailpc.com
 0.0.0.0 www.sonparks.skin
 0.0.0.0 www.spectrumhomehealthinc.com
+0.0.0.0 www.speesway.com
 0.0.0.0 www.spiritentertainment.homes
 0.0.0.0 www.spojrzenia.com
 0.0.0.0 www.sporttile.com
@@ -9788,6 +9802,7 @@
 0.0.0.0 reactads.cdn.adglare.net
 0.0.0.0 realads.realmedia.com
 0.0.0.0 realgfsbucks.com
+0.0.0.0 realizationnewestfangs.com
 0.0.0.0 realmedia-a800.d4p.net
 0.0.0.0 realmedia.advance.net
 0.0.0.0 realplayz.com
@@ -10212,6 +10227,7 @@
 0.0.0.0 speednetwork14.adk2x.com
 0.0.0.0 speednetwork6.adk2x.com
 0.0.0.0 speeltuintalud.nl
+0.0.0.0 spendsdetachment.com
 0.0.0.0 spensa.co
 0.0.0.0 spin.spinbox.net
 0.0.0.0 spinbox.com
@@ -10454,6 +10470,7 @@
 0.0.0.0 thebitcrew.com
 0.0.0.0 thebrighttag.com
 0.0.0.0 thebuzz.today
+0.0.0.0 thedirecthor.com
 0.0.0.0 theestatehouse.co.uk
 0.0.0.0 theketo-complete.com
 0.0.0.0 themaplemethod.com
@@ -10847,6 +10864,7 @@
 0.0.0.0 worden.samenresultaat.nl
 0.0.0.0 work-offer.com
 0.0.0.0 workaccount.free.bg
+0.0.0.0 workdeadlinededicate.com
 0.0.0.0 worldmedpilldeliver.com
 0.0.0.0 worry-free-savings.com
 0.0.0.0 wowanalytics.co.uk
@@ -11792,6 +11810,7 @@
 0.0.0.0 zevents.com
 0.0.0.0 zlhoteckelinie.wz.cz
 0.0.0.0 zoeandjo.co.uk
+0.0.0.0 zoologyfibre.com
 0.0.0.0 zu1.november-lax.com
 0.0.0.0 zulu.r867qq.net
 0.0.0.0 zytpirwai.net

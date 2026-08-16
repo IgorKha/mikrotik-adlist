@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.15.9
-! Last modified: 2026-08-09T06:22:34.048Z
+! Version: 1.0.15.10
+! Last modified: 2026-08-16T06:13:59.956Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0daib.pl
 0.0.0.0 0x01n2ptpuz3.com
@@ -341,3 +341,4 @@
 0.0.0.0 optimafluxoria.com
 0.0.0.0 collect.neuca24.pl
 0.0.0.0 matomo.neuca24.pl
+0.0.0.0 hvmtdby.com

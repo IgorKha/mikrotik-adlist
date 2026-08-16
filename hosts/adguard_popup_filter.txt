@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.52
-! Last modified: 2026-08-09T06:22:20.199Z
+! Version: 1.0.18.53
+! Last modified: 2026-08-16T06:13:48.853Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 supersedeaccolade.com
 0.0.0.0 gamengirls.com
@@ -218,6 +218,7 @@
 0.0.0.0 d3t3bxixsojwre.cloudfront.net
 0.0.0.0 0i0i0i0.com
 0.0.0.0 1asb.com
+0.0.0.0 2osb.com
 0.0.0.0 30dcf.com
 0.0.0.0 367p.com
 0.0.0.0 3ckz.com
@@ -262,14 +263,11 @@
 0.0.0.0 affroller.com
 0.0.0.0 aftrk3.com
 0.0.0.0 agat-tech.com
-0.0.0.0 aifolr.com
 0.0.0.0 aimging.com
 0.0.0.0 ak-is2.net
 0.0.0.0 albonsa.com
 0.0.0.0 alexatracker.com
-0.0.0.0 algesismesse.cyou
 0.0.0.0 alpine-vpn.com
-0.0.0.0 amichi.info
 0.0.0.0 amusing-injury.com
 0.0.0.0 animeloundry.com
 0.0.0.0 antiadblocksystems.com
@@ -346,7 +344,6 @@
 0.0.0.0 cm65.com
 0.0.0.0 cntrealize.com
 0.0.0.0 coastalbloom.xyz
-0.0.0.0 colleem.com
 0.0.0.0 conestreshow.com
 0.0.0.0 consultflow.click
 0.0.0.0 coolserving.com
@@ -404,7 +401,6 @@
 0.0.0.0 foruftuiov.com
 0.0.0.0 freetrckr.com
 0.0.0.0 frequentjam.com
-0.0.0.0 fruityarbors.cfd
 0.0.0.0 fstsrv9.com
 0.0.0.0 fuck-ads.vercel.app
 0.0.0.0 fzev75-rtbix.top
@@ -420,7 +416,6 @@
 0.0.0.0 gkrtmc.com
 0.0.0.0 gmmads.com
 0.0.0.0 go-srv.com
-0.0.0.0 go.betobet.net
 0.0.0.0 go2affise.com
 0.0.0.0 go2bdmbet.com
 0.0.0.0 go2offer-1.com
@@ -432,7 +427,6 @@
 0.0.0.0 gtbdhr.com
 0.0.0.0 gys5.com
 0.0.0.0 hagech.com
-0.0.0.0 harmo-woe.com
 0.0.0.0 haveameet.com
 0.0.0.0 helicient.com
 0.0.0.0 heptix.net
@@ -502,7 +496,6 @@
 0.0.0.0 mainexclkdir.com
 0.0.0.0 making.party
 0.0.0.0 maredpt.com
-0.0.0.0 marketingthing.click
 0.0.0.0 marovia.cc
 0.0.0.0 masterreviews.org
 0.0.0.0 maxconvtrk.com
@@ -544,7 +537,6 @@
 0.0.0.0 navigatingnautical.xyz
 0.0.0.0 nersionitsumpute.com
 0.0.0.0 newmytrp.com
-0.0.0.0 next-lust.cfd
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 nightbesties.com
 0.0.0.0 nithyshipsi.com
@@ -578,7 +570,6 @@
 0.0.0.0 ovardu.com
 0.0.0.0 oversolosisor.com
 0.0.0.0 ovret.com
-0.0.0.0 pacha-wui.com
 0.0.0.0 paehceman.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 paulastroid.com
@@ -616,6 +607,7 @@
 0.0.0.0 protected-redirect.click
 0.0.0.0 protection-suggestion.com
 0.0.0.0 provenpixel.com
+0.0.0.0 proxy4mmo.com
 0.0.0.0 pubadx.one
 0.0.0.0 pubtrky.com
 0.0.0.0 pupspu.com
@@ -632,9 +624,9 @@
 0.0.0.0 quixoticzest.com
 0.0.0.0 qwikln.com
 0.0.0.0 r8bz.com
+0.0.0.0 raceamen.com
 0.0.0.0 racunn.com
 0.0.0.0 radiancerelaysacred.com
-0.0.0.0 ragan-qdr.com
 0.0.0.0 rak8s.com
 0.0.0.0 rbtfit.com
 0.0.0.0 rcdn-web.com
@@ -654,7 +646,6 @@
 0.0.0.0 rockwound.site
 0.0.0.0 rocoads.com
 0.0.0.0 rolltrk9.com
-0.0.0.0 romil-jdd.com
 0.0.0.0 roobetaffiliates.com
 0.0.0.0 roots.baby
 0.0.0.0 roundflow.net
@@ -678,7 +669,6 @@
 0.0.0.0 sgben.com
 0.0.0.0 shakingtacklingunpeeled.com
 0.0.0.0 shauladubhe.top
-0.0.0.0 sheitelhamatum.shop
 0.0.0.0 shoppinglifestyle.biz
 0.0.0.0 shotgunchancecruel.com
 0.0.0.0 signamentswithd.com
@@ -720,7 +710,6 @@
 0.0.0.0 tigerbrluck.com
 0.0.0.0 tiktok-fly.com
 0.0.0.0 tjwsg.com
-0.0.0.0 toequiet.website
 0.0.0.0 toiletpaper.life
 0.0.0.0 tomlldahehun.org
 0.0.0.0 toopsoug.net
@@ -751,7 +740,6 @@
 0.0.0.0 twigwisp.com
 0.0.0.0 twinrdsyte.com
 0.0.0.0 typical-hub.com
-0.0.0.0 u7do.sbs
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
 0.0.0.0 upodaitie.net
@@ -760,13 +748,11 @@
 0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
 0.0.0.0 verdepromo.info
-0.0.0.0 veret-fqv.com
 0.0.0.0 vfgte.com
 0.0.0.0 vibrantscale.com
 0.0.0.0 viiadaof.com
 0.0.0.0 viibslav.com
 0.0.0.0 viiczfvm.com
-0.0.0.0 viikuhhs.com
 0.0.0.0 viiyutty.com
 0.0.0.0 viiyxefb.com
 0.0.0.0 vilytaku.com
@@ -777,7 +763,6 @@
 0.0.0.0 vizoalygrenn.com
 0.0.0.0 vmmcdn.com
 0.0.0.0 voluumtrk.com
-0.0.0.0 vstwerxerbc.top
 0.0.0.0 vulnerableimmigrateaboveaverage.com
 0.0.0.0 w0we.com
 0.0.0.0 want-some-psh.com
@@ -785,6 +770,7 @@
 0.0.0.0 wbidder3.com
 0.0.0.0 we-offer.com
 0.0.0.0 webfanclub.com
+0.0.0.0 webls.net
 0.0.0.0 webmedrtb.com
 0.0.0.0 wetrackgames.com
 0.0.0.0 wewearegogogo.com
