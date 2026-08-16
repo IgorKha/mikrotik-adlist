@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.61
-! Last modified: 2026-08-09T06:22:34.537Z
+! Version: 1.0.17.62
+! Last modified: 2026-08-16T06:14:00.254Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.61
+! Version: 1.0.17.62
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-08-07T08:04:21.205Z
+! Last modified: 2026-08-10T08:36:45.147Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14753,8 +14753,10 @@
 0.0.0.0 brygella.com
 0.0.0.0 brynh-lei.com
 0.0.0.0 bt.teparytympan.qpon
+0.0.0.0 btbeacdhrdt.com
 0.0.0.0 btguqecoelukltw.com
 0.0.0.0 btpnative.com
+0.0.0.0 bttupamp.com
 0.0.0.0 bucksense.com
 0.0.0.0 buffooncountabletreble.com
 0.0.0.0 bulbbait.com
@@ -15234,6 +15236,7 @@
 0.0.0.0 deloo.de
 0.0.0.0 deloton.com
 0.0.0.0 demand.supply
+0.0.0.0 demeaninganglicisearticle.com
 0.0.0.0 denbeigemark.com
 0.0.0.0 denetsuk.com
 0.0.0.0 deostr.com
@@ -16597,6 +16600,7 @@
 0.0.0.0 odqdkealzr.com
 0.0.0.0 oewa.at
 0.0.0.0 ofcgcdcvk.com
+0.0.0.0 ofdajwabl.in
 0.0.0.0 offclaydolon.com
 0.0.0.0 offerforge.com
 0.0.0.0 offerfusion.com
@@ -17019,6 +17023,7 @@
 0.0.0.0 qahntenkyf.com
 0.0.0.0 qakcceob.com
 0.0.0.0 qayuwjcpfxusg.website
+0.0.0.0 qcinouznrsvnqa.com
 0.0.0.0 qctop.com
 0.0.0.0 qgxbluhsgad.com
 0.0.0.0 qingolor.com
@@ -17027,6 +17032,7 @@
 0.0.0.0 qlucmyomqatcz.online
 0.0.0.0 qmyoclrszpanh.website
 0.0.0.0 qn.unspedtaction.com
+0.0.0.0 qnbeenbgsx.com
 0.0.0.0 qnp16tstw.com
 0.0.0.0 qnsr.com
 0.0.0.0 qo.errorrespan.com
@@ -18272,6 +18278,7 @@
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
 0.0.0.0 yvcchjdiqzpog.rocks
+0.0.0.0 yx.crappininvein.shop
 0.0.0.0 yx.mousesprepuce.shop
 0.0.0.0 yyselrqpyu.com
 0.0.0.0 yzwtz.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.57
-! Last modified: 2026-08-09T06:22:14.243Z
+! Version: 1.0.17.64
+! Last modified: 2026-08-16T06:13:43.561Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -103,7 +103,6 @@
 0.0.0.0 ad.bondage.com
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
-0.0.0.0 ad.choiceradio.com
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.dnoticias.pt
@@ -321,7 +320,6 @@
 0.0.0.0 adrotate.de
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrta.com
-0.0.0.0 ads-backend.chaincliq.com
 0.0.0.0 ads-bilek.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
@@ -401,7 +399,6 @@
 0.0.0.0 ads.emdee.ca
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.epi.sk
-0.0.0.0 ads.epltalk.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.fastcomgroup.it
@@ -757,7 +754,6 @@
 0.0.0.0 adv.wp.pl
 0.0.0.0 adv.yo.cz
 0.0.0.0 advangelists.com
-0.0.0.0 advariant.com
 0.0.0.0 adventory.com
 0.0.0.0 adventurousamount.com
 0.0.0.0 advert.bayarea.com
@@ -844,7 +840,6 @@
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
-0.0.0.0 amcnreil.pro
 0.0.0.0 americash.com
 0.0.0.0 amidsttruly.com
 0.0.0.0 ampscamp.net
@@ -1172,6 +1167,7 @@
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
+0.0.0.0 catfront.dianping.com
 0.0.0.0 cattlecommittee.com
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouscredit.com
@@ -1438,6 +1434,7 @@
 0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
 0.0.0.0 dapper.net
+0.0.0.0 data.hailuo.ai
 0.0.0.0 datapickles.com
 0.0.0.0 datenow.link
 0.0.0.0 daybreaklights.com
@@ -1721,7 +1718,6 @@
 0.0.0.0 g2.gumgum.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 gadsbee.com
-0.0.0.0 galaxien.com
 0.0.0.0 game-advertising-online.com
 0.0.0.0 gamesites100.net
 0.0.0.0 gamesites200.com
@@ -1899,6 +1895,7 @@
 0.0.0.0 imp.i312864.net
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 imprese.cz
+0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionmonster.com
 0.0.0.0 improvedigital.com
 0.0.0.0 imrworldwide.com
@@ -1916,6 +1913,7 @@
 0.0.0.0 infinityads.com
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 infolinks.com
+0.0.0.0 ingest.in.signoz.cloud
 0.0.0.0 inmobi.com
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
@@ -2601,6 +2599,7 @@
 0.0.0.0 pub.network
 0.0.0.0 pub.realmedia.fr
 0.0.0.0 pubdirecte.com
+0.0.0.0 pubfuture-ssp.com
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 publicidees.com
 0.0.0.0 publicsofa.com
@@ -2687,7 +2686,6 @@
 0.0.0.0 recapture.io
 0.0.0.0 receptivereaction.com
 0.0.0.0 recoco.it
-0.0.0.0 reconditerake.com
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
 0.0.0.0 redirectingat.com
@@ -2774,6 +2772,8 @@
 0.0.0.0 rubiconproject.com
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.eu
+0.0.0.0 rum-openway.guance.com
+0.0.0.0 rum.aliyuncs.com
 0.0.0.0 runads.com
 0.0.0.0 rundsp.com
 0.0.0.0 ruralrobin.com
@@ -3298,6 +3298,7 @@
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
 0.0.0.0 twelvedawn.com
+0.0.0.0 twisty.net
 0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 tynt.com

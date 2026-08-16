@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.3
-! Last modified: 2026-08-09T06:22:56.905Z
+! Version: 1.0.17.7
+! Last modified: 2026-08-16T06:14:21.576Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -55,17 +55,13 @@
 0.0.0.0 4twenty.us
 0.0.0.0 64-b.it
 0.0.0.0 688.org
-0.0.0.0 77qac.com
 0.0.0.0 77uam.com
-0.0.0.0 77ynd.com
-0.0.0.0 79ama.com
-0.0.0.0 88uan.com
 0.0.0.0 88zkt.com
-0.0.0.0 99tac.com
 0.0.0.0 aa.am
 0.0.0.0 abatek.com
 0.0.0.0 abmetalmecanica.com
 0.0.0.0 abrdns.com
+0.0.0.0 abuser.eu
 0.0.0.0 access.ly
 0.0.0.0 accesscam.org
 0.0.0.0 acmetoy.com
@@ -1169,7 +1165,6 @@
 0.0.0.0 prettyweak.com
 0.0.0.0 priamaakcia.sk
 0.0.0.0 pride.moe
-0.0.0.0 pride.ngo
 0.0.0.0 privatedns.com
 0.0.0.0 privatedns.org
 0.0.0.0 privateimport.jp
