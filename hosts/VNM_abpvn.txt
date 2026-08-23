@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.62
-! Last modified: 2026-08-16T06:14:00.254Z
+! Version: 1.0.17.65
+! Last modified: 2026-08-23T06:14:27.021Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.62
+! Version: 1.0.17.65
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-08-10T08:36:45.147Z
+! Last modified: 2026-08-18T08:16:11.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -10160,9 +10160,8 @@
 0.0.0.0 ads-adaptv.vidible.tv
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 trk.vidible.tv
-0.0.0.0 assets.customer.io
-0.0.0.0 customer.io
-0.0.0.0 edge-west.customer.io
+0.0.0.0 cdp-eu.customer.io
+0.0.0.0 cdp.customer.io
 0.0.0.0 track-sdk.customer.io
 0.0.0.0 track.customer.io
 0.0.0.0 ads.snapchat.com
@@ -11724,6 +11723,8 @@
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 s3-ca-liveops.easybrain.com
 0.0.0.0 s3-playable-ads.easybrain.com
+0.0.0.0 orion.bendingspoons.com
+0.0.0.0 storage.orion.bendingspoons.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -14638,6 +14639,7 @@
 0.0.0.0 betotodilea.com
 0.0.0.0 betteradsystem.com
 0.0.0.0 bewilderedblade.com
+0.0.0.0 bfwzpynoz.com
 0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bharalhallahs.com
 0.0.0.0 bhcumsc.com
@@ -15269,6 +15271,7 @@
 0.0.0.0 directorym.com
 0.0.0.0 directpaper.name
 0.0.0.0 directtrack.com
+0.0.0.0 dirigibleharbornewspaper.com
 0.0.0.0 discountclick.com
 0.0.0.0 discountplacidlysymphony.com
 0.0.0.0 discourageabjure.com
@@ -15421,6 +15424,7 @@
 0.0.0.0 emediate.dk
 0.0.0.0 emerse.com
 0.0.0.0 emxdigital.com
+0.0.0.0 endlesshandbaglinked.com
 0.0.0.0 endowmentoverhangutmost.com
 0.0.0.0 endurosweekday.com
 0.0.0.0 engine.espace.netavenir.com
@@ -15815,6 +15819,7 @@
 0.0.0.0 hotrank.com.tw
 0.0.0.0 howdoesin.net
 0.0.0.0 hppvkbfcuq.com
+0.0.0.0 hqhxfrcxxky.com
 0.0.0.0 htlbid.com
 0.0.0.0 httpool.com
 0.0.0.0 hue2n.com
@@ -16445,6 +16450,7 @@
 0.0.0.0 mytdsnet.com
 0.0.0.0 mythings.com
 0.0.0.0 mytop-in.net
+0.0.0.0 mz.elapsehorsier.cyou
 0.0.0.0 mz.proxysmjameson.cfd
 0.0.0.0 mzyvyjsq.com
 0.0.0.0 n69.com
@@ -17259,6 +17265,7 @@
 0.0.0.0 sailif.com
 0.0.0.0 sainwertapr.com
 0.0.0.0 saipsoan.net
+0.0.0.0 salutetutortwiddling.com
 0.0.0.0 sancontr.com
 0.0.0.0 sanoslkut.in
 0.0.0.0 sanynouncem.org
@@ -18283,6 +18290,7 @@
 0.0.0.0 yyselrqpyu.com
 0.0.0.0 yzwtz.com
 0.0.0.0 z5x.net
+0.0.0.0 zamabholqonh.in
 0.0.0.0 zangocash.com
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com

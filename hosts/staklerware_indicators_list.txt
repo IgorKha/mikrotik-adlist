@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
 ! Version: 1.0.14.64
-! Last modified: 2026-08-16T06:14:09.320Z
+! Last modified: 2026-08-23T06:14:34.003Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 12d60.appspot.com
 0.0.0.0 12d60.firebaseio.com

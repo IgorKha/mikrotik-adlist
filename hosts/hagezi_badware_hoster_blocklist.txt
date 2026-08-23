@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.20.94
-! Last modified: 2026-08-16T06:14:21.701Z
+! Version: 1.0.20.97
+! Last modified: 2026-08-23T06:14:49.302Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -408,6 +408,7 @@
 0.0.0.0 cs-clan.org
 0.0.0.0 cstu.io
 0.0.0.0 ct.ws
+0.0.0.0 ctempurl.com
 0.0.0.0 cut.vin
 0.0.0.0 cutedrive.com
 0.0.0.0 cwqso.net
@@ -455,6 +456,7 @@
 0.0.0.0 e.gp
 0.0.0.0 e-docssig.com
 0.0.0.0 easyfreehosting.com
+0.0.0.0 eb2a.com
 0.0.0.0 ec.gp
 0.0.0.0 ecardalert.com
 0.0.0.0 ecomplanet.com
@@ -653,6 +655,7 @@
 0.0.0.0 hyperphp.com
 0.0.0.0 i.gp
 0.0.0.0 i8.ae
+0.0.0.0 ibiz.cc
 0.0.0.0 iblogger.org
 0.0.0.0 iceiy.com
 0.0.0.0 id.gp

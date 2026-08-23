@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.64
-! Last modified: 2026-08-16T06:13:43.561Z
+! Version: 1.0.17.66
+! Last modified: 2026-08-23T06:14:10.265Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -59,7 +59,6 @@
 0.0.0.0 ablink.news.emails-puregym.com
 0.0.0.0 ablinks.mail.hinge.co
 0.0.0.0 aboardlevel.com
-0.0.0.0 absolutering.com
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 abtasty.com
@@ -399,6 +398,7 @@
 0.0.0.0 ads.emdee.ca
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.epi.sk
+0.0.0.0 ads.epltalk.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.fastcomgroup.it
@@ -586,7 +586,6 @@
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 ads10.speedbit.com
-0.0.0.0 ads180.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.gamecity.net
@@ -754,6 +753,7 @@
 0.0.0.0 adv.wp.pl
 0.0.0.0 adv.yo.cz
 0.0.0.0 advangelists.com
+0.0.0.0 advariant.com
 0.0.0.0 adventory.com
 0.0.0.0 adventurousamount.com
 0.0.0.0 advert.bayarea.com
@@ -1018,7 +1018,6 @@
 0.0.0.0 basebanner.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
-0.0.0.0 bastingart.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bbelements.com
 0.0.0.0 bbn.img.com.ua
@@ -1057,7 +1056,6 @@
 0.0.0.0 bigclicks.com
 0.0.0.0 bigfishapparel.com
 0.0.0.0 bigreal.org
-0.0.0.0 bigworldfashion.com
 0.0.0.0 billboard.cz
 0.0.0.0 billtable.com
 0.0.0.0 birthdaybelief.com
@@ -1272,6 +1270,7 @@
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clickrtrckr.com
 0.0.0.0 clicks.checkatrade.com
+0.0.0.0 clicks.couchsurfing.com
 0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.eventbrite.com
@@ -1718,6 +1717,7 @@
 0.0.0.0 g2.gumgum.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 gadsbee.com
+0.0.0.0 galaxien.com
 0.0.0.0 game-advertising-online.com
 0.0.0.0 gamesites100.net
 0.0.0.0 gamesites200.com
@@ -1957,7 +1957,6 @@
 0.0.0.0 jamexport.com
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
-0.0.0.0 jewelrysprings.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
 0.0.0.0 joyoussurprise.com
@@ -1982,7 +1981,6 @@
 0.0.0.0 kameleoon.eu
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
-0.0.0.0 kernellife.com
 0.0.0.0 kickoffo.site
 0.0.0.0 kindads.com
 0.0.0.0 kindlereunion.com
@@ -2421,7 +2419,6 @@
 0.0.0.0 optimallimit.com
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
-0.0.0.0 optionsnomad.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
@@ -2466,7 +2463,6 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
-0.0.0.0 partnerhut.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 partners.priceline.com
 0.0.0.0 partplanes.com
@@ -2702,6 +2698,7 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 rememberdiscussion.com
+0.0.0.0 remox.com
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-partners.appmetrica.yandex.net
@@ -2741,7 +2738,6 @@
 0.0.0.0 rle.ru
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmedia.boston.com
-0.0.0.0 roaddynamics.com
 0.0.0.0 roar.com
 0.0.0.0 robotrefinery.com
 0.0.0.0 robotreplay.com
@@ -3449,7 +3445,6 @@
 0.0.0.0 worldwide-cash.net
 0.0.0.0 worriednumber.com
 0.0.0.0 wowfunnow.com
-0.0.0.0 writerhubs.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt.bankmillennium.pl
 0.0.0.0 www-banner.chat.ru
