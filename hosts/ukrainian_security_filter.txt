@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_62.txt
 ! Version: 1.0.0.19
-! Last modified: 2026-08-16T06:14:06.311Z
+! Last modified: 2026-08-23T06:14:31.794Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1webs.top
 0.0.0.0 1win.pro

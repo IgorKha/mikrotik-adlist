@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.41
-! Last modified: 2026-08-16T06:13:57.794Z
+! Version: 1.0.15.42
+! Last modified: 2026-08-23T06:14:25.844Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -71,6 +71,7 @@
 0.0.0.0 amoredate.com
 0.0.0.0 amour.dk
 0.0.0.0 amourfactory.com
+0.0.0.0 amourfeel.com
 0.0.0.0 amourland.com
 0.0.0.0 amours-bio.com
 0.0.0.0 amourtimes.com
@@ -597,6 +598,7 @@
 0.0.0.0 grannysexfriend.com
 0.0.0.0 gratissexkontakt.com
 0.0.0.0 groony.com
+0.0.0.0 gstatvb.com
 0.0.0.0 guapasmaduras.com
 0.0.0.0 guayu.com
 0.0.0.0 guidedenuit.com

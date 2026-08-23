@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.22.38
-! Last modified: 2026-08-16T06:14:21.005Z
+! Version: 1.0.22.45
+! Last modified: 2026-08-23T06:14:48.871Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -1734,6 +1734,10 @@
 0.0.0.0 ladesona.com
 0.0.0.0 luiosmardc.ink
 0.0.0.0 auth-code-verif.beer
+0.0.0.0 gta-six-leaks.com
+0.0.0.0 whirlpoploaderfast.com
+0.0.0.0 analysis-id-lfg.info
+0.0.0.0 chief-ignite.pro
 0.0.0.0 great-fade.sbs
 0.0.0.0 re-captcha.xyz
 0.0.0.0 gtm-tools.xyz
@@ -2430,6 +2434,7 @@
 0.0.0.0 snapdrop.net
 0.0.0.0 usadeepseek.com
 0.0.0.0 deepseek.app
+0.0.0.0 deepseekk.com.cn
 0.0.0.0 irs.gov.*.com
 0.0.0.0 govuk.*.top
 0.0.0.0 e-navy*.weebly.com
@@ -3013,3 +3018,6 @@
 0.0.0.0 losslesscut.cn
 0.0.0.0 bloomnnu.it.com
 0.0.0.0 kai-search.com
+0.0.0.0 robtipsyt50kli.blogspot.com
+0.0.0.0 luhxepremiumbags.com
+0.0.0.0 camelote.cn

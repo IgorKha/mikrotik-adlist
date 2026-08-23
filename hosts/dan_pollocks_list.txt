@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.39
-! Last modified: 2026-08-16T06:13:47.083Z
+! Version: 1.0.19.50
+! Last modified: 2026-08-23T06:14:13.978Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.39
+! Version: 1.0.19.50
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-08-14T19:22:50.483Z
+! Last modified: 2026-08-21T23:08:42.673Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1275,6 +1275,7 @@
 0.0.0.0 20mlinutes.fr
 0.0.0.0 237online.fr
 0.0.0.0 247blinds.fr
+0.0.0.0 2533542.cc
 0.0.0.0 2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com
 0.0.0.0 2roueselectrique.fr
 0.0.0.0 2x1gratis.com
@@ -2701,6 +2702,7 @@
 0.0.0.0 puppylover.fr
 0.0.0.0 purchasingpower.fr
 0.0.0.0 purepods.fr
+0.0.0.0 purolatorkbtdh.eu.cc
 0.0.0.0 pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
 0.0.0.0 qbittorrent.com
 0.0.0.0 qdssy.balistrera.sbs
@@ -2919,6 +2921,7 @@
 0.0.0.0 sunhe.jinr.ru
 0.0.0.0 suocietegenerale.fr
 0.0.0.0 supernaturalart.com
+0.0.0.0 supportservice-dragonfly.duckdns.org
 0.0.0.0 survarium.fr
 0.0.0.0 susm0q6jys.com
 0.0.0.0 sussi.cressoft.com.pk
@@ -3512,6 +3515,7 @@
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
 0.0.0.0 www.griffinlist.com
+0.0.0.0 www.griffscomedyclub.com
 0.0.0.0 www.grocreyoutlet.com
 0.0.0.0 www.groundofsuccess.com
 0.0.0.0 www.grouphappy.com
@@ -3520,6 +3524,7 @@
 0.0.0.0 www.guashastone.com
 0.0.0.0 www.gwizacademy.com
 0.0.0.0 www.haikuservices.com
+0.0.0.0 www.hairapothecaryco.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
 0.0.0.0 www.handbrake.es
@@ -3601,6 +3606,8 @@
 0.0.0.0 www.kinderstampo.com
 0.0.0.0 www.kindnations.com
 0.0.0.0 www.kindwebdg.site
+0.0.0.0 www.kingfreetube.com
+0.0.0.0 www.kishangarhlawcollege.com
 0.0.0.0 www.kittayaroyalbeauty.com
 0.0.0.0 www.kiwicares.com
 0.0.0.0 www.knowinteractive.com
@@ -3705,6 +3712,7 @@
 0.0.0.0 www.negativesphere.com
 0.0.0.0 www.neonpack.com
 0.0.0.0 www.neonracketpro.com
+0.0.0.0 www.netnaiga.com
 0.0.0.0 www.new2crypto.com
 0.0.0.0 www.newshello.com
 0.0.0.0 www.nextfeatures.com
@@ -3729,6 +3737,7 @@
 0.0.0.0 www.objectopoly.info
 0.0.0.0 www.occoquananimalhospital.com
 0.0.0.0 www.officerreport.com
+0.0.0.0 www.ofimaniaweb.com
 0.0.0.0 www.ogopond.com
 0.0.0.0 www.oilbasics.com
 0.0.0.0 www.oix.com
@@ -3752,8 +3761,10 @@
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.palaceskateboard.com
+0.0.0.0 www.paradisepcgames.com
 0.0.0.0 www.paramutplus.com
 0.0.0.0 www.parejaamateur.com
+0.0.0.0 www.partilla.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paseyourself.com
 0.0.0.0 www.patelshop.com
@@ -3770,6 +3781,7 @@
 0.0.0.0 www.perimentu.com
 0.0.0.0 www.pfsim.com
 0.0.0.0 www.phantomluck.com
+0.0.0.0 www.phonecex.com
 0.0.0.0 www.phonenumberbook.com
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com
@@ -3789,6 +3801,7 @@
 0.0.0.0 www.playtactics-hub.com
 0.0.0.0 www.pluseconomy.com
 0.0.0.0 www.ponhap.com
+0.0.0.0 www.popshopeu.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portutopcas.com
@@ -3818,8 +3831,10 @@
 0.0.0.0 www.qualitygamer.com
 0.0.0.0 www.quartersnorth.lat
 0.0.0.0 www.quarvions.com
+0.0.0.0 www.quintaalegrealgarve.com
 0.0.0.0 www.quintingwatches.com
 0.0.0.0 www.quipla.com
+0.0.0.0 www.quotling.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
@@ -3867,6 +3882,7 @@
 0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.sealabour.living
+0.0.0.0 www.securitymeyrics.com
 0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.seedschaos.garden
@@ -3959,6 +3975,7 @@
 0.0.0.0 www.thelaferianews.com
 0.0.0.0 www.themesets.com
 0.0.0.0 www.theprimeindia.com
+0.0.0.0 www.thermature.com
 0.0.0.0 www.thesecuredtrader.com
 0.0.0.0 www.theskinnyschool.com
 0.0.0.0 www.thisplanet.net
@@ -3972,6 +3989,7 @@
 0.0.0.0 www.tradesasa.com
 0.0.0.0 www.tradewinning.com
 0.0.0.0 www.traficsigntest.com
+0.0.0.0 www.transcet.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
@@ -3982,6 +4000,7 @@
 0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 www.ultratemps.com
+0.0.0.0 www.unclaimedbaggag.com
 0.0.0.0 www.underobviously.garden
 0.0.0.0 www.unetbootin.net
 0.0.0.0 www.unetbootin.org
@@ -3989,6 +4008,7 @@
 0.0.0.0 www.upi6.pillsstore-c.com		# Facebook trojan
 0.0.0.0 www.uqz.com
 0.0.0.0 www.urldelivery.com
+0.0.0.0 www.utgzlogin.com
 0.0.0.0 www.vacnleefarpels.com
 0.0.0.0 www.vbttech.com
 0.0.0.0 www.vebprostopinup.com
@@ -10663,6 +10683,7 @@
 0.0.0.0 unser-en.de
 0.0.0.0 unstat.baidu.com
 0.0.0.0 uole.ad.uol.com.br
+0.0.0.0 upbeatbut.com
 0.0.0.0 upgrade-ms-home.com
 0.0.0.0 upload.adtech.fr
 0.0.0.0 upload.adtech.us

@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.53
-! Last modified: 2026-08-16T06:13:48.853Z
+! Version: 1.0.18.55
+! Last modified: 2026-08-23T06:14:15.940Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 degreeeruptionpredator.com
 0.0.0.0 supersedeaccolade.com
 0.0.0.0 gamengirls.com
 0.0.0.0 cno.jerkmate.net
@@ -324,7 +325,6 @@
 0.0.0.0 cashgzb.com
 0.0.0.0 casinobonusdeals.io
 0.0.0.0 cauditcommernal.com
-0.0.0.0 cautommityring.com
 0.0.0.0 cawsg.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 ceramicturtleremnant.com
@@ -344,7 +344,6 @@
 0.0.0.0 cm65.com
 0.0.0.0 cntrealize.com
 0.0.0.0 coastalbloom.xyz
-0.0.0.0 conestreshow.com
 0.0.0.0 consultflow.click
 0.0.0.0 coolserving.com
 0.0.0.0 coosync.com
@@ -407,7 +406,6 @@
 0.0.0.0 galaxypush.com
 0.0.0.0 gamazi.com
 0.0.0.0 gamerhit.co
-0.0.0.0 gamonalsmadevel.com
 0.0.0.0 gb1aff.com
 0.0.0.0 gensonal.com
 0.0.0.0 get-gx.net
@@ -512,7 +510,6 @@
 0.0.0.0 mediahell.world
 0.0.0.0 meetflirtmatch.com
 0.0.0.0 meetwebclub.com
-0.0.0.0 metabatted.com
 0.0.0.0 metatrckpixel.com
 0.0.0.0 mettend-hamous.xyz
 0.0.0.0 mgid.com
@@ -743,7 +740,6 @@
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
 0.0.0.0 upodaitie.net
-0.0.0.0 usedownloads.com
 0.0.0.0 utm-campaign.com
 0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
@@ -765,7 +761,6 @@
 0.0.0.0 voluumtrk.com
 0.0.0.0 vulnerableimmigrateaboveaverage.com
 0.0.0.0 w0we.com
-0.0.0.0 want-some-psh.com
 0.0.0.0 wbidder.online
 0.0.0.0 wbidder3.com
 0.0.0.0 we-offer.com
