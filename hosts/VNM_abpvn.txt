@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.65
-! Last modified: 2026-08-23T06:14:27.021Z
+! Version: 1.0.17.68
+! Last modified: 2026-08-30T06:29:23.706Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.65
+! Version: 1.0.17.68
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-08-18T08:16:11.378Z
+! Last modified: 2026-08-27T09:14:52.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -873,10 +873,7 @@
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
-0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 federatedcompute-pa.googleapis.com
-0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 pagead-googlehosted.l.google.com
@@ -9354,7 +9351,7 @@
 0.0.0.0 www.appads.in
 0.0.0.0 bidmachine.io
 0.0.0.0 api-apac.bidmachine.io
-0.0.0.0 api-eu-a.bidmachine.io.
+0.0.0.0 api-eu-a.bidmachine.io
 0.0.0.0 api-eu.bidmachine.io
 0.0.0.0 api-us.bidmachine.io
 0.0.0.0 api.bidmachine.io
@@ -9378,13 +9375,6 @@
 0.0.0.0 delivery.swid.switchadhub.com
 0.0.0.0 delivery.switchadhub.com
 0.0.0.0 switchadhub.com
-0.0.0.0 api.crashlytics.com
-0.0.0.0 crashlytics.com
-0.0.0.0 e.crashlytics.com
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 reports.crashlytics.com
-0.0.0.0 settings.crashlytics.com
-0.0.0.0 update.crashlytics.com
 0.0.0.0 api.unblockia.com
 0.0.0.0 cdn.unblockia.com
 0.0.0.0 r.unblockia.com
@@ -14676,6 +14666,7 @@
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
 0.0.0.0 bluadz.com
+0.0.0.0 blue-ribbonmacadamizeprovide.com
 0.0.0.0 bluecava.com
 0.0.0.0 bluelinknow.com
 0.0.0.0 bluelithium.com
@@ -15214,6 +15205,7 @@
 0.0.0.0 dbancamd.com
 0.0.0.0 dbr9gtaf8.com
 0.0.0.0 dbtarget.com
+0.0.0.0 dbxexsnxxzwwo.com
 0.0.0.0 dc-storm.com
 0.0.0.0 dcbbwymp1bhlf.cloudfront.net
 0.0.0.0 dd1xbevqx.com
@@ -15388,6 +15380,7 @@
 0.0.0.0 effacedefend.com
 0.0.0.0 effectivecpmcontent.com
 0.0.0.0 effectivecpmgate.com
+0.0.0.0 effectivecpmnetwork.com
 0.0.0.0 effectivecreativeformat.com
 0.0.0.0 effectivedisplaycontent.com
 0.0.0.0 effectivedisplayformat.com
@@ -15582,6 +15575,7 @@
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frivolousdrinkloss.com
 0.0.0.0 frs2c.com
+0.0.0.0 fruhujma.in
 0.0.0.0 fsavmklplmddsu.com
 0.0.0.0 fsxmidyo.com
 0.0.0.0 ft.budtawney.com
@@ -16620,6 +16614,7 @@
 0.0.0.0 ofjujdmsylvmo.website
 0.0.0.0 ofleafeona.com
 0.0.0.0 og-shopee9.com
+0.0.0.0 og.tiglicsethian.com
 0.0.0.0 oghqvffmnt.com
 0.0.0.0 ogpriuleifns.com
 0.0.0.0 ohtctjiuow.com
@@ -17039,6 +17034,7 @@
 0.0.0.0 qmyoclrszpanh.website
 0.0.0.0 qn.unspedtaction.com
 0.0.0.0 qnbeenbgsx.com
+0.0.0.0 qnenxwwxzav.com
 0.0.0.0 qnp16tstw.com
 0.0.0.0 qnsr.com
 0.0.0.0 qo.errorrespan.com
@@ -17065,6 +17061,7 @@
 0.0.0.0 qwerty24.net
 0.0.0.0 qxucibukvklk.com
 0.0.0.0 qzeavzrfaoqn.com
+0.0.0.0 qzhwkhkpnpjxq.com
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 qzyztuwulo.com
 0.0.0.0 r.leadzu.com
@@ -17408,6 +17405,7 @@
 0.0.0.0 smptrffc.xyz
 0.0.0.0 smptrfvk.link
 0.0.0.0 smsecure-ad.com
+0.0.0.0 sn.lumbarssweepup.com
 0.0.0.0 snailthreatenedinvited.com
 0.0.0.0 snakeslang.com
 0.0.0.0 snapgiant.com
@@ -17536,6 +17534,7 @@
 0.0.0.0 studyunharmedupscale.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 stylish-knife.com
+0.0.0.0 su.sulingvicaire.cyou
 0.0.0.0 sub.api-rfr.com
 0.0.0.0 sub2tech.com
 0.0.0.0 subscribe.hearstmags.com
@@ -17619,6 +17618,7 @@
 0.0.0.0 tawdryson.com
 0.0.0.0 tb.baimgfroggd.site
 0.0.0.0 tcads.net
+0.0.0.0 tcugibodvow.in
 0.0.0.0 tealeaf.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
@@ -17679,6 +17679,7 @@
 0.0.0.0 tlvmedia.com
 0.0.0.0 tm-banners.gamingadult.com
 0.0.0.0 tm-offers.gamingadult.com
+0.0.0.0 tm.tataupavira.com
 0.0.0.0 tm5kpprikka.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 toathoule.com
@@ -18000,6 +18001,7 @@
 0.0.0.0 vtwvtmsvpav.com
 0.0.0.0 vwahacrubri.com
 0.0.0.0 vww1.com
+0.0.0.0 vz.winkletimburse.cfd
 0.0.0.0 w.1igzn4xcl7fne6b.cfd
 0.0.0.0 w0we.com
 0.0.0.0 w0wtrackex.com
@@ -18289,6 +18291,7 @@
 0.0.0.0 yx.mousesprepuce.shop
 0.0.0.0 yyselrqpyu.com
 0.0.0.0 yzwtz.com
+0.0.0.0 yzybyozmuhh.com
 0.0.0.0 z5x.net
 0.0.0.0 zamabholqonh.in
 0.0.0.0 zangocash.com
@@ -18336,6 +18339,7 @@
 0.0.0.0 zumrieth.com
 0.0.0.0 zunsoach.com
 0.0.0.0 zvetokr2hr8pcng09.com
+0.0.0.0 zwecnsakdbr.com
 0.0.0.0 zwiweqftobuvd.space
 0.0.0.0 zwnoeqzsuz.com
 0.0.0.0 zxc.world

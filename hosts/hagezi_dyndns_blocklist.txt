@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.9
-! Last modified: 2026-08-23T06:14:49.230Z
+! Version: 1.0.17.10
+! Last modified: 2026-08-30T06:29:41.511Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -287,9 +287,11 @@
 0.0.0.0 diskstation.me
 0.0.0.0 diskstation.org
 0.0.0.0 ditchyourip.com
+0.0.0.0 dive2.net
 0.0.0.0 divx.se
 0.0.0.0 dlinkddns.com
 0.0.0.0 dmtr.ru
+0.0.0.0 dn3.co
 0.0.0.0 dnet.hu
 0.0.0.0 dnmcoffman.com
 0.0.0.0 dns.army
@@ -524,8 +526,12 @@
 0.0.0.0 flashhub.net
 0.0.0.0 flat4free.com
 0.0.0.0 flazzard.com
+0.0.0.0 flick2.me
+0.0.0.0 flick2.net
 0.0.0.0 flnet.org
 0.0.0.0 flowergardendaycare.com
+0.0.0.0 flyme2.me
+0.0.0.0 flyme2.net
 0.0.0.0 for-better.biz
 0.0.0.0 for-more.biz
 0.0.0.0 for-our.info
@@ -608,6 +614,7 @@
 0.0.0.0 ftpserver.biz
 0.0.0.0 fuettertdasnetz.de
 0.0.0.0 fxnxs.com
+0.0.0.0 g2url.com
 0.0.0.0 gally.jp
 0.0.0.0 game-host.org
 0.0.0.0 game-server.cc
@@ -629,6 +636,7 @@
 0.0.0.0 gleeze.com
 0.0.0.0 global-instr.us
 0.0.0.0 gluebank.com
+0.0.0.0 go2host.co
 0.0.0.0 golaud.com
 0.0.0.0 goldcrestcc.com
 0.0.0.0 golffan.us
@@ -707,7 +715,9 @@
 0.0.0.0 homingbeacon.net
 0.0.0.0 hopto.me
 0.0.0.0 hopto.org
+0.0.0.0 host2.me
 0.0.0.0 host2go.net
+0.0.0.0 hostdns.me
 0.0.0.0 hosthampster.com
 0.0.0.0 hpc.tw
 0.0.0.0 hs.vc
@@ -862,6 +872,7 @@
 0.0.0.0 joe.dj
 0.0.0.0 jomblo.asia
 0.0.0.0 jonward.com
+0.0.0.0 jump2me.com
 0.0.0.0 jumpingcrab.com
 0.0.0.0 jundy.org
 0.0.0.0 jungleheart.com
@@ -901,6 +912,7 @@
 0.0.0.0 leitungsen.de
 0.0.0.0 leivo.org
 0.0.0.0 lessmiths.com
+0.0.0.0 letsgo2.me
 0.0.0.0 level3.net
 0.0.0.0 lflink.com
 0.0.0.0 lflinkup.com
@@ -1056,9 +1068,11 @@
 0.0.0.0 nerdcamp.net
 0.0.0.0 nerdpol.ovh
 0.0.0.0 net-freaks.com
+0.0.0.0 net2me.me
 0.0.0.0 netcabo.pt
 0.0.0.0 netcraze.pro
 0.0.0.0 netdorm.com
+0.0.0.0 netea.me
 0.0.0.0 netlord.de
 0.0.0.0 netmask.ca
 0.0.0.0 networkguru.com
@@ -1301,12 +1315,16 @@
 0.0.0.0 sitelutions.com
 0.0.0.0 skc.su
 0.0.0.0 skies.tw
+0.0.0.0 skipurl.me
+0.0.0.0 skipurl.org
 0.0.0.0 slasdot.com
 0.0.0.0 sleepless.hk
+0.0.0.0 slide2.net
 0.0.0.0 sline.net
 0.0.0.0 sly.io
 0.0.0.0 slyip.net
 0.0.0.0 smelly.cc
+0.0.0.0 snap2.info
 0.0.0.0 sne.jp
 0.0.0.0 socialadhesion.com
 0.0.0.0 softether.net
@@ -1351,6 +1369,7 @@
 0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
 0.0.0.0 suroot.com
+0.0.0.0 swoop2.me
 0.0.0.0 swtest.ru
 0.0.0.0 syno-ds.de
 0.0.0.0 synology-diskstation.de

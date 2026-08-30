@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.5.92
-! Last modified: 2026-08-23T06:14:49.607Z
+! Version: 1.0.5.93
+! Last modified: 2026-08-30T06:29:41.932Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 a.189.cn
 0.0.0.0 t.2merkato.com
@@ -6930,6 +6930,7 @@
 0.0.0.0 rstr.me
 0.0.0.0 rt.se
 0.0.0.0 rtc.la
+0.0.0.0 rtfo.site
 0.0.0.0 rtk.tools
 0.0.0.0 rtube.nl
 0.0.0.0 rtvote.com
@@ -9339,6 +9340,7 @@
 0.0.0.0 wall.sh
 0.0.0.0 wallets.my
 0.0.0.0 waltersauto.net
+0.0.0.0 wanglu.xyz
 0.0.0.0 wangzhanzhubo.com
 0.0.0.0 wapo.st
 0.0.0.0 wapp.to
