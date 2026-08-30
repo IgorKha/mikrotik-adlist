@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.55
-! Last modified: 2026-08-23T06:14:15.940Z
+! Version: 1.0.18.60
+! Last modified: 2026-08-30T06:29:13.647Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 emgthroposit.org
 0.0.0.0 degreeeruptionpredator.com
 0.0.0.0 supersedeaccolade.com
 0.0.0.0 gamengirls.com
@@ -219,6 +220,7 @@
 0.0.0.0 d3t3bxixsojwre.cloudfront.net
 0.0.0.0 0i0i0i0.com
 0.0.0.0 1asb.com
+0.0.0.0 2bestoffer.com
 0.0.0.0 2osb.com
 0.0.0.0 30dcf.com
 0.0.0.0 367p.com
@@ -303,7 +305,6 @@
 0.0.0.0 blehcourt.com
 0.0.0.0 block-ad.com
 0.0.0.0 blockadsnot.com
-0.0.0.0 bluodpa-a.online
 0.0.0.0 blurbreimbursetrombone.com
 0.0.0.0 bmmads.com
 0.0.0.0 bobgames-prolister.com
@@ -513,8 +514,8 @@
 0.0.0.0 metatrckpixel.com
 0.0.0.0 mettend-hamous.xyz
 0.0.0.0 mgid.com
-0.0.0.0 mirfakpersei.top
 0.0.0.0 mistysteel.co
+0.0.0.0 mmoplayerz.com
 0.0.0.0 mnaspm.com
 0.0.0.0 mndlvr.com
 0.0.0.0 mobagent.com
@@ -542,6 +543,7 @@
 0.0.0.0 northauthority.xyz
 0.0.0.0 novibet.partners
 0.0.0.0 nrs6ffl9w.com
+0.0.0.0 ntesgsght.com
 0.0.0.0 ntrftrksec.com
 0.0.0.0 numbertrck.com
 0.0.0.0 nutchaungong.com
@@ -553,6 +555,7 @@
 0.0.0.0 offergate-software20.com
 0.0.0.0 offergate-software6.com
 0.0.0.0 olopruy.com
+0.0.0.0 omaaz.com
 0.0.0.0 omegaadblock.net
 0.0.0.0 omg10.com
 0.0.0.0 omgt3.com
@@ -577,7 +580,6 @@
 0.0.0.0 pisism.com
 0.0.0.0 playafterdark.com
 0.0.0.0 playmmogames.com
-0.0.0.0 playonlinegames.space
 0.0.0.0 playstretch.host
 0.0.0.0 plinksplanet.com
 0.0.0.0 plorexdry.com
@@ -725,7 +727,6 @@
 0.0.0.0 trasupr.com
 0.0.0.0 trckqq.com
 0.0.0.0 trentbereal.com
-0.0.0.0 trkfomedia.eu
 0.0.0.0 trknovi.com
 0.0.0.0 trkpostback.com
 0.0.0.0 trksmorestreacking.com
@@ -791,7 +792,6 @@
 0.0.0.0 adextrem.com
 0.0.0.0 banners.cams.com
 0.0.0.0 c4tracking01.com
-0.0.0.0 chokertraffic.com
 0.0.0.0 cityofsin3d.com
 0.0.0.0 ckrf1.com
 0.0.0.0 crdefault2.com
@@ -813,9 +813,7 @@
 0.0.0.0 friendfinder.com
 0.0.0.0 frtyi.com
 0.0.0.0 funkydaters.com
-0.0.0.0 get-partner.life
 0.0.0.0 girls.xyz
-0.0.0.0 global-trk.com
 0.0.0.0 go.nsfwlivechat.com
 0.0.0.0 grtyv.com
 0.0.0.0 hkl4h1trk.com
@@ -827,7 +825,6 @@
 0.0.0.0 mptentry.com
 0.0.0.0 needlive.com
 0.0.0.0 notimoti.com
-0.0.0.0 nyetm2mkch.com
 0.0.0.0 otieu.com
 0.0.0.0 passtechusa.com
 0.0.0.0 playgirl.com
@@ -836,7 +833,6 @@
 0.0.0.0 quadrinhoseroticos.net
 0.0.0.0 rdvinfidele.club
 0.0.0.0 reporo.net
-0.0.0.0 restions-planted.com
 0.0.0.0 reviewdollars.com
 0.0.0.0 setravieso.com
 0.0.0.0 sexad.net

@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.50
-! Last modified: 2026-08-23T06:14:13.978Z
+! Version: 1.0.19.60
+! Last modified: 2026-08-30T06:29:11.644Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.50
+! Version: 1.0.19.60
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-08-21T23:08:42.673Z
+! Last modified: 2026-08-28T23:13:32.400Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1269,6 +1269,7 @@
 0.0.0.0 105915624.com
 0.0.0.0 10tide.com
 0.0.0.0 1percent.fr
+0.0.0.0 2.maaqkj.com
 0.0.0.0 2006mindfreaklike.blogspot.com	# Facebook trojan
 0.0.0.0 2023cradep0sit.com
 0.0.0.0 20linutes.fr
@@ -1789,6 +1790,7 @@
 0.0.0.0 dooror.com
 0.0.0.0 doors.co.kr
 0.0.0.0 dpflyingoncs.top
+0.0.0.0 dragonfly-express.duckdns.org
 0.0.0.0 dsbzk.comfortykive.xyz
 0.0.0.0 dtcc.fr
 0.0.0.0 dveug.comfortykive.xyz
@@ -3227,6 +3229,7 @@
 0.0.0.0 www.auditprint.com
 0.0.0.0 www.auto-runmz.com
 0.0.0.0 www.autoinkoopbedrijf.com
+0.0.0.0 www.autotra.com
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
@@ -3304,6 +3307,7 @@
 0.0.0.0 www.cassink.com
 0.0.0.0 www.catabcde.com
 0.0.0.0 www.catjre.com
+0.0.0.0 www.cdinstagram.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
 0.0.0.0 www.cemerhealth.com
@@ -3412,6 +3416,7 @@
 0.0.0.0 www.electrobell.com
 0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eljaleomedellin.com
+0.0.0.0 www.ellesalonhb.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.emprenderimportaperu.com
 0.0.0.0 www.energiazoque.com
@@ -3444,6 +3449,7 @@
 0.0.0.0 www.feudlands.com
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
+0.0.0.0 www.financevd.com
 0.0.0.0 www.findalgorithm.com
 0.0.0.0 www.findalign.com
 0.0.0.0 www.findlobster.com
@@ -3499,6 +3505,7 @@
 0.0.0.0 www.gimp.es
 0.0.0.0 www.glassygrovefy.pro
 0.0.0.0 www.globalbuffer.com
+0.0.0.0 www.globlepoker.com
 0.0.0.0 www.goggle.com
 0.0.0.0 www.goldendoodlez.com
 0.0.0.0 www.goldentopics.com
@@ -3638,7 +3645,9 @@
 0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
 0.0.0.0 www.likethislist.biz			# Facebook trojan
+0.0.0.0 www.listadegames.com
 0.0.0.0 www.liveorigamirisk.com
+0.0.0.0 www.livetickettv.com
 0.0.0.0 www.loansfield.com
 0.0.0.0 www.lockupouseburn.com
 0.0.0.0 www.loginhunter.com
@@ -3702,6 +3711,7 @@
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
+0.0.0.0 www.mynepalshop.com
 0.0.0.0 www.myrosinase.com
 0.0.0.0 www.myupstox.com
 0.0.0.0 www.nabtapharma.com
@@ -3967,6 +3977,7 @@
 0.0.0.0 www.techyscope.com
 0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.teresinaapartment.com
+0.0.0.0 www.texasmyxoomenergy.com
 0.0.0.0 www.textdynamics.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
@@ -3980,16 +3991,20 @@
 0.0.0.0 www.theskinnyschool.com
 0.0.0.0 www.thisplanet.net
 0.0.0.0 www.thunderbird.es
+0.0.0.0 www.ticketspiket.com
 0.0.0.0 www.timelyworks.com
 0.0.0.0 www.tinkfrog.com
 0.0.0.0 www.tiompanalley.com
 0.0.0.0 www.tntadfacts.com
+0.0.0.0 www.topluckystars.com
+0.0.0.0 www.topopulentwin.com
 0.0.0.0 www.totalencomenda.com
 0.0.0.0 www.toysmetaverse.com
 0.0.0.0 www.tradesasa.com
 0.0.0.0 www.tradewinning.com
 0.0.0.0 www.traficsigntest.com
 0.0.0.0 www.transcet.com
+0.0.0.0 www.travelrushzone.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
@@ -3999,6 +4014,7 @@
 0.0.0.0 www.tvccpt.com
 0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
+0.0.0.0 www.ultimarerewards.com
 0.0.0.0 www.ultratemps.com
 0.0.0.0 www.unclaimedbaggag.com
 0.0.0.0 www.underobviously.garden
