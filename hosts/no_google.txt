@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-! Version: 1.0.14.70
-! Last modified: 2026-08-30T06:29:18.935Z
+! Version: 1.0.14.71
+! Last modified: 2026-09-06T06:28:47.336Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 adgoogle.net
 0.0.0.0 crashlytics.com
@@ -719,7 +719,6 @@
 0.0.0.0 googleads.com
 0.0.0.0 googleadsserving.cn
 0.0.0.0 googleadwords.com
-0.0.0.0 googleailesi.com
 0.0.0.0 googleapis.com
 0.0.0.0 googleartproject.com
 0.0.0.0 googleoptimizasyonu.biz

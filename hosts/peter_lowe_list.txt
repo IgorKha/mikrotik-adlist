@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.76
-! Last modified: 2026-08-30T06:29:08.308Z
+! Version: 1.0.17.82
+! Last modified: 2026-09-06T06:28:33.751Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -526,7 +526,6 @@
 0.0.0.0 ads.reward-hunt.com
 0.0.0.0 ads.samsung.com
 0.0.0.0 ads.saymedia.com
-0.0.0.0 ads.schmoozecom.net
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.seniorfriendfinder.com
 0.0.0.0 ads.servebom.com
@@ -625,6 +624,7 @@
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adsend.de
 0.0.0.0 adsensecustomsearchads.com
+0.0.0.0 adserv.snigelweb.com
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserve.gkeurope.de
 0.0.0.0 adserve.io
@@ -654,7 +654,6 @@
 0.0.0.0 adserver.industryarena.com
 0.0.0.0 adserver.info7.mx
 0.0.0.0 adserver.irishwebmasterforum.com
-0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.kontent.com
 0.0.0.0 adserver.mobi
 0.0.0.0 adserver.news.com.au
@@ -730,6 +729,7 @@
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
 0.0.0.0 adt598.com
+0.0.0.0 adtagj.portal-factory.com
 0.0.0.0 adtech.com
 0.0.0.0 adtech.de
 0.0.0.0 adtechjp.com
@@ -749,7 +749,6 @@
 0.0.0.0 adtrk1.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
-0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.mpvc.it
@@ -1273,7 +1272,6 @@
 0.0.0.0 clickedyclick.com
 0.0.0.0 clickfuse.com
 0.0.0.0 clickhereforcellphones.com
-0.0.0.0 clickngo.pro
 0.0.0.0 clickngo.top
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clickrtrckr.com
@@ -1598,7 +1596,6 @@
 0.0.0.0 everestads.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
-0.0.0.0 eversales.space
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evyy.net
 0.0.0.0 exampleshake.com
@@ -1656,7 +1653,6 @@
 0.0.0.0 figurehunter.net
 0.0.0.0 fillthemap.com
 0.0.0.0 fimserve.com
-0.0.0.0 findcommerce.com
 0.0.0.0 findyourcasino.com
 0.0.0.0 fireads.online
 0.0.0.0 fireads.org
@@ -1814,7 +1810,6 @@
 0.0.0.0 heap.com
 0.0.0.0 hellobar.com
 0.0.0.0 helpcollar.com
-0.0.0.0 hentaicounter.com
 0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 hexcan.com
 0.0.0.0 hexusads.fluent.ltd.uk
@@ -2062,6 +2057,7 @@
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 lijit.com
 0.0.0.0 limecodesign.com
+0.0.0.0 link-booster.de
 0.0.0.0 link.axios.com
 0.0.0.0 link.beelivery.com
 0.0.0.0 link.email.davidlloydclubs.co.uk
@@ -2377,6 +2373,7 @@
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.register.com
 0.0.0.0 objecthero.com
+0.0.0.0 obs.sd4823.spglobal.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 oceancloudhosts.com
 0.0.0.0 odbierz-bony.ovp.pl
@@ -2425,6 +2422,7 @@
 0.0.0.0 operationchicken.com
 0.0.0.0 opienetwork.com
 0.0.0.0 opmnstr.com
+0.0.0.0 opoxv.com
 0.0.0.0 oppuz.com
 0.0.0.0 optimallimit.com
 0.0.0.0 optimizely.com
@@ -2486,6 +2484,7 @@
 0.0.0.0 pcash.imlive.com
 0.0.0.0 peep-auktion.de
 0.0.0.0 peer39.com
+0.0.0.0 pemsrv.com
 0.0.0.0 pennyweb.com
 0.0.0.0 pepperjamnetwork.com
 0.0.0.0 percentmobile.com
@@ -2510,7 +2509,6 @@
 0.0.0.0 pippio.com
 0.0.0.0 piquantpigs.com
 0.0.0.0 pix.spot.im
-0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.yabidos.com
@@ -2605,6 +2603,7 @@
 0.0.0.0 pub.hardware.fr
 0.0.0.0 pub.network
 0.0.0.0 pub.realmedia.fr
+0.0.0.0 pubbug.com
 0.0.0.0 pubdirecte.com
 0.0.0.0 pubfuture-ssp.com
 0.0.0.0 publicidad.elmundo.es
@@ -2786,6 +2785,7 @@
 0.0.0.0 ruralrobin.com
 0.0.0.0 s.adroll.com
 0.0.0.0 s.dmmew.com
+0.0.0.0 s.uuidksinc.net
 0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
@@ -3044,6 +3044,7 @@
 0.0.0.0 superawesome.tv
 0.0.0.0 superchichair.com
 0.0.0.0 superclix.de
+0.0.0.0 supercounters.com
 0.0.0.0 superficialsquare.com
 0.0.0.0 supersonicads.com
 0.0.0.0 superstats.com
@@ -3480,6 +3481,7 @@
 0.0.0.0 xfreeservice.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xiti.com
+0.0.0.0 xml-v4.oceanfall.xyz
 0.0.0.0 xplusone.com
 0.0.0.0 xponsor.com
 0.0.0.0 xpu.samsungelectronics.com

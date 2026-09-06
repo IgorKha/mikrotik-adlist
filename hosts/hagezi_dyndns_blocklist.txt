@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.10
-! Last modified: 2026-08-30T06:29:41.511Z
+! Version: 1.0.17.14
+! Last modified: 2026-09-06T06:29:16.982Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -77,7 +77,6 @@
 0.0.0.0 allowed.org
 0.0.0.0 almostmy.com
 0.0.0.0 americanunfinished.com
-0.0.0.0 amsprich.com
 0.0.0.0 anal-slavery.com
 0.0.0.0 anastasion.com
 0.0.0.0 aneisa.com
@@ -159,7 +158,6 @@
 0.0.0.0 briansagar.com
 0.0.0.0 broke-it.net
 0.0.0.0 brweb.org
-0.0.0.0 bsn2bsn.com
 0.0.0.0 bumbleshrimp.com
 0.0.0.0 burlingtondrywall.com
 0.0.0.0 buyshouses.net
@@ -214,7 +212,6 @@
 0.0.0.0 cloudns.pro
 0.0.0.0 cloudwatch.net
 0.0.0.0 cloudxns.net
-0.0.0.0 cmirg.com
 0.0.0.0 cnstefancelmare.ro
 0.0.0.0 coalnet.ru
 0.0.0.0 codns.com
@@ -1234,12 +1231,10 @@
 0.0.0.0 run.place
 0.0.0.0 rundis.com
 0.0.0.0 ruok.org
-0.0.0.0 russkoeumea.com
 0.0.0.0 rwbcode.com
 0.0.0.0 ryointernational.com
 0.0.0.0 sandmeiers.ch
 0.0.0.0 sannon-stamm.com
-0.0.0.0 sarah-lai.com
 0.0.0.0 saves-the-whales.com
 0.0.0.0 scay.net
 0.0.0.0 scottlewisonline.com
@@ -1366,7 +1361,6 @@
 0.0.0.0 stuns.org
 0.0.0.0 sumibi.org
 0.0.0.0 sundby.com
-0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
 0.0.0.0 suroot.com
 0.0.0.0 swoop2.me

@@ -1,7 +1,8 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.60
-! Last modified: 2026-08-30T06:29:13.647Z
+! Version: 1.0.18.63
+! Last modified: 2026-09-06T06:28:40.148Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 greekexternal.com
 0.0.0.0 emgthroposit.org
 0.0.0.0 degreeeruptionpredator.com
 0.0.0.0 supersedeaccolade.com
@@ -365,7 +366,6 @@
 0.0.0.0 dateyou2024.com
 0.0.0.0 degreedistance.cfd
 0.0.0.0 demowebcode.online
-0.0.0.0 di7stero.com
 0.0.0.0 diagramjawlineunhappy.com
 0.0.0.0 dianomi.com
 0.0.0.0 directdexchange.com
@@ -753,7 +753,6 @@
 0.0.0.0 viiyutty.com
 0.0.0.0 viiyxefb.com
 0.0.0.0 vilytaku.com
-0.0.0.0 vinstigo.com
 0.0.0.0 viralnewsbd.xyz
 0.0.0.0 viralvideoclip.info
 0.0.0.0 virelon.com
@@ -854,6 +853,9 @@
 0.0.0.0 xxxjmp.com
 0.0.0.0 xxxmatch.com
 0.0.0.0 zononi.com
+0.0.0.0 dteifi.com
+0.0.0.0 thtrck.com
+0.0.0.0 crmared.com
 0.0.0.0 pressms.ru
 0.0.0.0 sinehut.com
 0.0.0.0 paintejuke.com
@@ -982,6 +984,7 @@
 0.0.0.0 origoclick.com
 0.0.0.0 passion.com
 0.0.0.0 performanceonclick.com
+0.0.0.0 plarclck.com
 0.0.0.0 porn-upload.com
 0.0.0.0 pornz.fr
 0.0.0.0 potwm.com

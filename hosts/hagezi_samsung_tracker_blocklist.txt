@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-! Version: 1.0.0.49
-! Last modified: 2026-08-30T06:29:22.496Z
+! Version: 1.0.0.50
+! Last modified: 2026-09-06T06:28:51.726Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -52,7 +52,6 @@
 0.0.0.0 samsung.ecorebates.com
 0.0.0.0 samsung.telemetry.eyeo.com
 0.0.0.0 ehg-samsungusa.hitbox.com
-0.0.0.0 ureca.samsungapps.com.ad.mexnet.de
 0.0.0.0 samsung.com.ssl.sc.omtrdc.net
 0.0.0.0 samsungcard.sc.omtrdc.net
 0.0.0.0 samsungnorthamerica.sc.omtrdc.net
@@ -126,7 +125,6 @@
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 prderrordumpssm.samsungcloudsolution.net
 0.0.0.0 report.gras.samsungdm.com
-0.0.0.0 us-report.gras.samsungdm.com
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 dev-apigw.samsungdmroute.com
