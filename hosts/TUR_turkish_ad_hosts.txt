@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
-! Version: 1.0.14.77
-! Last modified: 2026-08-30T06:29:26.915Z
+! Version: 1.0.14.78
+! Last modified: 2026-09-06T06:28:58.232Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 061353efff4748e1a51974616704a9cc.js.ubembed.com
@@ -1043,6 +1043,7 @@
 0.0.0.0 in.appcenter.ms
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 informer.yandex.ru
+0.0.0.0 ing.api.datadroid.com
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 init.supersonicads.com
 0.0.0.0 inklinkor.com

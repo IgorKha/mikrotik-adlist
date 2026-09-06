@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.60
-! Last modified: 2026-08-30T06:29:11.644Z
+! Version: 1.0.19.69
+! Last modified: 2026-09-06T06:28:37.627Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.60
+! Version: 1.0.19.69
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-08-28T23:13:32.400Z
+! Last modified: 2026-09-04T19:12:28.794Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1792,6 +1792,7 @@
 0.0.0.0 dpflyingoncs.top
 0.0.0.0 dragonfly-express.duckdns.org
 0.0.0.0 dsbzk.comfortykive.xyz
+0.0.0.0 dsfdsfxcfddsf.blob.core.windows.net
 0.0.0.0 dtcc.fr
 0.0.0.0 dveug.comfortykive.xyz
 0.0.0.0 e-kern.fr
@@ -2823,6 +2824,7 @@
 0.0.0.0 secure-fidosolutions.com
 0.0.0.0 secure-royaibnk.com
 0.0.0.0 securedeposit-et.com
+0.0.0.0 securesweep.pro
 0.0.0.0 securielite.com
 0.0.0.0 security.schwab-5.click
 0.0.0.0 securityscan.us
@@ -3337,6 +3339,7 @@
 0.0.0.0 www.clovercraftshop.com
 0.0.0.0 www.clubplanning.com
 0.0.0.0 www.coconutsport.com
+0.0.0.0 www.codeademy.com
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.colleyvillepapershredding.com
 0.0.0.0 www.combinebasic.com
@@ -3417,10 +3420,12 @@
 0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eljaleomedellin.com
 0.0.0.0 www.ellesalonhb.com
+0.0.0.0 www.elmerdiner.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.emprenderimportaperu.com
 0.0.0.0 www.energiazoque.com
 0.0.0.0 www.eqarati.com
+0.0.0.0 www.eqinenow.com
 0.0.0.0 www.eremplacementparts.com
 0.0.0.0 www.erincranor.com
 0.0.0.0 www.erspan.com
@@ -3595,6 +3600,7 @@
 0.0.0.0 www.jeuxjackpotcasino.com
 0.0.0.0 www.jewishgame.com
 0.0.0.0 www.jhsmiami.com
+0.0.0.0 www.jjbenefitsguide.com
 0.0.0.0 www.jnhjf.com
 0.0.0.0 www.joinclap.com
 0.0.0.0 www.joinfx.net
@@ -3604,6 +3610,7 @@
 0.0.0.0 www.jvzoo.com
 0.0.0.0 www.kahramananas.com
 0.0.0.0 www.karazah.com
+0.0.0.0 www.kccreamation.com
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.kencorporation.property
@@ -3750,6 +3757,7 @@
 0.0.0.0 www.ofimaniaweb.com
 0.0.0.0 www.ogopond.com
 0.0.0.0 www.oilbasics.com
+0.0.0.0 www.ointrest.com
 0.0.0.0 www.oix.com
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 www.olimpgokart.com
@@ -3761,6 +3769,7 @@
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.oppery.com
 0.0.0.0 www.orangesalonboise.com
+0.0.0.0 www.orchidfootspa.com
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.outonixan.com
 0.0.0.0 www.pagibigfundservicers.com
@@ -3777,6 +3786,7 @@
 0.0.0.0 www.partilla.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paseyourself.com
+0.0.0.0 www.pashcams.com
 0.0.0.0 www.patelshop.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.payasyougocert.com
@@ -3819,6 +3829,7 @@
 0.0.0.0 www.poukladanyswiat.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.prabvisa.com
+0.0.0.0 www.premiercountrymeats.com
 0.0.0.0 www.premiumbrandszonalibre.com
 0.0.0.0 www.presidency.site
 0.0.0.0 www.prgwbn.cfd
@@ -3906,6 +3917,7 @@
 0.0.0.0 www.sidneyman.com
 0.0.0.0 www.silebah.com
 0.0.0.0 www.silentgateck.site
+0.0.0.0 www.silhouetteamerican.com
 0.0.0.0 www.silverboxcreativestudio.com
 0.0.0.0 www.simplyartful.com
 0.0.0.0 www.simplyhelper.com
@@ -3939,6 +3951,7 @@
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssdede.com
 0.0.0.0 www.ssl2.in
+0.0.0.0 www.stanthedonutman.com
 0.0.0.0 www.startupsforstartups.com
 0.0.0.0 www.statsff.com
 0.0.0.0 www.steelbucks.com
@@ -6348,7 +6361,6 @@
 0.0.0.0 ads.ratemyprofessors.com
 0.0.0.0 ads.rcgroups.com
 0.0.0.0 ads.rdstore.com
-0.0.0.0 ads.realcastmedia.com
 0.0.0.0 ads.realcities.com
 0.0.0.0 ads.realmedia.de
 0.0.0.0 ads.rediff.com

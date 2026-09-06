@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.63
-! Last modified: 2026-08-30T06:29:23.830Z
+! Version: 1.0.15.64
+! Last modified: 2026-09-06T06:28:54.241Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -475,7 +475,6 @@
 0.0.0.0 fms.360yield.com
 0.0.0.0 fp.mediaintelliview.com
 0.0.0.0 fpnpmcdn.net
-0.0.0.0 fraagesport.com
 0.0.0.0 franecki.net
 0.0.0.0 freegeoip.app
 0.0.0.0 freespee.com
@@ -889,7 +888,6 @@
 0.0.0.0 sync.3fmediagroup.com
 0.0.0.0 s-eu-1.pushpushgo.com
 0.0.0.0 s.go-mpulse.net
-0.0.0.0 s.vi-serve.com
 0.0.0.0 t.atmng.io
 0.0.0.0 t.contentinsights.com
 0.0.0.0 t.elasticsuite.io
