@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.69
-! Last modified: 2026-09-06T06:28:37.627Z
+! Version: 1.0.19.74
+! Last modified: 2026-09-13T06:33:10.316Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.69
+! Version: 1.0.19.74
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-09-04T19:12:28.794Z
+! Last modified: 2026-09-10T16:17:49.062Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3180,6 +3180,7 @@
 0.0.0.0 www.7zip.fr
 0.0.0.0 www.991abc.com
 0.0.0.0 www.a2uu36g43l.download
+0.0.0.0 www.aaaddedbenifits.com
 0.0.0.0 www.aagofwi.com
 0.0.0.0 www.aaringtone.com
 0.0.0.0 www.abetterinternet.com
@@ -3416,6 +3417,7 @@
 0.0.0.0 www.edwardmartino.com
 0.0.0.0 www.ekkekkocapital.com
 0.0.0.0 www.elanactivewear.com
+0.0.0.0 www.elchavotortas.com
 0.0.0.0 www.electrobell.com
 0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eljaleomedellin.com
@@ -3679,6 +3681,7 @@
 0.0.0.0 www.massagetherapybyjuli.com
 0.0.0.0 www.match3quests.com
 0.0.0.0 www.matifi.com
+0.0.0.0 www.mdarussellhobbs.com
 0.0.0.0 www.meantvictim.lat
 0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.meecheck.com
@@ -3715,6 +3718,7 @@
 0.0.0.0 www.myexotel.com
 0.0.0.0 www.myfavcouponstore.com
 0.0.0.0 www.myfurnituresirplus.com
+0.0.0.0 www.myguidedreaders.com
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
@@ -4024,6 +4028,7 @@
 0.0.0.0 www.trustaddons.com
 0.0.0.0 www.ttcgg.com
 0.0.0.0 www.tuningcentar.com
+0.0.0.0 www.tuscanypointevillas.com
 0.0.0.0 www.tvccpt.com
 0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
@@ -7671,8 +7676,10 @@
 0.0.0.0 classicjack.com
 0.0.0.0 clausing-advies.nl
 0.0.0.0 clb.bazzacco.net
+0.0.0.0 cleancrdio.shop
 0.0.0.0 cleaningformac.com
 0.0.0.0 clearonclick.com
+0.0.0.0 clearviewhub9.cc
 0.0.0.0 clevernt.com
 0.0.0.0 clhctrk.com
 0.0.0.0 click.a-ads.com

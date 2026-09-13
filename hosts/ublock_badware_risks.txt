@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.22.62
-! Last modified: 2026-09-06T06:29:16.363Z
+! Version: 1.0.22.69
+! Last modified: 2026-09-13T06:33:34.314Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -384,6 +384,7 @@
 0.0.0.0 modesoft.org
 0.0.0.0 newgitgerto.xyz
 0.0.0.0 theannoyingsite.com
+0.0.0.0 ptoszek.pl
 0.0.0.0 smartklick.biz
 0.0.0.0 sale24-pills.com
 0.0.0.0 fullcrack.vn
@@ -454,6 +455,7 @@
 0.0.0.0 claude-ai.cyou
 0.0.0.0 aisyncad.com
 0.0.0.0 cdn.streameet.top
+0.0.0.0 new.point-youtools.com
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -1756,8 +1758,10 @@
 0.0.0.0 faceit-account.com
 0.0.0.0 kook.bar
 0.0.0.0 openai-backup.one
+0.0.0.0 kusikowski.sbs
 0.0.0.0 swewart.sbs
 0.0.0.0 guiglen.sbs
+0.0.0.0 keelhaulably.com
 0.0.0.0 cracksway.com
 0.0.0.0 gamingdebates.com
 0.0.0.0 bonzi.link
@@ -3043,7 +3047,6 @@
 0.0.0.0 hoka-uk.com
 0.0.0.0 nextsave.trenched.cfd
 0.0.0.0 ggle-analytics.
-0.0.0.0 whale-alert.
 0.0.0.0 cookie-whitelist.
 0.0.0.0 vipsunglassesindia.in
 0.0.0.0 oakleysunglassesindia.com
@@ -3052,3 +3055,6 @@
 0.0.0.0 bbcwebhosting.com
 0.0.0.0 ilyvo.com
 0.0.0.0 prof-noemie-sgzopjv.work
+0.0.0.0 featherswallet.org
+0.0.0.0 aw-huorong.com.cn
+0.0.0.0 mobel-wahls.shop

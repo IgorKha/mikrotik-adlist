@@ -1,7 +1,10 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.63
-! Last modified: 2026-09-06T06:28:40.148Z
+! Version: 1.0.18.67
+! Last modified: 2026-09-13T06:33:11.689Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 dtzgbt.com
+0.0.0.0 trackinginwtd.pro
+0.0.0.0 hentheautumnca.org
 0.0.0.0 greekexternal.com
 0.0.0.0 emgthroposit.org
 0.0.0.0 degreeeruptionpredator.com
@@ -354,7 +357,6 @@
 0.0.0.0 cradaygo.com
 0.0.0.0 crn77.com
 0.0.0.0 crockadilla.com
-0.0.0.0 cryptomcw.com
 0.0.0.0 ctosrd.com
 0.0.0.0 cybkit.com
 0.0.0.0 daleelerah.info
@@ -503,7 +505,6 @@
 0.0.0.0 mbcm2.com
 0.0.0.0 mbjrkm2.com
 0.0.0.0 mbreviewer.com
-0.0.0.0 mbreviews.info
 0.0.0.0 mbvlmz.com
 0.0.0.0 mcfstats.com
 0.0.0.0 mddsp.info
@@ -736,7 +737,6 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 tubecup.net
 0.0.0.0 twigwisp.com
-0.0.0.0 twinrdsyte.com
 0.0.0.0 typical-hub.com
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
@@ -969,7 +969,6 @@
 0.0.0.0 jetm-tech.net
 0.0.0.0 jewhouca.net
 0.0.0.0 jnbhi.com
-0.0.0.0 karissavip.com
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 lenzmx.com
 0.0.0.0 localsnapsext.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.82
-! Last modified: 2026-09-06T06:28:33.751Z
+! Version: 1.0.17.87
+! Last modified: 2026-09-13T06:33:07.731Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -23,6 +23,7 @@
 0.0.0.0 3lift.com
 0.0.0.0 3o9s.short.gy
 0.0.0.0 4d5.net
+0.0.0.0 4dex.io
 0.0.0.0 4info.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 51.la
@@ -60,6 +61,7 @@
 0.0.0.0 ablink.news.emails-puregym.com
 0.0.0.0 ablinks.mail.hinge.co
 0.0.0.0 aboardlevel.com
+0.0.0.0 absolutering.com
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 abtasty.com
@@ -1023,6 +1025,7 @@
 0.0.0.0 basebanner.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
+0.0.0.0 bastingart.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
 0.0.0.0 bbelements.com
@@ -1063,6 +1066,7 @@
 0.0.0.0 bigclicks.com
 0.0.0.0 bigfishapparel.com
 0.0.0.0 bigreal.org
+0.0.0.0 bigworldfashion.com
 0.0.0.0 billboard.cz
 0.0.0.0 billtable.com
 0.0.0.0 birthdaybelief.com
@@ -1308,7 +1312,6 @@
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudguppy.com
 0.0.0.0 clrstm.com
-0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmvrclicks000.com
@@ -1653,6 +1656,7 @@
 0.0.0.0 figurehunter.net
 0.0.0.0 fillthemap.com
 0.0.0.0 fimserve.com
+0.0.0.0 findcommerce.com
 0.0.0.0 findyourcasino.com
 0.0.0.0 fireads.online
 0.0.0.0 fireads.org
@@ -1962,6 +1966,7 @@
 0.0.0.0 jamexport.com
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
+0.0.0.0 jewelrysprings.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
 0.0.0.0 joyoussurprise.com
@@ -1985,6 +1990,7 @@
 0.0.0.0 kameleoon.eu
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
+0.0.0.0 kernellife.com
 0.0.0.0 kickoffo.site
 0.0.0.0 kindads.com
 0.0.0.0 kindlereunion.com
@@ -2223,6 +2229,7 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrilo.com
+0.0.0.0 metrix.luxnet.io
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mg2connext.com
 0.0.0.0 mgid.com
@@ -2340,7 +2347,6 @@
 0.0.0.0 newsadsppush.com
 0.0.0.0 newsbotnet.com
 0.0.0.0 newt1.adultadworld.com
-0.0.0.0 newt1.adultworld.com
 0.0.0.0 nexac.com
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 nitroclicks.com
@@ -2427,6 +2433,7 @@
 0.0.0.0 optimallimit.com
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
+0.0.0.0 optionsnomad.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
@@ -2436,6 +2443,7 @@
 0.0.0.0 orientedargument.com
 0.0.0.0 orionember.com
 0.0.0.0 ota.cartrawler.com
+0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 ourdreamstaticpages.pages.dev
 0.0.0.0 outbrain.com
@@ -2471,6 +2479,7 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
+0.0.0.0 partnerhut.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 partners.priceline.com
 0.0.0.0 partplanes.com
@@ -2748,6 +2757,7 @@
 0.0.0.0 rle.ru
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmedia.boston.com
+0.0.0.0 roaddynamics.com
 0.0.0.0 roar.com
 0.0.0.0 robotrefinery.com
 0.0.0.0 robotreplay.com
@@ -2947,6 +2957,7 @@
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinnaker-js.com
 0.0.0.0 spirebaboon.com
+0.0.0.0 spl.zeotap.com
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsorpro.de
 0.0.0.0 spookysleet.com
@@ -2999,6 +3010,7 @@
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 stats.blogger.com
 0.0.0.0 stats.hyperinzerce.cz
+0.0.0.0 stats.in.th
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.mirrorfootball.co.uk
 0.0.0.0 stats.nextgen-email.com
@@ -3190,12 +3202,14 @@
 0.0.0.0 touchclarity.com
 0.0.0.0 tour.brazzers.com
 0.0.0.0 tr.api.fanbyte.com
+0.0.0.0 tr.p.360.cn
 0.0.0.0 tracecontent.com
 0.0.0.0 track-eu.customer.io
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.canva.com
 0.0.0.0 track.contently.com
 0.0.0.0 track.customer.io
+0.0.0.0 track.dws.com
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
@@ -3462,6 +3476,7 @@
 0.0.0.0 worldwide-cash.net
 0.0.0.0 worriednumber.com
 0.0.0.0 wowfunnow.com
+0.0.0.0 writerhubs.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt.bankmillennium.pl
 0.0.0.0 www-banner.chat.ru
@@ -3493,6 +3508,7 @@
 0.0.0.0 y.ibsys.com
 0.0.0.0 yab-adimages.s3.amazonaws.com
 0.0.0.0 yadro.ru
+0.0.0.0 yads.tech
 0.0.0.0 yandexmetrica.com
 0.0.0.0 yepads.com
 0.0.0.0 yesads.com

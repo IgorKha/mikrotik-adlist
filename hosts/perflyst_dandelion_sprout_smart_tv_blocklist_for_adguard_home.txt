@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
-! Version: 1.0.14.54
-! Last modified: 2026-09-06T06:28:53.030Z
+! Version: 1.0.14.55
+! Last modified: 2026-09-13T06:33:18.823Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 smartclip.com
 0.0.0.0 smartclip.net
@@ -60,7 +60,7 @@
 0.0.0.0 pipeaota.com
 0.0.0.0 premium-videos.telly.com
 0.0.0.0 prov.samsungcloudsolution.com
-0.0.0.0 rwww.samsungotn.net
+0.0.0.0 www.samsungotn.net
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungadhub.com
 0.0.0.0 sas.samsungcloudsolution.com
@@ -147,4 +147,5 @@
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 androidtvlauncherxfe-pa.googleapis.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
