@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.14
-! Last modified: 2026-09-06T06:29:16.982Z
+! Version: 1.0.17.15
+! Last modified: 2026-09-13T06:33:34.542Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -69,7 +69,6 @@
 0.0.0.0 afraid.org
 0.0.0.0 agropeople.ru
 0.0.0.0 aintno.info
-0.0.0.0 airdns.org
 0.0.0.0 airlinemeals.net
 0.0.0.0 albertn.ru
 0.0.0.0 allez.la

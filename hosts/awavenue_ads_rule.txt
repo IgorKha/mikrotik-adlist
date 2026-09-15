@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.77
-! Last modified: 2026-09-06T06:28:39.731Z
+! Version: 1.0.15.80
+! Last modified: 2026-09-13T06:33:11.640Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -10,7 +10,9 @@
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
 0.0.0.0 abtest-ch.snssdk.com
+0.0.0.0 ad-api.4pyun.com
 0.0.0.0 ad-cdn.qingting.fm
+0.0.0.0 ad-files.4pyun.com
 0.0.0.0 ad-scope.com
 0.0.0.0 ad-scope.com.cn
 0.0.0.0 ad-sdk-config.youdao.com
@@ -19,16 +21,20 @@
 0.0.0.0 ad.12306.cn
 0.0.0.0 ad.51wnl.com
 0.0.0.0 ad.api.3g.youku.com
+0.0.0.0 ad.bn.netease.com
 0.0.0.0 ad.bwton.com
 0.0.0.0 ad.cctv.com
 0.0.0.0 ad.cyapi.cn
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.duoduo.link
 0.0.0.0 ad.gameley.com
 0.0.0.0 ad.hpplay.cn
 0.0.0.0 ad.iot.360.cn
 0.0.0.0 ad.jia.360.cn
 0.0.0.0 ad.life.360.cn
+0.0.0.0 ad.maoyan.com
 0.0.0.0 ad.partner.gifshow.com
+0.0.0.0 ad.player.baidu.com
 0.0.0.0 ad.qingting.fm
 0.0.0.0 ad.qq.com
 0.0.0.0 ad.richmob.cn
@@ -37,17 +43,20 @@
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.toutiao.com
 0.0.0.0 ad.v3mh.com
-0.0.0.0 ad.weibo.com
 0.0.0.0 ad.winrar.com.cn
 0.0.0.0 ad.ximalaya.com
 0.0.0.0 ad.xunkids.com
 0.0.0.0 ad.zijieapi.com
+0.0.0.0 ad4.sina.com.cn
 0.0.0.0 adapi.izuiyou.com
 0.0.0.0 adapi.yynetwk.com
+0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 adashx.m.taobao.com
 0.0.0.0 adashxgc.ut.taobao.com
+0.0.0.0 adbox.sina.com.cn
 0.0.0.0 adc.hpplay.cn
+0.0.0.0 adcanvas.com
 0.0.0.0 adcdn.hpplay.cn
 0.0.0.0 adcdn.tencentmusic.com
 0.0.0.0 adclick.g.doubleclick.net
@@ -65,7 +74,11 @@
 0.0.0.0 adjust.com
 0.0.0.0 adks.hpplay.cn
 0.0.0.0 adlink-api.huan.tv
+0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 adm.funshion.com
+0.0.0.0 admarketing.yahoo.net
+0.0.0.0 admobile.top
+0.0.0.0 adreq.vivo.com.cn
 0.0.0.0 ads-api-o.api.leiniao.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
@@ -75,17 +88,20 @@
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-sdk-api.ranfenghd.com
 0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 ads-shopping.shouqianba.com
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
 0.0.0.0 ads.adfunlink.com
 0.0.0.0 ads.auctions.yahoo.com
 0.0.0.0 ads.cup.com.cn
+0.0.0.0 ads.finance.yahoo.com
 0.0.0.0 ads.google.cn
 0.0.0.0 ads.huan.tv
 0.0.0.0 ads.huantest.com
 0.0.0.0 ads.icloseli.cn
 0.0.0.0 ads.inmobi.com
+0.0.0.0 ads.ishansong.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.pubmatic.com
@@ -104,13 +120,13 @@
 0.0.0.0 ads5-normal-lf.zijieapi.com
 0.0.0.0 ads5-normal-lq.zijieapi.com
 0.0.0.0 ads5-normal.zijieapi.com
+0.0.0.0 adscdn.baidu.com
 0.0.0.0 adsdk.vivo.com.cn
 0.0.0.0 adse.test.ximalaya.com
 0.0.0.0 adse.wsa.ximalaya.com
 0.0.0.0 adse.ximalaya.com
 0.0.0.0 adsebs.ximalaya.com
 0.0.0.0 adsense.google.cn
-0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.sigmob.cn
 0.0.0.0 adserviceretry.kugou.com
@@ -125,9 +141,12 @@
 0.0.0.0 adsmart.konka.com
 0.0.0.0 adsmind.gdtimg.com
 0.0.0.0 adsmind.ugdtimg.com
+0.0.0.0 adsmoloco.com
 0.0.0.0 adsp.xunlei.com
+0.0.0.0 adspecs.yahoo.com
 0.0.0.0 adstat.izuiyou.com
 0.0.0.0 adstats.tencentmusic.com
+0.0.0.0 adstextview.qq.com
 0.0.0.0 adstore-1252524079.file.myqcloud.com
 0.0.0.0 adstore-index-1252524079.file.myqcloud.com
 0.0.0.0 adstudio-assets.scdn.co
@@ -156,6 +175,7 @@
 0.0.0.0 adx-drcn.op.dbankcloud.cn
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 adx-os.anythinktech.com
+0.0.0.0 adx-os.bridgeoos.com
 0.0.0.0 adx-saas.advlion.com
 0.0.0.0 adx-strategy-api-cn.statisticslinks.com
 0.0.0.0 adx.ads.heytapmobi.com
@@ -164,7 +184,9 @@
 0.0.0.0 adx.sogaha.cn
 0.0.0.0 adx.tuia.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
+0.0.0.0 adxlog.vivo.com.cn
 0.0.0.0 adxserver.ad.cmvideo.cn
+0.0.0.0 adxstatic.vivo.com.cn
 0.0.0.0 aegis.qq.com
 0.0.0.0 aem.dentsuchina.cn
 0.0.0.0 afs.googlesyndication.com
@@ -174,6 +196,7 @@
 0.0.0.0 ali-p2p-v2.pull.yximgs.com
 0.0.0.0 alicoccdncnc-xn.inter.71edge.com
 0.0.0.0 alicoccdnct-xn.inter.71edge.com
+0.0.0.0 alltbcsp2p.baidu.com
 0.0.0.0 alog.umeng.com
 0.0.0.0 alogus.umeng.com
 0.0.0.0 als.baidu.com
@@ -233,7 +256,6 @@
 0.0.0.0 applovin.com
 0.0.0.0 aqyad.com
 0.0.0.0 aspect-upush.umeng.com
-0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 audid.umeng.com
 0.0.0.0 b1-data.ads.heytapmobi.com
@@ -259,6 +281,7 @@
 0.0.0.0 bj.ad.track.66mobi.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 bootpreload.uve.weibo.com
+0.0.0.0 brandadsstatic.vivo.com.cn
 0.0.0.0 browser.events.data.msn.cn
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
@@ -278,7 +301,6 @@
 0.0.0.0 ccs.umeng.com
 0.0.0.0 cdn-ad.wtzw.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
-0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.aiclk.com
 0.0.0.0 cdn.chinaliftoff-creatives.io
@@ -303,10 +325,10 @@
 0.0.0.0 cnzz.com
 0.0.0.0 collect.kugou.com
 0.0.0.0 commdata.v.qq.com
+0.0.0.0 commercial.shouji.360.cn
 0.0.0.0 conf.hpplay.cn
 0.0.0.0 config.chsmarttv.com
 0.0.0.0 config.inmobi.com
-0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 cpc-service-square.aiclk.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 crash2.zhihu.com
@@ -332,6 +354,7 @@
 0.0.0.0 downloadxml.changhong.upgrade2.huan.tv
 0.0.0.0 dsp-x.jd.com
 0.0.0.0 dsp.fcbox.com
+0.0.0.0 dsplog-adnet.vivo.com.cn
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dyp2p-ali.douyucdn.cn
@@ -347,6 +370,7 @@
 0.0.0.0 events-drcn.op.dbankcloud.cn
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 eventv1.leidong.rayenergytech.com
 0.0.0.0 fancyapi.com
 0.0.0.0 fclog.baidu.com
 0.0.0.0 feed-image.baidu.com
@@ -379,6 +403,8 @@
 0.0.0.0 grs.hicloud.com
 0.0.0.0 gslb.hpplay.cn
 0.0.0.0 gvideo.qpic.cn
+0.0.0.0 gw5.push.mcp.weibo.cn
+0.0.0.0 gw6.push.mcp.weibo.cn
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h5.analytics.126.net
 0.0.0.0 h5.hpplay.com.cn
@@ -398,6 +424,8 @@
 0.0.0.0 hugelog.fcbox.com
 0.0.0.0 huichuan-mc.sm.cn
 0.0.0.0 huichuan.sm.cn
+0.0.0.0 huodong.ios.shouji.360.cn
+0.0.0.0 huodong.weibo.cn
 0.0.0.0 hw-ot-ad.a.yximgs.com
 0.0.0.0 hw-p2p-pull.video-voip.com
 0.0.0.0 hw-p2p.pull.yximgs.com
@@ -409,10 +437,11 @@
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 iad.apple.com
 0.0.0.0 iad.g.163.com
+0.0.0.0 iadcontent.apple.com
 0.0.0.0 iadctest.qwapi.com
+0.0.0.0 iadmoo.apple.com
 0.0.0.0 iadmusicmat.music.126.net
 0.0.0.0 iadsdk.apple.com
-0.0.0.0 iadworkbench.apple.com
 0.0.0.0 ifacelog.iqiyi.com
 0.0.0.0 ifs.tanx.com
 0.0.0.0 ii.gdt.qq.com
@@ -428,6 +457,8 @@
 0.0.0.0 impression-asia.liftoff.io
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 in.treasuredata.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 inner-hw.huazirc.com
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
@@ -450,6 +481,7 @@
 0.0.0.0 ks-p2p.pull.yximgs.com
 0.0.0.0 ks.ferlytc.com
 0.0.0.0 ks.pull.yximgs.com
+0.0.0.0 kwpush.kuwo.cn
 0.0.0.0 launcher.smart-tv.cn
 0.0.0.0 launcherimg.smart-tv.cn
 0.0.0.0 lh3.googleadsserving.cn
@@ -493,17 +525,21 @@
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logrcv.aiclk.com
 0.0.0.0 logrcv.yunxish.com
+0.0.0.0 logs-bigdata.yeehaw.com.cn
 0.0.0.0 logs.amap.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logtj.kugou.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 logv2.ireader.com
 0.0.0.0 logwebs.kugou.com
+0.0.0.0 lookup.api.bsb.baidu.com
 0.0.0.0 luimg.baidu.com
 0.0.0.0 m-adnet.hiaiabc.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 m.atm.youku.com
 0.0.0.0 m.shenshiads.com
+0.0.0.0 m1.ad.10010.com
 0.0.0.0 mapi.m.jd.com
 0.0.0.0 masdkv6.3g.qq.com
 0.0.0.0 mazu.m.qq.com
@@ -597,6 +633,7 @@
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 policy.video.ptqy.gitv.tv
 0.0.0.0 pos.baidu.com
+0.0.0.0 prom-sdkv2.jysper.net
 0.0.0.0 promotion-partner.kuaishou.com
 0.0.0.0 proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
@@ -606,6 +643,8 @@
 0.0.0.0 qqdata.ab.qq.com
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 recommend-drcn.hms.dbankcloud.cn
+0.0.0.0 report.dxunion.cn
+0.0.0.0 report.tencentmusic.com
 0.0.0.0 report.tv.kohesport.qq.com
 0.0.0.0 res.hubcloud.com.cn
 0.0.0.0 res1.hubcloud.com.cn
@@ -627,7 +666,7 @@
 0.0.0.0 s8t.teads.tv
 0.0.0.0 saad.ms.zhangyue.net
 0.0.0.0 saas.hpplay.cn
-0.0.0.0 safebrowsing.urlsec.gg.com
+0.0.0.0 safebrowsing.urlsec.qq.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsungads.com
 0.0.0.0 saxysec.com
@@ -733,15 +772,16 @@
 0.0.0.0 tpa-hcdn.iqiyi.com
 0.0.0.0 tpc.googlesyndication-cn.com
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 tr-asia.adsmoloco.com
 0.0.0.0 trace.qq.com
 0.0.0.0 tracelog-debug.aiclk.com
 0.0.0.0 tracelog-debug.qquanquan.com
 0.0.0.0 tracelog-debug.yunxish.com
 0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.uc.cn
+0.0.0.0 tracker-prd.aldi.com.cn
 0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 tracker.gitee.com
+0.0.0.0 tracking-adnet.vivo.com.cn
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 tuiguang.meitu.com
@@ -766,8 +806,10 @@
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 umini.shujupie.com
 0.0.0.0 union-mlog.bigda.com
+0.0.0.0 union-record.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0 union.baidu.cn
 0.0.0.0 union.baidu.com
+0.0.0.0 unityads.unity3d.com
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 update.lejiao.tv
 0.0.0.0 update0.aiclk.com
@@ -806,13 +848,13 @@
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-community-drcn.weather.dbankcloud.cn
 0.0.0.0 webstat.qiumibao.com
-0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 win.gdt.qq.com
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws.sj.qq.com
+0.0.0.0 ws.tapjoyads.com
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 wwads.cn
 0.0.0.0 wxa.wxs.qq.com
@@ -836,6 +878,7 @@
 0.0.0.0 ykad-data.youku.com
 0.0.0.0 ykad-gateway.youku.com
 0.0.0.0 ytx-file.110route.cn
+0.0.0.0 yumao.puata.info
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zjres-ad.kajicam.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.43
-! Last modified: 2026-09-06T06:28:51.440Z
+! Version: 1.0.15.44
+! Last modified: 2026-09-13T06:33:18.422Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -137,6 +137,7 @@
 0.0.0.0 beboo.ru
 0.0.0.0 becoquin.com
 0.0.0.0 behappy2day.com
+0.0.0.0 belleronde.net
 0.0.0.0 benaughty.com
 0.0.0.0 beshert.com
 0.0.0.0 bestprice.co.za
@@ -247,6 +248,7 @@
 0.0.0.0 d1t13vwmbdrp1.cloudfront.net
 0.0.0.0 d2cxe615jwk4sg.cloudfront.net
 0.0.0.0 d8u.com
+0.0.0.0 d8uk.com
 0.0.0.0 dateasian.org
 0.0.0.0 dateasians.net
 0.0.0.0 datebrowse.com
@@ -787,10 +789,12 @@
 0.0.0.0 marryy.me
 0.0.0.0 masochiste.org
 0.0.0.0 match21.com
+0.0.0.0 matchasiansingles.com
 0.0.0.0 match.com
 0.0.0.0 matchmaker.co.za
 0.0.0.0 matchmet.com
 0.0.0.0 match-usa.com
+0.0.0.0 match-wizard.com
 0.0.0.0 matrymonia.pl
 0.0.0.0 maturebi.com
 0.0.0.0 maturedating.com
@@ -896,6 +900,7 @@
 0.0.0.0 over50datingnorge.com
 0.0.0.0 over50sdating.net
 0.0.0.0 over50singlesmeet.com
+0.0.0.0 over60dating.online
 0.0.0.0 parisvideochat.com
 0.0.0.0 parom.hu
 0.0.0.0 parship.at
@@ -1138,6 +1143,7 @@
 0.0.0.0 seniorfriendfinder.com
 0.0.0.0 seniorlesbians.com
 0.0.0.0 senior-love-match.co.uk
+0.0.0.0 seniormatch.us
 0.0.0.0 seniorpeoplemeet.biz
 0.0.0.0 seniorpolyamory.com
 0.0.0.0 seniorsbi.com
@@ -1224,6 +1230,7 @@
 0.0.0.0 tagged.com
 0.0.0.0 tagstat.com
 0.0.0.0 talksaferdating.com
+0.0.0.0 talldater.com
 0.0.0.0 tallfriends.com
 0.0.0.0 tancdn.com
 0.0.0.0 tangodatingonline.com
@@ -1271,6 +1278,7 @@
 0.0.0.0 toplop.com
 0.0.0.0 toprencontres.net
 0.0.0.0 transen-dating.com
+0.0.0.0 travesti.net
 0.0.0.0 tresor-sexe.com
 0.0.0.0 triocontactos.es
 0.0.0.0 trioespana.com

@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
-! Version: 1.0.14.56
-! Last modified: 2026-09-06T06:29:17.825Z
+! Version: 1.0.14.57
+! Last modified: 2026-09-13T06:33:34.915Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: NoCoin Filter List
 ! Description: List for blocking browser-based crypto mining
-! Version: 1.0.14.56
+! Version: 1.0.14.57
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
-! Last modified: 2026-04-17T10:06:58.179Z
+! Last modified: 2026-09-12T07:17:30.358Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -125,7 +125,6 @@
 0.0.0.0 ganymed.beeppool.org
 0.0.0.0 gasolina.ml
 0.0.0.0 go.bestmobiworld.com
-0.0.0.0 go.fastspot.io
 0.0.0.0 go.megabanners.cf
 0.0.0.0 goldoffer.online
 0.0.0.0 gramombird.com

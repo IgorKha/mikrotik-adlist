@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.24
-! Last modified: 2026-09-06T06:28:52.327Z
+! Version: 1.0.0.25
+! Last modified: 2026-09-13T06:33:18.670Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 classify-app-eu.allawnos.com
 0.0.0.0 classify-app-in.allawnos.com
@@ -105,7 +105,6 @@
 0.0.0.0 foreign.coloros.com
 0.0.0.0 guif.coloros.com
 0.0.0.0 guif-eu.coloros.com
-0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 icota-eu.coloros.com
 0.0.0.0 ifrus.coloros.com
 0.0.0.0 ifrus-eu.coloros.com
