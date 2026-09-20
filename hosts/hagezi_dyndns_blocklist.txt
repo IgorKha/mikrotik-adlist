@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.15
-! Last modified: 2026-09-13T06:33:34.542Z
+! Version: 1.0.17.18
+! Last modified: 2026-09-20T06:30:01.115Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -223,6 +223,7 @@
 0.0.0.0 con-ip.com
 0.0.0.0 conditsis.com
 0.0.0.0 contepsa.com
+0.0.0.0 coplien.org
 0.0.0.0 corbina.ru
 0.0.0.0 coreytech.com
 0.0.0.0 couchpotatofries.org
@@ -285,6 +286,7 @@
 0.0.0.0 ditchyourip.com
 0.0.0.0 dive2.net
 0.0.0.0 divx.se
+0.0.0.0 diyplans.org
 0.0.0.0 dlinkddns.com
 0.0.0.0 dmtr.ru
 0.0.0.0 dn3.co
@@ -880,7 +882,9 @@
 0.0.0.0 kanda.ru
 0.0.0.0 kaohsiung.tv
 0.0.0.0 kck-saratov.ru
+0.0.0.0 keenetic.link
 0.0.0.0 keenetic.name
+0.0.0.0 keenetic.pro
 0.0.0.0 keine-panik.net
 0.0.0.0 kellserve.com
 0.0.0.0 kicks-ass.net
@@ -952,6 +956,7 @@
 0.0.0.0 melakaboy.com
 0.0.0.0 merseine.com
 0.0.0.0 merseine.org
+0.0.0.0 metadns.cx
 0.0.0.0 mett.ru
 0.0.0.0 mexsipel.net
 0.0.0.0 mgipr.com
@@ -1526,6 +1531,7 @@
 0.0.0.0 zaibar.ro
 0.0.0.0 zanity.net
 0.0.0.0 zapto.org
+0.0.0.0 zapto.xyz
 0.0.0.0 zeitr.ch
 0.0.0.0 zelslonik.info
 0.0.0.0 zneth.com

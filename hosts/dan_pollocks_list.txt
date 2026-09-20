@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.74
-! Last modified: 2026-09-13T06:33:10.316Z
+! Version: 1.0.19.84
+! Last modified: 2026-09-20T06:29:26.169Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.74
+! Version: 1.0.19.84
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-09-10T16:17:49.062Z
+! Last modified: 2026-09-18T21:15:01.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1517,6 +1517,7 @@
 0.0.0.0 bousedirect.fr
 0.0.0.0 boutique-papillon.fr
 0.0.0.0 bouygiestelecom.fr
+0.0.0.0 bowlinvit.site
 0.0.0.0 bpong.fr
 0.0.0.0 bracabrac.fr
 0.0.0.0 brainns.sa.com
@@ -2119,6 +2120,7 @@
 0.0.0.0 intevry.fr
 0.0.0.0 invelaconstructora.com
 0.0.0.0 invite.gezinti.com
+0.0.0.0 invited.blueconferencefield.com
 0.0.0.0 ipi9.fr
 0.0.0.0 iqmatrix.fr
 0.0.0.0 irony.world
@@ -3215,6 +3217,8 @@
 0.0.0.0 www.anyik.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.apkfuuny.com
+0.0.0.0 www.aplogia.com
+0.0.0.0 www.appfoliio.com
 0.0.0.0 www.aqualakefy.name
 0.0.0.0 www.aramcom.space
 0.0.0.0 www.arfrepuestos.com
@@ -3231,6 +3235,7 @@
 0.0.0.0 www.audionoisereducer.com
 0.0.0.0 www.auditprint.com
 0.0.0.0 www.auto-runmz.com
+0.0.0.0 www.autoaler.com
 0.0.0.0 www.autoinkoopbedrijf.com
 0.0.0.0 www.autotra.com
 0.0.0.0 www.availablefiles.com
@@ -3255,6 +3260,7 @@
 0.0.0.0 www.bcwars.net
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.behdja.com
+0.0.0.0 www.beheerflvsebox.com
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bernoussiphone.com
 0.0.0.0 www.bestlabour.com
@@ -3262,6 +3268,8 @@
 0.0.0.0 www.bicyclefan.com
 0.0.0.0 www.bigantstore.com
 0.0.0.0 www.bigpremiere.com
+0.0.0.0 www.bisselcommercial.com
+0.0.0.0 www.bjseverlastingoils.com
 0.0.0.0 www.blanknightsmfg.com
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
@@ -3328,6 +3336,7 @@
 0.0.0.0 www.cjkassociates.co.in
 0.0.0.0 www.cjtest.com
 0.0.0.0 www.claimedmoney.com
+0.0.0.0 www.classeroom.com
 0.0.0.0 www.cleanvvlife.com
 0.0.0.0 www.cleanvvmagic.com
 0.0.0.0 www.clearacreonline.com
@@ -3371,6 +3380,7 @@
 0.0.0.0 www.crystalbranchtw.blog
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
+0.0.0.0 www.damncheapguns.com
 0.0.0.0 www.dangdangflow.com
 0.0.0.0 www.danispiritualtherapist.com
 0.0.0.0 www.darkrro.com
@@ -3397,6 +3407,8 @@
 0.0.0.0 www.digisubmission.com
 0.0.0.0 www.digitalbigger.garden
 0.0.0.0 www.digitalcoachpro.name
+0.0.0.0 www.dinasauradventure.com
+0.0.0.0 www.diperformancetransmissions.com
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dlinktour.com
 0.0.0.0 www.doblectv.com
@@ -3425,6 +3437,7 @@
 0.0.0.0 www.elmerdiner.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.emprenderimportaperu.com
+0.0.0.0 www.enargic.com
 0.0.0.0 www.energiazoque.com
 0.0.0.0 www.eqarati.com
 0.0.0.0 www.eqinenow.com
@@ -3510,6 +3523,7 @@
 0.0.0.0 www.gifttifyagency.com
 0.0.0.0 www.gildedrosens.name
 0.0.0.0 www.gimp.es
+0.0.0.0 www.githubuser.com
 0.0.0.0 www.glassygrovefy.pro
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.globlepoker.com
@@ -3604,6 +3618,7 @@
 0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jjbenefitsguide.com
 0.0.0.0 www.jnhjf.com
+0.0.0.0 www.jobomg.com
 0.0.0.0 www.joinclap.com
 0.0.0.0 www.joinfx.net
 0.0.0.0 www.jovareo.com
@@ -3681,6 +3696,7 @@
 0.0.0.0 www.massagetherapybyjuli.com
 0.0.0.0 www.match3quests.com
 0.0.0.0 www.matifi.com
+0.0.0.0 www.mcclartyauto.com
 0.0.0.0 www.mdarussellhobbs.com
 0.0.0.0 www.meantvictim.lat
 0.0.0.0 www.mediamindpolska.com
@@ -3840,6 +3856,7 @@
 0.0.0.0 www.primecrestnq.name
 0.0.0.0 www.primitivecountrydecor.com
 0.0.0.0 www.princessuppies.com
+0.0.0.0 www.proctou.com
 0.0.0.0 www.proflashdata.com			# Facebook trojan
 0.0.0.0 www.promoskills.com
 0.0.0.0 www.properrayam.pro
@@ -4111,6 +4128,7 @@
 0.0.0.0 www.yixiudn.com
 0.0.0.0 www.ylgj789.com
 0.0.0.0 www.yoolyes.com
+0.0.0.0 www.yottacash.com
 0.0.0.0 www.youfiletor.com
 0.0.0.0 www.yreta.com
 0.0.0.0 www.zenithvault.uk

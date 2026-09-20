@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.22.69
-! Last modified: 2026-09-13T06:33:34.314Z
+! Version: 1.0.22.83
+! Last modified: 2026-09-20T06:30:00.814Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -117,10 +117,8 @@
 0.0.0.0 video-adblock.com
 0.0.0.0 vid-adblocker.com
 0.0.0.0 multiadblock.com
-0.0.0.0 traffic-go.com
 0.0.0.0 streamssitesearch.com
 0.0.0.0 trackertrak.com
-0.0.0.0 bingstyle.com
 0.0.0.0 redirekted.com
 0.0.0.0 adpopblocker.com
 0.0.0.0 trafficjunction.com
@@ -128,7 +126,6 @@
 0.0.0.0 um-bredirect.com
 0.0.0.0 glbltraffic.com
 0.0.0.0 inspirationhistorical.com
-0.0.0.0 maroohost.online
 0.0.0.0 amigosdetuciudad.com
 0.0.0.0 praterage-colled.com
 0.0.0.0 pwrtds.com
@@ -209,7 +206,6 @@
 0.0.0.0 familysimulators.
 0.0.0.0 uoutube.com
 0.0.0.0 celxkpdir.com
-0.0.0.0 smart-redirecting.com
 0.0.0.0 elooksjustli.one
 0.0.0.0 keepsclean.com
 0.0.0.0 magictrack1.com
@@ -255,7 +251,6 @@
 0.0.0.0 icetraff.com
 0.0.0.0 guardlnkcaptcha.com
 0.0.0.0 landings.namapper.com
-0.0.0.0 imp2.com
 0.0.0.0 dunabear.com
 0.0.0.0 mialifestyle.com
 0.0.0.0 remor.xyz
@@ -282,7 +277,6 @@
 0.0.0.0 dcrtb-pixel.com
 0.0.0.0 vaccination.gov.ng
 0.0.0.0 thebook.digital
-0.0.0.0 nachhilfeteam.net
 0.0.0.0 adalh-zcq.com
 0.0.0.0 discordvip.createsocialcard.top
 0.0.0.0 whatsapp-32w.pages.dev
@@ -350,7 +344,6 @@
 0.0.0.0 freediscordnitro.
 0.0.0.0 updatemobilee.com
 0.0.0.0 allprizesforme.com
-0.0.0.0 tw-goldenwinner-57.com
 0.0.0.0 fasterfiles.net
 0.0.0.0 a1475.com
 0.0.0.0 ts-group.com
@@ -379,8 +372,6 @@
 0.0.0.0 readyf1.click
 0.0.0.0 filefindme.xyz
 0.0.0.0 host9.link
-0.0.0.0 sonvupload.xyz
-0.0.0.0 hostingfile.live
 0.0.0.0 modesoft.org
 0.0.0.0 newgitgerto.xyz
 0.0.0.0 theannoyingsite.com
@@ -430,7 +421,6 @@
 0.0.0.0 btemgb.com
 0.0.0.0 ec2-13-230-253-66.ap-northeast-1.compute.amazonaws.com
 0.0.0.0 lcskincarecenter.com
-0.0.0.0 modii.xyz
 0.0.0.0 promotkc.cc
 0.0.0.0 app.kamlno.network
 0.0.0.0 macclear.com
@@ -438,7 +428,6 @@
 0.0.0.0 gooqlee.com
 0.0.0.0 jsdajp.click
 0.0.0.0 jsda-check.com
-0.0.0.0 appvip-download.cc
 0.0.0.0 riseecore.site
 0.0.0.0 hcstore.vip
 0.0.0.0 arzaeterna.com
@@ -449,13 +438,16 @@
 0.0.0.0 safeageplan.link
 0.0.0.0 safe-device.com
 0.0.0.0 fanbox.help
-0.0.0.0 meetu.usd1.party
 0.0.0.0 fanbox.autos
 0.0.0.0 luxoriahub.shop
 0.0.0.0 claude-ai.cyou
 0.0.0.0 aisyncad.com
-0.0.0.0 cdn.streameet.top
 0.0.0.0 new.point-youtools.com
+0.0.0.0 datinglive-jp.com
+0.0.0.0 download.guomeizuo.com
+0.0.0.0 app.suckmongif.com
+0.0.0.0 rerrioara.live
+0.0.0.0 gbelitesolutions.com
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -488,7 +480,6 @@
 0.0.0.0 fortune-luna.com
 0.0.0.0 g6-gonight.org
 0.0.0.0 gabfbnaqodnvfafnj.com
-0.0.0.0 girls.a-makeup.com
 0.0.0.0 goldenluck.jp
 0.0.0.0 happy468.net
 0.0.0.0 hi-a-so-bi.net
@@ -499,7 +490,6 @@
 0.0.0.0 hphp-dy.net
 0.0.0.0 i.redi-ana.jp
 0.0.0.0 i2019.jp
-0.0.0.0 irie3.net
 0.0.0.0 ivy2241u.jp
 0.0.0.0 jamjamjam.biz
 0.0.0.0 k-colorful.jp
@@ -525,7 +515,6 @@
 0.0.0.0 match-mate.net
 0.0.0.0 matimati.site
 0.0.0.0 maytail.jp
-0.0.0.0 meguri-eye.net
 0.0.0.0 meguri-y.net
 0.0.0.0 moody-night.net
 0.0.0.0 my7love.xyz
@@ -554,8 +543,6 @@
 0.0.0.0 salonoshirase.net
 0.0.0.0 sns-pair.net
 0.0.0.0 space-high.com
-0.0.0.0 spirilp3000.com
-0.0.0.0 spirituallounge-3000.com
 0.0.0.0 sugarboxxx.net
 0.0.0.0 sugulove.com
 0.0.0.0 sweetmemo.net
@@ -583,7 +570,6 @@
 0.0.0.0 chocochipu-o.com
 0.0.0.0 facebooc.jp
 0.0.0.0 gtir5die6sutngr.jpn.com
-0.0.0.0 happiness-gate.com
 0.0.0.0 iikanjiyanakanjide.wixsite.com
 0.0.0.0 makoto-in-room.wixsite.com
 0.0.0.0 moira-101.com
@@ -645,7 +631,6 @@
 0.0.0.0 y-tradie.com
 0.0.0.0 best-web2020.com
 0.0.0.0 female-good.work
-0.0.0.0 foundate-core.net
 0.0.0.0 li-neeee.net
 0.0.0.0 make2022.com
 0.0.0.0 sbfw.work
@@ -677,7 +662,6 @@
 0.0.0.0 happylife-partner.com
 0.0.0.0 heartmatch.jp
 0.0.0.0 japanhotties.jp
-0.0.0.0 jdoasjfojuhod.com
 0.0.0.0 koipara.jp
 0.0.0.0 lib-333-lib.com
 0.0.0.0 local-bang.com
@@ -914,7 +898,6 @@
 0.0.0.0 o-cean-fortune.biz
 0.0.0.0 o-cean-fortune.com
 0.0.0.0 secondary-with.com
-0.0.0.0 fure-ai.com
 0.0.0.0 rea-love.net
 0.0.0.0 natu.natural-natural-pure.com
 0.0.0.0 celezma.net
@@ -923,7 +906,6 @@
 0.0.0.0 pair-seat.net
 0.0.0.0 pairseat.net
 0.0.0.0 sez.jp
-0.0.0.0 kira-kira.blue
 0.0.0.0 p-chi.tech
 0.0.0.0 vanilla-japan.love
 0.0.0.0 jtybleua.jp
@@ -1025,7 +1007,6 @@
 0.0.0.0 ffr548tyfhe.jp
 0.0.0.0 k0k0cha.link
 0.0.0.0 ir0d0r1.jp
-0.0.0.0 lovemelo.net
 0.0.0.0 ma-t-chy.link
 0.0.0.0 maiwa12.jp
 0.0.0.0 mat-chy.site
@@ -1064,10 +1045,7 @@
 0.0.0.0 as25ap.com
 0.0.0.0 asap15.com
 0.0.0.0 sm8787.com
-0.0.0.0 keenchimairaanthem.com
-0.0.0.0 ccappu-ccinno.com
 0.0.0.0 ccappuccinno.com
-0.0.0.0 daddyclub.net
 0.0.0.0 papamagic.net
 0.0.0.0 hoshi-no-michibiki.com
 0.0.0.0 hoshi-no-michibiki.jp
@@ -1094,8 +1072,6 @@
 0.0.0.0 sharesharemail.net
 0.0.0.0 high-incomes.com
 0.0.0.0 line-special-information.com
-0.0.0.0 safety-line-message.com
-0.0.0.0 secure-line-network.com
 0.0.0.0 side-joblp.com
 0.0.0.0 71l0b.com
 0.0.0.0 everydaykennsyou.com
@@ -1125,10 +1101,8 @@
 0.0.0.0 majiainc.com
 0.0.0.0 meet-up.jp
 0.0.0.0 n43vr.com
-0.0.0.0 qf6tm5ug.com
 0.0.0.0 candycandypop.com
 0.0.0.0 showa-klub.com
-0.0.0.0 yy4rhgzd.com
 0.0.0.0 colorfulromance.com
 0.0.0.0 blue-uranai.com
 0.0.0.0 bm-bluemoon.com
@@ -1178,9 +1152,7 @@
 0.0.0.0 match-member.com
 0.0.0.0 tu-tu.jp
 0.0.0.0 vip-salon.net
-0.0.0.0 j9q8dmk6.com
 0.0.0.0 kas6mjgmxhn5.com
-0.0.0.0 zjjgbuiy.com
 0.0.0.0 jkoi.jp
 0.0.0.0 light678o.fun
 0.0.0.0 bacchuss.net
@@ -1226,7 +1198,6 @@
 0.0.0.0 f-fri.com
 0.0.0.0 f-fri.net
 0.0.0.0 active-achieve.com
-0.0.0.0 awesome-meeting.jp
 0.0.0.0 basic-bank.com
 0.0.0.0 chief-child.com
 0.0.0.0 deliver-departure.com
@@ -1325,18 +1296,12 @@
 0.0.0.0 improveyourhand.online
 0.0.0.0 irrigation085.com
 0.0.0.0 atlier-ad.jp
-0.0.0.0 atelier-goo.net
 0.0.0.0 atelier-happiness.co.jp
 0.0.0.0 atelier-hp.jp
-0.0.0.0 atelier-post.net
-0.0.0.0 atelier-s2.net
-0.0.0.0 atelier-tokyo.net
-0.0.0.0 atelier-www.net
 0.0.0.0 chloe-77le.com
 0.0.0.0 jyuku-kan.tokyo
 0.0.0.0 deq.frt-87rtyt1.jp
 0.0.0.0 ytk.jra-ikkr.jp
-0.0.0.0 last-love.com
 0.0.0.0 tada-mail.com
 0.0.0.0 tada-mail.net
 0.0.0.0 soltp1de.user.webaccel.jp
@@ -1359,17 +1324,14 @@
 0.0.0.0 brilliant.ohana-pilina.com
 0.0.0.0 pinehollow-glade.com
 0.0.0.0 tg525.com
-0.0.0.0 ins7ki.com
 0.0.0.0 linez7820.com
 0.0.0.0 jp84434.com
-0.0.0.0 ghtzqkwm.sbs
 0.0.0.0 pfj.anbilip4.com
 0.0.0.0 ap.appl-er.com
 0.0.0.0 hougen-talk.com
 0.0.0.0 honeytalkgroup.com
 0.0.0.0 tomodachiproject.com
 0.0.0.0 official.treasure-fan.com
-0.0.0.0 jump-hi-quality55.com
 0.0.0.0 jump-hi-quality77.com
 0.0.0.0 sparkle-sparkle.net
 0.0.0.0 spiritual-stargate.com
@@ -1385,30 +1347,21 @@
 0.0.0.0 soijoy-sence.com
 0.0.0.0 success-bloom.com
 0.0.0.0 vortex-comger.com
-0.0.0.0 official.step-up-line.com
-0.0.0.0 smatch-love.app
 0.0.0.0 tr53vs.com
 0.0.0.0 lvrc.jp
 0.0.0.0 nogruptexn.com
 0.0.0.0 ralphclothing-jp.com
 0.0.0.0 champion-place77.com
 0.0.0.0 inspirationwillingviagiant.com
-0.0.0.0 8yy-ca-w-i9-z.com
-0.0.0.0 r-a3-jk-xyh-d.com
 0.0.0.0 net.redroses.top
 0.0.0.0 sdnlq.site
 0.0.0.0 sdnlt.site
 0.0.0.0 sdnlx.site
-0.0.0.0 xaysjypt.com
 0.0.0.0 kimikoi8.com
 0.0.0.0 l0ve-zer0.com
 0.0.0.0 zer0-l0ve.com
-0.0.0.0 belongirreplaceabletwice.com
-0.0.0.0 unableirreplaceablegaze.com
 0.0.0.0 yr-root.com
 0.0.0.0 mightembarrassedlaw.com
-0.0.0.0 lustsexloveclub.vip
-0.0.0.0 passionsex.vip
 0.0.0.0 brillante-etoile.com
 0.0.0.0 lamp-keeper-tomori.com
 0.0.0.0 journey-of-truth.com
@@ -1417,7 +1370,6 @@
 0.0.0.0 pure-ppre-r.com
 0.0.0.0 dasikmonnb9.sbs
 0.0.0.0 jjiu3sqw.sbs
-0.0.0.0 kardon-rsa.com
 0.0.0.0 kvgp201er.sbs
 0.0.0.0 osjdd4d.sbs
 0.0.0.0 w0sqoketsl.sbs
@@ -1439,7 +1391,6 @@
 0.0.0.0 fortuneletter.com
 0.0.0.0 fortuneqr-letter.com
 0.0.0.0 lucky-letter.com
-0.0.0.0 typicallydiscrimination.com
 0.0.0.0 amoredate.com
 0.0.0.0 friend-match.net
 0.0.0.0 sanka.fun
@@ -1690,7 +1641,6 @@
 0.0.0.0 tgram.ru
 0.0.0.0 telegramm.site
 0.0.0.0 web-telegram.net
-0.0.0.0 a-new86.com
 0.0.0.0 koi2ru.com
 0.0.0.0 room2021.net
 0.0.0.0 roomoshirase.net
@@ -1737,10 +1687,7 @@
 0.0.0.0 ladesona.com
 0.0.0.0 luiosmardc.ink
 0.0.0.0 auth-code-verif.beer
-0.0.0.0 gta-six-leaks.com
 0.0.0.0 whirlpoploaderfast.com
-0.0.0.0 analysis-id-lfg.info
-0.0.0.0 chief-ignite.pro
 0.0.0.0 great-fade.sbs
 0.0.0.0 re-captcha.xyz
 0.0.0.0 gtm-tools.xyz
@@ -1754,14 +1701,19 @@
 0.0.0.0 cleandev.cc
 0.0.0.0 weibonews.com
 0.0.0.0 biscottirbh.lol
+0.0.0.0 basednewsarticle.com
 0.0.0.0 google-meet-call.com
-0.0.0.0 faceit-account.com
 0.0.0.0 kook.bar
 0.0.0.0 openai-backup.one
+0.0.0.0 nutmann.club
 0.0.0.0 kusikowski.sbs
 0.0.0.0 swewart.sbs
 0.0.0.0 guiglen.sbs
 0.0.0.0 keelhaulably.com
+0.0.0.0 soundcloudapp.com
+0.0.0.0 get-verification.to
+0.0.0.0 interseq.at
+0.0.0.0 cloudflare-check.net
 0.0.0.0 cracksway.com
 0.0.0.0 gamingdebates.com
 0.0.0.0 bonzi.link
@@ -1781,6 +1733,7 @@
 0.0.0.0 magisks.com
 0.0.0.0 themagisk.com
 0.0.0.0 magiskmodule.com
+0.0.0.0 vanced.to
 0.0.0.0 z-lib.io
 0.0.0.0 z-lib.id
 0.0.0.0 zlibrary.to
@@ -1794,7 +1747,6 @@
 0.0.0.0 t89ll.com
 0.0.0.0 kbkb.bet
 0.0.0.0 04tips.com
-0.0.0.0 urjump.com
 0.0.0.0 ttt777.com
 0.0.0.0 newupdatesnow.com
 0.0.0.0 thefinanceadvice.com
@@ -1820,7 +1772,6 @@
 0.0.0.0 valid-check-tl-
 0.0.0.0 psh-static.b-cdn.net
 0.0.0.0 check-tl-
-0.0.0.0 tech4u.app
 0.0.0.0 cache.cloudswiftcdn.com
 0.0.0.0 cdn.metricastats.com
 0.0.0.0 cloud.edgerapidcdn.com
@@ -2012,7 +1963,6 @@
 0.0.0.0 bdvenlinea-banvenez-beram.pages.dev
 0.0.0.0 americanexpressempresas.com
 0.0.0.0 amxprd.com
-0.0.0.0 hystove.com
 0.0.0.0 recompensaszurichsantander.com.mx
 0.0.0.0 santander.cf.sandbox.motrada.ch
 0.0.0.0 santanderpod.*.co.uk
@@ -2160,7 +2110,6 @@
 0.0.0.0 claimspaace.pages.dev
 0.0.0.0 blastairdropclaims.pages.dev
 0.0.0.0 harambetok-eng.pages.dev
-0.0.0.0 rarepepewtf.pages.dev
 0.0.0.0 miles-plume-network.pages.dev
 0.0.0.0 agentlayer-xyz.pages.dev
 0.0.0.0 pngvnreward.pages.dev
@@ -2185,7 +2134,6 @@
 0.0.0.0 interface-git-parallel-cypress-uniswap.vercel.app
 0.0.0.0 web3-projects-beta.vercel.app
 0.0.0.0 metamask*.webflow.io
-0.0.0.0 metamask-support.io
 0.0.0.0 bitvavo*.cc
 0.0.0.0 bitvavo*.top
 0.0.0.0 bitvavo*.vip
@@ -2199,7 +2147,6 @@
 0.0.0.0 llq.rsq.mybluehost.me
 0.0.0.0 mail.*-coinbase.com
 0.0.0.0 gawavalen.fun
-0.0.0.0 paticableharent.com
 0.0.0.0 lameo.buzz
 0.0.0.0 bitenve.cc
 0.0.0.0 pancakeswap-*.vercel.app
@@ -2273,7 +2220,6 @@
 0.0.0.0 dienlanhdienmayxanhvn.com
 0.0.0.0 cskhtructuyen-
 0.0.0.0 vnairlines.net
-0.0.0.0 tikione.vip
 0.0.0.0 tikifreeship.
 0.0.0.0 tiktok-svip*.com
 0.0.0.0 khach-hang-
@@ -2333,7 +2279,6 @@
 0.0.0.0 app.corn-staging.com
 0.0.0.0 bsodsm8r.xamzgjedu.com
 0.0.0.0 crowdstrike-cloudtrail-storage-bb-126d5e.s3.us-west-1.amazonaws.com
-0.0.0.0 crowdstrikeoutage.info
 0.0.0.0 mecrowdstrikesnowstandalone.azurewebsites.net
 0.0.0.0 crowdstrikereposify.net
 0.0.0.0 crowdstrike-solutions.nl
@@ -2376,7 +2321,6 @@
 0.0.0.0 verification-module-v*.b-cdn.net
 0.0.0.0 verifyyourself-*system.b-cdn.net
 0.0.0.0 weoidnet*.b-cdn.net
-0.0.0.0 chromeupdates.com
 0.0.0.0 fingerboarding.com
 0.0.0.0 odyssey1.to
 0.0.0.0 rustdesk.co.nz
@@ -2401,7 +2345,6 @@
 0.0.0.0 orcasslicer.
 0.0.0.0 nvcleanstall.
 0.0.0.0 nvcleanstal.
-0.0.0.0 airupgreece.net
 0.0.0.0 ftuapps.io
 0.0.0.0 ftuapps.dev
 0.0.0.0 farlad.com
@@ -2422,12 +2365,10 @@
 0.0.0.0 igetintopc.com
 0.0.0.0 usps-packages-*.com
 0.0.0.0 pub-549d59daefd74f7583e1766800fe7b07.r2.dev
-0.0.0.0 tobias-neller.link
 0.0.0.0 getfix.win
 0.0.0.0 getalia.org
 0.0.0.0 goveanrs.org
 0.0.0.0 govearali.org
-0.0.0.0 claritydelivr.com
 0.0.0.0 dntds.shop
 0.0.0.0 dtioykqj1u8de.cloudfront.net
 0.0.0.0 partners-tds.com
@@ -2480,20 +2421,8 @@
 0.0.0.0 plotp.mazamob.space
 0.0.0.0 win32diskimager.org
 0.0.0.0 windirstat.org
-0.0.0.0 apply-todayjobs.com
-0.0.0.0 charliechaplin7eont.space
-0.0.0.0 instant-job-apply.com
-0.0.0.0 instant-job-appply.com
-0.0.0.0 job-apply-fast.com
-0.0.0.0 jobapply-careers.com
-0.0.0.0 jobs-apply-fast.com
-0.0.0.0 schedule-job-application.com
 0.0.0.0 socialmedia-careers-office.com
-0.0.0.0 submit-application-job.com
-0.0.0.0 talent-applications.com
-0.0.0.0 talents-application.com
 0.0.0.0 grupocgcr.com
-0.0.0.0 ncewb8eo.cloud
 0.0.0.0 bluereflection-sun.com
 0.0.0.0 update-macosx.com
 0.0.0.0 cuocthiianhdepthieunhii2025.weebly.com
@@ -2505,7 +2434,6 @@
 0.0.0.0 z-lib.dev
 0.0.0.0 z-lib.ink
 0.0.0.0 z-lib.li
-0.0.0.0 z-lib.nl
 0.0.0.0 z-library.cc
 0.0.0.0 z-lib.ws
 0.0.0.0 z-lib.lol
@@ -2566,10 +2494,8 @@
 0.0.0.0 trackingmyadsas.com
 0.0.0.0 exoduswallet.at
 0.0.0.0 ai-atomic.org
-0.0.0.0 htex-panel.at
 0.0.0.0 simpleswap.ac
 0.0.0.0 simpleswap.to
-0.0.0.0 simpleswap.ltd
 0.0.0.0 simpleswap.online
 0.0.0.0 villasmbuva.co.mz
 0.0.0.0 stylexlab.ru
@@ -2605,7 +2531,6 @@
 0.0.0.0 prizecloud.sa.com
 0.0.0.0 myshielstore.xyz
 0.0.0.0 credzium.co.in
-0.0.0.0 imessagegreetins.de
 0.0.0.0 popcornpump.xyz
 0.0.0.0 smartdefend.net
 0.0.0.0 anget-direct.info
@@ -2626,11 +2551,9 @@
 0.0.0.0 ff-exchange.help
 0.0.0.0 cnangelly.online
 0.0.0.0 changely.at
-0.0.0.0 changeenow.at
 0.0.0.0 ff-exchange.space
 0.0.0.0 ff-exchange.me
 0.0.0.0 fixedfloat.at
-0.0.0.0 pancake-exchange.org
 0.0.0.0 cosmochanger.com
 0.0.0.0 simplesvvvap.cyou
 0.0.0.0 nowchange.cyou
@@ -2638,8 +2561,6 @@
 0.0.0.0 fixedfloat.ca
 0.0.0.0 v2-dexscreener.cc
 0.0.0.0 trezor.la
-0.0.0.0 kodiakfinance-kodiak-finance.org
-0.0.0.0 app.uniswaq.org
 0.0.0.0 changenow-io.us
 0.0.0.0 exodus-wallets.io
 0.0.0.0 legder.at
@@ -2671,10 +2592,8 @@
 0.0.0.0 curve-flnance.com
 0.0.0.0 suite-trezor.click
 0.0.0.0 washingtonpost-news.com
-0.0.0.0 v2-solavre.com
 0.0.0.0 app-defituna.github.io
 0.0.0.0 perfume-yupoo.ru
-0.0.0.0 yupooz.com
 0.0.0.0 jersey-yupoo.com
 0.0.0.0 soccer-jersey-yupoo.com
 0.0.0.0 yupoo.site
@@ -2772,9 +2691,7 @@
 0.0.0.0 infinitytweet.me
 0.0.0.0 infinityweet.me
 0.0.0.0 degenlabs.org
-0.0.0.0 anyplacehere.online
 0.0.0.0 infintytweet.me
-0.0.0.0 anyplacehere.art
 0.0.0.0 infinitetweet.me
 0.0.0.0 infinitetweet.com
 0.0.0.0 redirecttoplace.online
@@ -2786,9 +2703,7 @@
 0.0.0.0 subscriptionprocess.im
 0.0.0.0 rblx-copier.vercel.app
 0.0.0.0 pc-huorong.com
-0.0.0.0 kervjrfjd.pro
 0.0.0.0 vexwin.gl
-0.0.0.0 gamesirs.com
 0.0.0.0 payout-chatgpt.com
 0.0.0.0 tesseract-ocr.com
 0.0.0.0 opsecdefcloud.com
@@ -2809,7 +2724,6 @@
 0.0.0.0 dyiket.com
 0.0.0.0 plus.rustfacepunch.com
 0.0.0.0 studio-blender.com
-0.0.0.0 keepass-xc.com
 0.0.0.0 qishmusic.com.cn
 0.0.0.0 sogoushurf.com
 0.0.0.0 todeskk.com
@@ -2846,7 +2760,6 @@
 0.0.0.0 todeskapp.com
 0.0.0.0 todesk.ac.cn
 0.0.0.0 todesk.im
-0.0.0.0 youku.earth
 0.0.0.0 youkuhonor.com
 0.0.0.0 youku.tv
 0.0.0.0 wps.ac.cn
@@ -2873,9 +2786,7 @@
 0.0.0.0 apps-google-hl.hl.cn
 0.0.0.0 google-chrrome-zh.hl.cn
 0.0.0.0 chrome-chrome-
-0.0.0.0 zh-todesk-cn.hl.cn
 0.0.0.0 todesk-web.hl.cn
-0.0.0.0 lineapps.com.cn
 0.0.0.0 qh-qishuiyinyue.hl.cn
 0.0.0.0 lline.com.cn
 0.0.0.0 line-go.hl.cn
@@ -2905,16 +2816,12 @@
 0.0.0.0 pccare-360.cn
 0.0.0.0 wpp-wps.cn
 0.0.0.0 gf-qishuiapp.com.cn
-0.0.0.0 music-qishuiyinle.hl.cn
 0.0.0.0 sagou.com.cn
 0.0.0.0 testio.ecartdev.com
 0.0.0.0 telega.info
 0.0.0.0 telega.me
-0.0.0.0 life-certain.jp
 0.0.0.0 kyrelune.net
-0.0.0.0 roll-tooth.com
 0.0.0.0 vultenok.net
-0.0.0.0 zalenith.com
 0.0.0.0 cleanguard.tech
 0.0.0.0 studio-obs.net
 0.0.0.0 linkbrawlstars.store
@@ -2935,7 +2842,6 @@
 0.0.0.0 shrtweb.site
 0.0.0.0 bisque-bison-333202.hostingersite.com
 0.0.0.0 karedeutschland.com
-0.0.0.0 invite-track.click
 0.0.0.0 ledger-live*-*.io
 0.0.0.0 legder.*.us.com
 0.0.0.0 microsoft-update.support
@@ -2952,7 +2858,6 @@
 0.0.0.0 ccleaner.lol
 0.0.0.0 ccleaner.mom
 0.0.0.0 ccleaner.lat
-0.0.0.0 saltairus.it.com
 0.0.0.0 10mintimer.com
 0.0.0.0 arduinodroid.com
 0.0.0.0 beardlib.com
@@ -3034,22 +2939,17 @@
 0.0.0.0 trkscope.xyz
 0.0.0.0 losslesscut.net
 0.0.0.0 losslesscut.cn
-0.0.0.0 bloomnnu.it.com
 0.0.0.0 kai-search.com
-0.0.0.0 robtipsyt50kli.blogspot.com
 0.0.0.0 luhxepremiumbags.com
 0.0.0.0 camelote.cn
 0.0.0.0 securesweep.pro
 0.0.0.0 safebooru.com
 0.0.0.0 fluentcleaner.org
-0.0.0.0 ruthcottillionuchylf.github.io
 0.0.0.0 vencord.cc
 0.0.0.0 hoka-uk.com
-0.0.0.0 nextsave.trenched.cfd
 0.0.0.0 ggle-analytics.
 0.0.0.0 cookie-whitelist.
 0.0.0.0 vipsunglassesindia.in
-0.0.0.0 oakleysunglassesindia.com
 0.0.0.0 lieferanndo.de
 0.0.0.0 qemow.com
 0.0.0.0 bbcwebhosting.com
@@ -3058,3 +2958,4 @@
 0.0.0.0 featherswallet.org
 0.0.0.0 aw-huorong.com.cn
 0.0.0.0 mobel-wahls.shop
+0.0.0.0 flingtrainer.io
