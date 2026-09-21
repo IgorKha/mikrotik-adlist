@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.25
-! Last modified: 2026-09-13T06:33:18.670Z
+! Version: 1.0.0.26
+! Last modified: 2026-09-20T06:29:39.247Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 classify-app-eu.allawnos.com
 0.0.0.0 classify-app-in.allawnos.com
@@ -253,6 +253,7 @@
 0.0.0.0 id.push.heytapmobi.com
 0.0.0.0 userprofile.push.heytapmobi.com
 0.0.0.0 api-id.theme.heytapmobi.com
+0.0.0.0 adm-smc-cn.heytapmobi.com
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 dc-dragate-cn.heytapmobi.com
 0.0.0.0 dcc-awareness-cn.heytapmobi.com
@@ -290,6 +291,7 @@
 0.0.0.0 api-gl.cdo.heytapmobile.com
 0.0.0.0 api-id.cdo.heytapmobile.com
 0.0.0.0 api-in.cdo.heytapmobile.com
+0.0.0.0 adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 api-id.game.heytapmobile.com
 0.0.0.0 report-in.opay.heytapmobile.com
@@ -314,6 +316,7 @@
 0.0.0.0 adx-op-in.heytapmobile.com
 0.0.0.0 adx-op-ru.heytapmobile.com
 0.0.0.0 adx-op-sg.heytapmobile.com
+0.0.0.0 adx-u-ru.heytapmobile.com
 0.0.0.0 adx-u-sg.heytapmobile.com
 0.0.0.0 adxu-bigo-sg.heytapmobile.com
 0.0.0.0 bdapi-ads-sg.heytapmobile.com

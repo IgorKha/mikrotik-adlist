@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
-! Version: 1.0.14.83
-! Last modified: 2026-09-13T06:33:21.860Z
+! Version: 1.0.14.85
+! Last modified: 2026-09-20T06:29:43.565Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com
@@ -43,6 +43,7 @@
 0.0.0.0 clmbtrk.com
 0.0.0.0 cohenza-il.com
 0.0.0.0 com-cloud.co
+0.0.0.0 dana-telaviv.com
 0.0.0.0 date-il.com
 0.0.0.0 dateszone.net
 0.0.0.0 depresis.com
@@ -87,6 +88,7 @@
 0.0.0.0 kelocote.prpl.co.il
 0.0.0.0 kooduu.com
 0.0.0.0 kway.co.il
+0.0.0.0 lanatoyasaeil.com
 0.0.0.0 landing-page.mobi
 0.0.0.0 lastpage.pw
 0.0.0.0 lavaveli.com
@@ -139,6 +141,7 @@
 0.0.0.0 regi.tech
 0.0.0.0 reimageplus.com
 0.0.0.0 rome-il.com
+0.0.0.0 ronitnoa-telaviv.com
 0.0.0.0 sdarot-il.org
 0.0.0.0 sdarot-tv.org
 0.0.0.0 sdarot.cc

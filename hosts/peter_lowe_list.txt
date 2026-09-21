@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.87
-! Last modified: 2026-09-13T06:33:07.731Z
+! Version: 1.0.17.89
+! Last modified: 2026-09-20T06:29:22.574Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -109,7 +109,6 @@
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.dnoticias.pt
 0.0.0.0 ad.domainfactory.de
-0.0.0.0 ad.exyws.org
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.gt
 0.0.0.0 ad.hbv.de
@@ -290,7 +289,6 @@
 0.0.0.0 adnet.biz
 0.0.0.0 adnet.de
 0.0.0.0 adnet.ru
-0.0.0.0 adnetasia.com
 0.0.0.0 adnetwork.net
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 adnews.maddog2000.de
@@ -327,7 +325,6 @@
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-img.mozilla.org
-0.0.0.0 ads-portal-cdn.vidaatv.net
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.365.mk
 0.0.0.0 ads.5ci.lt
@@ -594,7 +591,6 @@
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.gamecity.net
-0.0.0.0 ads2.hsoub.com
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
@@ -1458,7 +1454,6 @@
 0.0.0.0 deloo.de
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
-0.0.0.0 deployads.com
 0.0.0.0 desertgates.com
 0.0.0.0 desiredirt.com
 0.0.0.0 detailedgovernment.com
@@ -1504,7 +1499,6 @@
 0.0.0.0 dpbolvw.net
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dq95d35.com
-0.0.0.0 dragonbats.com
 0.0.0.0 drumcash.com
 0.0.0.0 dsp.colpirio.com
 0.0.0.0 dsp.io
@@ -1702,7 +1696,6 @@
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
 0.0.0.0 freezingbuilding.com
-0.0.0.0 frequentflesh.com
 0.0.0.0 freshrelevance.com
 0.0.0.0 fronttoad.com
 0.0.0.0 frtyj.com
@@ -1762,7 +1755,6 @@
 0.0.0.0 go.xlirdr.com
 0.0.0.0 go2affise.com
 0.0.0.0 go2cloud.org
-0.0.0.0 godseedband.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
 0.0.0.0 gondolagnome.com
@@ -1802,7 +1794,6 @@
 0.0.0.0 hamsterspot.com
 0.0.0.0 handsomehose.com
 0.0.0.0 handyfireman.com
-0.0.0.0 handyincrease.com
 0.0.0.0 haplesshydrant.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
@@ -2048,7 +2039,6 @@
 0.0.0.0 li.hearstmags.com
 0.0.0.0 li.livingsocial.com
 0.0.0.0 li.mw.drhinternet.net
-0.0.0.0 li.onetravel.com
 0.0.0.0 li.patheos.com
 0.0.0.0 li.pmc.com
 0.0.0.0 li.realtor.com
@@ -2647,6 +2637,7 @@
 0.0.0.0 quantummetric.com
 0.0.0.0 quarterserver.de
 0.0.0.0 quickkoala.io
+0.0.0.0 quicktattoo.com
 0.0.0.0 quietknowledge.com
 0.0.0.0 quiltruler.com
 0.0.0.0 quinst.com
@@ -2741,7 +2732,6 @@
 0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.plays.bg
 0.0.0.0 revprotect.com
-0.0.0.0 revstats.com
 0.0.0.0 rexadvert.xyz
 0.0.0.0 reyden-x.com
 0.0.0.0 rhombusads.com
@@ -2799,7 +2789,6 @@
 0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
-0.0.0.0 sadloaf.com
 0.0.0.0 safeoffers.pro
 0.0.0.0 sail-horizon.com
 0.0.0.0 samplesamba.com
@@ -2872,7 +2861,6 @@
 0.0.0.0 shockinggrass.com
 0.0.0.0 shoppingads.com
 0.0.0.0 showads.pubmatic.com
-0.0.0.0 shredform.com
 0.0.0.0 shrillspoon.com
 0.0.0.0 shxtrk.com
 0.0.0.0 sicksmash.com
@@ -2937,7 +2925,6 @@
 0.0.0.0 somniture.stuff.co.nz
 0.0.0.0 somoaudience.com
 0.0.0.0 sonobi.com
-0.0.0.0 sortable.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sovrn.com
 0.0.0.0 sp-a-q-f.ib-game.jp
