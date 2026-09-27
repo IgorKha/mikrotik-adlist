@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.44
-! Last modified: 2026-09-20T06:29:38.850Z
+! Version: 1.0.15.46
+! Last modified: 2026-09-27T06:32:41.505Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -114,6 +114,7 @@
 0.0.0.0 babyboomerpeoplemeet.biz
 0.0.0.0 badoocdn.com
 0.0.0.0 badoo.com
+0.0.0.0 bahamasdatingonline.com
 0.0.0.0 baltic-women.com
 0.0.0.0 bangatrans.com
 0.0.0.0 baseballovers.com
@@ -514,6 +515,7 @@
 0.0.0.0 erwinsdate.de
 0.0.0.0 espace-live.com
 0.0.0.0 eterocuriosi.it
+0.0.0.0 europeandatingagency.com
 0.0.0.0 europeandating.net
 0.0.0.0 europeandatingplanet.com
 0.0.0.0 europe-tchat-rencontre.fr
@@ -838,7 +840,9 @@
 0.0.0.0 mignons.net
 0.0.0.0 milalol.com
 0.0.0.0 milfdatelink.com
+0.0.0.0 millionairebuddies.com
 0.0.0.0 millionairedatingplanet.com
+0.0.0.0 millionairematchmaker.ca
 0.0.0.0 minaflirts.com
 0.0.0.0 mingle2.com
 0.0.0.0 minglematey.com
@@ -947,6 +951,7 @@
 0.0.0.0 radar-rencontres.fr
 0.0.0.0 rande.cz
 0.0.0.0 rande.sk
+0.0.0.0 randkisympatia.pl
 0.0.0.0 raw.app
 0.0.0.0 rawapp.sdvcloud.net
 0.0.0.0 rbrides.com
@@ -1287,6 +1292,7 @@
 0.0.0.0 tsdates.com
 0.0.0.0 tsdating.com
 0.0.0.0 turboflirt.com
+0.0.0.0 turkish-gayland.com
 0.0.0.0 tvtsdating.co.uk
 0.0.0.0 uadating.net
 0.0.0.0 uchat.de

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.89
-! Last modified: 2026-09-20T06:29:22.574Z
+! Version: 1.0.17.94
+! Last modified: 2026-09-27T06:32:24.102Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -164,6 +164,7 @@
 0.0.0.0 ad4mat.com
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4mat.net
+0.0.0.0 ad7.biz
 0.0.0.0 adabra.com
 0.0.0.0 adaction.de
 0.0.0.0 adadvisor.net
@@ -220,6 +221,7 @@
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
 0.0.0.0 adhigh.net
+0.0.0.0 adhood.com
 0.0.0.0 adhub.media
 0.0.0.0 adhunter.media
 0.0.0.0 adimage.guardian.co.uk
@@ -400,7 +402,6 @@
 0.0.0.0 ads.emdee.ca
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.epi.sk
-0.0.0.0 ads.epltalk.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.fastcomgroup.it
@@ -864,6 +865,7 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.momentum-institut.at
 0.0.0.0 analytics.myfinance.com
+0.0.0.0 analytics.org.coveo.com
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.picsart.com
@@ -1388,7 +1390,6 @@
 0.0.0.0 cpx.to
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
-0.0.0.0 crabbychin.com
 0.0.0.0 craktraffic.com
 0.0.0.0 crashchance.com
 0.0.0.0 crashlytics.com
@@ -1755,6 +1756,7 @@
 0.0.0.0 go.xlirdr.com
 0.0.0.0 go2affise.com
 0.0.0.0 go2cloud.org
+0.0.0.0 godseedband.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
 0.0.0.0 gondolagnome.com
@@ -1947,7 +1949,6 @@
 0.0.0.0 islandwebhelp.com
 0.0.0.0 itop.cz
 0.0.0.0 itrackly.com
-0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 iyfbodn.com
 0.0.0.0 iyfnzgb.com
@@ -2379,6 +2380,8 @@
 0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
+0.0.0.0 offers.gateway-lts450.com
+0.0.0.0 offers.ltsc-has.com
 0.0.0.0 offshoregeology.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 oglasi.posjetnica.com
@@ -2691,7 +2694,6 @@
 0.0.0.0 rec5.visualwebsiteoptimizer.com
 0.0.0.0 recapture.io
 0.0.0.0 receptivereaction.com
-0.0.0.0 recoco.it
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
 0.0.0.0 redirectingat.com
@@ -2754,6 +2756,7 @@
 0.0.0.0 rockabox.co
 0.0.0.0 rockagainst.com
 0.0.0.0 rockstarwriter.com
+0.0.0.0 roguephilosopher.com
 0.0.0.0 rok.com.com
 0.0.0.0 rollconnection.com
 0.0.0.0 ronracepub.com
@@ -2771,7 +2774,6 @@
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbplatform.net
 0.0.0.0 rtbpop.com
-0.0.0.0 rtbpopd.com
 0.0.0.0 rtmark.net
 0.0.0.0 rtxplatform.com
 0.0.0.0 ru4.com
@@ -3192,6 +3194,7 @@
 0.0.0.0 tr.p.360.cn
 0.0.0.0 tracecontent.com
 0.0.0.0 track-eu.customer.io
+0.0.0.0 track-na2.hubspot.com
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.canva.com
 0.0.0.0 track.contently.com
@@ -3232,6 +3235,7 @@
 0.0.0.0 tracking.casheddy.com
 0.0.0.0 tracking.cybertips.uk
 0.0.0.0 tracking.epicgames.com
+0.0.0.0 tracking.gauchosurf.com
 0.0.0.0 tracking.hostgator.com
 0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.ibxlink.com

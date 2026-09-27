@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.6.14
-! Last modified: 2026-09-20T06:30:01.374Z
+! Version: 1.0.6.16
+! Last modified: 2026-09-27T06:33:05.926Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 a.189.cn
 0.0.0.0 t.2merkato.com
@@ -911,6 +911,7 @@
 0.0.0.0 0x3.me
 0.0.0.0 0xy.me
 0.0.0.0 1000ps.to
+0.0.0.0 1001giris.com
 0.0.0.0 101.gg
 0.0.0.0 101101.xyz
 0.0.0.0 102com.ru
@@ -1403,6 +1404,7 @@
 0.0.0.0 adshort.co
 0.0.0.0 adslinks.site
 0.0.0.0 adsmoker.com
+0.0.0.0 adtival.network
 0.0.0.0 adtr.ee
 0.0.0.0 adurly.cc
 0.0.0.0 adv.li
@@ -2405,6 +2407,7 @@
 0.0.0.0 cinecom.info
 0.0.0.0 cinterraent.com
 0.0.0.0 cintly.com
+0.0.0.0 cioudinary.net
 0.0.0.0 cipta.link
 0.0.0.0 ciptalink.com
 0.0.0.0 ciq.to
@@ -2509,6 +2512,10 @@
 0.0.0.0 clockurl.com
 0.0.0.0 clotplaynews.live
 0.0.0.0 cloudfare.icu
+0.0.0.0 cloudfronte.net
+0.0.0.0 cloudinery.net
+0.0.0.0 cloudiniry.net
+0.0.0.0 cloudnairy.net
 0.0.0.0 cloudradar.net
 0.0.0.0 cloudshrinker.com
 0.0.0.0 clourls.com
@@ -3378,6 +3385,7 @@
 0.0.0.0 flextrig.com
 0.0.0.0 flic.kr
 0.0.0.0 flickerlink.com
+0.0.0.0 flickker.net
 0.0.0.0 flii.by
 0.0.0.0 flink.is
 0.0.0.0 flinkio.com
@@ -5930,6 +5938,7 @@
 0.0.0.0 nkxe.com
 0.0.0.0 nlab.cg
 0.0.0.0 nlc.mobi
+0.0.0.0 nlink.at
 0.0.0.0 nmrk.re
 0.0.0.0 nmw.news
 0.0.0.0 nnd.media
@@ -6317,6 +6326,7 @@
 0.0.0.0 petrovay.com
 0.0.0.0 pew.org
 0.0.0.0 pewrsr.ch
+0.0.0.0 pexls.net
 0.0.0.0 pfapp.io
 0.0.0.0 pg3d.app
 0.0.0.0 pgat.us
@@ -6387,6 +6397,7 @@
 0.0.0.0 plu.sh
 0.0.0.0 plus.ly
 0.0.0.0 plusking.ir
+0.0.0.0 plxabay.net
 0.0.0.0 ply.be
 0.0.0.0 plybt.io
 0.0.0.0 plyin.org
@@ -7030,6 +7041,7 @@
 0.0.0.0 saf.li
 0.0.0.0 safe.mn
 0.0.0.0 safeelink.com
+0.0.0.0 safelinkearn.com
 0.0.0.0 safelinking.net
 0.0.0.0 safelinku.com
 0.0.0.0 safely.to
@@ -8791,6 +8803,10 @@
 0.0.0.0 unpixly.com
 0.0.0.0 unshort.site
 0.0.0.0 unsololink.com
+0.0.0.0 unsp1ash.net
+0.0.0.0 unsplach.net
+0.0.0.0 unsplasc.net
+0.0.0.0 unsplsh.net
 0.0.0.0 unsw.to
 0.0.0.0 untiny.me
 0.0.0.0 untitledone.io

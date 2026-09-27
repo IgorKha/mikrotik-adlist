@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.80
-! Last modified: 2026-09-20T06:29:28.010Z
+! Version: 1.0.15.82
+! Last modified: 2026-09-27T06:32:30.098Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -139,6 +139,7 @@
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adslvfile.qq.com
 0.0.0.0 adsmart.konka.com
+0.0.0.0 adsmartget.datads.cn
 0.0.0.0 adsmind.gdtimg.com
 0.0.0.0 adsmind.ugdtimg.com
 0.0.0.0 adsmoloco.com
@@ -573,6 +574,7 @@
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 mores.toponad.com
+0.0.0.0 mpcfg.fancydsp.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms4.applvn.com
 0.0.0.0 msdk.voiceads.cn
@@ -624,6 +626,8 @@
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 pglstatp-toutiao.com
+0.0.0.0 pica-a-display.diwodiwo.xyz
+0.0.0.0 pica-ad-api.diwodiwo.xyz
 0.0.0.0 pig.pupuapi.com
 0.0.0.0 pin.hpplay.cn
 0.0.0.0 pixon.ads-pixiv.net
@@ -673,11 +677,14 @@
 0.0.0.0 scs.openspeech.cn
 0.0.0.0 sdk-ab-config.qquanquan.com
 0.0.0.0 sdk-cache.video.ptqy.gitv.tv
+0.0.0.0 sdk-track.66mobi.com
 0.0.0.0 sdk.1rtb.net
 0.0.0.0 sdk.ad.smaato.net
+0.0.0.0 sdk.adhuanxiao.com
 0.0.0.0 sdk.cferw.com
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk.hzsanjiaomao.com
+0.0.0.0 sdk.hzzfcm.com
 0.0.0.0 sdk.markmedia.com.cn
 0.0.0.0 sdk.mobads.adwangmai.com
 0.0.0.0 sdkapp.uve.weibo.com
@@ -865,6 +872,7 @@
 0.0.0.0 wxsnsdy.tc.qq.com
 0.0.0.0 wxsnsdy.wxs.qq.com
 0.0.0.0 wxsnsdythumb.wxs.qq.com
+0.0.0.0 xadsmartget.adgain.cn
 0.0.0.0 xc.gdt.qq.com
 0.0.0.0 xcx.dcad01.com
 0.0.0.0 xiaomi-dtv.m.cn.miaozhen.com

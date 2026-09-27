@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.22.2
-! Last modified: 2026-09-20T06:29:43.726Z
+! Version: 1.0.22.9
+! Last modified: 2026-09-27T06:32:48.345Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
@@ -26,14 +26,11 @@
 0.0.0.0 afiletoget.click
 0.0.0.0 air-up-turkiye.com
 0.0.0.0 air-upfrance.com
-0.0.0.0 airmaxskobillige.com
 0.0.0.0 airteltower.com
 0.0.0.0 airtoff.com
 0.0.0.0 airup-romania.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
-0.0.0.0 akjamv.shop
-0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 allcars.cn
@@ -127,7 +124,6 @@
 0.0.0.0 caraci.it
 0.0.0.0 casualdating1.com
 0.0.0.0 cda-zalukaj.prv.pl
-0.0.0.0 cdn-defac13.techresource.shop
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
 0.0.0.0 check-update-today.me
@@ -147,7 +143,6 @@
 0.0.0.0 coinaps.com
 0.0.0.0 coinreq.com
 0.0.0.0 colorandcotton.com
-0.0.0.0 com-id25106619.top
 0.0.0.0 compoundexotics.com
 0.0.0.0 confira.io
 0.0.0.0 containably.com
@@ -181,11 +176,8 @@
 0.0.0.0 deergift.com
 0.0.0.0 dein-rundfunkbeitrag.de
 0.0.0.0 desiupload.in
-0.0.0.0 detranboletim.co
 0.0.0.0 devifoodgrains.com
 0.0.0.0 dezpez.com
-0.0.0.0 dgbdhvqpwvplersqjytw.dunkansp.info
-0.0.0.0 dgs-worldwide.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 dkfodboldstore.com
@@ -194,6 +186,7 @@
 0.0.0.0 dolomiteoutlet.com
 0.0.0.0 dolystore.com
 0.0.0.0 dopestore.pl
+0.0.0.0 drakternorge.com
 0.0.0.0 drama-queen.cc
 0.0.0.0 draxu.com
 0.0.0.0 dreamgreenshoe.com
@@ -214,7 +207,6 @@
 0.0.0.0 ecs-online.ffm.to
 0.0.0.0 edgeupgrade.com
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
-0.0.0.0 ekommmedia.com
 0.0.0.0 emberio.com
 0.0.0.0 en-trezor.io
 0.0.0.0 enchantestore.myshopify.com
@@ -233,7 +225,6 @@
 0.0.0.0 evisaindia.org
 0.0.0.0 evisaindiaonline.org
 0.0.0.0 ex-torrenty.org
-0.0.0.0 expert.lunarbattle.pro
 0.0.0.0 expressmovers.com
 0.0.0.0 extradevip.com
 0.0.0.0 facebook-google-15oqyxwtkremqyujsm.vercel.app
@@ -251,7 +242,6 @@
 0.0.0.0 faze1.com
 0.0.0.0 faze10.com
 0.0.0.0 faze2.com
-0.0.0.0 faze29.com
 0.0.0.0 faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 faze47.com
@@ -279,6 +269,7 @@
 0.0.0.0 findglocal.com
 0.0.0.0 finnews7.wordpress.com
 0.0.0.0 fitgirl-repacks-site.org
+0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
 0.0.0.0 flattee.com
@@ -346,6 +337,7 @@
 0.0.0.0 hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 hotdebrid.com
+0.0.0.0 hotmod.eu
 0.0.0.0 houselar.com.br
 0.0.0.0 hubfiles.ws
 0.0.0.0 hugetrump.com
@@ -418,7 +410,6 @@
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 killercharm.com
 0.0.0.0 kingcampoutdoors.co.jp
-0.0.0.0 kino-cda.pl
 0.0.0.0 kinomaniak.cc
 0.0.0.0 kinonline.pl
 0.0.0.0 kisserine.com
@@ -458,7 +449,6 @@
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
-0.0.0.0 lucchesestore.online
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
 0.0.0.0 lucysstyle.com
@@ -473,7 +463,6 @@
 0.0.0.0 meaningift.com
 0.0.0.0 mega-heritage.com
 0.0.0.0 mega-kino.pl
-0.0.0.0 metatradebox.net
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 microsoft.teams-live.com
@@ -506,7 +495,6 @@
 0.0.0.0 navi100.com
 0.0.0.0 navi11.com
 0.0.0.0 navi12.com
-0.0.0.0 navi12.ru
 0.0.0.0 navi18.com
 0.0.0.0 navi2.com
 0.0.0.0 navi20.com
@@ -521,19 +509,17 @@
 0.0.0.0 navi26.ru
 0.0.0.0 navi27.ru
 0.0.0.0 navi3.com
+0.0.0.0 navi30.com
 0.0.0.0 navi30.ru
 0.0.0.0 navi33.com
 0.0.0.0 navi35.com
 0.0.0.0 navi36.ru
-0.0.0.0 navi37.com
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 navi42.ru
-0.0.0.0 navi48.com
 0.0.0.0 navi5.com
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
-0.0.0.0 navi53.ru
 0.0.0.0 navi56.com
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
@@ -599,6 +585,7 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 officialkmspico.com
 0.0.0.0 oflike.com
+0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
@@ -624,8 +611,6 @@
 0.0.0.0 pandzee.com
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
-0.0.0.0 pay.avito.booklng.id-7144893.com
-0.0.0.0 pay.sberbank.id90152861.com
 0.0.0.0 peekpok.com
 0.0.0.0 penguinnow.com
 0.0.0.0 peppatees.com
@@ -648,6 +633,7 @@
 0.0.0.0 popeurope.com
 0.0.0.0 porkbunrr.web.app
 0.0.0.0 post-nachsenden.de
+0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 primeleech.com
 0.0.0.0 primevod.pl
@@ -658,7 +644,6 @@
 0.0.0.0 punchonsol.top
 0.0.0.0 q3i5q2r6.stackpathcdn.com
 0.0.0.0 qq51f.short.gy
-0.0.0.0 quatangidol.com
 0.0.0.0 quitasueno.com
 0.0.0.0 quotex.com.in
 0.0.0.0 re-captha-version-3-277.buzz
@@ -676,13 +661,10 @@
 0.0.0.0 robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 rosateeshop.com
-0.0.0.0 rosettahome.top
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
 0.0.0.0 rozomii.info
 0.0.0.0 rsaonlinenow.com.au
-0.0.0.0 rupiahlagi.com
-0.0.0.0 rustdesk.co.nz
 0.0.0.0 rustdesk.io
 0.0.0.0 rustdesk.pl
 0.0.0.0 rustdesk.secure-box.de
@@ -717,6 +699,7 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
 0.0.0.0 skinszone.net
+0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 slimsyrups.ca
@@ -730,11 +713,11 @@
 0.0.0.0 sodipi.com
 0.0.0.0 softgetpc.com
 0.0.0.0 software19797.blogspot.com
+0.0.0.0 softzspot.com
 0.0.0.0 souhoney.com
+0.0.0.0 source84.com
 0.0.0.0 southernlife.net
-0.0.0.0 sportfamily.us
 0.0.0.0 sportfanlab.com
-0.0.0.0 sportfanvoice.com
 0.0.0.0 sportfirestore.com
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 sportswearfanatics.com
@@ -760,6 +743,7 @@
 0.0.0.0 streamboo.com
 0.0.0.0 streamloot.co
 0.0.0.0 streamvod.pl
+0.0.0.0 strefa-filmu.pl
 0.0.0.0 successglossary.com
 0.0.0.0 sugarandpearl.com
 0.0.0.0 summersale.co
@@ -776,21 +760,19 @@
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tatatowers.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
 0.0.0.0 tencheckit.org
 0.0.0.0 terverystaio.info
-0.0.0.0 tesla4eth.net
-0.0.0.0 teslacase.org
-0.0.0.0 tesladrop2x.com
 0.0.0.0 teslatime.net
-0.0.0.0 the-north-face.gr
 0.0.0.0 theeaglebrand.company.site
 0.0.0.0 themountainwarehouse.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 theonepercentcommunity.com
 0.0.0.0 theshirtyouneed.com
+0.0.0.0 thevitic.com
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 thewindowsactivator.com
 0.0.0.0 thuthuatxiaomi.com
@@ -801,6 +783,7 @@
 0.0.0.0 toko999.net
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 torrenty-pl.cc
+0.0.0.0 touristvisaonline.com
 0.0.0.0 toweragency.in
 0.0.0.0 toyrube.com
 0.0.0.0 tpqcywcx.page.link
@@ -813,7 +796,6 @@
 0.0.0.0 tripinpremiumsnacks.com
 0.0.0.0 trivo.uk
 0.0.0.0 trkucibqy.com
-0.0.0.0 tromselementbygg.no
 0.0.0.0 turtleclient.xyz
 0.0.0.0 twiiiter.com
 0.0.0.0 twinsbio.com
@@ -827,10 +809,8 @@
 0.0.0.0 ultrasonica.info
 0.0.0.0 uni-swap.online
 0.0.0.0 unifully.com
-0.0.0.0 uniswap-eth.xyz
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.ro
-0.0.0.0 uniswap5.work
 0.0.0.0 uniswapagent.com
 0.0.0.0 uniswapai.xyz
 0.0.0.0 uniswapapp.xyz
@@ -885,7 +865,6 @@
 0.0.0.0 vizjer-pl.pl
 0.0.0.0 vizjer.com.pl
 0.0.0.0 vizjer.eu
-0.0.0.0 vkeys.online
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film
 0.0.0.0 vodfix.pl
@@ -923,7 +902,6 @@
 0.0.0.0 yeswevibe.com
 0.0.0.0 ygtube.xyz
 0.0.0.0 yhdshop.com
-0.0.0.0 yofi-yofi.com
 0.0.0.0 youdebrid.com
 0.0.0.0 yoursecrethookup.com
 0.0.0.0 youtubee.com

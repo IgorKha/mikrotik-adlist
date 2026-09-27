@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
-! Version: 1.0.4.78
-! Last modified: 2026-09-20T06:29:28.807Z
+! Version: 1.0.4.83
+! Last modified: 2026-09-27T06:32:31.282Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 01009.wikihoster.de
 0.0.0.0 0109.maigui.xyz
@@ -17880,6 +17880,7 @@
 0.0.0.0 a.sami.se
 0.0.0.0 asanalytics.booking.com
 0.0.0.0 a.sandspiel.club
+0.0.0.0 as.atlassian.com
 0.0.0.0 as.autobild.de
 0.0.0.0 a.savvy.com
 0.0.0.0 as.axelspringer.com
@@ -18616,6 +18617,7 @@
 0.0.0.0 b629.electronicdesign.com
 0.0.0.0 b668.record-bee.com
 0.0.0.0 b79er1c3.com
+0.0.0.0 b7hng1trk.com
 0.0.0.0 b7nmjklq4zx.com
 0.0.0.0 b7tp47v2nb3x-a.akamaihd.net
 0.0.0.0 b82mtrk.com
@@ -18653,6 +18655,7 @@
 0.0.0.0 backstory.ebay.it
 0.0.0.0 backstory.ebay.ph
 0.0.0.0 backtrace.io
+0.0.0.0 backup-freelance-internet.com
 0.0.0.0 backup.server.gohacking.com.br
 0.0.0.0 bac-mms.buyacar.co.uk
 0.0.0.0 bacontent.de
@@ -25196,6 +25199,7 @@
 0.0.0.0 d2rp1k1dldbai6.cloudfront.net
 0.0.0.0 d2s8wlbatk24s7.cloudfront.net
 0.0.0.0 d2sbntmqjpc1gx.cloudfront.net
+0.0.0.0 d2t1li5434uzqm.cloudfront.net
 0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2tbszkvx1p56e.cloudfront.net
 0.0.0.0 d2u9nuq84jlbj2.cloudfront.net
@@ -30601,6 +30605,7 @@
 0.0.0.0 edge.creator4real.com
 0.0.0.0 edge.crimeandinvestigation.ca
 0.0.0.0 edge.curiouscast.ca
+0.0.0.0 edgedatg.go.com
 0.0.0.0 edge.db-finanzberatung.de
 0.0.0.0 edgedc.falabella.com
 0.0.0.0 edgedc.ibm.com
@@ -53847,6 +53852,7 @@
 0.0.0.0 metrics.junkyard.com
 0.0.0.0 metrics.junora.se
 0.0.0.0 metrics.justcarinsurance.com.au
+0.0.0.0 metrics.justsubtitles.com
 0.0.0.0 metrics.juwai.com
 0.0.0.0 metrics.jynarquehcp.com
 0.0.0.0 metrics.jynarquevirtualbooth.com
@@ -72503,6 +72509,7 @@
 0.0.0.0 reports.pheromax.com
 0.0.0.0 reports.proton.me
 0.0.0.0 reports.radiotime.com
+0.0.0.0 report.srcgptbots.com
 0.0.0.0 reports.tools.gos.ea.com
 0.0.0.0 reports.tunein.com
 0.0.0.0 reports.tvms.io
@@ -105614,6 +105621,7 @@
 0.0.0.0 tags.azattyq.org
 0.0.0.0 tags.azatutyun.am
 0.0.0.0 tags.b1js.com
+0.0.0.0 tags.bahia-principe.com
 0.0.0.0 tags.bama.ir
 0.0.0.0 tags.bankline.natwest.com
 0.0.0.0 tags.bankline.rbs.com
@@ -105625,6 +105633,7 @@
 0.0.0.0 tags.biblegateway.com
 0.0.0.0 tags.bills.com
 0.0.0.0 tags.bk.mufg.jp
+0.0.0.0 tags.bmwusa.com
 0.0.0.0 tags.bunte.de
 0.0.0.0 tags.bupa.co.nz
 0.0.0.0 tags.caixabankamlux.com
@@ -105660,7 +105669,9 @@
 0.0.0.0 tags.calvinklein.se
 0.0.0.0 tags.calvinklein.si
 0.0.0.0 tags.calvinklein.sk
+0.0.0.0 tags.calvinklein.us
 0.0.0.0 tags.cardscout.de
+0.0.0.0 tags.carhartt.com
 0.0.0.0 tags.cathaycargo.com
 0.0.0.0 tags.cathaypacific.com
 0.0.0.0 tags.chime.com
@@ -105785,6 +105796,7 @@
 0.0.0.0 tags.radiotavisupleba.ge
 0.0.0.0 tags.radiyoyacuvoa.com
 0.0.0.0 tags.ratnagems.com
+0.0.0.0 tags.ray-ban.com
 0.0.0.0 tags.rbs.co.uk
 0.0.0.0 tags.rbsdigital.com
 0.0.0.0 tags.rd.linksynergy.com
@@ -105844,6 +105856,7 @@
 0.0.0.0 tags.tiq.rbcprivateinsurance.com
 0.0.0.0 tags.toitpourtoi.fr
 0.0.0.0 tags.tommy.com
+0.0.0.0 tags.torrid.com
 0.0.0.0 tagstream.com
 0.0.0.0 tags.tryg.dk
 0.0.0.0 tags.tryg.no
@@ -109425,6 +109438,7 @@
 0.0.0.0 tracking.reptibites.com
 0.0.0.0 tracking.resume.se
 0.0.0.0 tracking.retailrocket.net
+0.0.0.0 tracking.retailrocket.ru
 0.0.0.0 tracking.revoicer.com
 0.0.0.0 tracking.robincussol.com
 0.0.0.0 tracking.rocketleague.com
@@ -115057,6 +115071,7 @@
 0.0.0.0 xp2023-pix.s3.amazonaws.com
 0.0.0.0 xpanama.net
 0.0.0.0 xp.apple.com
+0.0.0.0 xp.atlassian.com
 0.0.0.0 xpert-analytics.co.uk
 0.0.0.0 xpg93r8trk.com
 0.0.0.0 xplosion.de
