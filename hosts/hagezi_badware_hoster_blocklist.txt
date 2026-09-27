@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.21.3
-! Last modified: 2026-09-20T06:30:01.199Z
+! Version: 1.0.21.7
+! Last modified: 2026-09-27T06:33:05.577Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -395,7 +395,6 @@
 0.0.0.0 comyr.com
 0.0.0.0 comze.com
 0.0.0.0 conohawing.com
-0.0.0.0 convertri.com
 0.0.0.0 cool.hn
 0.0.0.0 cool.lc
 0.0.0.0 coolfreepages.com
@@ -712,6 +711,7 @@
 0.0.0.0 ja.cat
 0.0.0.0 janhost.com
 0.0.0.0 jcmemoryscan.com
+0.0.0.0 jimdofree.com
 0.0.0.0 jixx.de
 0.0.0.0 jixx.net
 0.0.0.0 job.ec
@@ -760,6 +760,7 @@
 0.0.0.0 list-mgmt.com
 0.0.0.0 littlebyte.net
 0.0.0.0 live-stream.eu
+0.0.0.0 live-website.com
 0.0.0.0 live2.de
 0.0.0.0 liveblog365.com
 0.0.0.0 llink.to
@@ -1036,7 +1037,6 @@
 0.0.0.0 stormpages.com
 0.0.0.0 suchtis.de
 0.0.0.0 supload.com
-0.0.0.0 surge.sh
 0.0.0.0 surl.lt
 0.0.0.0 sv.gp
 0.0.0.0 sviluppo.host
@@ -1064,6 +1064,7 @@
 0.0.0.0 the-finance-world.com
 0.0.0.0 tiiny.host
 0.0.0.0 tiiny.io
+0.0.0.0 tiiny.site
 0.0.0.0 tinylink.in
 0.0.0.0 tinyurl.ph
 0.0.0.0 tld.cc

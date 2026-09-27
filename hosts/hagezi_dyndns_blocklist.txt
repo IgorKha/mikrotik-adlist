@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.18
-! Last modified: 2026-09-20T06:30:01.115Z
+! Version: 1.0.17.19
+! Last modified: 2026-09-27T06:33:05.425Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -11,7 +11,6 @@
 0.0.0.0 ddns.com.co
 0.0.0.0 dynamicdns.com.co
 0.0.0.0 winco.com.br
-0.0.0.0 dyn.dns.he.net
 0.0.0.0 4040.idv.tw
 0.0.0.0 ddns.me.uk
 0.0.0.0 dynamicdns.me.uk

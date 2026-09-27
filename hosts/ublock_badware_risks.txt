@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.22.83
-! Last modified: 2026-09-20T06:30:00.814Z
+! Version: 1.0.22.89
+! Last modified: 2026-09-27T06:33:04.989Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -448,6 +448,8 @@
 0.0.0.0 app.suckmongif.com
 0.0.0.0 rerrioara.live
 0.0.0.0 gbelitesolutions.com
+0.0.0.0 app-download.kuashouban.com
+0.0.0.0 app.ebrafoster.com
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -1636,6 +1638,84 @@
 0.0.0.0 disciplineavarice.com
 0.0.0.0 champion.kiitos-kiitoksia.com
 0.0.0.0 latterantithesis.com
+0.0.0.0 fullth-loto.com
+0.0.0.0 fast-mm.com
+0.0.0.0 int-minint.com
+0.0.0.0 jipso.jp
+0.0.0.0 okanenokami.com
+0.0.0.0 lovers-line.com
+0.0.0.0 q0-b5u.com
+0.0.0.0 qjmesdjrgznq.net
+0.0.0.0 sherondeaau.com
+0.0.0.0 shiarondea.com
+0.0.0.0 shirondeau.com
+0.0.0.0 sirondeauu.com
+0.0.0.0 hitotsuma.net
+0.0.0.0 lot.love-linkage.com
+0.0.0.0 availautomobile.com
+0.0.0.0 beneficial-blanket.com
+0.0.0.0 browserbuilding.com
+0.0.0.0 classicalchurch.com
+0.0.0.0 departdelivery.com
+0.0.0.0 exploitenterprise.com
+0.0.0.0 finefixation.com
+0.0.0.0 ability-acceptable.com
+0.0.0.0 arcticlobe.com
+0.0.0.0 basically-balk.com
+0.0.0.0 brakenormally.com
+0.0.0.0 dedicate-decade.com
+0.0.0.0 dreamer-story.com
+0.0.0.0 dubiousserene.com
+0.0.0.0 exilestrict.com
+0.0.0.0 fukutema.com
+0.0.0.0 unmei-shinpi.jp
+0.0.0.0 auto-run.info
+0.0.0.0 box-ben.com
+0.0.0.0 dom-dom.info
+0.0.0.0 doune41758.biz
+0.0.0.0 greatson1211.site
+0.0.0.0 help-back.info
+0.0.0.0 honem41147.biz
+0.0.0.0 nova-argo.com
+0.0.0.0 yjeija5121.biz
+0.0.0.0 goo-riki.com
+0.0.0.0 menokurage.com
+0.0.0.0 info777-6.com
+0.0.0.0 kum.cloudpost-letter2185.com
+0.0.0.0 kamiwatari.com
+0.0.0.0 lotostics.com
+0.0.0.0 dreamy-catch.com
+0.0.0.0 dream-catch.net
+0.0.0.0 yume-kanaee.com
+0.0.0.0 anemone.blue
+0.0.0.0 calm-connect.blue
+0.0.0.0 your-connect.blue
+0.0.0.0 eco-splp.com
+0.0.0.0 ecosoc-gov.com
+0.0.0.0 himitumatch.com
+0.0.0.0 quickcheck-pay.com
+0.0.0.0 su-hk.com
+0.0.0.0 prime-vp.com
+0.0.0.0 click-pay.net
+0.0.0.0 ezpay-service.com
+0.0.0.0 ytgfrgffgf.com
+0.0.0.0 fizlee.jp
+0.0.0.0 xexxngbeuz.net
+0.0.0.0 lili-life-style.com
+0.0.0.0 aquo.online
+0.0.0.0 zuisaidou021926.com
+0.0.0.0 ureluv.com
+0.0.0.0 pri-vate.org
+0.0.0.0 private-offer.com
+0.0.0.0 huubm.jp
+0.0.0.0 huuba.jp
+0.0.0.0 famine-afeg.com
+0.0.0.0 fabbe6r.com
+0.0.0.0 faeww8j.com
+0.0.0.0 fak1yt7.com
+0.0.0.0 fapr3i.com
+0.0.0.0 fawl4vx.com
+0.0.0.0 tendresse.shop
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
 0.0.0.0 tgram.ru
@@ -2126,6 +2206,9 @@
 0.0.0.0 exodus.com.ag
 0.0.0.0 gitconnect-online.web.app
 0.0.0.0 officialgitechpage.web.app
+0.0.0.0 guardan.io
+0.0.0.0 check-products.org
+0.0.0.0 en-ledger.com
 0.0.0.0 bitoranges.com
 0.0.0.0 putrans.com
 0.0.0.0 snfee.com
@@ -2323,7 +2406,6 @@
 0.0.0.0 weoidnet*.b-cdn.net
 0.0.0.0 fingerboarding.com
 0.0.0.0 odyssey1.to
-0.0.0.0 rustdesk.co.nz
 0.0.0.0 rustdesk.io
 0.0.0.0 rustdesk.pl
 0.0.0.0 rustdesk.secure-box.de
@@ -2483,7 +2565,6 @@
 0.0.0.0 bitchat.live
 0.0.0.0 upa1bit.
 0.0.0.0 upbitbr.
-0.0.0.0 guardan.io
 0.0.0.0 seloriva.com
 0.0.0.0 seloriva.net
 0.0.0.0 client.*-blockfi.com
@@ -2959,3 +3040,4 @@
 0.0.0.0 aw-huorong.com.cn
 0.0.0.0 mobel-wahls.shop
 0.0.0.0 flingtrainer.io
+0.0.0.0 simplemobgtnc.shop

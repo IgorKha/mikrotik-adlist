@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-! Version: 1.0.14.71
-! Last modified: 2026-09-20T06:29:34.025Z
+! Version: 1.0.14.72
+! Last modified: 2026-09-27T06:32:36.930Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 adgoogle.net
 0.0.0.0 crashlytics.com
@@ -43,7 +43,6 @@
 0.0.0.0 chromexperiments.com
 0.0.0.0 cloud.run
 0.0.0.0 com.google
-0.0.0.0 content-signature-chains.prod.webservices.mozgcp.net
 0.0.0.0 digitalkeypairing.org
 0.0.0.0 face-indexing.com
 0.0.0.0 face-mining.com
@@ -1597,8 +1596,6 @@
 0.0.0.0 cellular-coverage.nest.com
 0.0.0.0 certified.nest.com
 0.0.0.0 community.nest.com
-0.0.0.0 developer.nest.com
-0.0.0.0 developers.nest.com
 0.0.0.0 downloads.nest.com
 0.0.0.0 email1.nest.com
 0.0.0.0 energy.api.nest.com

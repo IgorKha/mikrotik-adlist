@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-! Version: 1.0.17.71
-! Last modified: 2026-09-20T06:29:39.794Z
+! Version: 1.0.17.73
+! Last modified: 2026-09-27T06:32:43.258Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.71
+! Version: 1.0.17.73
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-09-08T09:20:43.904Z
+! Last modified: 2026-09-23T05:18:16.867Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -243,6 +243,7 @@
 0.0.0.0 optaim.com
 0.0.0.0 optimix.asia
 0.0.0.0 responsys.net
+0.0.0.0 tanx.com
 0.0.0.0 thoughtleadr.com
 0.0.0.0 unimhk.com
 0.0.0.0 unlitui.com
@@ -998,8 +999,6 @@
 0.0.0.0 r.msn.com
 0.0.0.0 ads.bing.com
 0.0.0.0 adserver.bing.com
-0.0.0.0 bat.bing.com
-0.0.0.0 c.bing.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
@@ -1012,6 +1011,8 @@
 0.0.0.0 ads.amazon.dev
 0.0.0.0 advertising.amazon.dev
 0.0.0.0 api.imdb.eu-west-1.prod.paets.advertising.amazon.dev
+0.0.0.0 bdtelemetry.amazon
+0.0.0.0 api.mshop.bdtelemetry.amazon
 0.0.0.0 assoc-amazon.com
 0.0.0.0 wms.assoc-amazon.com
 0.0.0.0 ws-fe.assoc-amazon.com
@@ -1127,6 +1128,9 @@
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 sprocket-ping.s3.amazonaws.com
+0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
+0.0.0.0 ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
+0.0.0.0 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
 0.0.0.0 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
@@ -1234,6 +1238,7 @@
 0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 secure.rat.rakuten.co.jp
 0.0.0.0 an.facebook.com
+0.0.0.0 analytics.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 o.update.fbsbx.com
 0.0.0.0 p.update.fbsbx.com
@@ -7852,6 +7857,7 @@
 0.0.0.0 iad-04.braze.com
 0.0.0.0 iad-05.braze.com
 0.0.0.0 iad-06.braze.com
+0.0.0.0 iad-07.braze.com
 0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-02.braze.com
@@ -7859,11 +7865,8 @@
 0.0.0.0 sdk.iad-04.braze.com
 0.0.0.0 sdk.iad-05.braze.com
 0.0.0.0 sdk.iad-06.braze.com
+0.0.0.0 sdk.iad-07.braze.com
 0.0.0.0 sdk.iad-08.braze.com
-0.0.0.0 belgikanst.iad-03.braze.com
-0.0.0.0 gaspra.iad-03.braze.com
-0.0.0.0 rest.iad-03.braze.com
-0.0.0.0 serpens.iad-01.braze.com
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 sdk.fra-01.braze.eu
 0.0.0.0 fra-02.braze.eu
@@ -9476,12 +9479,25 @@
 0.0.0.0 tva-igame-global-ipa-0001.us-east-1.log.aliyuncs.com
 0.0.0.0 videocloud-sgp.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 vod-newplayer-sg.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 cn-hangzhou.log.aliyuncs.com
+0.0.0.0 cbu-offer.cn-shanghai.log.aliyuncs.com
+0.0.0.0 cbu-search-app.cn-shanghai.log.aliyuncs.com
+0.0.0.0 client-upload.cn-shanghai.log.aliyuncs.com
+0.0.0.0 wireless-app-log.cn-hangzhou.log.aliyuncs.com
+0.0.0.0 log-global.aliyuncs.com
+0.0.0.0 adsplusadx-prod.log-global.aliyuncs.com
+0.0.0.0 crown-client.log-global.aliyuncs.com
+0.0.0.0 dcsz-gamelog-yyzdsy-kr.log-global.aliyuncs.com
+0.0.0.0 dida-function-log-hz.log-global.aliyuncs.com
+0.0.0.0 hishort-video.log-global.aliyuncs.com
+0.0.0.0 hoyodesk-app-log.log-global.aliyuncs.com
+0.0.0.0 india-service-log.log-global.aliyuncs.com
+0.0.0.0 oneconsole-blank-log.log-global.aliyuncs.com
+0.0.0.0 room-event.log-global.aliyuncs.com
+0.0.0.0 tva-satanpit-global-ipa-0001.log-global.aliyuncs.com
 0.0.0.0 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 0.0.0.0 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
-0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
-0.0.0.0 ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
-0.0.0.0 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
 0.0.0.0 analytics.userreport.com
 0.0.0.0 bapi.userreport.com
 0.0.0.0 cdn.userreport.com
@@ -10979,14 +10995,19 @@
 0.0.0.0 x01.aidata.io
 0.0.0.0 arcspire.io
 0.0.0.0 px.arcspire.io
+0.0.0.0 cdn.tanx.com
+0.0.0.0 click.tanx.com
 0.0.0.0 cms.tanx.com
 0.0.0.0 df.tanx.com
 0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 et.tanx.com
-0.0.0.0 ifsk2.tanx.com
+0.0.0.0 ifs.tanx.com
 0.0.0.0 kgb-ifs.tanx.com
+0.0.0.0 live-ifs.tanx.com
+0.0.0.0 opehs.tanx.com
 0.0.0.0 p.tanx.com
-0.0.0.0 tanx.com
+0.0.0.0 rdstat.tanx.com
+0.0.0.0 sdk-config.tanx.com
 0.0.0.0 mediav.com
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 yodimedia.com
@@ -11719,6 +11740,8 @@
 0.0.0.0 s3-playable-ads.easybrain.com
 0.0.0.0 orion.bendingspoons.com
 0.0.0.0 storage.orion.bendingspoons.com
+0.0.0.0 bzr.openai.com
+0.0.0.0 bzrcdn.openai.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -13851,6 +13874,7 @@
 0.0.0.0 ads.adadapted.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.administrator.de
+0.0.0.0 ads.adspro.name
 0.0.0.0 ads.adstream.com.ro
 0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
@@ -14301,6 +14325,7 @@
 0.0.0.0 afzotfwramzy.in
 0.0.0.0 agacelebir.com
 0.0.0.0 aggravatingoil.com
+0.0.0.0 agileskincareunrented.com
 0.0.0.0 agle21xe2anfddirite.com
 0.0.0.0 agorahtag.tech
 0.0.0.0 agqoshfujku.com
@@ -14368,6 +14393,7 @@
 0.0.0.0 amunfezanttor.com
 0.0.0.0 ancotvpaxoz.com
 0.0.0.0 anewfeedliberty.com
+0.0.0.0 anlxwagwa.in
 0.0.0.0 annihilativefaltermillion.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anrdoezrs.net
@@ -14642,6 +14668,7 @@
 0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bharalhallahs.com
 0.0.0.0 bhcumsc.com
+0.0.0.0 bhjkpnfsgejvo.com
 0.0.0.0 bicolourprepossessstrong.com
 0.0.0.0 bid.glass
 0.0.0.0 bidclickmedia.com
@@ -14747,6 +14774,7 @@
 0.0.0.0 broaddoor.com
 0.0.0.0 broadensilkslush.com
 0.0.0.0 broadlyjukeboxunrevised.com
+0.0.0.0 broadsidedaisysanta.com
 0.0.0.0 bronzecedarleaf.com
 0.0.0.0 browsecoherentunrefined.com
 0.0.0.0 browser-update.org
@@ -15333,9 +15361,11 @@
 0.0.0.0 dreamcatcherbnbcolorado.com
 0.0.0.0 dreamlikefostergala.com
 0.0.0.0 drenchedtidyarticle.com
+0.0.0.0 driverhugoverblown.com
 0.0.0.0 drubpainch.com
 0.0.0.0 drumcash.com
 0.0.0.0 drydrum.com
+0.0.0.0 dryhachug.in
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsp.wtf
 0.0.0.0 dtv5loup63fac.cloudfront.net
@@ -15428,6 +15458,7 @@
 0.0.0.0 emediate.dk
 0.0.0.0 emerse.com
 0.0.0.0 emxdigital.com
+0.0.0.0 en.dobytowsy.com
 0.0.0.0 endlesshandbaglinked.com
 0.0.0.0 endowmentoverhangutmost.com
 0.0.0.0 endurosweekday.com
@@ -15591,6 +15622,7 @@
 0.0.0.0 frivolousdrinkloss.com
 0.0.0.0 frs2c.com
 0.0.0.0 fruhujma.in
+0.0.0.0 frykyuoqcto.com
 0.0.0.0 fsavmklplmddsu.com
 0.0.0.0 fsxmidyo.com
 0.0.0.0 ft.budtawney.com
@@ -15744,6 +15776,7 @@
 0.0.0.0 guppymedia.com
 0.0.0.0 gv.habitanchowses.cyou
 0.0.0.0 gwallet.com
+0.0.0.0 gxzkljfo.com
 0.0.0.0 gy.anaheimnonfat.com
 0.0.0.0 gylxwpwabgp.com
 0.0.0.0 gzaqwebtipm.com
@@ -15854,6 +15887,7 @@
 0.0.0.0 hxgqqxopf.com
 0.0.0.0 hybrid.ai
 0.0.0.0 hydramedia.com
+0.0.0.0 hyoswaxrtfvq.com
 0.0.0.0 hypelab.com
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypermusk.com
@@ -16118,6 +16152,7 @@
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
 0.0.0.0 kx.upturnsidoist.cyou
 0.0.0.0 kykay.com
+0.0.0.0 kypwvjoni.com
 0.0.0.0 kzuocxorfo.com
 0.0.0.0 laceassumestatic.com
 0.0.0.0 lactolwant.com
@@ -16696,6 +16731,7 @@
 0.0.0.0 optmstr.com
 0.0.0.0 opvanillishan.com
 0.0.0.0 opzazcvitci.com
+0.0.0.0 oqhbgxvk.com
 0.0.0.0 oranegfodnd.com
 0.0.0.0 orangeads.fr
 0.0.0.0 orb92.com
@@ -16874,6 +16910,7 @@
 0.0.0.0 pltraffic8.com
 0.0.0.0 plufdsb.com
 0.0.0.0 plugrush.com
+0.0.0.0 plummypokefunbenefit.com
 0.0.0.0 plusungratefulinstruction.com
 0.0.0.0 pnhoppacwh.com
 0.0.0.0 pnuhondppw.com
@@ -17186,6 +17223,7 @@
 0.0.0.0 revmasters.com
 0.0.0.0 revstats.com
 0.0.0.0 reyeshehadtwobri.com
+0.0.0.0 rh.wallahrana.cfd
 0.0.0.0 rhiowzaht.com
 0.0.0.0 rhymezebra.com
 0.0.0.0 rhythmnewmedia.com
@@ -18010,6 +18048,7 @@
 0.0.0.0 vpn-explained.com
 0.0.0.0 vpon.com
 0.0.0.0 vr.ringentkenlore.com
+0.0.0.0 vr5ip6ntb529k.2uhxnrj7qreorju4xfq.cfd
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
 0.0.0.0 vsgdodqfjpdws.space
@@ -18365,6 +18404,7 @@
 0.0.0.0 zwnoeqzsuz.com
 0.0.0.0 zxc.world
 0.0.0.0 zxgkuhqwwtcvc.website
+0.0.0.0 zyuwjxerthht.com
 0.0.0.0 2xclick.ru
 0.0.0.0 3gl.net
 0.0.0.0 a.apkpure.com
@@ -18495,7 +18535,6 @@
 0.0.0.0 blueconic.net
 0.0.0.0 blueoyster.click
 0.0.0.0 business.yingliangads.com
-0.0.0.0 c.riskified.com
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cc.swiftype.com
@@ -18849,7 +18888,6 @@
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rochesterdata.com
 0.0.0.0 roistat.com
-0.0.0.0 rs6.net
 0.0.0.0 rsrly.com
 0.0.0.0 rt.rtoaster.jp
 0.0.0.0 rta.dailymail.co.uk
