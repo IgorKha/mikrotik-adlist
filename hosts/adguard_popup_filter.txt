@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.73
-! Last modified: 2026-09-27T06:32:30.252Z
+! Version: 1.0.18.74
+! Last modified: 2026-10-04T12:11:19.375Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 acceptablefabric.com
 0.0.0.0 dtvyyf.com
@@ -311,7 +311,6 @@
 0.0.0.0 bincatracs.com
 0.0.0.0 blcdog.com
 0.0.0.0 blehcourt.com
-0.0.0.0 block-ad.com
 0.0.0.0 blockadsnot.com
 0.0.0.0 blurbreimbursetrombone.com
 0.0.0.0 bmmads.com
@@ -325,7 +324,6 @@
 0.0.0.0 bucksmein.com
 0.0.0.0 bunth.net
 0.0.0.0 byethost41.net
-0.0.0.0 c3j7rk-rtbix.top
 0.0.0.0 camads.workers.dev
 0.0.0.0 camliveshow.xyz
 0.0.0.0 candellume.shop
@@ -343,7 +341,6 @@
 0.0.0.0 clearwatch.tv
 0.0.0.0 click-for-preview.com
 0.0.0.0 clickblitzo.com
-0.0.0.0 clickmintads.site
 0.0.0.0 clickpunch.icu
 0.0.0.0 cliphotbokep.xyz
 0.0.0.0 clixwells.com
@@ -470,7 +467,6 @@
 0.0.0.0 jeroud.com
 0.0.0.0 jiuwert.online
 0.0.0.0 js-check.com
-0.0.0.0 junkyadexchange.com
 0.0.0.0 jwalkin.com
 0.0.0.0 k3on.com
 0.0.0.0 kagonst.com
@@ -672,7 +668,6 @@
 0.0.0.0 sexemulator.tube-sexs.com
 0.0.0.0 sgben.com
 0.0.0.0 shakingtacklingunpeeled.com
-0.0.0.0 shauladubhe.top
 0.0.0.0 shoppinglifestyle.biz
 0.0.0.0 shotgunchancecruel.com
 0.0.0.0 signamentswithd.com
@@ -684,7 +679,6 @@
 0.0.0.0 smrtmnk2.com
 0.0.0.0 socialdate.me
 0.0.0.0 souszhi.com
-0.0.0.0 sp03k.sbs
 0.0.0.0 sparkpcgames.com
 0.0.0.0 spin83qr.com
 0.0.0.0 sprinlof.com
@@ -700,7 +694,6 @@
 0.0.0.0 stsbih.com.ba
 0.0.0.0 studiotrackmusic.com
 0.0.0.0 superfasti.co
-0.0.0.0 suptraf.com
 0.0.0.0 sxlflt.com
 0.0.0.0 synccora.com
 0.0.0.0 targeta41.net
@@ -729,7 +722,6 @@
 0.0.0.0 tracking-aws-5.com
 0.0.0.0 tracking-zy.com
 0.0.0.0 trackingtraffo.com
-0.0.0.0 trasupr.com
 0.0.0.0 trckqq.com
 0.0.0.0 trentbereal.com
 0.0.0.0 trknovi.com

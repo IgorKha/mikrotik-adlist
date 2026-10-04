@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.22.9
-! Last modified: 2026-09-27T06:32:48.345Z
+! Version: 1.0.22.16
+! Last modified: 2026-10-04T12:11:40.255Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
@@ -12,6 +12,7 @@
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
 0.0.0.0 47n78xprrvp1.top
+0.0.0.0 555sq.com.cn
 0.0.0.0 5wzgtq8dpk.com
 0.0.0.0 65spy7rgcu.com
 0.0.0.0 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
@@ -24,6 +25,7 @@
 0.0.0.0 adminicesm.life
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 afiletoget.click
+0.0.0.0 ailurophilestealer.shop
 0.0.0.0 air-up-turkiye.com
 0.0.0.0 air-upfrance.com
 0.0.0.0 airteltower.com
@@ -73,6 +75,7 @@
 0.0.0.0 benecharm.com
 0.0.0.0 benxi.info
 0.0.0.0 best-torrents.com
+0.0.0.0 bestpriceonline.store
 0.0.0.0 bestvod.pl
 0.0.0.0 binom0-web.com
 0.0.0.0 binomo-brokers.com
@@ -83,7 +86,6 @@
 0.0.0.0 binomo.com
 0.0.0.0 binomo.in
 0.0.0.0 binomo.info
-0.0.0.0 binomo.vip
 0.0.0.0 binomo1.com
 0.0.0.0 binomo2.zendesk.com
 0.0.0.0 binomoidr.com
@@ -98,7 +100,6 @@
 0.0.0.0 bitsoft360.io
 0.0.0.0 blackabdo.company.site
 0.0.0.0 blackoutarchertender.com
-0.0.0.0 bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
 0.0.0.0 bmpro.tech
 0.0.0.0 bncentertainment.com
@@ -122,6 +123,7 @@
 0.0.0.0 candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 caraci.it
+0.0.0.0 casha.xyz
 0.0.0.0 casualdating1.com
 0.0.0.0 cda-zalukaj.prv.pl
 0.0.0.0 chat-o-live.com
@@ -138,6 +140,7 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
 0.0.0.0 cluckergifts.ecwid.com
+0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coinaps.com
@@ -178,6 +181,7 @@
 0.0.0.0 desiupload.in
 0.0.0.0 devifoodgrains.com
 0.0.0.0 dezpez.com
+0.0.0.0 discounthoneywell.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 dkfodboldstore.com
@@ -248,6 +252,7 @@
 0.0.0.0 faze5.com
 0.0.0.0 faze77.com
 0.0.0.0 faze8.com
+0.0.0.0 faze83.com
 0.0.0.0 faze9.com
 0.0.0.0 fazpowerdenet.tumblr.com
 0.0.0.0 fdrc-gov.org
@@ -399,10 +404,10 @@
 0.0.0.0 jagkart.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
-0.0.0.0 jewellvanmarter.za.com
 0.0.0.0 jne-express.my.id
 0.0.0.0 jsdimmigration.com
 0.0.0.0 jsdimmigrations.com
+0.0.0.0 justdy.shop
 0.0.0.0 karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
 0.0.0.0 keltysale.com
@@ -421,9 +426,9 @@
 0.0.0.0 kmspi.co
 0.0.0.0 kmspico-official.org
 0.0.0.0 kmspico.io
+0.0.0.0 kmspico.ws
 0.0.0.0 kmspicoofficial.com
 0.0.0.0 knightmods.com
-0.0.0.0 koinprime.com
 0.0.0.0 kongpixel.com
 0.0.0.0 kontribusiuang.top
 0.0.0.0 kopisusu.co.id
@@ -431,6 +436,7 @@
 0.0.0.0 kuyhaa.cc
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 lds.xyz
+0.0.0.0 ledgerslive.org
 0.0.0.0 lemstore.com
 0.0.0.0 leonoremanry.sa.com
 0.0.0.0 lericettedifrancy74.com
@@ -585,7 +591,6 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 officialkmspico.com
 0.0.0.0 oflike.com
-0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
@@ -607,7 +612,6 @@
 0.0.0.0 p8ydfra.lvditoys.com
 0.0.0.0 padsims.com
 0.0.0.0 pages.tempisite.com
-0.0.0.0 pambi.tech
 0.0.0.0 pandzee.com
 0.0.0.0 paradisevs.com
 0.0.0.0 path2zillion.com
@@ -621,14 +625,12 @@
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 phirussacmush.net
-0.0.0.0 pinjamanelit.top
 0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 pinjamteman.top
 0.0.0.0 pinjamuang.top
 0.0.0.0 pipopi.com
 0.0.0.0 piratedrive.com
 0.0.0.0 pjs.outlet.com
-0.0.0.0 player-qr.com
 0.0.0.0 polish-money-matters.blogspot.com
 0.0.0.0 popeurope.com
 0.0.0.0 porkbunrr.web.app
@@ -673,6 +675,7 @@
 0.0.0.0 salimusic.com
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 seagulltee.com
+0.0.0.0 seans24.com.pl
 0.0.0.0 seasonsofficial.com
 0.0.0.0 secrity2redline.com
 0.0.0.0 securevault.top
@@ -699,7 +702,6 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
 0.0.0.0 skinszone.net
-0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 slimsyrups.ca
@@ -739,7 +741,6 @@
 0.0.0.0 storeax.com
 0.0.0.0 storecollegeonline.com
 0.0.0.0 storesp.com
-0.0.0.0 streamabie.com
 0.0.0.0 streamboo.com
 0.0.0.0 streamloot.co
 0.0.0.0 streamvod.pl
@@ -760,11 +761,9 @@
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tatatowers.com
 0.0.0.0 tbao684tryo.com
-0.0.0.0 tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
-0.0.0.0 tencheckit.org
 0.0.0.0 terverystaio.info
 0.0.0.0 teslatime.net
 0.0.0.0 theeaglebrand.company.site
@@ -868,7 +867,6 @@
 0.0.0.0 vod-tv.pl
 0.0.0.0 vod.film
 0.0.0.0 vodfix.pl
-0.0.0.0 vodlist.com
 0.0.0.0 volcomofficial.com
 0.0.0.0 voucheras.com
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.21.7
-! Last modified: 2026-09-27T06:33:05.577Z
+! Version: 1.0.21.8
+! Last modified: 2026-10-04T12:11:58.497Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -792,10 +792,8 @@
 0.0.0.0 me.ly
 0.0.0.0 me-page.com
 0.0.0.0 me2.kr
-0.0.0.0 mediafirex.icu
 0.0.0.0 medianewsonline.com
 0.0.0.0 mega-debrid.eu
-0.0.0.0 merchats.com
 0.0.0.0 microsoftaistories.com
 0.0.0.0 microsoftfiles.live
 0.0.0.0 migly.in
@@ -1133,7 +1131,6 @@
 0.0.0.0 vdxh.com
 0.0.0.0 ve.gp
 0.0.0.0 verifypass.pw
-0.0.0.0 veritafinancebank.com
 0.0.0.0 verkniffen.de
 0.0.0.0 vidcloud.co
 0.0.0.0 virtue.nu

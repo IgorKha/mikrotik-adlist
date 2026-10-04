@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.31
-! Last modified: 2026-09-27T06:32:41.942Z
+! Version: 1.0.1.33
+! Last modified: 2026-10-04T12:11:29.355Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -46,7 +46,6 @@
 0.0.0.0 officehub.nel.measure.office.net.cardano.com
 0.0.0.0 spo.nel.measure.office.net.cardano.com
 0.0.0.0 teams.nel.measure.office.net.cardano.com
-0.0.0.0 insights.cloud.microsoft
 0.0.0.0 measure.office.net.edgesuite.net
 0.0.0.0 westeurope-5.in.applicationinsights.azure.com.fiege.de
 0.0.0.0 collector.azure.eaglex.ic.gov
@@ -125,7 +124,6 @@
 0.0.0.0 sgtus1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 sgtus1-word-telemetry-vip.officeapps.live.com
-0.0.0.0 telemetry.officeapps.live.com
 0.0.0.0 tgtus1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 tgtus1-word-telemetry-vip.officeapps.live.com
@@ -342,7 +340,7 @@
 0.0.0.0 win-global-asimov-leafs-events-data.trafficmanager.net
 0.0.0.0 wttwebsiteprodapi-liveevents.trafficmanager.net
 0.0.0.0 dc.services.visualstudio.com
-0.0.0.0 h4g3z1-native.winoffice.web.app
+0.0.0.0 h4g3z1-native-winoffice.web.app
 0.0.0.0 ceuswatcab01.blob.core.windows.net
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 eaus2watcab01.blob.core.windows.net

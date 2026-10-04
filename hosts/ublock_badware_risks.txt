@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.22.89
-! Last modified: 2026-09-27T06:33:04.989Z
+! Version: 1.0.22.97
+! Last modified: 2026-10-04T12:11:57.886Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -450,6 +450,8 @@
 0.0.0.0 gbelitesolutions.com
 0.0.0.0 app-download.kuashouban.com
 0.0.0.0 app.ebrafoster.com
+0.0.0.0 hasoadwaznqps.com
+0.0.0.0 d3so1q8pr29y0t.cloudfront.net
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -1771,6 +1773,7 @@
 0.0.0.0 great-fade.sbs
 0.0.0.0 re-captcha.xyz
 0.0.0.0 gtm-tools.xyz
+0.0.0.0 browseid.codes
 0.0.0.0 low-house.com
 0.0.0.0 ajvcu.cn
 0.0.0.0 vpu.baby
@@ -1794,6 +1797,17 @@
 0.0.0.0 get-verification.to
 0.0.0.0 interseq.at
 0.0.0.0 cloudflare-check.net
+0.0.0.0 lichsuvanhoa.net
+0.0.0.0 diabetescareth.com
+0.0.0.0 clickzona.net
+0.0.0.0 trackerredirect.online
+0.0.0.0 campaigntracker.icu
+0.0.0.0 entry-verifed-cdn.
+0.0.0.0 way-to-ai.com
+0.0.0.0 ikeymate.co.nz
+0.0.0.0 59na.com
+0.0.0.0 third-party.com
+0.0.0.0 precisionproving.com
 0.0.0.0 cracksway.com
 0.0.0.0 gamingdebates.com
 0.0.0.0 bonzi.link
@@ -3041,3 +3055,6 @@
 0.0.0.0 mobel-wahls.shop
 0.0.0.0 flingtrainer.io
 0.0.0.0 simplemobgtnc.shop
+0.0.0.0 koboldcpp.com
+0.0.0.0 bringmeday.icu
+0.0.0.0 bringmelove.icu

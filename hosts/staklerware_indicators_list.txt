@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
-! Version: 1.0.14.64
-! Last modified: 2026-09-27T06:32:50.196Z
+! Version: 1.0.14.65
+! Last modified: 2026-10-04T12:11:44.889Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 12d60.appspot.com
 0.0.0.0 12d60.firebaseio.com
@@ -191,6 +191,7 @@
 0.0.0.0 copy9db.com
 0.0.0.0 corn-cob.com
 0.0.0.0 cp.mspyonline.com
+0.0.0.0 cp.spystealth.com
 0.0.0.0 cp.thewispy.com
 0.0.0.0 cpcalendars.spymasterpro.com
 0.0.0.0 cpcontacts.spymasterpro.com
@@ -747,6 +748,7 @@
 0.0.0.0 spyzie-a.firebaseio.com
 0.0.0.0 spyzie.com
 0.0.0.0 sse.chyldmonitor.com
+0.0.0.0 stage.spystealth.com
 0.0.0.0 staging-all-tracker.appspot.com
 0.0.0.0 staging.smstracker.com
 0.0.0.0 strapi.msafely.com
@@ -809,6 +811,7 @@
 0.0.0.0 trkps.com
 0.0.0.0 true-truck-86810.firebaseio.com
 0.0.0.0 truewebmedia.com
+0.0.0.0 tt.spystealth.com
 0.0.0.0 ttjj.ga
 0.0.0.0 ttjj.ml
 0.0.0.0 ttjj.tk

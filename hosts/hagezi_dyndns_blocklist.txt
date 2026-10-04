@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.19
-! Last modified: 2026-09-27T06:33:05.425Z
+! Version: 1.0.17.21
+! Last modified: 2026-10-04T12:11:58.389Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -148,7 +148,6 @@
 0.0.0.0 boldlygoingnowhere.org
 0.0.0.0 bot.nu
 0.0.0.0 bounceme.net
-0.0.0.0 bouncers4rent.com
 0.0.0.0 boxathome.net
 0.0.0.0 brajkovic.com
 0.0.0.0 brasilia.me
@@ -162,7 +161,6 @@
 0.0.0.0 byte4byte.com
 0.0.0.0 cable-modem.org
 0.0.0.0 camdvr.org
-0.0.0.0 canadascastillo.com
 0.0.0.0 casacam.net
 0.0.0.0 cashit.info
 0.0.0.0 cbopelousas.com
@@ -1424,7 +1422,6 @@
 0.0.0.0 tvlinux.com
 0.0.0.0 twilightparadox.com
 0.0.0.0 twodns.de
-0.0.0.0 twsuser.com
 0.0.0.0 tzo.com
 0.0.0.0 ucvradio.cl
 0.0.0.0 udp64.de
