@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.94
-! Last modified: 2026-09-27T06:32:24.102Z
+! Version: 1.0.17.97
+! Last modified: 2026-10-04T12:11:14.852Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -26,6 +26,7 @@
 0.0.0.0 4dex.io
 0.0.0.0 4info.com
 0.0.0.0 4jnzhl0d0.com
+0.0.0.0 50websads.com
 0.0.0.0 51.la
 0.0.0.0 518ad.com
 0.0.0.0 6sc.co
@@ -748,6 +749,7 @@
 0.0.0.0 adtrk1.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
+0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.mpvc.it
@@ -805,7 +807,6 @@
 0.0.0.0 affili.net
 0.0.0.0 affiliate.1800flowers.com
 0.0.0.0 affiliate.dtiserv.com
-0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.treated.com
 0.0.0.0 affiliatefuture.com
 0.0.0.0 affiliates.allposters.com
@@ -1220,6 +1221,7 @@
 0.0.0.0 clck.ru
 0.0.0.0 clevernt.com
 0.0.0.0 click-1.pl
+0.0.0.0 click-v4.expclknb.com
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.allkeyshop.com
@@ -1380,7 +1382,6 @@
 0.0.0.0 counter.snackly.co
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 coupling-media.de
-0.0.0.0 cowbelltime.com
 0.0.0.0 coxmt.com
 0.0.0.0 cozyhillside.com
 0.0.0.0 cpalead.com
@@ -1462,7 +1463,6 @@
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dewdroplagoon.com
 0.0.0.0 dianomi.com
-0.0.0.0 dicecandies.com
 0.0.0.0 didtheyreadit.com
 0.0.0.0 digestiondrawer.com
 0.0.0.0 digital-ads.s3.amazonaws.com
@@ -1896,7 +1896,6 @@
 0.0.0.0 imonomy.com
 0.0.0.0 imp.i312864.net
 0.0.0.0 impossibleexpansion.com
-0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionmonster.com
 0.0.0.0 improvedigital.com
@@ -1949,6 +1948,7 @@
 0.0.0.0 islandwebhelp.com
 0.0.0.0 itop.cz
 0.0.0.0 itrackly.com
+0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 iyfbodn.com
 0.0.0.0 iyfnzgb.com
@@ -3142,6 +3142,7 @@
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
 0.0.0.0 theadsparks.com
+0.0.0.0 thebicyclehut.com
 0.0.0.0 thebugs.ws
 0.0.0.0 thecrazychili.com
 0.0.0.0 themangotea.com

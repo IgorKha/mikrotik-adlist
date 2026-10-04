@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.27
-! Last modified: 2026-09-27T06:32:42.222Z
+! Version: 1.0.0.29
+! Last modified: 2026-10-04T12:11:29.576Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 classify-app-eu.allawnos.com
 0.0.0.0 classify-app-in.allawnos.com
@@ -255,6 +255,7 @@
 0.0.0.0 api-id.theme.heytapmobi.com
 0.0.0.0 adm-smc-cn.heytapmobi.com
 0.0.0.0 ads.heytapmobi.com
+0.0.0.0 apisnd.heytapmobi.com
 0.0.0.0 dc-dragate-cn.heytapmobi.com
 0.0.0.0 dcc-awareness-cn.heytapmobi.com
 0.0.0.0 iot-earbuds-cn.heytapmobi.com
@@ -486,6 +487,6 @@
 0.0.0.0 dhfs-vn.oppomobile.com
 0.0.0.0 dhfsf.oppomobile.com
 0.0.0.0 sea-log-rcv.vansound.com
-0.0.0.0 h4g3z1-native.oppo-realme.web.app
+0.0.0.0 h4g3z1-native-oppo-realme.web.app
 0.0.0.0 finosfin.com
 0.0.0.0 hizonetech.com

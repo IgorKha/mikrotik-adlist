@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.66
-! Last modified: 2026-09-27T06:32:43.403Z
+! Version: 1.0.15.67
+! Last modified: 2026-10-04T12:11:30.546Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -279,7 +279,6 @@
 0.0.0.0 cdn.convertbox.com
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.decibelinsight.net
-0.0.0.0 cdn.foxpush.net
 0.0.0.0 cdn.gravitec.net
 0.0.0.0 cdn.hubvisor.io
 0.0.0.0 cdn.insurads.com
@@ -505,7 +504,6 @@
 0.0.0.0 gtm.proff.se
 0.0.0.0 gtm.stampenmedia.se
 0.0.0.0 gtm-service.flygbra.se
-0.0.0.0 gwen.insertcoin.se
 0.0.0.0 hapyak.com
 0.0.0.0 hb.adpone.com
 0.0.0.0 hb.adx.adform.net
@@ -668,7 +666,6 @@
 0.0.0.0 online.adservicemedia.dk
 0.0.0.0 ookla-d.openx.net
 0.0.0.0 openx.financialpublishers.nl
-0.0.0.0 openx.gamereactor.dk
 0.0.0.0 openx.jaktsidan.se
 0.0.0.0 optnmnstr.com
 0.0.0.0 otc-cdn.relevant-digital.com
@@ -901,7 +898,6 @@
 0.0.0.0 t1.extreme-dm.com
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tag.heylink.com
-0.0.0.0 tag.imonomy.com
 0.0.0.0 tag.targeting.unrulymedia.com
 0.0.0.0 tagging.hemnet.se
 0.0.0.0 tagging-service.fotbollskanalen.se
