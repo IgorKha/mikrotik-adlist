@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.21.8
-! Last modified: 2026-10-04T12:11:58.497Z
+! Version: 1.0.21.16
+! Last modified: 2026-10-11T06:33:21.805Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -14,7 +14,6 @@
 0.0.0.0 blogspot.co.nz
 0.0.0.0 blogspot.co.uk
 0.0.0.0 blogspot.co.za
-0.0.0.0 dothome.co.kr
 0.0.0.0 surfblocked.co.cc
 0.0.0.0 thamboli.co.za
 0.0.0.0 blogspot.com.ar
@@ -58,6 +57,7 @@
 0.0.0.0 000webapp.com
 0.0.0.0 000webhost.com
 0.0.0.0 000webhost.fr
+0.0.0.0 000webhost.info
 0.0.0.0 000webhostapp.com
 0.0.0.0 000webhotapp.com
 0.0.0.0 000worldwide.com
@@ -143,7 +143,6 @@
 0.0.0.0 3ya.de
 0.0.0.0 4.je
 0.0.0.0 42t.com
-0.0.0.0 42web.io
 0.0.0.0 433.at
 0.0.0.0 4everland.app
 0.0.0.0 4kp.de
@@ -323,6 +322,7 @@
 0.0.0.0 boxmail.biz
 0.0.0.0 boxmode.io
 0.0.0.0 br.gp
+0.0.0.0 bugs3.com
 0.0.0.0 builderall.net
 0.0.0.0 builtfree.org
 0.0.0.0 bulkurlshortener.com
@@ -402,6 +402,7 @@
 0.0.0.0 corolain.ru
 0.0.0.0 craftum.io
 0.0.0.0 created.app
+0.0.0.0 creatorlink.net
 0.0.0.0 crypto-market-world.com
 0.0.0.0 cryptonight.net
 0.0.0.0 cs-clan.org
@@ -520,7 +521,6 @@
 0.0.0.0 filedropper.com
 0.0.0.0 filelu.com
 0.0.0.0 files.bz
-0.0.0.0 filesusr.com
 0.0.0.0 fileurls.com
 0.0.0.0 filme.lc
 0.0.0.0 financecryptoworld.com
@@ -547,7 +547,6 @@
 0.0.0.0 freakshare.net
 0.0.0.0 free.cr
 0.0.0.0 free.lc
-0.0.0.0 free.nf
 0.0.0.0 freeasphost.net
 0.0.0.0 freeblog.biz
 0.0.0.0 freecities.com
@@ -665,7 +664,6 @@
 0.0.0.0 ilink-to.net
 0.0.0.0 im-internet.eu
 0.0.0.0 imagengratis.org
-0.0.0.0 imageurlhost.com
 0.0.0.0 in.gp
 0.0.0.0 in.run
 0.0.0.0 in24.de
@@ -683,6 +681,7 @@
 0.0.0.0 infos.cx
 0.0.0.0 infos.lc
 0.0.0.0 infos.st
+0.0.0.0 infy.uk
 0.0.0.0 instantfreesite.com
 0.0.0.0 int.ps
 0.0.0.0 internetsite.eu
@@ -711,7 +710,6 @@
 0.0.0.0 ja.cat
 0.0.0.0 janhost.com
 0.0.0.0 jcmemoryscan.com
-0.0.0.0 jimdofree.com
 0.0.0.0 jixx.de
 0.0.0.0 jixx.net
 0.0.0.0 job.ec
@@ -824,12 +822,14 @@
 0.0.0.0 mybluehost.me
 0.0.0.0 mybluehostin.me
 0.0.0.0 myclickfunnels.com
+0.0.0.0 mycpanel.rs
 0.0.0.0 mydiscussion.net
 0.0.0.0 myeweb.net
 0.0.0.0 myfoolmoon.com
 0.0.0.0 myfreesites.net
 0.0.0.0 myftpupload.com
 0.0.0.0 myfunnelish.com
+0.0.0.0 mygamesonline.org
 0.0.0.0 mylinkinb.io
 0.0.0.0 myportfolio.com
 0.0.0.0 mypressonline.com
@@ -976,6 +976,7 @@
 0.0.0.0 sc.link
 0.0.0.0 schmust.de
 0.0.0.0 schoolrack.com
+0.0.0.0 scienceontheweb.net
 0.0.0.0 se.gp
 0.0.0.0 search.gp
 0.0.0.0 sebipay.com
@@ -1057,7 +1058,7 @@
 0.0.0.0 temporary-demo.site
 0.0.0.0 tentbuildingservices.eu
 0.0.0.0 test.lc
-0.0.0.0 tggame.xyz
+0.0.0.0 testingnow.me
 0.0.0.0 th.gp
 0.0.0.0 the-finance-world.com
 0.0.0.0 tiiny.host
@@ -1163,7 +1164,6 @@
 0.0.0.0 webboss.site
 0.0.0.0 webcindario.com
 0.0.0.0 webege.com
-0.0.0.0 webgarden.com
 0.0.0.0 webn.cc
 0.0.0.0 webnode.com
 0.0.0.0 webobo.com
@@ -1191,7 +1191,6 @@
 0.0.0.0 writes.de
 0.0.0.0 wstd.io
 0.0.0.0 wtcsites.com
-0.0.0.0 wuaze.com
 0.0.0.0 www4.me
 0.0.0.0 wy5532.com
 0.0.0.0 x.gp
@@ -1202,7 +1201,6 @@
 0.0.0.0 xblog.in
 0.0.0.0 xl.lc
 0.0.0.0 xml.in
-0.0.0.0 xo.je
 0.0.0.0 xsl.tel
 0.0.0.0 xsph.ru
 0.0.0.0 xtgem.com

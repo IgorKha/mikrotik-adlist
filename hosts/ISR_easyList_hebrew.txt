@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
-! Version: 1.0.14.87
-! Last modified: 2026-10-04T12:11:39.974Z
+! Version: 1.0.14.88
+! Last modified: 2026-10-11T06:33:07.690Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1kdailyprofit.co
 0.0.0.0 3dfuckdoll.com
@@ -95,6 +95,7 @@
 0.0.0.0 lavaveli.com
 0.0.0.0 layer.co.il
 0.0.0.0 levoria-il.com
+0.0.0.0 libi-wear.com
 0.0.0.0 like-it.co.il
 0.0.0.0 linicom.co.il
 0.0.0.0 livenza-il.com

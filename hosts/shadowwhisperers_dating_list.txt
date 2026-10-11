@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.46
-! Last modified: 2026-10-04T12:11:29.004Z
+! Version: 1.0.15.47
+! Last modified: 2026-10-11T06:33:00.825Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -1171,6 +1171,7 @@
 0.0.0.0 silvergaysingles.com
 0.0.0.0 silversurfersdating.com
 0.0.0.0 singaporelovelinks.com
+0.0.0.0 singels-flirten.de
 0.0.0.0 single2.com
 0.0.0.0 single50plus.com
 0.0.0.0 singlebikerscanada.ca
@@ -1247,6 +1248,7 @@
 0.0.0.0 teendatingsite.net
 0.0.0.0 tennesseeflirt.com
 0.0.0.0 tennisdating.org
+0.0.0.0 textdatingservice.com
 0.0.0.0 thaicupid.com
 0.0.0.0 thaidate.dk
 0.0.0.0 thai-dating.com
