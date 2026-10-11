@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.97
-! Last modified: 2026-10-04T12:11:14.852Z
+! Version: 1.0.18.0
+! Last modified: 2026-10-11T06:32:46.056Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -123,7 +123,6 @@
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.mediastorm.hu
-0.0.0.0 ad.mg
 0.0.0.0 ad.missena.io
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.myapple.pl
@@ -181,7 +180,6 @@
 0.0.0.0 adbrite.com
 0.0.0.0 adbroker.de
 0.0.0.0 adbutler.com
-0.0.0.0 adcampo.com
 0.0.0.0 adcannyads.com
 0.0.0.0 adcash.com
 0.0.0.0 adcast.deviantart.com
@@ -689,7 +687,6 @@
 0.0.0.0 adservrs.com.edgekey.net
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
-0.0.0.0 adsfac.us
 0.0.0.0 adsflowprime.top
 0.0.0.0 adshrink.it
 0.0.0.0 adside.com
@@ -749,7 +746,6 @@
 0.0.0.0 adtrk1.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
-0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.mpvc.it
@@ -847,7 +843,6 @@
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 americash.com
 0.0.0.0 amidsttruly.com
-0.0.0.0 ampscamp.net
 0.0.0.0 amung.us
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.eu
 0.0.0.0 analytics-production.hapyak.com
@@ -1500,6 +1495,7 @@
 0.0.0.0 dpbolvw.net
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dq95d35.com
+0.0.0.0 dragonbats.com
 0.0.0.0 drumcash.com
 0.0.0.0 dsp.colpirio.com
 0.0.0.0 dsp.io
@@ -1531,7 +1527,6 @@
 0.0.0.0 elasticchange.com
 0.0.0.0 elderlytown.com
 0.0.0.0 elitedollars.com
-0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 email-link.adtidy.info
 0.0.0.0 email-link.adtidy.net
 0.0.0.0 email-link.adtidy.org
@@ -1594,6 +1589,7 @@
 0.0.0.0 everestads.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
+0.0.0.0 eversales.space
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evyy.net
 0.0.0.0 exampleshake.com
@@ -1873,7 +1869,6 @@
 0.0.0.0 iadnet.com
 0.0.0.0 ibillboard.com
 0.0.0.0 icptrack.com
-0.0.0.0 icywinter.com
 0.0.0.0 id5-sync.com
 0.0.0.0 idealadvertising.net
 0.0.0.0 idevaffiliate.com
@@ -1896,6 +1891,7 @@
 0.0.0.0 imonomy.com
 0.0.0.0 imp.i312864.net
 0.0.0.0 impossibleexpansion.com
+0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionmonster.com
 0.0.0.0 improvedigital.com
@@ -2651,6 +2647,7 @@
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.marketing.dubaisothebys.com
 0.0.0.0 r.msn.com
+0.0.0.0 r.openai.com
 0.0.0.0 r.scoota.co
 0.0.0.0 r.sibmail.havasit.com
 0.0.0.0 r1.arts-mail.com
@@ -2845,6 +2842,7 @@
 0.0.0.0 servedbyopenx.com
 0.0.0.0 servethis.com
 0.0.0.0 services.hearstmags.com
+0.0.0.0 session.bugsnag.kindle.amazon.dev
 0.0.0.0 sessioncam.com
 0.0.0.0 sexcounter.com
 0.0.0.0 sexlist.com
@@ -2863,6 +2861,7 @@
 0.0.0.0 shockinggrass.com
 0.0.0.0 shoppingads.com
 0.0.0.0 showads.pubmatic.com
+0.0.0.0 shredform.com
 0.0.0.0 shrillspoon.com
 0.0.0.0 shxtrk.com
 0.0.0.0 sicksmash.com
@@ -3248,7 +3247,6 @@
 0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.orixa-media.com
-0.0.0.0 tracking.p-l-m.com
 0.0.0.0 tracking.wetter.at
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com
@@ -3291,7 +3289,6 @@
 0.0.0.0 trk.4ff.pro
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.pinterest.com
-0.0.0.0 trk.sayerfinancial.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk1.avdlink.net
 0.0.0.0 trk42.net

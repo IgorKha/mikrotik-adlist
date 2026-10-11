@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
-! Version: 1.0.14.88
-! Last modified: 2026-10-04T12:11:33.913Z
+! Version: 1.0.14.90
+! Last modified: 2026-10-11T06:33:04.270Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 accesstrade.co.id
 0.0.0.0 ad-loupe.com
@@ -104,8 +104,7 @@
 0.0.0.0 villainoussession.com
 0.0.0.0 vkwaeo.com
 0.0.0.0 yllix.com
-0.0.0.0 388hero.bio
-0.0.0.0 akseskaiko.cam
+0.0.0.0 access.kaiko.cam
 0.0.0.0 archivehub.com.ng
 0.0.0.0 bandarxl.bio
 0.0.0.0 bergurukecina.fun
@@ -120,10 +119,8 @@
 0.0.0.0 goratu.site
 0.0.0.0 injd.site
 0.0.0.0 inshorturl.com
-0.0.0.0 kegz.site
 0.0.0.0 klik.zeus.fun
 0.0.0.0 klik4.me
-0.0.0.0 menujupenta.site
 0.0.0.0 moneyfree.co
 0.0.0.0 nf.diamberproetid.com
 0.0.0.0 orangarab.fun
@@ -137,7 +134,6 @@
 0.0.0.0 safelinkearn.com
 0.0.0.0 sbobet.host
 0.0.0.0 scripts.jixie.media
-0.0.0.0 shortbioo.com
 0.0.0.0 statics1.tceru134gsur.ru
 0.0.0.0 sv.sleeklyyallaer.com
 0.0.0.0 tambakbet.vip
