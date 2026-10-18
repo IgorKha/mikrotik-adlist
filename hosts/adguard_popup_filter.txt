@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.77
-! Last modified: 2026-10-11T06:32:50.964Z
+! Version: 1.0.18.80
+! Last modified: 2026-10-18T06:29:16.293Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 profitableratecpmnetwork.com
 0.0.0.0 acceptablefabric.com
@@ -785,6 +785,7 @@
 0.0.0.0 zk1w.com
 0.0.0.0 zrlqm.com
 0.0.0.0 ea6c0ac4.xyz
+0.0.0.0 html-load.cc
 0.0.0.0 img-load.com
 0.0.0.0 1lzz.com
 0.0.0.0 1ts11.top
@@ -963,6 +964,7 @@
 0.0.0.0 gsurl.me
 0.0.0.0 hhsp2.com
 0.0.0.0 hotboys.biz
+0.0.0.0 ilovego.org
 0.0.0.0 incontro-veloce.com
 0.0.0.0 infokz.com
 0.0.0.0 investing1.com
@@ -1063,3 +1065,4 @@
 0.0.0.0 promo.vador.com
 0.0.0.0 bondeddarkenedswerve.com
 0.0.0.0 villainoussession.com
+0.0.0.0 clickadu.com
