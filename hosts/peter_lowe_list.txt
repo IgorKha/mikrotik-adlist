@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.18.0
-! Last modified: 2026-10-11T06:32:46.056Z
+! Version: 1.0.18.3
+! Last modified: 2026-10-18T06:29:10.625Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -326,6 +326,8 @@
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-img.mozilla.org
+0.0.0.0 ads-impressions.com
+0.0.0.0 ads-monitor.xyz
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.365.mk
 0.0.0.0 ads.5ci.lt
@@ -736,6 +738,7 @@
 0.0.0.0 adthrive.com
 0.0.0.0 adtiger.de
 0.0.0.0 adtilt.com
+0.0.0.0 adtimizer.co
 0.0.0.0 adtng.com
 0.0.0.0 adtology.com
 0.0.0.0 adtoma.com
@@ -746,6 +749,7 @@
 0.0.0.0 adtrk1.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
+0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.mpvc.it
@@ -1200,6 +1204,7 @@
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
 0.0.0.0 chartboost.com
+0.0.0.0 checkmyimp.com
 0.0.0.0 checkstat.nl
 0.0.0.0 cherriescare.com
 0.0.0.0 childlikecrowd.com
@@ -1348,6 +1353,7 @@
 0.0.0.0 content22.online.citi.com
 0.0.0.0 contextweb.com
 0.0.0.0 contrack.link
+0.0.0.0 controlium.net
 0.0.0.0 converge-digital.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionbet.com
@@ -1355,6 +1361,7 @@
 0.0.0.0 convertingtraffic.com
 0.0.0.0 convrse.media
 0.0.0.0 cookies.cmpnet.com
+0.0.0.0 cookiesurfer.com
 0.0.0.0 coolkidsdistrict.com
 0.0.0.0 cootlogix.com
 0.0.0.0 copperstills.net
@@ -1435,6 +1442,7 @@
 0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
 0.0.0.0 dapper.net
+0.0.0.0 darngavel.com
 0.0.0.0 data.hailuo.ai
 0.0.0.0 datapickles.com
 0.0.0.0 datenow.link
@@ -1466,6 +1474,7 @@
 0.0.0.0 directaclick.com
 0.0.0.0 directorym.com
 0.0.0.0 discountclick.com
+0.0.0.0 discover-tech.io
 0.0.0.0 discreetfield.com
 0.0.0.0 displayvertising.com
 0.0.0.0 disqusads.com
@@ -1693,6 +1702,7 @@
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
 0.0.0.0 freezingbuilding.com
+0.0.0.0 frequentflesh.com
 0.0.0.0 freshrelevance.com
 0.0.0.0 fronttoad.com
 0.0.0.0 frtyj.com
@@ -1792,6 +1802,7 @@
 0.0.0.0 hamsterspot.com
 0.0.0.0 handsomehose.com
 0.0.0.0 handyfireman.com
+0.0.0.0 handyincrease.com
 0.0.0.0 haplesshydrant.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
@@ -1890,6 +1901,7 @@
 0.0.0.0 immensehoney.com
 0.0.0.0 imonomy.com
 0.0.0.0 imp.i312864.net
+0.0.0.0 impchkdsp.com
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
@@ -1996,6 +2008,7 @@
 0.0.0.0 kontera.com
 0.0.0.0 kost.tv
 0.0.0.0 kpu.samsungelectronics.com
+0.0.0.0 kraken.rambler.ru
 0.0.0.0 krxd.net
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kueezrtb.com
@@ -2107,6 +2120,7 @@
 0.0.0.0 loopme.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lowest-prices.eu
+0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 lucidmedia.com
 0.0.0.0 luckyorange.com
 0.0.0.0 ludicrousarch.com
@@ -2273,6 +2287,7 @@
 0.0.0.0 mstrlytcs.com
 0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mtree.com
+0.0.0.0 mtrtb.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mundanenail.com
 0.0.0.0 mushroomgods.com
@@ -2296,6 +2311,7 @@
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
 0.0.0.0 mytop-in.net
+0.0.0.0 myweb3id.io
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
 0.0.0.0 nakedly.ai
@@ -2353,6 +2369,7 @@
 0.0.0.0 ntvk1.ru
 0.0.0.0 nullitics.com
 0.0.0.0 nuseek.com
+0.0.0.0 nutralove.co
 0.0.0.0 nzaza.com
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 o333o.com
@@ -2513,6 +2530,7 @@
 0.0.0.0 placed.com
 0.0.0.0 placeframe.com
 0.0.0.0 placidactivity.com
+0.0.0.0 platc-tester.com
 0.0.0.0 plausible.avris.it
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 play4traffic.com
@@ -2550,6 +2568,7 @@
 0.0.0.0 post.spmailtechno.com
 0.0.0.0 postback.iqm.com
 0.0.0.0 postrelease.com
+0.0.0.0 powerium.net
 0.0.0.0 ppc.adhere.marchex.com
 0.0.0.0 pr-star.de
 0.0.0.0 praddpro.de
@@ -2707,7 +2726,6 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 rememberdiscussion.com
-0.0.0.0 remox.com
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-partners.appmetrica.yandex.net
@@ -2954,7 +2972,6 @@
 0.0.0.0 spotscenered.info
 0.0.0.0 spotx.tv
 0.0.0.0 spotxchange.com
-0.0.0.0 springbot.com
 0.0.0.0 springserve.com
 0.0.0.0 sprysummit.com
 0.0.0.0 spulse.net
@@ -3394,6 +3411,7 @@
 0.0.0.0 vivads.net
 0.0.0.0 vmmpxl.com
 0.0.0.0 voicefive.com
+0.0.0.0 volasim.com
 0.0.0.0 volatilevessel.com
 0.0.0.0 voluum.com
 0.0.0.0 voluumtrk2.com

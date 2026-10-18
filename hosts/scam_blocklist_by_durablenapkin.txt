@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.22.23
-! Last modified: 2026-10-11T06:33:08.031Z
+! Version: 1.0.22.30
+! Last modified: 2026-10-18T06:29:34.989Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
@@ -21,6 +21,7 @@
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 accbing.com
 0.0.0.0 adflowtube.com
+0.0.0.0 adidasko.com
 0.0.0.0 adminicesm.life
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 afiletoget.click
@@ -31,6 +32,7 @@
 0.0.0.0 airup-romania.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
+0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 allcars.cn
@@ -75,6 +77,7 @@
 0.0.0.0 best-torrents.com
 0.0.0.0 bestpriceonline.store
 0.0.0.0 bestvod.pl
+0.0.0.0 bigappboi.com
 0.0.0.0 binom0-web.com
 0.0.0.0 binomo-brokers.com
 0.0.0.0 binomo-id.in
@@ -137,7 +140,9 @@
 0.0.0.0 cipustar.com
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 ckkebt.shop
+0.0.0.0 clemoa.com
 0.0.0.0 cluckergifts.ecwid.com
+0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coinaps.com
@@ -149,13 +154,13 @@
 0.0.0.0 coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 copymyfx.com
+0.0.0.0 coralls.com
 0.0.0.0 corg.co
 0.0.0.0 couponxoo.com
 0.0.0.0 courier-tracking.com
 0.0.0.0 covex.it
 0.0.0.0 crackedpc.org
 0.0.0.0 cracksway.com
-0.0.0.0 crypto030.online
 0.0.0.0 cryptot.net
 0.0.0.0 customizerbox.com
 0.0.0.0 customurink.com
@@ -185,7 +190,6 @@
 0.0.0.0 dkfodboldstore.com
 0.0.0.0 dleggere.com
 0.0.0.0 doh-gov.ph
-0.0.0.0 dolomiteoutlet.com
 0.0.0.0 dolystore.com
 0.0.0.0 dopestore.pl
 0.0.0.0 drakternorge.com
@@ -210,6 +214,7 @@
 0.0.0.0 ecs-online.ffm.to
 0.0.0.0 edgeupgrade.com
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
+0.0.0.0 elaka.lk
 0.0.0.0 emberio.com
 0.0.0.0 en-trezor.io
 0.0.0.0 enchantestore.myshopify.com
@@ -227,6 +232,7 @@
 0.0.0.0 evisaindia.com
 0.0.0.0 evisaindia.org
 0.0.0.0 ex-torrenty.org
+0.0.0.0 expresscourier.delivery
 0.0.0.0 expressmovers.com
 0.0.0.0 extradevip.com
 0.0.0.0 facebook-google-15oqyxwtkremqyujsm.vercel.app
@@ -270,6 +276,7 @@
 0.0.0.0 find-vod.com.pl
 0.0.0.0 findglocal.com
 0.0.0.0 finnews7.wordpress.com
+0.0.0.0 firest.info
 0.0.0.0 fitgirl-repacks-site.org
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
@@ -319,7 +326,6 @@
 0.0.0.0 goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 gossvibe.com
-0.0.0.0 gotoperfection.com
 0.0.0.0 govmedcareers.com
 0.0.0.0 greatoffersnow.com
 0.0.0.0 gsport.com
@@ -441,11 +447,13 @@
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 ligerking.com
 0.0.0.0 likenu.se
+0.0.0.0 limited-promo.com
 0.0.0.0 linaromney.za.com
 0.0.0.0 linkshe.com
 0.0.0.0 linostee.com
 0.0.0.0 lisabuddy.com
 0.0.0.0 litcomplex.com
+0.0.0.0 lodrat.org
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 lozly.com
 0.0.0.0 lucatee.com
@@ -458,6 +466,7 @@
 0.0.0.0 mail-cytanet.pages.dev
 0.0.0.0 malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
+0.0.0.0 mansion-xenarthran.info
 0.0.0.0 maxdebrid.com
 0.0.0.0 mayor4london.com
 0.0.0.0 mcds100.com
@@ -580,6 +589,7 @@
 0.0.0.0 nowefilmyonline.pl
 0.0.0.0 nzxsxn.98kk89.com
 0.0.0.0 oablages.org.br
+0.0.0.0 obejrzyj-to.pl
 0.0.0.0 ocycling.com
 0.0.0.0 odinpc.com
 0.0.0.0 official.olymptrade-id-dk.com
@@ -587,6 +597,7 @@
 0.0.0.0 officialkmspico.com
 0.0.0.0 officialyeti.com
 0.0.0.0 oflike.com
+0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
@@ -621,6 +632,7 @@
 0.0.0.0 phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 phirussacmush.net
+0.0.0.0 phototan-cdirect.info
 0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 pinjamteman.top
 0.0.0.0 pinjamuang.top
@@ -642,6 +654,7 @@
 0.0.0.0 punchonsol.top
 0.0.0.0 q3i5q2r6.stackpathcdn.com
 0.0.0.0 qq51f.short.gy
+0.0.0.0 queenscattery.com
 0.0.0.0 quitasueno.com
 0.0.0.0 quotex.com.in
 0.0.0.0 re-captha-version-3-277.buzz
@@ -669,6 +682,7 @@
 0.0.0.0 sakuradate.com
 0.0.0.0 salimusic.com
 0.0.0.0 saveeeee.myshopify.com
+0.0.0.0 sberbank.www.www.id19045617.info
 0.0.0.0 seagulltee.com
 0.0.0.0 seans24.com.pl
 0.0.0.0 seasonsofficial.com
@@ -710,7 +724,6 @@
 0.0.0.0 softgetpc.com
 0.0.0.0 software19797.blogspot.com
 0.0.0.0 softzspot.com
-0.0.0.0 soldtee.com
 0.0.0.0 souhoney.com
 0.0.0.0 source84.com
 0.0.0.0 southernlife.net
@@ -742,6 +755,7 @@
 0.0.0.0 strefa-filmu.pl
 0.0.0.0 successglossary.com
 0.0.0.0 sugarandpearl.com
+0.0.0.0 suitablepartner.life
 0.0.0.0 summersale.co
 0.0.0.0 summersale.online
 0.0.0.0 supercutestuff.com
@@ -756,6 +770,7 @@
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tatatowers.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
@@ -867,6 +882,7 @@
 0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 wadahlapak.top
 0.0.0.0 wallpaperflare.com
+0.0.0.0 wareeb.pk
 0.0.0.0 waronsol.top
 0.0.0.0 watchmark.shop
 0.0.0.0 wavetshirt.com
@@ -874,7 +890,6 @@
 0.0.0.0 weathly.com
 0.0.0.0 webvod.pl
 0.0.0.0 whbinder.com
-0.0.0.0 wie-funktioniert-phototan.info
 0.0.0.0 wikeb.com
 0.0.0.0 wintexfashions.com
 0.0.0.0 wisdomganga.com

@@ -1,17 +1,19 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
-! Version: 1.0.0.18
-! Last modified: 2026-10-11T06:33:01.927Z
+! Version: 1.0.0.19
+! Last modified: 2026-10-18T06:29:28.623Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
 0.0.0.0 cdn-xp-ingest-ab.v.aaplimg.com
 0.0.0.0 iphonesubmissions.v.aaplimg.com
+0.0.0.0 prod-app-analytics-event-gateway.v.aaplimg.com
 0.0.0.0 prod-event-relay-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-books-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-notes-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-sports-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-stocks-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com
+0.0.0.0 prod-iwork-events.v.aaplimg.com
 0.0.0.0 prod-news-notification-events.v.aaplimg.com
 0.0.0.0 securemetrics.v.aaplimg.com
 0.0.0.0 securemetrics-cn.v.aaplimg.com
@@ -28,6 +30,7 @@
 0.0.0.0 searchads.lb-apple.com.akadns.net
 0.0.0.0 iad-apple.com.akadns.net
 0.0.0.0 aios-otel-collector.g.apple.com
+0.0.0.0 app-events.infoapps.apple.com
 0.0.0.0 partiality.itunes.apple.com
 0.0.0.0 msc-dct-prod.msc.apple.com
 0.0.0.0 fbs.smoot.apple.com
@@ -46,6 +49,7 @@
 0.0.0.0 dz1dt3wqswdezgx4j2ryem5iad.apple.com
 0.0.0.0 experiments.apple.com
 0.0.0.0 flirfvysba2opz0zmzqs5iuiad.apple.com
+0.0.0.0 freeform-events.apple.com
 0.0.0.0 graffiti-tags.apple.com
 0.0.0.0 iad.apple.com
 0.0.0.0 iadcontent.apple.com
