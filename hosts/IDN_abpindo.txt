@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
-! Version: 1.0.14.94
-! Last modified: 2026-10-18T06:29:31.150Z
+! Version: 1.0.14.96
+! Last modified: 2026-10-25T06:29:46.703Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 accesstrade.co.id
 0.0.0.0 ad-loupe.com
@@ -28,6 +28,7 @@
 0.0.0.0 forumiklan.com
 0.0.0.0 groupiklan.com
 0.0.0.0 gudangbanner.com
+0.0.0.0 gummy-debt.com
 0.0.0.0 halal.ad
 0.0.0.0 hitadsmedia.com
 0.0.0.0 ibnads.xl.co.id
@@ -84,7 +85,6 @@
 0.0.0.0 afbcashidr.com
 0.0.0.0 bondeddarkenedswerve.com
 0.0.0.0 brand.ad
-0.0.0.0 clickadu.com
 0.0.0.0 dairouzy.net
 0.0.0.0 doathair.com
 0.0.0.0 edomz.com

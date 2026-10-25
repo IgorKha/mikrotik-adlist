@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_73.txt
 ! Version: 1.0.0.2
-! Last modified: 2026-10-18T06:29:28.952Z
+! Last modified: 2026-10-25T06:29:44.279Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn

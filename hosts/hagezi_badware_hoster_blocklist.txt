@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.21.24
-! Last modified: 2026-10-18T06:29:51.371Z
+! Version: 1.0.21.29
+! Last modified: 2026-10-25T06:30:08.553Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -36,6 +36,7 @@
 0.0.0.0 zzz.com.ua
 0.0.0.0 128-199-7-137.cprapid.com
 0.0.0.0 3-89-181-9.cprapid.com
+0.0.0.0 sitebeat.crazydomains.com
 0.0.0.0 members.domaindlx.com
 0.0.0.0 blink.hirebiz.com
 0.0.0.0 adlinkfly.mightyscripts.xyz
@@ -365,7 +366,6 @@
 0.0.0.0 cs-clan.org
 0.0.0.0 cstu.io
 0.0.0.0 ct.ws
-0.0.0.0 ctempurl.com
 0.0.0.0 cut.vin
 0.0.0.0 cutedrive.com
 0.0.0.0 cwqso.net
@@ -544,6 +544,7 @@
 0.0.0.0 han.gl
 0.0.0.0 hanefra7bikiemta.com
 0.0.0.0 hase.in
+0.0.0.0 hashnode.dev
 0.0.0.0 healthyemployee.me
 0.0.0.0 hexe.in
 0.0.0.0 hilfe24h.de
@@ -631,6 +632,7 @@
 0.0.0.0 job.ec
 0.0.0.0 jp.gp
 0.0.0.0 ju.mp
+0.0.0.0 justns.ru
 0.0.0.0 k.gp
 0.0.0.0 k1.cx
 0.0.0.0 kann-helfen.de
@@ -658,6 +660,7 @@
 0.0.0.0 lernt.de
 0.0.0.0 lhosting.info
 0.0.0.0 liebe.lc
+0.0.0.0 liftmyresume.com
 0.0.0.0 lihi1.com
 0.0.0.0 lihi3.cc
 0.0.0.0 link.ac
@@ -684,6 +687,7 @@
 0.0.0.0 luzzati.com
 0.0.0.0 lyli.fi
 0.0.0.0 m.vu
+0.0.0.0 m-pages.com
 0.0.0.0 ma.gp
 0.0.0.0 macao.net
 0.0.0.0 maddsites.com
@@ -735,6 +739,7 @@
 0.0.0.0 myftpupload.com
 0.0.0.0 myfunnelish.com
 0.0.0.0 mylinkinb.io
+0.0.0.0 myportfolio.com
 0.0.0.0 mypressonline.com
 0.0.0.0 mystrikingly.com
 0.0.0.0 mytempdir.com
@@ -803,6 +808,7 @@
 0.0.0.0 pixelt.de
 0.0.0.0 pizzakeep.shop
 0.0.0.0 pk.gp
+0.0.0.0 pktriot.net
 0.0.0.0 pl.de
 0.0.0.0 pl.gp
 0.0.0.0 planet.tl
@@ -906,6 +912,7 @@
 0.0.0.0 start.page
 0.0.0.0 staticrun.app
 0.0.0.0 stormpages.com
+0.0.0.0 studio.site
 0.0.0.0 suchtis.de
 0.0.0.0 supload.com
 0.0.0.0 surl.lt
@@ -929,7 +936,6 @@
 0.0.0.0 temporary-demo.site
 0.0.0.0 tentbuildingservices.eu
 0.0.0.0 test.lc
-0.0.0.0 testingnow.me
 0.0.0.0 th.gp
 0.0.0.0 the-finance-world.com
 0.0.0.0 tiiny.io
@@ -988,6 +994,7 @@
 0.0.0.0 usafreespace.com
 0.0.0.0 usclargo.com
 0.0.0.0 user.lc
+0.0.0.0 usrfiles.com
 0.0.0.0 uz.gp
 0.0.0.0 v.gp
 0.0.0.0 v0r.org
@@ -1066,6 +1073,7 @@
 0.0.0.0 y.gp
 0.0.0.0 y55.eu
 0.0.0.0 ygrrvlvvgf.top
+0.0.0.0 yi.org
 0.0.0.0 yip.su
 0.0.0.0 yj.ae
 0.0.0.0 ykm.de

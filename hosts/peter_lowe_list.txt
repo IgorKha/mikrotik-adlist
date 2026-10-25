@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.18.3
-! Last modified: 2026-10-18T06:29:10.625Z
+! Version: 1.0.18.9
+! Last modified: 2026-10-25T06:29:24.740Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -62,7 +62,6 @@
 0.0.0.0 ablink.news.emails-puregym.com
 0.0.0.0 ablinks.mail.hinge.co
 0.0.0.0 aboardlevel.com
-0.0.0.0 absolutering.com
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 abtasty.com
@@ -110,6 +109,7 @@
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.dnoticias.pt
 0.0.0.0 ad.domainfactory.de
+0.0.0.0 ad.exyws.org
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.gt
 0.0.0.0 ad.hbv.de
@@ -139,6 +139,7 @@
 0.0.0.0 ad.style
 0.0.0.0 ad.technoratimedia.com
 0.0.0.0 ad.tv2.no
+0.0.0.0 ad.twinrdengine.com
 0.0.0.0 ad.universcine.com
 0.0.0.0 ad.usatoday.com
 0.0.0.0 ad.virtual-nights.com
@@ -329,7 +330,6 @@
 0.0.0.0 ads-impressions.com
 0.0.0.0 ads-monitor.xyz
 0.0.0.0 ads-twitter.com
-0.0.0.0 ads.365.mk
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads.73dpi.com
 0.0.0.0 ads.aavv.com
@@ -626,7 +626,6 @@
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserv.snigelweb.com
 0.0.0.0 adserve.ams.rhythmxchange.com
-0.0.0.0 adserve.gkeurope.de
 0.0.0.0 adserve.io
 0.0.0.0 adserve.jbs.org
 0.0.0.0 adserver.71i.de
@@ -895,6 +894,7 @@
 0.0.0.0 api.appmetrica.yandex.ru
 0.0.0.0 api.eu.amplitude.com
 0.0.0.0 api.intensifier.de
+0.0.0.0 api.intentiq.com
 0.0.0.0 api.iterable.com
 0.0.0.0 api.kameleoon.com
 0.0.0.0 api.lab.amplitude.com
@@ -1023,7 +1023,6 @@
 0.0.0.0 basebanner.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
-0.0.0.0 bastingart.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
 0.0.0.0 bbelements.com
@@ -1032,6 +1031,7 @@
 0.0.0.0 beachfront.com
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.netflix.com
+0.0.0.0 beacon.viafoura.io
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 bebi.com
@@ -1064,7 +1064,6 @@
 0.0.0.0 bigclicks.com
 0.0.0.0 bigfishapparel.com
 0.0.0.0 bigreal.org
-0.0.0.0 bigworldfashion.com
 0.0.0.0 billboard.cz
 0.0.0.0 billtable.com
 0.0.0.0 birthdaybelief.com
@@ -1241,7 +1240,6 @@
 0.0.0.0 click.email.bbc.com
 0.0.0.0 click.email.lhh.com
 0.0.0.0 click.email.microsoftemail.com
-0.0.0.0 click.email.sonos.com
 0.0.0.0 click.emails.argos.co.uk
 0.0.0.0 click.emails.tuclothing.sainsburys.co.uk
 0.0.0.0 click.fool.com
@@ -1393,6 +1391,7 @@
 0.0.0.0 cpx.to
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
+0.0.0.0 crabbychin.com
 0.0.0.0 craktraffic.com
 0.0.0.0 crashchance.com
 0.0.0.0 crashlytics.com
@@ -1852,7 +1851,6 @@
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hotjar.com
 0.0.0.0 hotlog.ru
-0.0.0.0 hotrank.com.tw
 0.0.0.0 hoverowl.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 hs-banner.com
@@ -1966,7 +1964,6 @@
 0.0.0.0 jamexport.com
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
-0.0.0.0 jewelrysprings.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
 0.0.0.0 joyoussurprise.com
@@ -1990,7 +1987,6 @@
 0.0.0.0 kameleoon.eu
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
-0.0.0.0 kernellife.com
 0.0.0.0 kickoffo.site
 0.0.0.0 kindads.com
 0.0.0.0 kindlereunion.com
@@ -2013,6 +2009,7 @@
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kueezrtb.com
 0.0.0.0 kvsadman.com
+0.0.0.0 l.ca.ovhcloud.com
 0.0.0.0 l1.britannica.com
 0.0.0.0 lakesecure.com
 0.0.0.0 lameletters.com
@@ -2439,7 +2436,6 @@
 0.0.0.0 optimallimit.com
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
-0.0.0.0 optionsnomad.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
@@ -2976,6 +2972,7 @@
 0.0.0.0 sprysummit.com
 0.0.0.0 spulse.net
 0.0.0.0 spylog.com
+0.0.0.0 spyrep.com
 0.0.0.0 spywarelabs.com
 0.0.0.0 spywords.com
 0.0.0.0 srvmath.com
@@ -3071,7 +3068,6 @@
 0.0.0.0 supportwaves.com
 0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 0.0.0.0 sw88.espn.com
-0.0.0.0 swan-swan-goose.com
 0.0.0.0 swankysquare.com
 0.0.0.0 swingslip.com
 0.0.0.0 swordgoose.com
@@ -3409,7 +3405,6 @@
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
 0.0.0.0 vivads.net
-0.0.0.0 vmmpxl.com
 0.0.0.0 voicefive.com
 0.0.0.0 volasim.com
 0.0.0.0 volatilevessel.com
@@ -3483,7 +3478,6 @@
 0.0.0.0 worldwide-cash.net
 0.0.0.0 worriednumber.com
 0.0.0.0 wowfunnow.com
-0.0.0.0 writerhubs.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt.bankmillennium.pl
 0.0.0.0 www-banner.chat.ru
