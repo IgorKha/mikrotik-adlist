@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
 ! Version: 1.0.17.23
-! Last modified: 2026-10-18T06:29:51.228Z
+! Last modified: 2026-10-25T06:30:08.371Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
