@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt
-! Version: 1.0.15.6
-! Last modified: 2026-10-25T06:29:42.940Z
+! Version: 1.0.15.7
+! Last modified: 2026-11-01T06:20:10.307Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -180,6 +180,7 @@
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
 0.0.0.0 extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com
 0.0.0.0 ad.eu.xiaomi.com
+0.0.0.0 sdkconfig.eu.xiaomi.com
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0 wl.voip.game.xiaomi.com
@@ -210,6 +211,7 @@
 0.0.0.0 ad.india.xiaomi.com
 0.0.0.0 controller.india.xiaomi.com
 0.0.0.0 mistat.india.xiaomi.com
+0.0.0.0 sdkconfig.india.xiaomi.com
 0.0.0.0 api.installer.xiaomi.com
 0.0.0.0 globalvideo.cdn.pandora.intl.xiaomi.com
 0.0.0.0 ruvideo.cdn.pandora.intl.xiaomi.com
@@ -219,6 +221,7 @@
 0.0.0.0 ru.video.intl.xiaomi.com
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 mistat.intl.xiaomi.com
+0.0.0.0 sdkconfig.intl.xiaomi.com
 0.0.0.0 sys.intl.xiaomi.com
 0.0.0.0 secure.report.iss.xiaomi.com
 0.0.0.0 xadx.file.market.xiaomi.com
@@ -315,6 +318,7 @@
 0.0.0.0 sec.resource.xiaomi.net
 0.0.0.0 ad.rus.xiaomi.com
 0.0.0.0 mistat.rus.xiaomi.com
+0.0.0.0 sdkconfig.rus.xiaomi.com
 0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 sec-cdn.static.xiaomi.net
@@ -340,6 +344,7 @@
 0.0.0.0 mistat.xiaomi.com
 0.0.0.0 preload.xiaomi.com
 0.0.0.0 qiye.xiaomi.com
+0.0.0.0 sdkconfig.xiaomi.com
 0.0.0.0 ssp.xiaomi.com
 0.0.0.0 stat.xiaomi.com
 0.0.0.0 userid.xiaomi.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
 ! Version: 1.0.19.88
-! Last modified: 2026-10-25T06:29:28.315Z
+! Last modified: 2026-11-01T06:20:00.238Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List

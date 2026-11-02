@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
 ! Version: 1.0.15.50
-! Last modified: 2026-10-25T06:29:42.775Z
+! Last modified: 2026-11-01T06:20:10.142Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com

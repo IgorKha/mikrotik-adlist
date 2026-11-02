@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.21.29
-! Last modified: 2026-10-25T06:30:08.553Z
+! Version: 1.0.21.32
+! Last modified: 2026-11-01T06:20:27.320Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
@@ -14,7 +14,6 @@
 0.0.0.0 blogspot.co.nz
 0.0.0.0 blogspot.co.uk
 0.0.0.0 blogspot.co.za
-0.0.0.0 dothome.co.kr
 0.0.0.0 surfblocked.co.cc
 0.0.0.0 thamboli.co.za
 0.0.0.0 blogspot.com.ar
@@ -488,7 +487,6 @@
 0.0.0.0 freakshare.net
 0.0.0.0 free.cr
 0.0.0.0 free.lc
-0.0.0.0 free.nf
 0.0.0.0 freeasphost.net
 0.0.0.0 freeblog.biz
 0.0.0.0 freecities.com
@@ -632,7 +630,6 @@
 0.0.0.0 job.ec
 0.0.0.0 jp.gp
 0.0.0.0 ju.mp
-0.0.0.0 justns.ru
 0.0.0.0 k.gp
 0.0.0.0 k1.cx
 0.0.0.0 kann-helfen.de
@@ -660,7 +657,6 @@
 0.0.0.0 lernt.de
 0.0.0.0 lhosting.info
 0.0.0.0 liebe.lc
-0.0.0.0 liftmyresume.com
 0.0.0.0 lihi1.com
 0.0.0.0 lihi3.cc
 0.0.0.0 link.ac
@@ -687,7 +683,6 @@
 0.0.0.0 luzzati.com
 0.0.0.0 lyli.fi
 0.0.0.0 m.vu
-0.0.0.0 m-pages.com
 0.0.0.0 ma.gp
 0.0.0.0 macao.net
 0.0.0.0 maddsites.com
@@ -726,11 +721,9 @@
 0.0.0.0 my-style.in
 0.0.0.0 my3gb.com
 0.0.0.0 my5353.com
-0.0.0.0 mybb.pw
 0.0.0.0 myblogvoice.com
 0.0.0.0 mybluehost.me
 0.0.0.0 mybluehostin.me
-0.0.0.0 myclickfunnels.com
 0.0.0.0 mycpanel.rs
 0.0.0.0 mydiscussion.net
 0.0.0.0 myeweb.net
@@ -754,7 +747,6 @@
 0.0.0.0 netten.ru
 0.0.0.0 netz.tl
 0.0.0.0 newmail.ru
-0.0.0.0 nexmicrosystems.com
 0.0.0.0 nicepage.io
 0.0.0.0 nl.gp
 0.0.0.0 nl.kg
@@ -912,7 +904,6 @@
 0.0.0.0 start.page
 0.0.0.0 staticrun.app
 0.0.0.0 stormpages.com
-0.0.0.0 studio.site
 0.0.0.0 suchtis.de
 0.0.0.0 supload.com
 0.0.0.0 surl.lt
@@ -937,9 +928,7 @@
 0.0.0.0 tentbuildingservices.eu
 0.0.0.0 test.lc
 0.0.0.0 th.gp
-0.0.0.0 the-finance-world.com
 0.0.0.0 tiiny.io
-0.0.0.0 tiiny.site
 0.0.0.0 tinylink.in
 0.0.0.0 tinyurl.ph
 0.0.0.0 tld.cc
@@ -994,7 +983,6 @@
 0.0.0.0 usafreespace.com
 0.0.0.0 usclargo.com
 0.0.0.0 user.lc
-0.0.0.0 usrfiles.com
 0.0.0.0 uz.gp
 0.0.0.0 v.gp
 0.0.0.0 v0r.org
@@ -1015,6 +1003,7 @@
 0.0.0.0 voten.in
 0.0.0.0 vuzelia.com
 0.0.0.0 vz.lc
+0.0.0.0 w3spaces.com
 0.0.0.0 wapka.club
 0.0.0.0 wapka.site
 0.0.0.0 wapka.store
@@ -1029,7 +1018,6 @@
 0.0.0.0 webaccess-email.com
 0.0.0.0 webblog24.de
 0.0.0.0 webboss.site
-0.0.0.0 webcindario.com
 0.0.0.0 webn.cc
 0.0.0.0 webobo.com
 0.0.0.0 webpages.one
@@ -1049,7 +1037,6 @@
 0.0.0.0 world.mu
 0.0.0.0 world-blog.de
 0.0.0.0 world-store.de
-0.0.0.0 worldsoffinance.com
 0.0.0.0 writes.de
 0.0.0.0 wstd.io
 0.0.0.0 wtcsites.com
@@ -1062,7 +1049,6 @@
 0.0.0.0 xblog.in
 0.0.0.0 xl.lc
 0.0.0.0 xml.in
-0.0.0.0 xo.je
 0.0.0.0 xsl.tel
 0.0.0.0 xsph.ru
 0.0.0.0 xtreemhost.com
@@ -1073,7 +1059,6 @@
 0.0.0.0 y.gp
 0.0.0.0 y55.eu
 0.0.0.0 ygrrvlvvgf.top
-0.0.0.0 yi.org
 0.0.0.0 yip.su
 0.0.0.0 yj.ae
 0.0.0.0 ykm.de

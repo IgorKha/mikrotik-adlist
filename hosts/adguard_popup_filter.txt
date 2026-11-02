@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.82
-! Last modified: 2026-10-25T06:29:30.468Z
+! Version: 1.0.18.83
+! Last modified: 2026-11-01T06:20:01.718Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dga9amo.website
 0.0.0.0 profitableratecpmnetwork.com
@@ -268,7 +268,6 @@
 0.0.0.0 adtraction.com
 0.0.0.0 advertisoo.com
 0.0.0.0 adx1.com
-0.0.0.0 affcpatrk.com
 0.0.0.0 affflow.com
 0.0.0.0 affiliatestonybet.com
 0.0.0.0 affiliride.com
@@ -280,8 +279,6 @@
 0.0.0.0 ak-is2.net
 0.0.0.0 albonsa.com
 0.0.0.0 alexatracker.com
-0.0.0.0 alpine-vpn.com
-0.0.0.0 amusing-injury.com
 0.0.0.0 animeloundry.com
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 appointeeivyspongy.com
@@ -296,7 +293,6 @@
 0.0.0.0 auroraveil.bid
 0.0.0.0 auto-ads6.site
 0.0.0.0 avlmy.com
-0.0.0.0 avogex.com
 0.0.0.0 awecrptjmp.com
 0.0.0.0 bayshorline.com
 0.0.0.0 bbmoe.com
@@ -334,7 +330,6 @@
 0.0.0.0 career-mesh.com
 0.0.0.0 cashgzb.com
 0.0.0.0 casinobonusdeals.io
-0.0.0.0 cauditcommernal.com
 0.0.0.0 cawsg.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 ceramicturtleremnant.com
@@ -386,7 +381,6 @@
 0.0.0.0 dsb68d.com
 0.0.0.0 dsp5stero.com
 0.0.0.0 earlinessone.xyz
-0.0.0.0 easelegbike.com
 0.0.0.0 easyconverts.com
 0.0.0.0 eeco.xyz
 0.0.0.0 efficientorbit.co
@@ -411,7 +405,6 @@
 0.0.0.0 frequentjam.com
 0.0.0.0 fstsrv9.com
 0.0.0.0 fuck-ads.vercel.app
-0.0.0.0 fzev75-rtbix.top
 0.0.0.0 galaxypush.com
 0.0.0.0 gamazi.com
 0.0.0.0 gamerhit.co
@@ -438,7 +431,6 @@
 0.0.0.0 haveameet.com
 0.0.0.0 helicient.com
 0.0.0.0 heptix.net
-0.0.0.0 hetapus.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hiasor.com
 0.0.0.0 highcpmgate.com
@@ -552,7 +544,6 @@
 0.0.0.0 nrs6ffl9w.com
 0.0.0.0 ntesgsght.com
 0.0.0.0 ntrftrksec.com
-0.0.0.0 numbertrck.com
 0.0.0.0 nutchaungong.com
 0.0.0.0 nwwrtbbit.com
 0.0.0.0 nxt-psh.com
@@ -662,7 +653,6 @@
 0.0.0.0 rtbix.xyz
 0.0.0.0 rtbreachads.com
 0.0.0.0 s3g6.com
-0.0.0.0 sabasadara.com
 0.0.0.0 safeonlinetips.com
 0.0.0.0 savinist.com
 0.0.0.0 scarfstartpickle.com
@@ -724,7 +714,6 @@
 0.0.0.0 track.afrsportsbetting.com
 0.0.0.0 track.bwclk.com
 0.0.0.0 tracker-2.com
-0.0.0.0 tracker-tds.info
 0.0.0.0 tracking-aws-5.com
 0.0.0.0 tracking-zy.com
 0.0.0.0 trackingtraffo.com
@@ -742,9 +731,7 @@
 0.0.0.0 typical-hub.com
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
-0.0.0.0 upodaitie.net
 0.0.0.0 utm-campaign.com
-0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
 0.0.0.0 verdepromo.info
 0.0.0.0 vfgte.com
@@ -755,7 +742,6 @@
 0.0.0.0 viiyutty.com
 0.0.0.0 viiyxefb.com
 0.0.0.0 vilytaku.com
-0.0.0.0 viralnewsbd.xyz
 0.0.0.0 viralvideoclip.info
 0.0.0.0 virelon.com
 0.0.0.0 vizoalygrenn.com
