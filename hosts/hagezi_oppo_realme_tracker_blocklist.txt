@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
-! Version: 1.0.0.31
-! Last modified: 2026-11-01T06:20:10.893Z
+! Version: 1.0.0.34
+! Last modified: 2026-11-08T06:19:48.582Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 classify-app-eu.allawnos.com
 0.0.0.0 classify-app-in.allawnos.com
@@ -121,6 +121,7 @@
 0.0.0.0 storedl3f.nearme.com.cn
 0.0.0.0 storedl4f.nearme.com.cn
 0.0.0.0 storedl5f.nearme.com.cn
+0.0.0.0 i-insurance.finzfin.com
 0.0.0.0 appconf-ocs-eu.heytapdl.com
 0.0.0.0 appconf-ocs-in.heytapdl.com
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
@@ -260,6 +261,7 @@
 0.0.0.0 dcc-awareness-cn.heytapmobi.com
 0.0.0.0 iot-earbuds-cn.heytapmobi.com
 0.0.0.0 mdp-usertrace-cn.heytapmobi.com
+0.0.0.0 obus-conf-cn.heytapmobi.com
 0.0.0.0 obus-config-cn.heytapmobi.com
 0.0.0.0 obus-dc10-cn.heytapmobi.com
 0.0.0.0 obus-dc136101-cn.heytapmobi.com
@@ -276,6 +278,7 @@
 0.0.0.0 omes-sec.heytapmobi.com
 0.0.0.0 oversea-nebula-in.heytapmobi.com
 0.0.0.0 oversea-nebula-sg.heytapmobi.com
+0.0.0.0 push-ads-cn.heytapmobi.com
 0.0.0.0 ums-telemetry-cn.heytapmobi.com
 0.0.0.0 cloudi-in.browser.heytapmobile.com
 0.0.0.0 cloudi-sg.browser.heytapmobile.com
@@ -293,6 +296,7 @@
 0.0.0.0 api-id.cdo.heytapmobile.com
 0.0.0.0 api-in.cdo.heytapmobile.com
 0.0.0.0 adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com
+0.0.0.0 adx-u-in-heytapmobile-a-9ae47.in-s01.cngw.heytapmobile.com
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 api-id.game.heytapmobile.com
 0.0.0.0 report-in.opay.heytapmobile.com
@@ -321,6 +325,7 @@
 0.0.0.0 adx-u-in.heytapmobile.com
 0.0.0.0 adx-u-ru.heytapmobile.com
 0.0.0.0 adx-u-sg.heytapmobile.com
+0.0.0.0 adx-union-sg.heytapmobile.com
 0.0.0.0 adxh3-op-sg.heytapmobile.com
 0.0.0.0 adxu-bigo-sg.heytapmobile.com
 0.0.0.0 bdapi-ads-sg.heytapmobile.com
@@ -491,4 +496,5 @@
 0.0.0.0 sea-log-rcv.vansound.com
 0.0.0.0 h4g3z1-native-oppo-realme.web.app
 0.0.0.0 finosfin.com
+0.0.0.0 fxltsbl.com
 0.0.0.0 hizonetech.com
