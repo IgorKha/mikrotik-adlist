@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.23.16
-! Last modified: 2026-11-01T06:20:26.290Z
+! Version: 1.0.23.27
+! Last modified: 2026-11-08T06:20:05.528Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -279,6 +279,7 @@
 0.0.0.0 freefiles-upload.com
 0.0.0.0 projecthygieia.com
 0.0.0.0 iridia.me
+0.0.0.0 nexusmops.com
 0.0.0.0 atnpx.com
 0.0.0.0 webpushcloud.top
 0.0.0.0 koitushinterneinnehmen.s3.eu-central-1.amazonaws.com
@@ -300,6 +301,7 @@
 0.0.0.0 messagesafe.net
 0.0.0.0 msgsafe.net
 0.0.0.0 best4fuck.com
+0.0.0.0 stearndb.info
 0.0.0.0 kuaizip.com
 0.0.0.0 geekotg.com
 0.0.0.0 xiaobaixitong.com
@@ -996,6 +998,10 @@
 0.0.0.0 webjob-whatsapp.com
 0.0.0.0 webkey-whatsapp.com
 0.0.0.0 japan-pairs.com
+0.0.0.0 vn-ku88.net
+0.0.0.0 galanzmotzjp.com
+0.0.0.0 downioads-japan.com
+0.0.0.0 cb-customa.com
 0.0.0.0 webuzz.me
 0.0.0.0 gokinjolove.jp
 0.0.0.0 gokinjolove.net
@@ -2207,6 +2213,23 @@
 0.0.0.0 fapr3i.com
 0.0.0.0 fawl4vx.com
 0.0.0.0 tendresse.shop
+0.0.0.0 your-compass.jp
+0.0.0.0 tennoito.jp
+0.0.0.0 cla-fando.com
+0.0.0.0 weclo-offer.online
+0.0.0.0 yx5s6.com
+0.0.0.0 xrfg0dt.com
+0.0.0.0 pascal2417.com
+0.0.0.0 sunnys-day.net
+0.0.0.0 hare-days.com
+0.0.0.0 new-platinum.tokyo
+0.0.0.0 aiamiam.com
+0.0.0.0 aiamiiam.com
+0.0.0.0 amaiamiam.com
+0.0.0.0 lotosecond.com
+0.0.0.0 ejpjeip.com
+0.0.0.0 jpjeip.com
+0.0.0.0 pjpjeip.com
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
 0.0.0.0 tgram.ru
@@ -2290,6 +2313,17 @@
 0.0.0.0 third-party.com
 0.0.0.0 precisionproving.com
 0.0.0.0 filedragonspire.com
+0.0.0.0 birelopater.top
+0.0.0.0 desorantpola.top
+0.0.0.0 koostergop.top
+0.0.0.0 montopera.top
+0.0.0.0 nezercert.top
+0.0.0.0 olvantrise.top
+0.0.0.0 prostevision.top
+0.0.0.0 repolander.top
+0.0.0.0 uirolader.top
+0.0.0.0 yolopander.top
+0.0.0.0 pentomorinexolentokarodarimexotavo.digital
 0.0.0.0 cracksway.com
 0.0.0.0 gamingdebates.com
 0.0.0.0 bonzi.link
@@ -2962,6 +2996,8 @@
 0.0.0.0 e-navy*.weebly.com
 0.0.0.0 only-fans.uk
 0.0.0.0 zoom.us*web.us
+0.0.0.0 webzoom.us
+0.0.0.0 us13webzoom.us
 0.0.0.0 e-zpass.com-
 0.0.0.0 tlauncher.org
 0.0.0.0 tlauncher.ru
@@ -3457,6 +3493,7 @@
 0.0.0.0 losslesscut.cn
 0.0.0.0 kai-search.com
 0.0.0.0 luhxepremiumbags.com
+0.0.0.0 luhxetravelbag.co
 0.0.0.0 camelote.cn
 0.0.0.0 securesweep.pro
 0.0.0.0 safebooru.com
@@ -3494,3 +3531,7 @@
 0.0.0.0 onpointcu.portalaccess.app
 0.0.0.0 despegar.vercel.app
 0.0.0.0 gusdocment.top
+0.0.0.0 wlygrowth.com
+0.0.0.0 ludashisafe.com
+0.0.0.0 gtagrok.com
+0.0.0.0 pondmart.shop

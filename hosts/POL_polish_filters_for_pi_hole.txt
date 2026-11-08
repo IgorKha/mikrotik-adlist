@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
 ! Version: 1.0.15.14
-! Last modified: 2026-11-01T06:20:11.933Z
+! Last modified: 2026-11-08T06:19:49.204Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0daib.pl
 0.0.0.0 0x01n2ptpuz3.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.24
-! Last modified: 2026-11-01T06:20:26.852Z
+! Version: 1.0.17.27
+! Last modified: 2026-11-08T06:20:05.844Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -81,7 +81,6 @@
 0.0.0.0 aneisa.com
 0.0.0.0 angelcamddns.com
 0.0.0.0 anondns.net
-0.0.0.0 antongorbunov.com
 0.0.0.0 any64.de
 0.0.0.0 anyitsolution.com
 0.0.0.0 api64.de
@@ -117,7 +116,6 @@
 0.0.0.0 bagus.org
 0.0.0.0 baikabibai.com
 0.0.0.0 bakli.ru
-0.0.0.0 barbaforte.org
 0.0.0.0 barrel-of-knowledge.info
 0.0.0.0 barrell-of-knowledge.info
 0.0.0.0 baselinux.net
@@ -217,7 +215,6 @@
 0.0.0.0 compress.to
 0.0.0.0 compuinter.com
 0.0.0.0 computersforpeace.net
-0.0.0.0 compy.ca
 0.0.0.0 con-ip.com
 0.0.0.0 conditsis.com
 0.0.0.0 contepsa.com
@@ -279,7 +276,6 @@
 0.0.0.0 digitalgroupe.com
 0.0.0.0 dip.jp
 0.0.0.0 diskstation.eu
-0.0.0.0 diskstation.me
 0.0.0.0 diskstation.org
 0.0.0.0 ditchyourip.com
 0.0.0.0 dive2.net
@@ -350,12 +346,7 @@
 0.0.0.0 drayddns.com
 0.0.0.0 dropfiles.net
 0.0.0.0 drunkensailor.org
-0.0.0.0 dscloud.me
-0.0.0.0 dscloud.mobi
 0.0.0.0 dsmtp.com
-0.0.0.0 dsmynas.com
-0.0.0.0 dsmynas.net
-0.0.0.0 dsmynas.org
 0.0.0.0 dtdns.com
 0.0.0.0 dtdns.net
 0.0.0.0 dtdns.org
@@ -503,9 +494,6 @@
 0.0.0.0 f3322.org
 0.0.0.0 fairuse.org
 0.0.0.0 falcongreen.com
-0.0.0.0 familyds.com
-0.0.0.0 familyds.net
-0.0.0.0 familyds.org
 0.0.0.0 fantasyleague.cc
 0.0.0.0 faqserv.com
 0.0.0.0 farted.net
@@ -720,7 +708,6 @@
 0.0.0.0 hulichicken.com
 0.0.0.0 humorvisite.eu
 0.0.0.0 hunnur.com
-0.0.0.0 i234.me
 0.0.0.0 iamallama.com
 0.0.0.0 ics.tw
 0.0.0.0 ideasciviles.com
@@ -877,9 +864,6 @@
 0.0.0.0 kanda.ru
 0.0.0.0 kaohsiung.tv
 0.0.0.0 kck-saratov.ru
-0.0.0.0 keenetic.link
-0.0.0.0 keenetic.name
-0.0.0.0 keenetic.pro
 0.0.0.0 keine-panik.net
 0.0.0.0 kellserve.com
 0.0.0.0 kicks-ass.net
@@ -1009,7 +993,6 @@
 0.0.0.0 mydissent.net
 0.0.0.0 mydns.bz
 0.0.0.0 mydns.jp
-0.0.0.0 myds.me
 0.0.0.0 myeffect.net
 0.0.0.0 myftp.biz
 0.0.0.0 myftp.info
@@ -1045,7 +1028,6 @@
 0.0.0.0 mysecuritycamera.net
 0.0.0.0 mysecuritycamera.org
 0.0.0.0 myserver.org
-0.0.0.0 mysynology.net
 0.0.0.0 myvnc.com
 0.0.0.0 mywebworld.info
 0.0.0.0 mywire.org
@@ -1076,6 +1058,7 @@
 0.0.0.0 nflfan.org
 0.0.0.0 nhlfan.net
 0.0.0.0 ninth.biz
+0.0.0.0 nip.io
 0.0.0.0 no-domain.name
 0.0.0.0 no-ip.biz
 0.0.0.0 no-ip.ca

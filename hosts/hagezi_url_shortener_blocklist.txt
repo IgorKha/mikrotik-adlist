@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
-! Version: 1.0.6.48
-! Last modified: 2026-11-01T06:20:27.537Z
+! Version: 1.0.6.62
+! Last modified: 2026-11-08T06:20:06.150Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 a.189.cn
 0.0.0.0 t.2merkato.com
@@ -57,8 +57,6 @@
 0.0.0.0 qr.attps.fr
 0.0.0.0 go.augsburg.edu
 0.0.0.0 links.avalaunch.app
-0.0.0.0 url-api.babayev.us
-0.0.0.0 urlshortener.babayev.us
 0.0.0.0 lien.babel.coop
 0.0.0.0 r.babscon.com
 0.0.0.0 go.badarinathgella.com
@@ -76,7 +74,6 @@
 0.0.0.0 r.bioinfweb.info
 0.0.0.0 go.bitcomma.com
 0.0.0.0 url.nafi.biz.id
-0.0.0.0 aje.biz.id
 0.0.0.0 come.biz.id
 0.0.0.0 dnl.biz.id
 0.0.0.0 opetsalman.biz.id
@@ -96,7 +93,6 @@
 0.0.0.0 checkout.buzzoid.com
 0.0.0.0 direct.cardgifters.com
 0.0.0.0 link.caripvcard.com
-0.0.0.0 link.cashcard.id
 0.0.0.0 links.casjoe.com
 0.0.0.0 s.cawi.it
 0.0.0.0 lemon-kutt.lemon.cchan.tv
@@ -104,7 +100,6 @@
 0.0.0.0 go.cemd.org
 0.0.0.0 kutt.cengo.dev
 0.0.0.0 c.centralretail.com
-0.0.0.0 link.chanrobotics.org
 0.0.0.0 kutt.chatforma.com
 0.0.0.0 s.chillstice.com
 0.0.0.0 go.library.cikeys.com
@@ -199,7 +194,6 @@
 0.0.0.0 linkboard.com.br
 0.0.0.0 linksbr.com.br
 0.0.0.0 mpfi.com.ph
-0.0.0.0 nabio.com.br
 0.0.0.0 natura.com.vc
 0.0.0.0 onelink.com.do
 0.0.0.0 readystart.com.au
@@ -438,7 +432,6 @@
 0.0.0.0 urlshortener.mahamafzar.com
 0.0.0.0 link.mamawyprawia.pl
 0.0.0.0 kutt.mariodian.com
-0.0.0.0 herramientas.marketingcubano.com
 0.0.0.0 dl.marloth.tech
 0.0.0.0 l2.mastercoria.com
 0.0.0.0 u.mavrev.com
@@ -603,7 +596,6 @@
 0.0.0.0 bio.rocketapps.pro
 0.0.0.0 lets.rok.biz
 0.0.0.0 bio.rub3n.io
-0.0.0.0 short.ruksk.com
 0.0.0.0 s.sachiniyer.com
 0.0.0.0 url.sae.digital
 0.0.0.0 go.sagesure.com
@@ -945,7 +937,6 @@
 0.0.0.0 1do.me
 0.0.0.0 1drv.ms
 0.0.0.0 1ea.ir
-0.0.0.0 1fashionable.xyz
 0.0.0.0 1fi.us
 0.0.0.0 1fy.ir
 0.0.0.0 1gh.co
@@ -995,7 +986,6 @@
 0.0.0.0 1url.vn
 0.0.0.0 1vk.net
 0.0.0.0 1west.io
-0.0.0.0 1wn.bz
 0.0.0.0 1xfn.tech
 0.0.0.0 1xregister.vip
 0.0.0.0 1z.lc
@@ -1030,7 +1020,6 @@
 0.0.0.0 2h.ae
 0.0.0.0 2i.gs
 0.0.0.0 2i1i.cn
-0.0.0.0 2it.info
 0.0.0.0 2k1.me
 0.0.0.0 2kgam.es
 0.0.0.0 2l2.me
@@ -1123,7 +1112,6 @@
 0.0.0.0 4-bio.link
 0.0.0.0 42jump.com
 0.0.0.0 42l.fr
-0.0.0.0 42url.com
 0.0.0.0 45h.it
 0.0.0.0 46.fi
 0.0.0.0 47.de
@@ -1172,7 +1160,6 @@
 0.0.0.0 5ia.ir
 0.0.0.0 5il.co
 0.0.0.0 5k.lol
-0.0.0.0 5m.io
 0.0.0.0 5ne.co
 0.0.0.0 5o.io
 0.0.0.0 5or.cc
@@ -1390,7 +1377,6 @@
 0.0.0.0 adr.ec
 0.0.0.0 adr3.ir
 0.0.0.0 ads.so
-0.0.0.0 adsclick.me
 0.0.0.0 adshort.click
 0.0.0.0 adshort.co
 0.0.0.0 adslinks.site
@@ -1419,7 +1405,6 @@
 0.0.0.0 agbr.ir
 0.0.0.0 agentassistcrm.org
 0.0.0.0 agileurbia.com
-0.0.0.0 agll.ink
 0.0.0.0 agmd.win
 0.0.0.0 agoz.me
 0.0.0.0 agr.my
@@ -1488,7 +1473,6 @@
 0.0.0.0 alie.kr
 0.0.0.0 alien-traffic.com
 0.0.0.0 alientraffic.com
-0.0.0.0 aliexpi.com
 0.0.0.0 alishort.com
 0.0.0.0 alisys.it
 0.0.0.0 allamericanpatriots.com
@@ -1496,7 +1480,6 @@
 0.0.0.0 alldomainwhois.xyz
 0.0.0.0 alli.pub
 0.0.0.0 allinonetab.com
-0.0.0.0 allinonetool.tech
 0.0.0.0 alllinks.in
 0.0.0.0 alllinksinbio.com
 0.0.0.0 allmylinks.link
@@ -1578,7 +1561,6 @@
 0.0.0.0 annoyingnightmareedit.com
 0.0.0.0 anon.to
 0.0.0.0 anonme.net
-0.0.0.0 anonshort.com
 0.0.0.0 anonymiz.com
 0.0.0.0 anp.su
 0.0.0.0 antiadblockcore.org
@@ -1622,7 +1604,6 @@
 0.0.0.0 appurl.io
 0.0.0.0 appwhats.in
 0.0.0.0 apsense.cc
-0.0.0.0 aptg.tw
 0.0.0.0 apticirl.com
 0.0.0.0 aptsbyusu.com
 0.0.0.0 apurl.in
@@ -1691,7 +1672,6 @@
 0.0.0.0 atoor.net
 0.0.0.0 atpz.ir
 0.0.0.0 atres.red
-0.0.0.0 atropinestatuarylandleaper.com
 0.0.0.0 att.ovh
 0.0.0.0 attlinks.com
 0.0.0.0 attolink.com
@@ -1785,12 +1765,10 @@
 0.0.0.0 bagi.link
 0.0.0.0 bagneed.com
 0.0.0.0 baid.us
-0.0.0.0 baileybelladonna.com
 0.0.0.0 balls.no
 0.0.0.0 bamerus.top
 0.0.0.0 banaccroblox.com
 0.0.0.0 bannercho.com
-0.0.0.0 baoyung.com
 0.0.0.0 baratun.de
 0.0.0.0 barkodi.com
 0.0.0.0 barsoocm.com
@@ -1836,7 +1814,6 @@
 0.0.0.0 bee1s.com
 0.0.0.0 bee4.biz
 0.0.0.0 beeb.us
-0.0.0.0 beelnk.com
 0.0.0.0 beepurl.com
 0.0.0.0 beeshort.de
 0.0.0.0 beeurls.com
@@ -1855,8 +1832,6 @@
 0.0.0.0 beree.io
 0.0.0.0 bersatu.me
 0.0.0.0 beshort.io
-0.0.0.0 bestbet1000.xyz
-0.0.0.0 betaloop.io
 0.0.0.0 betaxfree.net
 0.0.0.0 beteshis.com
 0.0.0.0 beth.games
@@ -1888,7 +1863,6 @@
 0.0.0.0 bigcc.cc
 0.0.0.0 bigfi.sh
 0.0.0.0 bigfk.com
-0.0.0.0 biggiris.link
 0.0.0.0 biggo.tw
 0.0.0.0 bigolink.com
 0.0.0.0 bigurl.io
@@ -1954,7 +1928,6 @@
 0.0.0.0 bitl.app
 0.0.0.0 bitl.to
 0.0.0.0 bitlee.site
-0.0.0.0 bitley.in
 0.0.0.0 bitli.pro
 0.0.0.0 bitlink.one
 0.0.0.0 bitlnx.com
@@ -2045,7 +2018,6 @@
 0.0.0.0 blstg.news
 0.0.0.0 bltn.pro
 0.0.0.0 blueskymap.org
-0.0.0.0 blur.by
 0.0.0.0 blynkn.com
 0.0.0.0 blyto.com
 0.0.0.0 bmai.cc
@@ -2190,7 +2162,6 @@
 0.0.0.0 burl.me
 0.0.0.0 burnurl.com
 0.0.0.0 busan.pro
-0.0.0.0 buu.lat
 0.0.0.0 buufjf.com
 0.0.0.0 buybitcoinsworldwide.com
 0.0.0.0 bvczg.biz
@@ -2243,7 +2214,6 @@
 0.0.0.0 calendrierbdp.info
 0.0.0.0 caliber.help
 0.0.0.0 callhub.io
-0.0.0.0 caluni.online
 0.0.0.0 cam.tips
 0.0.0.0 campaignware.com
 0.0.0.0 can.al
@@ -2251,7 +2221,6 @@
 0.0.0.0 candicegilmerauthor.com
 0.0.0.0 canon.us
 0.0.0.0 canyonstudent.net
-0.0.0.0 caosateoria.com
 0.0.0.0 capdisk.com
 0.0.0.0 capital.one
 0.0.0.0 capitalfm.co
@@ -2268,7 +2237,6 @@
 0.0.0.0 careercrawlerslmv.com
 0.0.0.0 caridomainku.org
 0.0.0.0 carmoov.fr
-0.0.0.0 carnalflicks.online
 0.0.0.0 caro.sl
 0.0.0.0 cart.mn
 0.0.0.0 cartisbikur.com
@@ -2348,8 +2316,6 @@
 0.0.0.0 change-erp.com
 0.0.0.0 changelink.pro
 0.0.0.0 chatg.pt
-0.0.0.0 cheap-bitcoin.online
-0.0.0.0 cheap-stocks.biz
 0.0.0.0 checkbill.biz
 0.0.0.0 chem.sg
 0.0.0.0 cherrykiss.club
@@ -2427,7 +2393,6 @@
 0.0.0.0 cli.gs
 0.0.0.0 cli.re
 0.0.0.0 clic.ae
-0.0.0.0 clic.bio
 0.0.0.0 clica.ai
 0.0.0.0 clica.link
 0.0.0.0 clicai.xyz
@@ -2715,7 +2680,6 @@
 0.0.0.0 cuttify.io
 0.0.0.0 cuttly.io
 0.0.0.0 cuttly.pro
-0.0.0.0 cutto.io
 0.0.0.0 cutts.in
 0.0.0.0 cutturl.xyz
 0.0.0.0 cuturl.com
@@ -2753,7 +2717,6 @@
 0.0.0.0 daa.pl
 0.0.0.0 dafa01.net
 0.0.0.0 dafa07.net
-0.0.0.0 dafire.cloud
 0.0.0.0 daftar.mx
 0.0.0.0 daftar.to
 0.0.0.0 daftarhoki.live
@@ -2876,7 +2839,6 @@
 0.0.0.0 dis.gd
 0.0.0.0 dis.tl
 0.0.0.0 disanspam.life
-0.0.0.0 discount-forex.biz
 0.0.0.0 discvr.co
 0.0.0.0 disini.link
 0.0.0.0 disq.us
@@ -3001,7 +2963,6 @@
 0.0.0.0 dunia.li
 0.0.0.0 duopro.io
 0.0.0.0 durl.in
-0.0.0.0 durl.pw
 0.0.0.0 dus.im
 0.0.0.0 dv.gd
 0.0.0.0 dviel.com
@@ -3041,7 +3002,6 @@
 0.0.0.0 e37.eu
 0.0.0.0 e49.us
 0.0.0.0 e6ui.shop
-0.0.0.0 e7.al
 0.0.0.0 e78installers.com
 0.0.0.0 e9e.ir
 0.0.0.0 earl.sh
@@ -3194,7 +3154,6 @@
 0.0.0.0 esilkroads.com
 0.0.0.0 esl.gg
 0.0.0.0 eslite.me
-0.0.0.0 esms.life
 0.0.0.0 esqr.co
 0.0.0.0 esun.co
 0.0.0.0 esyurl.com
@@ -3360,7 +3319,6 @@
 0.0.0.0 flashylink.com
 0.0.0.0 flattools.com
 0.0.0.0 flbox.com
-0.0.0.0 flexitube.xyz
 0.0.0.0 flexjetcareers.com
 0.0.0.0 flextrig.com
 0.0.0.0 flic.kr
@@ -3509,7 +3467,6 @@
 0.0.0.0 gacor22.me
 0.0.0.0 gacor66.me
 0.0.0.0 gacor99-vip.xyz
-0.0.0.0 gacora.biz
 0.0.0.0 gacorbos.me
 0.0.0.0 gacortangandewa.com
 0.0.0.0 gacortexas.org
@@ -3521,7 +3478,6 @@
 0.0.0.0 gandi.link
 0.0.0.0 gangnam.at
 0.0.0.0 gantic.io
-0.0.0.0 gardenkeeper-management-tools.com
 0.0.0.0 garuda.homes
 0.0.0.0 garudeya.com
 0.0.0.0 garyvee.com
@@ -3578,7 +3534,6 @@
 0.0.0.0 getbio.co
 0.0.0.0 getbiolink.com
 0.0.0.0 getbiolink.me
-0.0.0.0 getbitly.pro
 0.0.0.0 getblue.me
 0.0.0.0 getf.ly
 0.0.0.0 getfinefile.com
@@ -3586,7 +3541,6 @@
 0.0.0.0 getlickd.com
 0.0.0.0 getlink.at
 0.0.0.0 getlink.space
-0.0.0.0 getrecipe.pro
 0.0.0.0 getshort.in
 0.0.0.0 getshorter.com
 0.0.0.0 getsmallurl.com
@@ -3709,10 +3663,8 @@
 0.0.0.0 gomomento.co
 0.0.0.0 gomyly.com
 0.0.0.0 gonature.live
-0.0.0.0 gonephishing.me
 0.0.0.0 goninja.live
 0.0.0.0 goo.by
-0.0.0.0 goo.click
 0.0.0.0 goo.gle
 0.0.0.0 goo.lu
 0.0.0.0 goo.re
@@ -3720,7 +3672,6 @@
 0.0.0.0 goo.vc
 0.0.0.0 goo-gl.me
 0.0.0.0 goo-id.com
-0.0.0.0 goo2.pro
 0.0.0.0 goo2url.com
 0.0.0.0 goodmoejo.art
 0.0.0.0 goodpics.net
@@ -3763,7 +3714,6 @@
 0.0.0.0 govhub.me
 0.0.0.0 gowedia.link
 0.0.0.0 gowes.in
-0.0.0.0 gozepher.com
 0.0.0.0 gpaylink.com
 0.0.0.0 gph.to
 0.0.0.0 gplbaba.com
@@ -3874,7 +3824,6 @@
 0.0.0.0 herff.ly
 0.0.0.0 hex.io
 0.0.0.0 heybit.link
-0.0.0.0 heykamu.com
 0.0.0.0 heylink.me
 0.0.0.0 heylinks.de
 0.0.0.0 heyyyl.ink
@@ -3914,7 +3863,6 @@
 0.0.0.0 hjl.me
 0.0.0.0 hk6vdj4z.click
 0.0.0.0 hko.nu
-0.0.0.0 hkproduction.fr
 0.0.0.0 hl7.me
 0.0.0.0 hlaueriksson.me
 0.0.0.0 hlink.cc
@@ -3977,7 +3925,6 @@
 0.0.0.0 href.in
 0.0.0.0 href.li
 0.0.0.0 href.pw
-0.0.0.0 hrshort.com
 0.0.0.0 hs-uk.co
 0.0.0.0 hsdt.co
 0.0.0.0 hsh.sh
@@ -4082,7 +4029,6 @@
 0.0.0.0 ifwni.com
 0.0.0.0 ige.li
 0.0.0.0 igit.me
-0.0.0.0 igzws.com
 0.0.0.0 iherb.co
 0.0.0.0 ihnpo.com
 0.0.0.0 ihor.se
@@ -4099,7 +4045,6 @@
 0.0.0.0 iiil.io
 0.0.0.0 iioo.ru
 0.0.0.0 iitly.com
-0.0.0.0 iiuo.org
 0.0.0.0 ijaresm.com
 0.0.0.0 ijg.cc
 0.0.0.0 ijn.tl
@@ -4118,10 +4063,8 @@
 0.0.0.0 ilnk.io
 0.0.0.0 ilog.io
 0.0.0.0 ilsl.de
-0.0.0.0 ilyadin.com
 0.0.0.0 imaxl.ink
 0.0.0.0 imdb.to
-0.0.0.0 imgo.cc
 0.0.0.0 imgus.cc
 0.0.0.0 imlcc.link
 0.0.0.0 imo.cx
@@ -4147,7 +4090,6 @@
 0.0.0.0 inf.to
 0.0.0.0 infa.ltd
 0.0.0.0 info.ms
-0.0.0.0 infobaepe.com
 0.0.0.0 infs.site
 0.0.0.0 infy.com
 0.0.0.0 ingatdomainku.org
@@ -4179,7 +4121,6 @@
 0.0.0.0 intags.co
 0.0.0.0 intel.ly
 0.0.0.0 interc.pt
-0.0.0.0 internet-kor.com
 0.0.0.0 interpride.net
 0.0.0.0 intest.ink
 0.0.0.0 intrescom.org
@@ -4316,7 +4257,6 @@
 0.0.0.0 jamp.to
 0.0.0.0 janji.me
 0.0.0.0 janjikita.me
-0.0.0.0 jannikafabian.com
 0.0.0.0 japha.co
 0.0.0.0 jar.ro
 0.0.0.0 jasj.us
@@ -4368,7 +4308,6 @@
 0.0.0.0 jmp.ad
 0.0.0.0 jmp.im
 0.0.0.0 jmp.sh
-0.0.0.0 jmp2.net
 0.0.0.0 jmpto.net
 0.0.0.0 jmvmul.com
 0.0.0.0 jmxxud.com
@@ -4422,7 +4361,6 @@
 0.0.0.0 jz.rs
 0.0.0.0 k-p.li
 0.0.0.0 k-qr.com
-0.0.0.0 k-wifi-rating.com
 0.0.0.0 k2v.pro
 0.0.0.0 k33.bz
 0.0.0.0 k9.ms
@@ -4465,7 +4403,6 @@
 0.0.0.0 keetl.com
 0.0.0.0 kem.lu
 0.0.0.0 keraskale.me
-0.0.0.0 keremozgit.org
 0.0.0.0 ketli.net
 0.0.0.0 keyli.me
 0.0.0.0 kf.org
@@ -4475,7 +4412,6 @@
 0.0.0.0 kg.games
 0.0.0.0 kgs.link
 0.0.0.0 kgs.yt
-0.0.0.0 kgs88.co
 0.0.0.0 kham.tw
 0.0.0.0 khan.co
 0.0.0.0 khtm.ir
@@ -4535,7 +4471,6 @@
 0.0.0.0 klikmodus.buzz
 0.0.0.0 kliks.info
 0.0.0.0 kliksaja.me
-0.0.0.0 kliksaya.co
 0.0.0.0 kliky.co
 0.0.0.0 klinko.io
 0.0.0.0 klmf.ly
@@ -4561,7 +4496,6 @@
 0.0.0.0 kontentino.com
 0.0.0.0 kootah.me
 0.0.0.0 kopo.live
-0.0.0.0 koreanbiolink.com
 0.0.0.0 korek.bio
 0.0.0.0 kornferry.live
 0.0.0.0 kort.ca
@@ -4866,7 +4800,6 @@
 0.0.0.0 linkcutt.com
 0.0.0.0 linkd.in
 0.0.0.0 linkd.nz
-0.0.0.0 linkda.bio
 0.0.0.0 linkdel.bio
 0.0.0.0 linkdly.com
 0.0.0.0 linkdly.me
@@ -5018,7 +4951,6 @@
 0.0.0.0 linkshort.co
 0.0.0.0 linkshort.eu
 0.0.0.0 linkshort.in
-0.0.0.0 linkshort.uk
 0.0.0.0 linkshortener.at
 0.0.0.0 linkshortener.io
 0.0.0.0 linkshortener.net
@@ -5030,13 +4962,10 @@
 0.0.0.0 linkshrink.net
 0.0.0.0 linkshrink.org
 0.0.0.0 linksi.me
-0.0.0.0 linksimple.io
 0.0.0.0 linksimplify.com
 0.0.0.0 linkslave.com
 0.0.0.0 linkslice.io
-0.0.0.0 linkslim.io
 0.0.0.0 linksm.tech
-0.0.0.0 linksminify.com
 0.0.0.0 linksnapro.com
 0.0.0.0 linksnip.me
 0.0.0.0 linksplit.io
@@ -5054,7 +4983,6 @@
 0.0.0.0 linktgd.com
 0.0.0.0 linktgd.net
 0.0.0.0 linkthis.link
-0.0.0.0 linkti.mx
 0.0.0.0 linkto.eu
 0.0.0.0 linktop.site
 0.0.0.0 linktr.ee
@@ -5071,7 +4999,6 @@
 0.0.0.0 linkverkorten.com
 0.0.0.0 linkvertise.com
 0.0.0.0 linkvertise.net
-0.0.0.0 linkvip88.org
 0.0.0.0 linkvp.com
 0.0.0.0 linkvs.com
 0.0.0.0 linkwede.vip
@@ -5116,12 +5043,10 @@
 0.0.0.0 litty.in
 0.0.0.0 littylink.com
 0.0.0.0 liu.es
-0.0.0.0 liurl.cn
 0.0.0.0 livemu.sc
 0.0.0.0 livemybio.com
 0.0.0.0 livesport88.life
 0.0.0.0 lixy.me
-0.0.0.0 liy.ke
 0.0.0.0 ljg.cl
 0.0.0.0 lk1.uk
 0.0.0.0 lkdg.yoga
@@ -5341,10 +5266,6 @@
 0.0.0.0 maejo.link
 0.0.0.0 maga.lu
 0.0.0.0 magatxt.us
-0.0.0.0 magaus.co
-0.0.0.0 magaus.net
-0.0.0.0 magaus.org
-0.0.0.0 magaus.xyz
 0.0.0.0 magnet-mind.com
 0.0.0.0 mah.to
 0.0.0.0 maha77.site
@@ -5364,7 +5285,6 @@
 0.0.0.0 mamm.ie
 0.0.0.0 mampir.link
 0.0.0.0 mangotwo.com
-0.0.0.0 mantapkalee.me
 0.0.0.0 mantaplink.com
 0.0.0.0 many.at
 0.0.0.0 maoruan.club
@@ -5379,14 +5299,12 @@
 0.0.0.0 martshort.com
 0.0.0.0 mas.si
 0.0.0.0 mas.so
-0.0.0.0 masklink.org
 0.0.0.0 masl.to
 0.0.0.0 masterlink.dev
 0.0.0.0 masuk.cfd
 0.0.0.0 masuk.to
 0.0.0.0 masuk-id.info
 0.0.0.0 masy.uk
-0.0.0.0 match-heaven.club
 0.0.0.0 matei.org
 0.0.0.0 mathmayr.com
 0.0.0.0 mattes.live
@@ -5466,8 +5384,6 @@
 0.0.0.0 menang.win
 0.0.0.0 menangbola77.info
 0.0.0.0 menj.info
-0.0.0.0 meowlink.app
-0.0.0.0 meraihcuan.com
 0.0.0.0 mergi.la
 0.0.0.0 merky.de
 0.0.0.0 mero.page
@@ -5536,7 +5452,6 @@
 0.0.0.0 minifyn.com
 0.0.0.0 minifyurl.co
 0.0.0.0 minilien.com
-0.0.0.0 minilink.id
 0.0.0.0 minilink.io
 0.0.0.0 minilink.nl
 0.0.0.0 minilink.pro
@@ -5635,7 +5550,6 @@
 0.0.0.0 mr-link.app
 0.0.0.0 mrfye.org
 0.0.0.0 mrjj.uk
-0.0.0.0 mrlink.in
 0.0.0.0 mrsaeed.com
 0.0.0.0 mrte.ch
 0.0.0.0 mrturl.com
@@ -5811,7 +5725,6 @@
 0.0.0.0 napmkt.com
 0.0.0.0 narilyhukelpfulin.com
 0.0.0.0 narrowurl.com
-0.0.0.0 nashcapernaum.org
 0.0.0.0 nathanaeldan.pro
 0.0.0.0 natsbee.link
 0.0.0.0 nature.ly
@@ -5876,7 +5789,6 @@
 0.0.0.0 nig.gr
 0.0.0.0 nii.ac
 0.0.0.0 nikaurl.com
-0.0.0.0 nils.link
 0.0.0.0 nimbi.net
 0.0.0.0 nimbli.app
 0.0.0.0 nimex.live
@@ -5983,7 +5895,6 @@
 0.0.0.0 o.vg
 0.0.0.0 o-link.top
 0.0.0.0 o-x.fr
-0.0.0.0 o-yes.net
 0.0.0.0 o9.net
 0.0.0.0 oal.lu
 0.0.0.0 obank.tw
@@ -6067,7 +5978,6 @@
 0.0.0.0 onelink.to
 0.0.0.0 onelinkly.com
 0.0.0.0 onelogin.com
-0.0.0.0 onemlibirbilgi.org
 0.0.0.0 onepixel.link
 0.0.0.0 onepl.us
 0.0.0.0 oneshort.link
@@ -6160,7 +6070,6 @@
 0.0.0.0 ow.nl
 0.0.0.0 owl.li
 0.0.0.0 owlti.ng
-0.0.0.0 owly.site
 0.0.0.0 owy.mn
 0.0.0.0 oxelt.gl
 0.0.0.0 oxf.am
@@ -6189,9 +6098,7 @@
 0.0.0.0 padspl.it
 0.0.0.0 pag.la
 0.0.0.0 page.link
-0.0.0.0 page1healthcare.link
 0.0.0.0 pagetie.com
-0.0.0.0 pairedinparadise.live
 0.0.0.0 palpatecricketmajesty.com
 0.0.0.0 pamethelabel.info
 0.0.0.0 panaceainc.co
@@ -6220,7 +6127,6 @@
 0.0.0.0 paths.to
 0.0.0.0 pathslab.com
 0.0.0.0 paut.to
-0.0.0.0 pawl.bio
 0.0.0.0 payfca.com
 0.0.0.0 paymash.io
 0.0.0.0 payskip.org
@@ -6256,14 +6162,12 @@
 0.0.0.0 peerwith.me
 0.0.0.0 pegasurl.com
 0.0.0.0 pego.work
-0.0.0.0 pekcamke.link
 0.0.0.0 pellz.link
 0.0.0.0 pencetdulu.com
 0.0.0.0 penguin88.vip
 0.0.0.0 penjagaudara.com
 0.0.0.0 pens.pe
 0.0.0.0 peoplem.ag
-0.0.0.0 peoplenotpersons.com
 0.0.0.0 peppy.link
 0.0.0.0 peprolinbot.es
 0.0.0.0 pepsi.co
@@ -6297,7 +6201,6 @@
 0.0.0.0 phygo.io
 0.0.0.0 pi.uz
 0.0.0.0 pia.sh
-0.0.0.0 pic.gd
 0.0.0.0 pich.in
 0.0.0.0 picsee.co
 0.0.0.0 picsee.io
@@ -6536,7 +6439,6 @@
 0.0.0.0 qdls.io
 0.0.0.0 qdrop.link
 0.0.0.0 qicute.com
-0.0.0.0 qikli.co
 0.0.0.0 qk.lc
 0.0.0.0 qklink.ca
 0.0.0.0 qkvlk.com
@@ -6627,7 +6529,6 @@
 0.0.0.0 qrtag.fr
 0.0.0.0 qrtli.com
 0.0.0.0 qrto.org
-0.0.0.0 qrump.com
 0.0.0.0 qrurl.cc
 0.0.0.0 qrurl.co
 0.0.0.0 qrurl.us
@@ -6636,7 +6537,6 @@
 0.0.0.0 qrybaan.com
 0.0.0.0 qs1.it
 0.0.0.0 qt.ke
-0.0.0.0 qthq.me
 0.0.0.0 qti.ai
 0.0.0.0 qton.top
 0.0.0.0 qtr.sh
@@ -6672,9 +6572,6 @@
 0.0.0.0 qzr2.com
 0.0.0.0 r.im
 0.0.0.0 r-7.co
-0.0.0.0 r-txt.co
-0.0.0.0 r-txt.com
-0.0.0.0 r-txt.org
 0.0.0.0 r0e.org
 0.0.0.0 r0m.me
 0.0.0.0 r2c.one
@@ -6736,7 +6633,6 @@
 0.0.0.0 rdee.us
 0.0.0.0 rdr.gr
 0.0.0.0 rdrclk.com
-0.0.0.0 rdre.me
 0.0.0.0 rdrt.cc
 0.0.0.0 rds.ovh
 0.0.0.0 rdsaid.com
@@ -6789,7 +6685,6 @@
 0.0.0.0 redu.it
 0.0.0.0 reduced.to
 0.0.0.0 reducelnk.com
-0.0.0.0 redvt.cc
 0.0.0.0 reel.io
 0.0.0.0 reelsdownload.net
 0.0.0.0 ref.gs
@@ -6985,7 +6880,6 @@
 0.0.0.0 s1o.co
 0.0.0.0 s21.us
 0.0.0.0 s223.me
-0.0.0.0 s23.us
 0.0.0.0 s3r.io
 0.0.0.0 s3vip.tw
 0.0.0.0 s3w.net
@@ -6996,7 +6890,6 @@
 0.0.0.0 sa-link.cc
 0.0.0.0 saasmaster.link
 0.0.0.0 sabriabi.net
-0.0.0.0 sactiny.com
 0.0.0.0 sadar.id
 0.0.0.0 saddr.xyz
 0.0.0.0 saerly.com
@@ -7207,7 +7100,6 @@
 0.0.0.0 shlink.in
 0.0.0.0 shlink.io
 0.0.0.0 shlinks.site
-0.0.0.0 shln.io
 0.0.0.0 shln.me
 0.0.0.0 shlom.in
 0.0.0.0 shme.io
@@ -7278,7 +7170,6 @@
 0.0.0.0 shorte.ink
 0.0.0.0 shorte.pro
 0.0.0.0 shorte.st
-0.0.0.0 shortearn.to
 0.0.0.0 shortearner.in
 0.0.0.0 shorteasy.com
 0.0.0.0 shortedge.pro
@@ -7336,7 +7227,6 @@
 0.0.0.0 shortey.net
 0.0.0.0 shortezy.com
 0.0.0.0 shortfake.com
-0.0.0.0 shortfree.link
 0.0.0.0 shortgo.me
 0.0.0.0 shorti.me
 0.0.0.0 shortie.io
@@ -7400,7 +7290,6 @@
 0.0.0.0 shortme.me
 0.0.0.0 shortme.xyz
 0.0.0.0 shortmenu.com
-0.0.0.0 shortmylink.co
 0.0.0.0 shortn.link
 0.0.0.0 shortna.me
 0.0.0.0 shortnd.com
@@ -7440,7 +7329,6 @@
 0.0.0.0 shorturl.az
 0.0.0.0 shorturl.best
 0.0.0.0 shorturl.biz
-0.0.0.0 shorturl.bond
 0.0.0.0 shorturl.click
 0.0.0.0 shorturl.com
 0.0.0.0 shorturl.dev
@@ -7513,15 +7401,12 @@
 0.0.0.0 shrinkme.org
 0.0.0.0 shrinkme.pro
 0.0.0.0 shrinkme.site
-0.0.0.0 shrinkme.space
 0.0.0.0 shrinkme.top
 0.0.0.0 shrinkme.us
 0.0.0.0 shrinkme.vip
-0.0.0.0 shrinkmyurl.com
 0.0.0.0 shrinkr.io
 0.0.0.0 shrinkrl.com
 0.0.0.0 shrinkster.com
-0.0.0.0 shrinkuri.com
 0.0.0.0 shrinkurl.us
 0.0.0.0 shrinky.pro
 0.0.0.0 shrinkz.org
@@ -7725,7 +7610,6 @@
 0.0.0.0 smr.to
 0.0.0.0 sms.bo
 0.0.0.0 sms.club
-0.0.0.0 sms-my.com
 0.0.0.0 smsb.co
 0.0.0.0 smsit.ai
 0.0.0.0 smsng.news
@@ -7757,7 +7641,6 @@
 0.0.0.0 sndn.link
 0.0.0.0 sng.agency
 0.0.0.0 sng.ng
-0.0.0.0 sngkt.in
 0.0.0.0 sni.ps
 0.0.0.0 snifferip.com
 0.0.0.0 snip.im
@@ -8745,6 +8628,7 @@
 0.0.0.0 uos.cc
 0.0.0.0 up.to
 0.0.0.0 updating.me
+0.0.0.0 uplcm.com
 0.0.0.0 upld.in
 0.0.0.0 uplifter.ai
 0.0.0.0 upmchp.us

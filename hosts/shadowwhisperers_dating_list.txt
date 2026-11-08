@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.50
-! Last modified: 2026-11-01T06:20:10.142Z
+! Version: 1.0.15.52
+! Last modified: 2026-11-08T06:19:48.120Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -704,6 +704,7 @@
 0.0.0.0 jwed.com
 0.0.0.0 k8s-proxy-partners-72bc153cb9-d20aaf6ef79966bb.elb.us-east-1.amazonaws.com
 0.0.0.0 k9.co.za
+0.0.0.0 kansasflirt.com
 0.0.0.0 kansas-singles.com
 0.0.0.0 kelrencontre.fr
 0.0.0.0 komonskliek.co.za
@@ -755,10 +756,12 @@
 0.0.0.0 love2knowu.co.za
 0.0.0.0 loveandfriends.com
 0.0.0.0 loveandfriends.co.uk
+0.0.0.0 loveandink.com
 0.0.0.0 loveandseek.biz
 0.0.0.0 loveandseek.com
 0.0.0.0 loveandseek.tv
 0.0.0.0 lovearts.com
+0.0.0.0 loveasians.com
 0.0.0.0 loveawake.com
 0.0.0.0 love.cz
 0.0.0.0 lovedating.be
@@ -1288,6 +1291,7 @@
 0.0.0.0 toplop.com
 0.0.0.0 toprencontres.net
 0.0.0.0 transen-dating.com
+0.0.0.0 transhearts.com
 0.0.0.0 travesti.net
 0.0.0.0 tresor-sexe.com
 0.0.0.0 triocontactos.es

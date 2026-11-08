@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.22.43
-! Last modified: 2026-11-01T06:20:16.499Z
+! Version: 1.0.22.50
+! Last modified: 2026-11-08T06:19:53.670Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 1stireland.com
@@ -27,12 +27,13 @@
 0.0.0.0 afiletoget.click
 0.0.0.0 air-up-turkiye.com
 0.0.0.0 air-upfrance.com
+0.0.0.0 aircgd.shop
 0.0.0.0 airteltower.com
 0.0.0.0 airtoff.com
 0.0.0.0 airup-romania.com
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
-0.0.0.0 aldi-life.vip
+0.0.0.0 akjamv.shop
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 allcars.cn
@@ -88,6 +89,7 @@
 0.0.0.0 binomo.com
 0.0.0.0 binomo.in
 0.0.0.0 binomo.info
+0.0.0.0 binomo.vip
 0.0.0.0 binomo1.com
 0.0.0.0 binomo2.zendesk.com
 0.0.0.0 binomoidr.com
@@ -102,7 +104,6 @@
 0.0.0.0 bitsoft360.io
 0.0.0.0 bitsoft360.net
 0.0.0.0 blackabdo.company.site
-0.0.0.0 blackoutarchertender.com
 0.0.0.0 blsindiavisa.kr
 0.0.0.0 bmpro.tech
 0.0.0.0 bncentertainment.com
@@ -148,6 +149,7 @@
 0.0.0.0 coinaps.com
 0.0.0.0 coinreq.com
 0.0.0.0 colorandcotton.com
+0.0.0.0 com-id16313.info
 0.0.0.0 compoundexotics.com
 0.0.0.0 confira.io
 0.0.0.0 containably.com
@@ -359,6 +361,7 @@
 0.0.0.0 inboxtext.com
 0.0.0.0 india-e-visa.com
 0.0.0.0 india-visa-online.com
+0.0.0.0 india-visa-online.org
 0.0.0.0 india-visas.org
 0.0.0.0 indiae-visa.com
 0.0.0.0 indiaeta.com
@@ -396,7 +399,6 @@
 0.0.0.0 itseasy.com
 0.0.0.0 ivisa.com
 0.0.0.0 j-natural.com
-0.0.0.0 jagkart.com
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 jellystores.com
 0.0.0.0 jne-express.my.id
@@ -452,6 +454,7 @@
 0.0.0.0 luckyhomie.com
 0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
+0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 magnite.shop
 0.0.0.0 mail-cytanet.pages.dev
@@ -463,6 +466,7 @@
 0.0.0.0 meaningift.com
 0.0.0.0 mega-heritage.com
 0.0.0.0 mega-kino.pl
+0.0.0.0 meshcore.co.uk
 0.0.0.0 microngroup.pro
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 microsoft.teams-live.com
@@ -508,6 +512,7 @@
 0.0.0.0 navi24.ru
 0.0.0.0 navi26.ru
 0.0.0.0 navi27.ru
+0.0.0.0 navi28.ru
 0.0.0.0 navi3.com
 0.0.0.0 navi30.com
 0.0.0.0 navi30.ru
@@ -607,9 +612,9 @@
 0.0.0.0 p8ydfra.lvditoys.com
 0.0.0.0 padsims.com
 0.0.0.0 pages.tempisite.com
-0.0.0.0 paintitblackfurniture.com
 0.0.0.0 pandzee.com
 0.0.0.0 paradisevs.com
+0.0.0.0 parcel-fee.info
 0.0.0.0 path2zillion.com
 0.0.0.0 peekpok.com
 0.0.0.0 penguinnow.com
@@ -641,11 +646,13 @@
 0.0.0.0 punchonsol.top
 0.0.0.0 q3i5q2r6.stackpathcdn.com
 0.0.0.0 qq51f.short.gy
+0.0.0.0 qttlpn.shop
 0.0.0.0 quitasueno.com
 0.0.0.0 quotex.com.in
 0.0.0.0 re-captha-version-3-277.buzz
 0.0.0.0 reanimando.org
 0.0.0.0 reforest-iita.org
+0.0.0.0 relaxcsvote.shop
 0.0.0.0 resources4gaming.com
 0.0.0.0 revanced-extended.com
 0.0.0.0 rewardsgiantca.com
@@ -665,6 +672,7 @@
 0.0.0.0 sakuradate.com
 0.0.0.0 salimusic.com
 0.0.0.0 saveeeee.myshopify.com
+0.0.0.0 sberbank.id19845672.info
 0.0.0.0 seagulltee.com
 0.0.0.0 seans24.com.pl
 0.0.0.0 seasonsofficial.com
@@ -691,7 +699,6 @@
 0.0.0.0 singleflirt.com
 0.0.0.0 skincheap.com
 0.0.0.0 skinszone.net
-0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 sligen.com
 0.0.0.0 slimsyrups.ca
@@ -720,7 +727,6 @@
 0.0.0.0 stallioncredit.com
 0.0.0.0 startuplatte.com
 0.0.0.0 steamgateways.com
-0.0.0.0 steampowered.cn.com
 0.0.0.0 steamunlock.com
 0.0.0.0 stellara.de
 0.0.0.0 stingcool-com.myshopify.com
@@ -752,6 +758,7 @@
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 tatatowers.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
@@ -760,6 +767,7 @@
 0.0.0.0 theeaglebrand.company.site
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 theonepercentcommunity.com
+0.0.0.0 theshiny.store
 0.0.0.0 theshirtyouneed.com
 0.0.0.0 thevitic.com
 0.0.0.0 thevitic.onshopbase.com
@@ -784,10 +792,12 @@
 0.0.0.0 tripinpremiumsnacks.com
 0.0.0.0 trivo.uk
 0.0.0.0 trkucibqy.com
+0.0.0.0 tronilnk.com
 0.0.0.0 turtleclient.xyz
 0.0.0.0 twiiiter.com
 0.0.0.0 twinsbio.com
 0.0.0.0 twitterr.com
+0.0.0.0 uange.shop
 0.0.0.0 ucureo.com
 0.0.0.0 udemy-creators.com
 0.0.0.0 udrop.com
@@ -799,7 +809,6 @@
 0.0.0.0 unifully.com
 0.0.0.0 uniswap.host
 0.0.0.0 uniswap.ro
-0.0.0.0 uniswap5.info
 0.0.0.0 uniswapagent.com
 0.0.0.0 uniswapai.xyz
 0.0.0.0 uniswapapp.xyz
@@ -818,7 +827,6 @@
 0.0.0.0 uniswapstaking.xyz
 0.0.0.0 uniswaptoken.xyz
 0.0.0.0 uniswaptrading.xyz
-0.0.0.0 uniswapv4.com
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 upfilm.pl
 0.0.0.0 uplevelreward.com
@@ -888,6 +896,7 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 yasir252.com
 0.0.0.0 yeswevibe.com
+0.0.0.0 yeyvibe.com
 0.0.0.0 ygtube.xyz
 0.0.0.0 yhdshop.com
 0.0.0.0 youdebrid.com
@@ -897,6 +906,7 @@
 0.0.0.0 youutube.com
 0.0.0.0 ytvancedpro.com
 0.0.0.0 yuaonew.com
+0.0.0.0 yyderfreap.shop
 0.0.0.0 z-lib.id
 0.0.0.0 z-lib.is
 0.0.0.0 zalukaj-film.pl
@@ -916,9 +926,9 @@
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 zhongda.info
-0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com
 0.0.0.0 zolrqw.palatlaldate.com
+0.0.0.0 zuozuoshoe.shop
 0.0.0.0 avito.avito.avito.
 0.0.0.0 yandex.avito.sber*
 0.0.0.0 yandex.avito.www.

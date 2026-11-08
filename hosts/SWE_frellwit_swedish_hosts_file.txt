@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.69
-! Last modified: 2026-11-01T06:20:12.478Z
+! Version: 1.0.15.72
+! Last modified: 2026-11-08T06:19:49.519Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -111,6 +111,7 @@
 0.0.0.0 analytics.citreamedia.com
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.codigo.se
+0.0.0.0 analytics.eastblue.se
 0.0.0.0 analytics.elle.se
 0.0.0.0 analytics.equmeniakyrkan.se
 0.0.0.0 analytics.femina.se
@@ -144,7 +145,6 @@
 0.0.0.0 analytics-sdk.yle.fi
 0.0.0.0 analytics-smhise.smhi.se
 0.0.0.0 analytics-wpt.smhi.se
-0.0.0.0 analytics.ci-360.se
 0.0.0.0 angry-golick-2a96e5.netlify.app
 0.0.0.0 annoncer.nichehuset.dk
 0.0.0.0 annons.fiskesnack.com
@@ -234,7 +234,6 @@
 0.0.0.0 c.aaxads.com
 0.0.0.0 c.adsco.re
 0.0.0.0 c.bannerflow.net
-0.0.0.0 c.cintnetworks.com
 0.0.0.0 c.eacla.com
 0.0.0.0 c1.adform.net
 0.0.0.0 cadmus.script.ac
@@ -243,7 +242,6 @@
 0.0.0.0 cargodisplayads.com
 0.0.0.0 carneoam.com
 0.0.0.0 casinotoplists.com
-0.0.0.0 ccjnhnqfnvsr3otokvf59ns52.litix.io
 0.0.0.0 cd.connatix.com
 0.0.0.0 cdn.adapex.io
 0.0.0.0 cdn.adelivery.se
@@ -440,7 +438,6 @@
 0.0.0.0 eas8.emediate.eu
 0.0.0.0 eas9.emediate.eu
 0.0.0.0 easyresearch.se
-0.0.0.0 ecdn.analysis.fi
 0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 edge.atmtd.com
 0.0.0.0 edge.quantserve.com
@@ -672,7 +669,6 @@
 0.0.0.0 otc-cdn.relevant-digital.com
 0.0.0.0 owa.agriprim.se
 0.0.0.0 p.lp4.io
-0.0.0.0 pa.rxthdr.com
 0.0.0.0 panorama.wixapps.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partners.mcontigo.com
@@ -845,6 +841,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.matchads.net
 0.0.0.0 static.step.dk
+0.0.0.0 static.wireboard.io
 0.0.0.0 static.ws.apsis.one
 0.0.0.0 static.zotabox.com
 0.0.0.0 static.ads-twitter.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
-! Version: 1.0.14.65
-! Last modified: 2026-11-01T06:20:06.580Z
+! Version: 1.0.14.66
+! Last modified: 2026-11-08T06:19:43.493Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 potisni.me
 0.0.0.0 allownotification.com
@@ -33,6 +33,7 @@
 0.0.0.0 confirmit.com
 0.0.0.0 conforama-push.com
 0.0.0.0 controlpush.com
+0.0.0.0 css.xcss.me
 0.0.0.0 css.xjsx.lol
 0.0.0.0 digipush.io
 0.0.0.0 dpns-notifications.com
@@ -45,6 +46,7 @@
 0.0.0.0 linker.hr
 0.0.0.0 luravius.com
 0.0.0.0 my-pu.sh
+0.0.0.0 natom.app
 0.0.0.0 neopush.io
 0.0.0.0 news2day.me
 0.0.0.0 notifee-manager.cz
@@ -58,6 +60,7 @@
 0.0.0.0 ntvsw.com
 0.0.0.0 partishion.com
 0.0.0.0 pathlime.com
+0.0.0.0 poosh.wizzo.media
 0.0.0.0 popmechanic.ru
 0.0.0.0 propush.net
 0.0.0.0 pt.appirits.com
@@ -65,6 +68,7 @@
 0.0.0.0 push-engage.com
 0.0.0.0 push-notifications.top
 0.0.0.0 push.asahiinteractive.com
+0.0.0.0 push.brownbrothers.io
 0.0.0.0 push.bytesignal.com
 0.0.0.0 push.daksham.in
 0.0.0.0 push.delivery.ethinking.de
@@ -86,6 +90,7 @@
 0.0.0.0 pushchev.info
 0.0.0.0 pushcrew.com
 0.0.0.0 pushdealer.com
+0.0.0.0 pushdeploy.estrema.it
 0.0.0.0 pushe.co
 0.0.0.0 pusherapp.com
 0.0.0.0 pushinstruments.com
@@ -105,6 +110,7 @@
 0.0.0.0 pushprofit.ru
 0.0.0.0 pushprospush.com
 0.0.0.0 pushpushgo.com
+0.0.0.0 pushsage.com
 0.0.0.0 pushstack.it
 0.0.0.0 pushtide.com
 0.0.0.0 pushvip.ru
@@ -211,6 +217,10 @@
 0.0.0.0 pushme.magellanotech.it
 0.0.0.0 widget.push.forja.ma
 0.0.0.0 sdk.chirpyweb.com
+0.0.0.0 app.notirabbit.com
+0.0.0.0 push.testabcd.top
+0.0.0.0 app.pushaja.com
+0.0.0.0 fontmenice.com
 0.0.0.0 townrdwarfer.com
 0.0.0.0 wstpush-mobile.terra.com
 0.0.0.0 martabackrock.com
@@ -221,7 +231,6 @@
 0.0.0.0 hotbbawese.cc
 0.0.0.0 qepolax.com
 0.0.0.0 tel1mekar.com
-0.0.0.0 d335luupugsy2.cloudfront.net
 0.0.0.0 kuolkoola.com
 0.0.0.0 puhyjyf.com
 0.0.0.0 speraspace.com
