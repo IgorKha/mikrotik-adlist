@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.27
-! Last modified: 2026-11-08T06:20:05.844Z
+! Version: 1.0.17.29
+! Last modified: 2026-11-15T06:19:54.132Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -47,7 +47,6 @@
 0.0.0.0 3trust.com
 0.0.0.0 3utilities.com
 0.0.0.0 404.mn
-0.0.0.0 4cloud.click
 0.0.0.0 4dq.com
 0.0.0.0 4khdcamera.com
 0.0.0.0 4mydomain.com
@@ -104,7 +103,6 @@
 0.0.0.0 australia.ai
 0.0.0.0 authorizeddns.net
 0.0.0.0 authorizeddns.org
-0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
 0.0.0.0 awiki.org
@@ -116,6 +114,7 @@
 0.0.0.0 bagus.org
 0.0.0.0 baikabibai.com
 0.0.0.0 bakli.ru
+0.0.0.0 barbaforte.org
 0.0.0.0 barrel-of-knowledge.info
 0.0.0.0 barrell-of-knowledge.info
 0.0.0.0 baselinux.net
@@ -126,7 +125,6 @@
 0.0.0.0 bgdsupport.com
 0.0.0.0 bhms.com
 0.0.0.0 bigbluezoo.com
-0.0.0.0 bigmoney.biz
 0.0.0.0 bine.me
 0.0.0.0 birdriver.org
 0.0.0.0 biz.st
@@ -138,6 +136,7 @@
 0.0.0.0 blogdns.net
 0.0.0.0 blogdns.org
 0.0.0.0 blogsite.org
+0.0.0.0 blogsite.xyz
 0.0.0.0 blogsyte.com
 0.0.0.0 bloodforthebloodgod.com
 0.0.0.0 bloom.us
@@ -146,6 +145,7 @@
 0.0.0.0 boldlygoingnowhere.org
 0.0.0.0 bot.nu
 0.0.0.0 bounceme.net
+0.0.0.0 bouncers4rent.com
 0.0.0.0 boxathome.net
 0.0.0.0 brajkovic.com
 0.0.0.0 brasilia.me
@@ -215,6 +215,7 @@
 0.0.0.0 compress.to
 0.0.0.0 compuinter.com
 0.0.0.0 computersforpeace.net
+0.0.0.0 compy.ca
 0.0.0.0 con-ip.com
 0.0.0.0 conditsis.com
 0.0.0.0 contepsa.com
@@ -257,7 +258,6 @@
 0.0.0.0 ddnsgeek.com
 0.0.0.0 ddnsguru.com
 0.0.0.0 ddnsking.com
-0.0.0.0 ddnslive.com
 0.0.0.0 ddnss.ch
 0.0.0.0 ddnss.de
 0.0.0.0 ddnss.eu
@@ -427,6 +427,7 @@
 0.0.0.0 dynnamn.ru
 0.0.0.0 dynns.com
 0.0.0.0 dyns.be
+0.0.0.0 dyns.cx
 0.0.0.0 dyns.net
 0.0.0.0 dynserv.org
 0.0.0.0 dynssl.com
@@ -492,6 +493,7 @@
 0.0.0.0 f-parts.net
 0.0.0.0 f3322.net
 0.0.0.0 f3322.org
+0.0.0.0 fagdns.com
 0.0.0.0 fairuse.org
 0.0.0.0 falcongreen.com
 0.0.0.0 fantasyleague.cc
@@ -734,7 +736,6 @@
 0.0.0.0 invitee.net
 0.0.0.0 ionexusa.com
 0.0.0.0 iot64.de
-0.0.0.0 iownyour.biz
 0.0.0.0 iownyour.org
 0.0.0.0 ip-ddns.com
 0.0.0.0 ip-dynamic.com
@@ -866,6 +867,7 @@
 0.0.0.0 kck-saratov.ru
 0.0.0.0 keine-panik.net
 0.0.0.0 kellserve.com
+0.0.0.0 kfco.net
 0.0.0.0 kicks-ass.net
 0.0.0.0 kicks-ass.org
 0.0.0.0 klapa.eu
@@ -1036,7 +1038,6 @@
 0.0.0.0 myz.info
 0.0.0.0 n-e-t.name
 0.0.0.0 n0p.at
-0.0.0.0 n4t.co
 0.0.0.0 nard.ca
 0.0.0.0 nas64.de
 0.0.0.0 nat-ddns.com
@@ -1095,7 +1096,6 @@
 0.0.0.0 ns2.name
 0.0.0.0 ns3.name
 0.0.0.0 nsupdate.info
-0.0.0.0 ntdll.top
 0.0.0.0 nufszone.com
 0.0.0.0 nx.tc
 0.0.0.0 ocry.com
@@ -1328,7 +1328,6 @@
 0.0.0.0 srv64.de
 0.0.0.0 srvdns.de
 0.0.0.0 ssitech.bg
-0.0.0.0 ssl443.org
 0.0.0.0 sslip.io
 0.0.0.0 ssmailer.com
 0.0.0.0 star.is
@@ -1407,6 +1406,7 @@
 0.0.0.0 tvlinux.com
 0.0.0.0 twilightparadox.com
 0.0.0.0 twodns.de
+0.0.0.0 twsuser.com
 0.0.0.0 tzo.com
 0.0.0.0 ucvradio.cl
 0.0.0.0 udp64.de

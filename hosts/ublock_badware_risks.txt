@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.23.27
-! Last modified: 2026-11-08T06:20:05.528Z
+! Version: 1.0.23.33
+! Last modified: 2026-11-15T06:19:53.711Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -280,6 +280,7 @@
 0.0.0.0 projecthygieia.com
 0.0.0.0 iridia.me
 0.0.0.0 nexusmops.com
+0.0.0.0 nexusmcds.com
 0.0.0.0 atnpx.com
 0.0.0.0 webpushcloud.top
 0.0.0.0 koitushinterneinnehmen.s3.eu-central-1.amazonaws.com
@@ -2324,6 +2325,10 @@
 0.0.0.0 uirolader.top
 0.0.0.0 yolopander.top
 0.0.0.0 pentomorinexolentokarodarimexotavo.digital
+0.0.0.0 browse-cloud.codes
+0.0.0.0 encodelp.com
+0.0.0.0 securedoc.*.workers.dev
+0.0.0.0 microsoft-winupdate.com
 0.0.0.0 cracksway.com
 0.0.0.0 gamingdebates.com
 0.0.0.0 bonzi.link
@@ -2985,8 +2990,6 @@
 0.0.0.0 e-interac-*.com
 0.0.0.0 press-continue.*.top
 0.0.0.0 evri.*.xyz
-0.0.0.0 sharedrop.io
-0.0.0.0 snapdrop.net
 0.0.0.0 usadeepseek.com
 0.0.0.0 deepseek.app
 0.0.0.0 deepseekk.com.cn
@@ -3402,6 +3405,7 @@
 0.0.0.0 imtolenplex.com
 0.0.0.0 immanitys.com
 0.0.0.0 tagesschau.tech
+0.0.0.0 gmai.com
 0.0.0.0 shuru-baidu.com.cn
 0.0.0.0 lumennix.xyz
 0.0.0.0 omgexplolts.com
@@ -3512,6 +3516,7 @@
 0.0.0.0 aw-huorong.com.cn
 0.0.0.0 flingtrainer.io
 0.0.0.0 koboldcpp.com
+0.0.0.0 koboldcpp.cc
 0.0.0.0 bringmeday.icu
 0.0.0.0 bringmelove.icu
 0.0.0.0 timbuk2.com.de
@@ -3535,3 +3540,7 @@
 0.0.0.0 ludashisafe.com
 0.0.0.0 gtagrok.com
 0.0.0.0 pondmart.shop
+0.0.0.0 4kwallpapers.top
+0.0.0.0 pcsofts.site
+0.0.0.0 gover.top
+0.0.0.0 sumatrapdf.org

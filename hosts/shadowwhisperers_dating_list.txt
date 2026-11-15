@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.52
-! Last modified: 2026-11-08T06:19:48.120Z
+! Version: 1.0.15.55
+! Last modified: 2026-11-15T06:19:36.249Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -167,6 +167,7 @@
 0.0.0.0 boo-dating-prod.firebaseapp.com
 0.0.0.0 bookofmatches.com
 0.0.0.0 boo.world
+0.0.0.0 boydategirl.com
 0.0.0.0 brazil-bbw.com
 0.0.0.0 brazilcupid.com
 0.0.0.0 bride.ru
@@ -516,6 +517,7 @@
 0.0.0.0 entremetteurs.com
 0.0.0.0 epolishwife.com
 0.0.0.0 erwinsdate.de
+0.0.0.0 esdating.com
 0.0.0.0 espace-live.com
 0.0.0.0 eterocuriosi.it
 0.0.0.0 europeandatingagency.com
@@ -645,6 +647,7 @@
 0.0.0.0 iltuoamore.it
 0.0.0.0 ima-dating.com
 0.0.0.0 images.prod.boo.dating
+0.0.0.0 imnoviplay.com
 0.0.0.0 incontramilf.com
 0.0.0.0 incontriadult.communityincontri.com
 0.0.0.0 incontri-adulti.it
@@ -706,7 +709,9 @@
 0.0.0.0 k9.co.za
 0.0.0.0 kansasflirt.com
 0.0.0.0 kansas-singles.com
+0.0.0.0 kazudate.com
 0.0.0.0 kelrencontre.fr
+0.0.0.0 kismetweb.com
 0.0.0.0 komonskliek.co.za
 0.0.0.0 koreancupid.com
 0.0.0.0 kroow.com
@@ -753,6 +758,7 @@
 0.0.0.0 loquovipgay.com
 0.0.0.0 lottoie.com
 0.0.0.0 lovagency.com
+0.0.0.0 lovdates.com
 0.0.0.0 love2knowu.co.za
 0.0.0.0 loveandfriends.com
 0.0.0.0 loveandfriends.co.uk
@@ -770,10 +776,13 @@
 0.0.0.0 lovelife.ca
 0.0.0.0 lovely.co.il
 0.0.0.0 lovemage.com
+0.0.0.0 love-match.net
 0.0.0.0 loveme.com
+0.0.0.0 lovemedates.com
 0.0.0.0 loveplace.ch
 0.0.0.0 loveplanet.ru
 0.0.0.0 lover2cu.com
+0.0.0.0 loves2meet.com
 0.0.0.0 lovespiritually.com
 0.0.0.0 lovestruck.com
 0.0.0.0 lovetest.com
@@ -931,6 +940,7 @@
 0.0.0.0 perfect10dating.com
 0.0.0.0 perfectdates.com.au
 0.0.0.0 perfectmatch.com
+0.0.0.0 personalads.cc
 0.0.0.0 petdatingplanet.com
 0.0.0.0 petloversdatelink.com
 0.0.0.0 petpeoplemeet.com
@@ -1116,6 +1126,7 @@
 0.0.0.0 russian-enigma.com
 0.0.0.0 russischefrauen.ch
 0.0.0.0 russ-love.com
+0.0.0.0 rus-woman.com
 0.0.0.0 sareuniteddating.com
 0.0.0.0 saucydates.com
 0.0.0.0 scambiocoppie.org
@@ -1252,6 +1263,7 @@
 0.0.0.0 teamo.ru
 0.0.0.0 teendatingplanet.com
 0.0.0.0 teendatingsite.net
+0.0.0.0 temptationfinder.com
 0.0.0.0 tennesseeflirt.com
 0.0.0.0 tennisdating.org
 0.0.0.0 textdatingservice.com
@@ -1263,11 +1275,14 @@
 0.0.0.0 thedataagency.com
 0.0.0.0 thedatingjudge.com
 0.0.0.0 thedatingnetwork.com
+0.0.0.0 thelocalmatches.com
 0.0.0.0 thematchmakerofmaine.com
 0.0.0.0 thematureconnection.com
 0.0.0.0 thepeggingclub.com
 0.0.0.0 thepeggingclub.us
 0.0.0.0 thepickuppros.com
+0.0.0.0 thepure.app
+0.0.0.0 thepure.team
 0.0.0.0 thethreesomeconnection.com
 0.0.0.0 thirtyflirty.co.uk
 0.0.0.0 threesomeconnection.com
@@ -1297,6 +1312,7 @@
 0.0.0.0 triocontactos.es
 0.0.0.0 trioespana.com
 0.0.0.0 trudating.com
+0.0.0.0 trueheartmeet.com
 0.0.0.0 tsdate.com
 0.0.0.0 tsdates.com
 0.0.0.0 tsdating.com

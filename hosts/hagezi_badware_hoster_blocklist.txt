@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.21.42
-! Last modified: 2026-11-08T06:20:05.951Z
+! Version: 1.0.21.52
+! Last modified: 2026-11-15T06:19:54.293Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 ipfs.best-practice.se
@@ -8,7 +8,6 @@
 0.0.0.0 123freehost.co.uk
 0.0.0.0 24.co.at
 0.0.0.0 all.co.uk
-0.0.0.0 dothome.co.kr
 0.0.0.0 surfblocked.co.cc
 0.0.0.0 thamboli.co.za
 0.0.0.0 cableonline.com.mx
@@ -35,18 +34,14 @@
 0.0.0.0 url.usacomment.com
 0.0.0.0 h4g3z1-hoster.web.app
 0.0.0.0 mobile.web.tr
-0.0.0.0 awi.za.com
 0.0.0.0 ishg.za.com
 0.0.0.0 000.pe
 0.0.0.0 000a.de
 0.0.0.0 000free.us
 0.0.0.0 000webapp.com
 0.0.0.0 000webhost.com
-0.0.0.0 000webhost.fr
 0.0.0.0 000webhost.info
 0.0.0.0 000webhostapp.com
-0.0.0.0 000webhotapp.com
-0.0.0.0 000worldwide.com
 0.0.0.0 00author.com
 0.0.0.0 00go.com
 0.0.0.0 00it.com
@@ -64,7 +59,6 @@
 0.0.0.0 10001mb.com
 0.0.0.0 10gbfreehost.com
 0.0.0.0 10h.us
-0.0.0.0 110.vg
 0.0.0.0 114.at
 0.0.0.0 115.at
 0.0.0.0 12n.de
@@ -144,6 +138,7 @@
 0.0.0.0 9k.com
 0.0.0.0 a.gp
 0.0.0.0 a-loch.de
+0.0.0.0 a0001.net
 0.0.0.0 a3n.de
 0.0.0.0 aa6.de
 0.0.0.0 aa8.de
@@ -212,7 +207,6 @@
 0.0.0.0 bakoweb.com
 0.0.0.0 ballern.de
 0.0.0.0 bayfiles.com
-0.0.0.0 bb.vg
 0.0.0.0 be.gp
 0.0.0.0 beget.tech
 0.0.0.0 begins.de
@@ -244,7 +238,6 @@
 0.0.0.0 builderall.net
 0.0.0.0 builtfree.org
 0.0.0.0 bulkurlshortener.com
-0.0.0.0 business-minagne.com
 0.0.0.0 bx5.de
 0.0.0.0 byethost11.com
 0.0.0.0 byethost13.com
@@ -431,7 +424,6 @@
 0.0.0.0 fastshare.org
 0.0.0.0 fat-fly.com
 0.0.0.0 ferreracademy.com
-0.0.0.0 file.io
 0.0.0.0 fileave.com
 0.0.0.0 filebin.net
 0.0.0.0 filecache.de
@@ -444,7 +436,6 @@
 0.0.0.0 financial-offer.com
 0.0.0.0 firm.nu
 0.0.0.0 flazio.com
-0.0.0.0 fleek.cool
 0.0.0.0 flf.li
 0.0.0.0 fli.so
 0.0.0.0 flirten.info
@@ -517,7 +508,6 @@
 0.0.0.0 gt.tc
 0.0.0.0 guest.de
 0.0.0.0 guide.lc
-0.0.0.0 guzhibo.cn
 0.0.0.0 h.gp
 0.0.0.0 han.gl
 0.0.0.0 hanefra7bikiemta.com
@@ -560,6 +550,7 @@
 0.0.0.0 ilink-to.net
 0.0.0.0 im-internet.eu
 0.0.0.0 imagengratis.org
+0.0.0.0 imageurlhost.com
 0.0.0.0 in.gp
 0.0.0.0 in.run
 0.0.0.0 in24.de
@@ -607,7 +598,6 @@
 0.0.0.0 ja.cat
 0.0.0.0 janhost.com
 0.0.0.0 jcmemoryscan.com
-0.0.0.0 jimdofree.com
 0.0.0.0 jixx.de
 0.0.0.0 jixx.net
 0.0.0.0 job.ec
@@ -643,6 +633,7 @@
 0.0.0.0 lhosting.info
 0.0.0.0 lhr.life
 0.0.0.0 liebe.lc
+0.0.0.0 liftmyresume.com
 0.0.0.0 lihi1.com
 0.0.0.0 lihi3.cc
 0.0.0.0 likesyou.org
@@ -668,7 +659,6 @@
 0.0.0.0 lovelocals.us
 0.0.0.0 loveslife.biz
 0.0.0.0 lovestoblog.com
-0.0.0.0 lowrihouston.pro
 0.0.0.0 lu.kg
 0.0.0.0 luzzati.com
 0.0.0.0 lyli.fi
@@ -715,7 +705,6 @@
 0.0.0.0 myblogvoice.com
 0.0.0.0 mybluehost.me
 0.0.0.0 mybluehostin.me
-0.0.0.0 myclickfunnels.com
 0.0.0.0 mycpanel.rs
 0.0.0.0 mydiscussion.net
 0.0.0.0 myeweb.net
@@ -724,7 +713,6 @@
 0.0.0.0 myftpupload.com
 0.0.0.0 myfunnelish.com
 0.0.0.0 mylinkinb.io
-0.0.0.0 myportfolio.com
 0.0.0.0 mypressonline.com
 0.0.0.0 mystrikingly.com
 0.0.0.0 mytempdir.com
@@ -733,7 +721,6 @@
 0.0.0.0 n-e.kr
 0.0.0.0 name.ac
 0.0.0.0 name.vg
-0.0.0.0 nathanaeldan.pro
 0.0.0.0 netfast.org
 0.0.0.0 nethouse.ru
 0.0.0.0 netten.ru
@@ -779,6 +766,7 @@
 0.0.0.0 only4u.eu
 0.0.0.0 onmbl.com
 0.0.0.0 opent2.com
+0.0.0.0 opisial.com
 0.0.0.0 orgfree.com
 0.0.0.0 orgsites.com
 0.0.0.0 own-free-website.com
@@ -799,15 +787,14 @@
 0.0.0.0 photos.lc
 0.0.0.0 picvalley.net
 0.0.0.0 pixelt.de
-0.0.0.0 pizzakeep.shop
 0.0.0.0 pk.gp
 0.0.0.0 pktriot.net
 0.0.0.0 pl.de
 0.0.0.0 pl.gp
 0.0.0.0 planet.tl
+0.0.0.0 plasmic.run
 0.0.0.0 plu.sh
 0.0.0.0 portal.lc
-0.0.0.0 pory.app
 0.0.0.0 pp.ua
 0.0.0.0 preview-domain.com
 0.0.0.0 primetap.com
@@ -902,10 +889,10 @@
 0.0.0.0 smsu.io
 0.0.0.0 social-networking.me
 0.0.0.0 socialsmp.com
-0.0.0.0 softr.app
 0.0.0.0 solidwebhost.com
 0.0.0.0 somee.com
 0.0.0.0 space.lc
+0.0.0.0 spaceplay.top
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
 0.0.0.0 spruz.com
@@ -973,6 +960,7 @@
 0.0.0.0 u.gp
 0.0.0.0 ua.gp
 0.0.0.0 ubpages.com
+0.0.0.0 ucoz.com
 0.0.0.0 ucoz.ru
 0.0.0.0 ueuo.com
 0.0.0.0 ugu.pl
@@ -1052,7 +1040,6 @@
 0.0.0.0 webpages.one
 0.0.0.0 webservis.ru
 0.0.0.0 website.at
-0.0.0.0 website-home.ws
 0.0.0.0 webspawner.com
 0.0.0.0 webstarterz.com
 0.0.0.0 webwave.dev

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
-! Version: 1.0.15.14
-! Last modified: 2026-11-08T06:19:49.204Z
+! Version: 1.0.15.25
+! Last modified: 2026-11-15T06:19:38.104Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0daib.pl
 0.0.0.0 0x01n2ptpuz3.com
@@ -347,3 +347,32 @@
 0.0.0.0 ot.io.mi.com
 0.0.0.0 landingpagenebulamaster.com
 0.0.0.0 flffetre.net
+0.0.0.0 stg.oil.coolaspen.tech
+0.0.0.0 stg.tool.snowdahlia.pro
+0.0.0.0 stg.perp.cheerfulridge.com
+0.0.0.0 stg.yin.bamboolake.pro
+0.0.0.0 stg.deer.calmjacket.com
+0.0.0.0 stg.bog.lovingflag.com
+0.0.0.0 stg.silk.caringyarn.pro
+0.0.0.0 stg.coal.curiousbirch.mobi
+0.0.0.0 stg.luck.parrotforest.biz
+0.0.0.0 stg.lox.naturalotter.info
+0.0.0.0 stg.jump.irisrainstorm.com
+0.0.0.0 stg.jazz.cricketleaf.com
+0.0.0.0 stg.dead.woodsunset.com
+0.0.0.0 stg.curl.mooseviolet.com
+0.0.0.0 stg.lava.joyouschalk.com
+0.0.0.0 stg.seal.excellentrobin.com
+0.0.0.0 stg.luck.helpfulavenue.com
+0.0.0.0 stg.tool.festivehorse.com
+0.0.0.0 stg.drug.cleverbasin.com
+0.0.0.0 stg.gym.bonsaidahlia.com
+0.0.0.0 stg.dash.vividbucket.com
+0.0.0.0 stg.noon.fernzenith.com
+0.0.0.0 stg.fat.caringcoyote.com
+0.0.0.0 stg.tuba.thankfulscarf.com
+0.0.0.0 stg.case.coolbonsai.com
+0.0.0.0 stg.fold.pinesandsoup.com
+0.0.0.0 stg.lid.loftilywhup.com
+0.0.0.0 stg.gown.wootwhenonly.com
+0.0.0.0 stg.rust.roundoddeven.com
