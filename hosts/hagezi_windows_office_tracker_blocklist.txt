@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
-! Version: 1.0.1.37
-! Last modified: 2026-11-08T06:19:48.393Z
+! Version: 1.0.1.38
+! Last modified: 2026-11-15T06:19:36.717Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
@@ -40,11 +40,11 @@
 0.0.0.0 raka.bing.com
 0.0.0.0 c.bingapis.com
 0.0.0.0 measure.office.net.edgesuite.net
-0.0.0.0 collector.azure.eaglex.ic.gov
 0.0.0.0 auc-visio-telemetry.officeapps.live.com
 0.0.0.0 brc-visio-telemetry.officeapps.live.com
 0.0.0.0 cac-visio-telemetry.officeapps.live.com
 0.0.0.0 dec-visio-telemetry.officeapps.live.com
+0.0.0.0 esc-visio-telemetry.officeapps.live.com
 0.0.0.0 euc-excel-telemetry.officeapps.live.com
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
 0.0.0.0 euc-powerpoint-telemetry.officeapps.live.com
@@ -57,12 +57,12 @@
 0.0.0.0 excel-telemetry.officeapps.live.com
 0.0.0.0 ffc-excel-telemetry.officeapps.live.com
 0.0.0.0 ffc-word-telemetry.officeapps.live.com
-0.0.0.0 fgteu1-word-telemetry-vip.officeapps.live.com
 0.0.0.0 frc-visio-telemetry.officeapps.live.com
 0.0.0.0 inc-visio-telemetry.officeapps.live.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 noc-visio-telemetry.officeapps.live.com
+0.0.0.0 pgtbr1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtbr2-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
@@ -75,7 +75,10 @@
 0.0.0.0 pgteu3-word-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu4-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu4-word-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu5-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu5-word-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -107,6 +110,12 @@
 0.0.0.0 tgtus1-word-telemetry-vip.officeapps.live.com
 0.0.0.0 ukc-onenote-telemetry.officeapps.live.com
 0.0.0.0 ukc-visio-telemetry.officeapps.live.com
+0.0.0.0 us1-excel-telemetry.officeapps.live.com
+0.0.0.0 us1-powerpoint-telemetry.officeapps.live.com
+0.0.0.0 us1-word-telemetry.officeapps.live.com
+0.0.0.0 us4-excel-telemetry.officeapps.live.com
+0.0.0.0 us5-word-telemetry.officeapps.live.com
+0.0.0.0 us6-excel-telemetry.officeapps.live.com
 0.0.0.0 usc-onenote-telemetry.officeapps.live.com
 0.0.0.0 usc-visio-telemetry.officeapps.live.com
 0.0.0.0 visio-telemetry.officeapps.live.com
@@ -134,6 +143,7 @@
 0.0.0.0 track.mp.microsoft.com
 0.0.0.0 inputsuggestions.msdxcdn.microsoft.com
 0.0.0.0 watson.officeint.microsoft.com
+0.0.0.0 analytics.pstnhub.microsoft.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 telem-edge.smartscreen.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
@@ -141,6 +151,24 @@
 0.0.0.0 telemetry.visualstudio.microsoft.com
 0.0.0.0 statsfe1.ws.microsoft.com
 0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 rddiagnostics-g-apac-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-au-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-br-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-ca-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-ch-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-de-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-es-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-eu-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-fr-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-gb-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-il-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-in-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-jp-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-kr-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-mx-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-no-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-sa-r1.wvd.microsoft.com
+0.0.0.0 rddiagnostics-g-us-r0.wvd.microsoft.com
 0.0.0.0 ads.microsoft.com
 0.0.0.0 adsdk.microsoft.com
 0.0.0.0 advertising.microsoft.com
@@ -225,7 +253,6 @@
 0.0.0.0 c.ph.msn.com
 0.0.0.0 c.prodigy.msn.com
 0.0.0.0 c.pt.msn.com
-0.0.0.0 bat.r.msn.com
 0.0.0.0 c.ru.msn.com
 0.0.0.0 c.se.msn.com
 0.0.0.0 c.sg.msn.com
@@ -235,20 +262,24 @@
 0.0.0.0 c.uk.msn.com
 0.0.0.0 c.za.msn.com
 0.0.0.0 ac2.msn.com
+0.0.0.0 ac3.msn.com
 0.0.0.0 ad.msn.com
 0.0.0.0 adevents.msn.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads1.msn.com
+0.0.0.0 ads2.msn.com
+0.0.0.0 adsyndication.msn.com
+0.0.0.0 analytics.msn.com
 0.0.0.0 arc.msn.com
 0.0.0.0 arc-emea.msn.com
 0.0.0.0 arc1.msn.com
 0.0.0.0 arc2.msn.com
 0.0.0.0 arc3.msn.com
 0.0.0.0 arc9.msn.com
-0.0.0.0 arctb53wmig1gagbqjqgolj2ig.msn.com
 0.0.0.0 confiant.msn.com
 0.0.0.0 flex.msn.com
 0.0.0.0 g00.msn.com
+0.0.0.0 h.msn.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h2.msn.com
 0.0.0.0 h6.msn.com
@@ -256,6 +287,7 @@
 0.0.0.0 mobileleads.msn.com
 0.0.0.0 popup.msn.com
 0.0.0.0 preview.msn.com
+0.0.0.0 r.msn.com
 0.0.0.0 rads.msn.com
 0.0.0.0 rel.msn.com
 0.0.0.0 rmads.msn.com
@@ -265,6 +297,7 @@
 0.0.0.0 toolbar.msn.com
 0.0.0.0 udc.msn.com
 0.0.0.0 zmetrics.msn.com
+0.0.0.0 adsyndication.msn.com.nsatc.net
 0.0.0.0 diagnostics.office.com
 0.0.0.0 diagnostics-eudb.office.com
 0.0.0.0 measure.office.com
@@ -303,7 +336,9 @@
 0.0.0.0 ir-tracking.trafficmanager.net
 0.0.0.0 irreverselookuptm.trafficmanager.net
 0.0.0.0 ism-telemetry.trafficmanager.net
+0.0.0.0 keyniusprod-events.trafficmanager.net
 0.0.0.0 legacywatson.trafficmanager.net
+0.0.0.0 o365diagtelemetry.trafficmanager.net
 0.0.0.0 office-events-data.trafficmanager.net
 0.0.0.0 oms-analytics.trafficmanager.net
 0.0.0.0 partnerfraudevents.trafficmanager.net
@@ -315,6 +350,7 @@
 0.0.0.0 telemetry-lcp.trafficmanager.net
 0.0.0.0 tm-analytics-pr.trafficmanager.net
 0.0.0.0 tm-enrollment-telemetry-datacore.trafficmanager.net
+0.0.0.0 us-mesh-events-data-leafs.trafficmanager.net
 0.0.0.0 vstelemetry.trafficmanager.net
 0.0.0.0 watsoncab.trafficmanager.net
 0.0.0.0 win-global-asimov-leafs-events-data.trafficmanager.net
@@ -331,7 +367,6 @@
 0.0.0.0 analytics-dev-simpad-events.servicebus.windows.net
 0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticsiot-prod-mobileapps-ehn.servicebus.windows.net
-0.0.0.0 audiobible-production-analytics-eh.servicebus.windows.net
 0.0.0.0 citrixanalyticseh.servicebus.windows.net
 0.0.0.0 citrixanalyticseh-alias.servicebus.windows.net
 0.0.0.0 citrixanalyticseh2.servicebus.windows.net
@@ -346,8 +381,6 @@
 0.0.0.0 citrixtelemetryeh-alias.servicebus.windows.net
 0.0.0.0 citrixtelemetryeheu.servicebus.windows.net
 0.0.0.0 citrixtelemetryeheu-alias.servicebus.windows.net
-0.0.0.0 ehtelemetrystaging.servicebus.windows.net
-0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 hme-uat-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 kg-legacy-analytics.servicebus.windows.net
 0.0.0.0 licensingtelemetry-prod.servicebus.windows.net

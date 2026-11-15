@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.18.17
-! Last modified: 2026-11-08T06:19:31.757Z
+! Version: 1.0.18.22
+! Last modified: 2026-11-15T06:19:20.240Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -66,6 +66,7 @@
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 abtasty.com
+0.0.0.0 abu.usaday.biz
 0.0.0.0 ac.rnm.ca
 0.0.0.0 accountsdoor.com
 0.0.0.0 acebunny.com
@@ -661,7 +662,6 @@
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
 0.0.0.0 adserver.omroepzeeland.nl
-0.0.0.0 adserver.otthonom.hu
 0.0.0.0 adserver.pampa.com.br
 0.0.0.0 adserver.piksel.mk
 0.0.0.0 adserver.pl
@@ -996,7 +996,6 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.czi.cz
@@ -1316,6 +1315,7 @@
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cnvlink.com
 0.0.0.0 cny.yoyo.org
+0.0.0.0 coalmerchants.com
 0.0.0.0 code.etracker.com
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
@@ -1442,6 +1442,7 @@
 0.0.0.0 damdoor.com
 0.0.0.0 dapper.net
 0.0.0.0 darngavel.com
+0.0.0.0 dash.kryon.one
 0.0.0.0 data.hailuo.ai
 0.0.0.0 datapickles.com
 0.0.0.0 datenow.link
@@ -1698,7 +1699,6 @@
 0.0.0.0 freepay.com
 0.0.0.0 freestats.com
 0.0.0.0 freestats.tv
-0.0.0.0 freewebcounter.com
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
 0.0.0.0 freezingbuilding.com
@@ -2020,11 +2020,13 @@
 0.0.0.0 largebrass.com
 0.0.0.0 laughcloth.com
 0.0.0.0 launchbit.com
+0.0.0.0 layer-ad.de
 0.0.0.0 layer-ads.de
 0.0.0.0 lazybumblebee.com
 0.0.0.0 lbn.ru
 0.0.0.0 lead02.com
 0.0.0.0 leadboltads.net
+0.0.0.0 leadclick.com
 0.0.0.0 leadinfo.net
 0.0.0.0 leadingedgecash.com
 0.0.0.0 leadplace.fr
@@ -2075,9 +2077,9 @@
 0.0.0.0 linkprice.com
 0.0.0.0 linkrain.com
 0.0.0.0 linkreferral.com
+0.0.0.0 links-ranking.de
 0.0.0.0 links.email.crunchbase.com
 0.0.0.0 links.housekeep.com
-0.0.0.0 links.prosservice.fr
 0.0.0.0 links.zoopla.co.uk
 0.0.0.0 linksoutside.com
 0.0.0.0 linkstable.com
@@ -2086,6 +2088,7 @@
 0.0.0.0 linksynergy.com
 0.0.0.0 linktarget.com
 0.0.0.0 linkvertise.com
+0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 litix.io
 0.0.0.0 live.trmzum.com
 0.0.0.0 liveadexchanger.com
@@ -2386,6 +2389,7 @@
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
 0.0.0.0 offers.gateway-lts450.com
+0.0.0.0 offers.ltsc-has.com
 0.0.0.0 offshoregeology.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 oglasi.posjetnica.com
@@ -2781,7 +2785,6 @@
 0.0.0.0 rtbadzesto.com
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbplatform.net
-0.0.0.0 rtbpop.com
 0.0.0.0 rtmark.net
 0.0.0.0 rtxplatform.com
 0.0.0.0 ru4.com
@@ -2794,6 +2797,7 @@
 0.0.0.0 rundsp.com
 0.0.0.0 ruralrobin.com
 0.0.0.0 s.adroll.com
+0.0.0.0 s.appreports.net
 0.0.0.0 s.dmmew.com
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 s20dh7e9dh.com
@@ -2945,6 +2949,7 @@
 0.0.0.0 sparklingshelf.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 speakol.com
+0.0.0.0 speciesjewelry.com
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificpop.com
 0.0.0.0 speedomizer.com
@@ -3484,7 +3489,6 @@
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwpromoter.com
-0.0.0.0 x-traceur.com
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 xad.com
 0.0.0.0 xapads.com

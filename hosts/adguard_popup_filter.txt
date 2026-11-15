@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.84
-! Last modified: 2026-11-08T06:19:37.174Z
+! Version: 1.0.18.86
+! Last modified: 2026-11-15T06:19:25.734Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 insightjs.com
 0.0.0.0 insightjs.org
@@ -399,7 +399,6 @@
 0.0.0.0 fastdntrk.com
 0.0.0.0 finanvideos.com
 0.0.0.0 flyingadvert.com
-0.0.0.0 foerpo.com
 0.0.0.0 foflf.com
 0.0.0.0 forgetnet.xyz
 0.0.0.0 foruftuiov.com
@@ -439,10 +438,8 @@
 0.0.0.0 hiiona.com
 0.0.0.0 hilltopads.net
 0.0.0.0 hnrgmc.com
-0.0.0.0 hoktrips.com
 0.0.0.0 hooligs.app
 0.0.0.0 hooliredir.com
-0.0.0.0 horonstogly.com
 0.0.0.0 hoveltran.xyz
 0.0.0.0 hubrisone.com
 0.0.0.0 hugeedate.com
@@ -530,7 +527,6 @@
 0.0.0.0 myafriend.com
 0.0.0.0 mylot.com
 0.0.0.0 mynutraresearch.com
-0.0.0.0 mytdsnet.com
 0.0.0.0 n91hg.com
 0.0.0.0 nan0cns.com
 0.0.0.0 navigatingnautical.xyz
@@ -550,7 +546,6 @@
 0.0.0.0 nwwrtbbit.com
 0.0.0.0 nxt-psh.com
 0.0.0.0 obtaintrout.com
-0.0.0.0 offergate-ecommerce-cdn5.com
 0.0.0.0 offergate-software11.com
 0.0.0.0 offergate-software20.com
 0.0.0.0 offergate-software6.com
@@ -694,6 +689,7 @@
 0.0.0.0 superfasti.co
 0.0.0.0 sxlflt.com
 0.0.0.0 synccora.com
+0.0.0.0 t.coretrck.uno
 0.0.0.0 targeta41.net
 0.0.0.0 targetmatch.co
 0.0.0.0 tatrck.com

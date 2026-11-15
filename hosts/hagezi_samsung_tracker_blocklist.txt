@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
-! Version: 1.0.0.53
-! Last modified: 2026-11-08T06:19:48.302Z
+! Version: 1.0.0.54
+! Last modified: 2026-11-15T06:19:36.556Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -148,10 +148,10 @@
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics-stg.samsungknox.com
-0.0.0.0 api-analytics.samsungknox.com
 0.0.0.0 api-analytics-qa.samsungknox.com
 0.0.0.0 b2banalytics.samsungknox.com
 0.0.0.0 nmetrics.samsungmobile.com
+0.0.0.0 gld.samsungosp.com
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 osb-krsvc.samsungqbe.com
