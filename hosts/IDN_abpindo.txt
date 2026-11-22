@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
-! Version: 1.0.14.96
-! Last modified: 2026-11-15T06:19:39.974Z
+! Version: 1.0.14.99
+! Last modified: 2026-11-22T06:20:05.427Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 accesstrade.co.id
 0.0.0.0 ad-loupe.com
@@ -16,7 +16,6 @@
 0.0.0.0 adslop.com
 0.0.0.0 adstarsmedia.co.id
 0.0.0.0 ampclicks.com
-0.0.0.0 bellaads.com
 0.0.0.0 berangkasilmu.com
 0.0.0.0 cdnasiaclub.com
 0.0.0.0 cfs.uzone.id
@@ -83,22 +82,26 @@
 0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 ads.mssb.cloud
 0.0.0.0 afbcashidr.com
+0.0.0.0 aurum.tirto.id
 0.0.0.0 bondeddarkenedswerve.com
 0.0.0.0 brand.ad
 0.0.0.0 dairouzy.net
+0.0.0.0 decafeligiblyhad.com
 0.0.0.0 doathair.com
 0.0.0.0 edomz.com
 0.0.0.0 filebanner.com
-0.0.0.0 flexterkita.com
+0.0.0.0 gajukogyxywahu.com
 0.0.0.0 gaslah.my.id
 0.0.0.0 iwtserve.com
 0.0.0.0 jagoiklan.com
 0.0.0.0 mousheen.net
+0.0.0.0 push.cnnindonesia.com
 0.0.0.0 realwap.net
+0.0.0.0 rfesgftfefdesrfewsterwtfgewtfe.store
+0.0.0.0 theme-sphere.com
 0.0.0.0 villainoussession.com
 0.0.0.0 vkwaeo.com
 0.0.0.0 yllix.com
-0.0.0.0 access.kaiko.cam
 0.0.0.0 archivehub.com.ng
 0.0.0.0 atgroup-link.id
 0.0.0.0 bergurukecina.fun

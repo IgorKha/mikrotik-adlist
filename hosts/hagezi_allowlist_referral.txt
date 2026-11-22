@@ -1,4 +1,4 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt
-! Version: 1.0.15.51
-! Last modified: 2026-11-15T06:19:31.962Z
+! Version: 1.0.15.52
+! Last modified: 2026-11-22T06:19:56.516Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
