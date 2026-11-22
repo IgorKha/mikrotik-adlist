@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.29
-! Last modified: 2026-11-15T06:19:54.132Z
+! Version: 1.0.17.32
+! Last modified: 2026-11-22T06:20:22.905Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -164,7 +164,6 @@
 0.0.0.0 cbopelousas.com
 0.0.0.0 cbu.net
 0.0.0.0 cechire.com
-0.0.0.0 celebsplay.com
 0.0.0.0 celltrak.mobi
 0.0.0.0 centserver.com
 0.0.0.0 cf.gs
@@ -962,7 +961,6 @@
 0.0.0.0 mmafan.biz
 0.0.0.0 mnode.net
 0.0.0.0 moneyhome.biz
-0.0.0.0 monitorip.com
 0.0.0.0 monopolepower.com
 0.0.0.0 moonangel.com
 0.0.0.0 mooo.com
@@ -1004,7 +1002,6 @@
 0.0.0.0 myip.org
 0.0.0.0 myiphost.com
 0.0.0.0 myjino.ru
-0.0.0.0 mylftv.com
 0.0.0.0 mylogisoft.com
 0.0.0.0 mymediapc.net
 0.0.0.0 mymom.info

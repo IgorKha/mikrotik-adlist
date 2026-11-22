@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_70.txt
-! Version: 1.0.7.63
-! Last modified: 2026-11-15T06:19:27.976Z
+! Version: 1.0.7.64
+! Last modified: 2026-11-22T06:19:51.897Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 0--dca8.realmebbs.com
 0.0.0.0 0--listteswww.realmebbs.com

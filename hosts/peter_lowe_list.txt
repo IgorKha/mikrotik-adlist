@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.18.22
-! Last modified: 2026-11-15T06:19:20.240Z
+! Version: 1.0.18.28
+! Last modified: 2026-11-22T06:19:43.436Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -85,6 +85,7 @@
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-cupid.com
 0.0.0.0 ad-delivery.net
+0.0.0.0 ad-maven.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-score.com
@@ -594,20 +595,15 @@
 0.0.0.0 ads180.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.femmefab.nl
-0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads24h.net
 0.0.0.0 ads3-adnow.com
-0.0.0.0 ads3.gamecity.net
 0.0.0.0 ads3.virtual-nights.com
-0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads4homes.com
 0.0.0.0 ads5.virtual-nights.com
-0.0.0.0 ads6.gamecity.net
-0.0.0.0 ads7.gamecity.net
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsatt.abc.starwave.com
 0.0.0.0 adsatt.abcnews.starwave.com
@@ -664,7 +660,6 @@
 0.0.0.0 adserver.omroepzeeland.nl
 0.0.0.0 adserver.pampa.com.br
 0.0.0.0 adserver.piksel.mk
-0.0.0.0 adserver.pl
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 adserver.sanomawsoy.fi
@@ -946,7 +941,6 @@
 0.0.0.0 audience2media.com
 0.0.0.0 audienceinsights.com
 0.0.0.0 audio.ad
-0.0.0.0 audit.median.hu
 0.0.0.0 audit.webinform.hu
 0.0.0.0 augur.io
 0.0.0.0 auto-bannertausch.de
@@ -958,6 +952,7 @@
 0.0.0.0 awin1.com
 0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
+0.0.0.0 axcii.com
 0.0.0.0 axonix.com
 0.0.0.0 ay.delivery
 0.0.0.0 ayads.co
@@ -1505,7 +1500,6 @@
 0.0.0.0 dpbolvw.net
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dq95d35.com
-0.0.0.0 dragonbats.com
 0.0.0.0 drumcash.com
 0.0.0.0 dsp.colpirio.com
 0.0.0.0 dsp.io
@@ -1562,7 +1556,6 @@
 0.0.0.0 engage.windows.com
 0.0.0.0 engagebdr.com
 0.0.0.0 engageya.com
-0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 engineertrick.com
 0.0.0.0 enginenetwork.com
 0.0.0.0 enormousearth.com
@@ -1840,7 +1833,6 @@
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hits4me.com
 0.0.0.0 hitslink.com
-0.0.0.0 hittail.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hollowafterthought.com
@@ -1876,7 +1868,6 @@
 0.0.0.0 i305175.net
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 iad.anm.co.uk
-0.0.0.0 iadnet.com
 0.0.0.0 ibillboard.com
 0.0.0.0 icptrack.com
 0.0.0.0 icywinter.com
@@ -2080,6 +2071,7 @@
 0.0.0.0 links-ranking.de
 0.0.0.0 links.email.crunchbase.com
 0.0.0.0 links.housekeep.com
+0.0.0.0 links.prosservice.fr
 0.0.0.0 links.zoopla.co.uk
 0.0.0.0 linksoutside.com
 0.0.0.0 linkstable.com
@@ -2876,7 +2868,6 @@
 0.0.0.0 shockinggrass.com
 0.0.0.0 shoppingads.com
 0.0.0.0 showads.pubmatic.com
-0.0.0.0 shredform.com
 0.0.0.0 shrillspoon.com
 0.0.0.0 shxtrk.com
 0.0.0.0 sicksmash.com
@@ -2966,6 +2957,7 @@
 0.0.0.0 sponsorpro.de
 0.0.0.0 spookysleet.com
 0.0.0.0 spoonballoon.com
+0.0.0.0 sportswidows.com
 0.0.0.0 spotlessstamp.com
 0.0.0.0 spotscenered.info
 0.0.0.0 spotx.tv
@@ -3151,7 +3143,6 @@
 0.0.0.0 terriblethumb.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.sexsearch.com
-0.0.0.0 textads.biz
 0.0.0.0 textlinks.com
 0.0.0.0 tfag.de
 0.0.0.0 the-ozone-project.com
@@ -3159,7 +3150,6 @@
 0.0.0.0 theadhost.com
 0.0.0.0 theadsparks.com
 0.0.0.0 thebicyclehut.com
-0.0.0.0 thebugs.ws
 0.0.0.0 thecrazychili.com
 0.0.0.0 themangotea.com
 0.0.0.0 themoneytizer.com
@@ -3197,6 +3187,7 @@
 0.0.0.0 top100.mafia.ru
 0.0.0.0 top123.ro
 0.0.0.0 top20free.com
+0.0.0.0 topicspin.com
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 toplista.mw.hu

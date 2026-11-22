@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
-! Version: 1.0.15.85
-! Last modified: 2026-11-15T06:19:25.548Z
+! Version: 1.0.15.87
+! Last modified: 2026-11-22T06:19:49.427Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500022744.vodplayer.wxamedia.com
@@ -172,6 +172,7 @@
 0.0.0.0 adx-strategy-api-cn.statisticslinks.com
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 adx.anythinktech.com
 0.0.0.0 adx.appsdk.com.cn
 0.0.0.0 adx.sogaha.cn
 0.0.0.0 adx.tuia.cn
@@ -190,6 +191,7 @@
 0.0.0.0 alicoccdnct-xn.inter.71edge.com
 0.0.0.0 alltbcsp2p.baidu.com
 0.0.0.0 alog.umeng.com
+0.0.0.0 alogsus.umeng.com
 0.0.0.0 alogus.umeng.com
 0.0.0.0 als.baidu.com
 0.0.0.0 amdcopen.m.taobao.com
@@ -207,6 +209,7 @@
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.lemurbrowser.com
+0.0.0.0 android.bugly.qq.com
 0.0.0.0 andrqd.play.aiseet.atianqi.com
 0.0.0.0 ap.dongdianqiu.com
 0.0.0.0 ap.dongqiudi.com
@@ -268,6 +271,7 @@
 0.0.0.0 bes-mtj.baidu.com
 0.0.0.0 bgg.baidu.com
 0.0.0.0 bianxian.com
+0.0.0.0 bid.shanghailingye.cn
 0.0.0.0 biz.weibo.com
 0.0.0.0 bj-td-menta-01-callback.advlion.com
 0.0.0.0 bj.ad.track.66mobi.com
@@ -313,7 +317,10 @@
 0.0.0.0 client-upload.cn-shanghai.log.aliyuncs.com
 0.0.0.0 clog.miguvideo.com
 0.0.0.0 cloooud.com
+0.0.0.0 cn-api-sec.anythinktech.com
 0.0.0.0 cn-api.anythinktech.com
+0.0.0.0 cn-da.anythinktech.com
+0.0.0.0 cn-tk.anythinktech.com
 0.0.0.0 cnlogs.umeng.com
 0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 cnzz.com
@@ -329,6 +336,7 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 d.applvn.com
 0.0.0.0 da.anythinktech.com
+0.0.0.0 da.statisticslinks.com
 0.0.0.0 data-sdk-uuid-log.d.meituan.net
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.chsmarttv.com
@@ -359,7 +367,10 @@
 0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 engine.dcad01.com
 0.0.0.0 entry.baidu.com
+0.0.0.0 errlog.umeng.com
+0.0.0.0 errlogos.umeng.com
 0.0.0.0 errnewlog.umeng.com
+0.0.0.0 errnewlogos.umeng.com
 0.0.0.0 et-eus.w.inmobi.com
 0.0.0.0 event.tradplusad.com
 0.0.0.0 events-drcn.op.dbankcloud.cn
@@ -726,6 +737,7 @@
 0.0.0.0 sms.ads.oppomobile.com
 0.0.0.0 sngmta.qq.com
 0.0.0.0 snowflake.qq.com
+0.0.0.0 ssapi.anythinktech.com
 0.0.0.0 staging-notify.sec.miui.com
 0.0.0.0 stat.dongqiudi.com
 0.0.0.0 stat.y.qq.com
@@ -764,6 +776,7 @@
 0.0.0.0 tj.b.qq.com
 0.0.0.0 tj.video.qq.com
 0.0.0.0 tk.anythinktech.com
+0.0.0.0 tk.statisticslinks.com
 0.0.0.0 tmead.y.qq.com
 0.0.0.0 tmeadcomm.y.qq.com
 0.0.0.0 tmfmazu-wangka.m.qq.com
@@ -781,6 +794,7 @@
 0.0.0.0 tnc3-bjlgy.bytedance.com
 0.0.0.0 tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc3-bjlgy.toutiaoapi.com
+0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 tpa-hcdn.iqiyi.com
 0.0.0.0 tpc.googlesyndication-cn.com

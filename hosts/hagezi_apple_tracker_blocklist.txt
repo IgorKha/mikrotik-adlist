@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
-! Version: 1.0.0.20
-! Last modified: 2026-11-15T06:19:37.189Z
+! Version: 1.0.0.22
+! Last modified: 2026-11-22T06:20:02.497Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -13,6 +13,7 @@
 0.0.0.0 prod-event-relay-sports-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-stocks-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com
+0.0.0.0 prod-event-relay-web-api.v.aaplimg.com
 0.0.0.0 prod-iwork-events.v.aaplimg.com
 0.0.0.0 prod-news-notification-events.v.aaplimg.com
 0.0.0.0 securemetrics.v.aaplimg.com

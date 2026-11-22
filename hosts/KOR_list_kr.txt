@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
-! Version: 1.0.15.85
-! Last modified: 2026-11-15T06:19:40.126Z
+! Version: 1.0.15.87
+! Last modified: 2026-11-22T06:20:05.565Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 mixtower.net
 0.0.0.0 adflow.kr
@@ -236,6 +236,7 @@
 0.0.0.0 ttse.b-cdn.net
 0.0.0.0 i.keezip.com
 0.0.0.0 awd.spochak.com
+0.0.0.0 ad.syncad.kr
 0.0.0.0 ads-api.daum.net
 0.0.0.0 cafe-ads-api.daum.net
 0.0.0.0 worker.gsr-ads.co.kr
